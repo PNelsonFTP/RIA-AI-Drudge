@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg?v=2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="RIA AI REPORT — AI headlines for advisors, RIAs, and wealth professionals." />
+    <!--
+      Preload the data files so the browser starts fetching them in parallel
+      with parsing main.tsx. Without this, the SPA parses ~67KB of JS first,
+      THEN issues the data fetches, adding ~150-300ms to first paint on slow
+      connections. The paths are relative so Vite rewrites them to BASE_URL.
+    -->
+    <link rel="preload" href="./data/headlines-preview.json" as="fetch" crossorigin="anonymous" />
+    <link rel="preload" href="./data/stocks.json"    as="fetch" crossorigin="anonymous" />
+    <link rel="preload" href="./data/brief.json"     as="fetch" crossorigin="anonymous" />
+    <link rel="alternate" type="application/atom+xml" title="RIA AI REPORT" href="./feed.xml" />
+    <title>RIA AI REPORT</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

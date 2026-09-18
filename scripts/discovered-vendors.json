@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Advisor360",
+    "url": "https://www.advisor360.com/blog/rss.xml",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": null,
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-08-28"
+  },
+  {
+    "name": "Altruist",
+    "url": "https://www.altruist.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "chatbot", "copilot", "notetaker", "Claude", "OpenAI", "Anthropic", "GenAI", "Hazel"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-10"
+  },
+  {
+    "name": "Docupace",
+    "url": "https://www.docupace.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "automation", "surveillance"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-14"
+  },
+  {
+    "name": "Emerj",
+    "url": "https://emerj.com/feed",
+    "homeCategory": "research",
+    "priority": "medium",
+    "requireAny": null,
+    "vendor": false,
+    "tier": 5,
+    "newestItem": "2026-09-14"
+  },
+  {
+    "name": "Envestnet",
+    "url": "https://www.envestnet.com/rss.xml",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "chatbot", "copilot", "Claude", "OpenAI", "Anthropic", "WealthTech"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-14"
+  },
+  {
+    "name": "Insight Partners",
+    "url": "https://www.insightpartners.com/feed",
+    "homeCategory": "research",
+    "priority": "medium",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "Claude", "OpenAI", "Anthropic", "GenAI"],
+    "vendor": false,
+    "tier": 6,
+    "newestItem": "2026-09-17"
+  },
+  {
+    "name": "Ncontracts",
+    "url": "https://www.ncontracts.com/nsight-blog/rss.xml",
+    "homeCategory": "compliance",
+    "priority": "medium",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "automation", "chatbot"],
+    "vendor": true,
+    "tier": 4,
+    "newestItem": "2026-09-17"
+  },
+  {
+    "name": "Nitrogen",
+    "url": "https://www.nitrogenwealth.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-17"
+  },
+  {
+    "name": "Orion",
+    "url": "https://www.orion.com/rss.xml",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "chatbot", "copilot", "Claude", "OpenAI", "Anthropic"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-16"
+  },
+  {
+    "name": "Practifi",
+    "url": "https://www.practifi.com/blog/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "GenAI", "Sentir"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-09"
+  },
+  {
+    "name": "SS&C",
+    "url": "https://www.ssctech.com/blog/rss.xml",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "automation"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-18"
+  },
+  {
+    "name": "TIFIN",
+    "url": "https://www.tifin.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": null,
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-06-29"
+  },
+  {
+    "name": "Vanilla",
+    "url": "https://www.justvanilla.com/blog/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-17"
+  },
+  {
+    "name": "Wealth.com",
+    "url": "https://www.wealth.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "Claude", "OpenAI", "Anthropic"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-15"
+  },
+  {
+    "name": "Wealthbox",
+    "url": "https://www.wealthbox.com/blog/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "chatbot", "copilot", "notetaker", "Claude", "OpenAI", "Anthropic"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-15"
+  },
+  {
+    "name": "eMoney Advisor",
+    "url": "https://emoneyadvisor.com/feed",
+    "homeCategory": "vendors",
+    "priority": "low",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "copilot"],
+    "vendor": true,
+    "tier": 9,
+    "newestItem": "2026-09-16"
+  },
+  {
+    "name": "Adams Street Partners Insights",
+    "url": "https://www.adamsstreetpartners.com/insights/feed",
+    "homeCategory": "research",
+    "priority": "medium",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning"],
+    "vendor": false,
+    "tier": 6,
+    "newestItem": "2026-09-16"
+  },
+  {
+    "name": "Debevoise Data Blog",
+    "url": "https://www.debevoisedatablog.com/feed/",
+    "homeCategory": "compliance",
+    "priority": "medium",
+    "requireAny": ["AI", "artificial intelligence", "generative", "agentic", "LLM", "machine learning", "chatbot", "Claude", "OpenAI", "Anthropic", "GenAI"],
+    "vendor": false,
+    "tier": 4,
+    "newestItem": "2026-09-14"
+  }
+]
