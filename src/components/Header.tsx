@@ -57,7 +57,9 @@ export function Header({
 
           <div className="flex items-center gap-2 text-xs flex-wrap justify-end">
             <span className={`mr-1 ${dataStale ? "text-[var(--siren)]" : "opacity-60"}`}>
-              {totalCount > 0 ? `${totalCount} stories · ${updatedLabel}` : "loading…"}
+              {generatedAt
+                ? `${totalCount} ${totalCount === 1 ? "story" : "stories"} · ${updatedLabel}`
+                : "loading…"}
             </span>
             <button
               onClick={() => onSetView(view === "bookmarks" ? "home" : "bookmarks")}

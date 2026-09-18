@@ -100,6 +100,11 @@ export function Headline({
         )}
         <div className="flex items-center gap-2 text-[10px] opacity-50 mt-0.5">
           <span className="source-badge">{article.source}</span>
+          {(article.vendor === true ||
+            article.source.includes("(vendor)") ||
+            article.category === "vendors") && (
+            <span className="vendor-badge">VENDOR</span>
+          )}
           <span>{timeAgoDisplay(article.publishedAt)}</span>
           {showActions && !isSourceMuted && (
             <button

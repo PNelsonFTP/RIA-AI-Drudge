@@ -1,5 +1,5 @@
-// Stock quotes for the AI complex: hyperscalers/labs (NVDA, MSFT, GOOG,
-// META, AMZN) plus the silicon supply chain (AMD, TSM, AVGO).
+// Stock quotes for wealth platforms (BLK, SCHW, MS, JPM, AMP, LPLA)
+// plus the AI names advisors get asked about (NVDA, MSFT).
 // Uses Stooq (free, no key, CSV) with a Yahoo fallback. Silently returns {}
 // if every source fails — the site then hides the ticker gracefully.
 

@@ -1,6 +1,6 @@
 import type { StockQuote } from "../lib/types";
 
-const ORDER = ["NVDA", "MSFT", "GOOG", "META", "AMZN", "AMD", "TSM", "AVGO"];
+const ORDER = ["BLK", "SCHW", "MS", "JPM", "AMP", "LPLA", "NVDA", "MSFT"];
 
 export function StockTicker({ stocks }: { stocks: Record<string, StockQuote> | null }) {
   if (!stocks) return null;
@@ -10,7 +10,7 @@ export function StockTicker({ stocks }: { stocks: Record<string, StockQuote> | n
   return (
     <div className="ticker-bar">
       <div className="mx-auto max-w-[1400px] px-4 py-1 flex items-center gap-5 overflow-x-auto whitespace-nowrap">
-        <span className="opacity-50 mr-2">AI STOCKS</span>
+        <span className="opacity-50 mr-2">MARKETS</span>
         {entries.map((q) => {
           const dir = q.changePct == null ? "flat" : q.changePct > 0 ? "up" : q.changePct < 0 ? "down" : "flat";
           const arrow = dir === "up" ? "▲" : dir === "down" ? "▼" : "■";

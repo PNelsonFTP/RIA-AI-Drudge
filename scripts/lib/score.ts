@@ -44,9 +44,10 @@ export function priorityScore(priority: Priority): number {
 }
 
 export function ageHours(publishedAt: string | null, now: Date): number {
-  if (!publishedAt) return 36; // unknown date — treat as ~36h so it isn't invisible
+  // Undated items are stale so they cannot outrank fresh headlines.
+  if (!publishedAt) return 24 * 21;
   const t = new Date(publishedAt).getTime();
-  if (isNaN(t)) return 36;
+  if (isNaN(t)) return 24 * 21;
   return Math.max(0, (now.getTime() - t) / HOUR_MS);
 }
 

@@ -13,6 +13,7 @@ export interface Article {
   publishedRaw: string | null;  // original string from feed, for debug
   summary: string | null;
   collectedAt: string;          // ISO 8601
+  vendor?: boolean;             // vendor blog / press-release source
 }
 
 export interface GroupedArticle extends Article {

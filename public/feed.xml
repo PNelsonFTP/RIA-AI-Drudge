@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-18T18:21:28.514Z</updated>
+  <updated>2026-09-18T19:20:52.799Z</updated>
   <entry>
     <title>Security researchers used Claude to help them hack into OpenAI</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"/>
@@ -16,31 +16,40 @@
     <summary>A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called &quot;Monorepo,&quot; which reportedly contains &quot;OpenAI' — Also covered by: Ars Technica AI</summary>
   </entry>
   <entry>
-    <title>Breaking Bad News To A Client About Prior Problematic Financial Decisions: Kitces &amp; Carl 199</title>
-    <link href="https://feeds.feedblitz.com/~/969221633/_/kitcesnerdseyeview~Breaking-Bad-News-To-A-Client-About-Prior-Problematic-Financial-Decisions-Kitces-Carl"/>
-    <id>https://feeds.feedblitz.com/~/969221633/_/kitcesnerdseyeview~Breaking-Bad-News-To-A-Client-About-Prior-Problematic-Financial-Decisions-Kitces-Carl</id>
-    <updated>2026-09-17T11:04:58.000Z</updated>
-    <author><name>Kitces — Advisor FinTech</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
-  </entry>
-  <entry>
-    <title>Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</title>
-    <link href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops"/>
-    <id>https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops</id>
-    <updated>2026-09-18T16:35:49.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.</summary>
-  </entry>
-  <entry>
-    <title>SEC to release revised handbook outlining exam process</title>
-    <link href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkJqN2ZaSDc5amJ5My1rTjJHVzlrbmoyb1d5TUkwZnFfOHNxSW84VHJWcGlTbVJEMjhFc3NTcFp2cTM4alJWV1k2UlNQZ1JmLVVhWHhWOWRmd0ZLSG9oa2FIQzd5V2txQ3g4ZmxVbmNleWdCLV9FaDJTaXh3SE1pRUVnaU1qaEdBNTNENGd2bTFheUNhd1RQUw"/>
-    <id>https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkJqN2ZaSDc5amJ5My1rTjJHVzlrbmoyb1d5TUkwZnFfOHNxSW84VHJWcGlTbVJEMjhFc3NTcFp2cTM4alJWV1k2UlNQZ1JmLVVhWHhWOWRmd0ZLSG9oa2FIQzd5V2txQ3g4ZmxVbmNleWdCLV9FaDJTaXh3SE1pRUVnaU1qaEdBNTNENGd2bTFheUNhd1RQUw</id>
-    <updated>2026-09-17T15:13:23.000Z</updated>
-    <author><name>GN: SEC AI</name></author>
+    <title>Anthropic Launches Claude For Financial Advisors</title>
+    <link href="https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors"/>
+    <id>https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors</id>
+    <updated>2026-09-16T14:53:06.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="REGULATION"/>
-    <summary>SEC to release revised handbook outlining exam process Citywire</summary>
+    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: GN: FINRA AI</summary>
+  </entry>
+  <entry>
+    <title>How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience</title>
+    <link href="https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience"/>
+    <id>https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience</id>
+    <updated>2026-09-18T19:09:37.000Z</updated>
+    <author><name>ETF Trends</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Despite fears that artificial intelligence (AI) will disrupt the software-as-a-service (SaaS) business model, the approach of VFLO’s Index, centered on a free cash flow (FCF) screen, shows that mature software leaders like Adobe (ADBE), Salesforce (CRM), and Intuit (INTU) have been generating strong FCF. Skeptics often</summary>
+  </entry>
+  <entry>
+    <title>Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause</title>
+    <link href="https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18"/>
+    <id>https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18</id>
+    <updated>2026-09-18T18:30:31.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause Reuters</summary>
+  </entry>
+  <entry>
+    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
+    <updated>2026-09-18T14:40:06.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>David Woodcock, Director, Division of Enforcement</summary>
   </entry>
   <entry>
     <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
@@ -52,40 +61,40 @@
     <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
   </entry>
   <entry>
-    <title>Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well</title>
-    <link href="https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well"/>
-    <id>https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well</id>
-    <updated>2026-09-18T02:58:20.000Z</updated>
-    <author><name>RIABiz</name></author>
+    <title>Advisors want more client time. Is AI actually giving it to them?</title>
+    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
+    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
+    <updated>2026-09-17T16:28:02.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Ryan Smith, Ryan Sweeney and Halo invested at a valuation 560% more than Savvy's B round 15 months ago, enticed by some wins, an artificial intelligence tailwind and the former LPL CEO on speed-dial.</summary>
+    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
-    <title>Managing Legacy Investments: 6 Best Practices To Reduce RIA Fiduciary And Compliance Risk</title>
-    <link href="https://feeds.feedblitz.com/~/969179345/_/kitcesnerdseyeview~Managing-Legacy-Investments-Best-Practices-To-Reduce-RIA-Fiduciary-And-Compliance-Risk"/>
-    <id>https://feeds.feedblitz.com/~/969179345/_/kitcesnerdseyeview~Managing-Legacy-Investments-Best-Practices-To-Reduce-RIA-Fiduciary-And-Compliance-Risk</id>
-    <updated>2026-09-16T11:04:04.000Z</updated>
-    <author><name>Kitces — Advisor FinTech</name></author>
+    <title>September 2026 Vendor Management News</title>
+    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
+    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
+    <updated>2026-09-17T06:00:00.000Z</updated>
+    <author><name>Ncontracts Nsight (vendor)</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
+    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
   </entry>
   <entry>
-    <title>Ant International Unveils 100 Products to Drive Agentic Financial Operations</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations</id>
-    <updated>2026-09-18T18:09:53.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>How acquirers are commercialising fraud intelligence</title>
+    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
+    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
+    <updated>2026-11-05T15:00:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant International’s two proprietary foundatio</summary>
+    <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Big Take: If You Work, Are You ‘Working Class’?</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-18/big-take-if-you-work-are-you-working-class-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-18/big-take-if-you-work-are-you-working-class-video</id>
-    <updated>2026-09-18T16:42:02.000Z</updated>
+    <title>US and China Vie For AI Lead Before Trump- Xi Summit</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video</id>
+    <updated>2026-09-18T18:52:41.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The definition of &quot;working class&quot; in the US has been shifting over the last couple of decades with changes in the economic and labor market, and advances in AI are going to change the traditional white collar market, too. With midterms right around the corner, who are candidates talking about talking about when they ca</summary>
+    <summary>Less than a week before Chinese leader Xi Jinping travels to the US to meet President Donald Trump, AI has taken center stage in the bilateral relationship. In some ways the rivalry is straightforward. Most benchmarks show American models have a lead in performance that Washington very much wants to maintain, for milit</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
@@ -97,22 +106,22 @@
     <summary>After several years of debate over whether AI’s potential was being overstated or whether we were witnessing the emergence of a genuinely transformational technology, it is now increasingly clear large language models (LLMs) represent a meaningful leap forward.</summary>
   </entry>
   <entry>
-    <title>Allworth: A Tech Stack Built to Leverage AI Today</title>
-    <link href="https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today"/>
-    <id>https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today</id>
-    <updated>2026-09-18T13:21:30.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>What we’ve learned from Microsoft’s own AI transformation</title>
+    <link href="https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation"/>
+    <id>https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation</id>
+    <updated>2026-09-17T14:00:05.000Z</updated>
+    <author><name>Microsoft Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Pete Engelken explains how $40 billion Allworth’s early move to manage its data has set it up to leverage a list of AI-driven vendors from Jump to Anthropic.</summary>
+    <summary>AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier</summary>
   </entry>
   <entry>
-    <title>Cutting the ‘coordination tax’: How agentic AI can reshape workflows</title>
-    <link href="https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows"/>
-    <id>https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows</id>
-    <updated>2026-09-18T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>Organizations must redesign workflows to realize value from AI, but the challenge is where to begin. An opportunity lies between workflow steps, where work passes between teams and systems.</summary>
+    <title>Ant International Unveils 100 Products to Drive Agentic Financial Operations</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations</id>
+    <updated>2026-09-18T18:09:53.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant International’s two proprietary foundatio</summary>
   </entry>
   <entry>
     <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
@@ -124,13 +133,13 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Advisors want more client time. Is AI actually giving it to them?</title>
-    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
-    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
-    <updated>2026-09-17T16:28:02.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
+    <title>Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</title>
+    <link href="https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops"/>
+    <id>https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops</id>
+    <updated>2026-09-18T16:35:49.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.</summary>
   </entry>
   <entry>
     <title>Disney’s first CTO led an AI startup it once accused of copying its characters</title>
@@ -142,36 +151,36 @@
     <summary>The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.</summary>
   </entry>
   <entry>
-    <title>Google’s new ‘CC’ is an AI agent that helps families run their households</title>
-    <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households"/>
-    <id>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households</id>
-    <updated>2026-09-18T17:33:50.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.</summary>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
-    <title>EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector</title>
-    <link href="https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"/>
-    <id>https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision</id>
-    <updated>2026-09-18T18:21:18.643Z</updated>
-    <author><name>ESMA</name></author>
+    <title>NASAA Announces 2027 System Fees for Investment Adviser Registration Depository System</title>
+    <link href="https://www.nasaa.org/82501/nasaa-announces-2027-system-fees-for-investment-adviser-registration-depository-system"/>
+    <id>https://www.nasaa.org/82501/nasaa-announces-2027-system-fees-for-investment-adviser-registration-depository-system</id>
+    <updated>2026-09-17T15:35:56.000Z</updated>
+    <author><name>NASAA</name></author>
     <category term="REGULATION"/>
-    <summary>EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a</summary>
+    <summary>NASAA today announced that the waiver of Investment Adviser Registration Depository (IARD) system fees for state-registered investment adviser firms will continue through 2027, and the initial set-up and annual system fees for investment adviser representatives will remain unchanged at $15. The post NASAA Announces 202</summary>
   </entry>
   <entry>
-    <title>Internal Reviews Covering the Use of AI by FINRA Associated Persons</title>
-    <link href="https://natlawreview.com/article/internal-reviews-covering-use-ai-finra-associated-persons?amp="/>
-    <id>https://natlawreview.com/article/internal-reviews-covering-use-ai-finra-associated-persons?amp=</id>
-    <updated>2026-09-15T15:03:38.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
-    <category term="REGULATION"/>
-    <summary>Internal Reviews Covering the Use of AI by FINRA Associated Persons The National Law Review</summary>
+    <title>Allworth: A Tech Stack Built to Leverage AI Today</title>
+    <link href="https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today"/>
+    <id>https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today</id>
+    <updated>2026-09-18T13:21:30.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Pete Engelken explains how $40 billion Allworth’s early move to manage its data has set it up to leverage a list of AI-driven vendors from Jump to Anthropic.</summary>
   </entry>
   <entry>
     <title>Wealth Tech Awards 2027: Judges</title>
-    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMkZ5dFd0QlRrR05iV1Y1SC1xQjFHa1FRc3k1bWlDaWJkaTZBcmV6Sk5QM2puU2xtSXFYclVWTDdydzZNa1otR0NSSXNrcHo0Ti1wb1ROdTdfdHVDb0ZBdmRlRzU0akdWVEdmR3lfc1BZQ2h2M2c"/>
-    <id>https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMkZ5dFd0QlRrR05iV1Y1SC1xQjFHa1FRc3k1bWlDaWJkaTZBcmV6Sk5QM2puU2xtSXFYclVWTDdydzZNa1otR0NSSXNrcHo0Ti1wb1ROdTdfdHVDb0ZBdmRlRzU0akdWVEdmR3lfc1BZQ2h2M2c</id>
+    <link href="https://www.pwmnet.com/content/79bca66f-9e22-4904-8acb-aa70153d13fc"/>
+    <id>https://www.pwmnet.com/content/79bca66f-9e22-4904-8acb-aa70153d13fc</id>
     <updated>2026-09-18T15:41:57.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
@@ -187,49 +196,58 @@
     <summary>Rates The Federal Reserve doesn't control long term interest rates. (trendlabs.com) Are structural deficits going to keep long term rates high? (economist.com) IPOs Is anybody really ready for an Anthropic IPO? (barrons.com) Revolut plans to dual list in New York and London. (ft.com) Finance Jackson National ($JXN) is </summary>
   </entry>
   <entry>
-    <title>September 2026 Vendor Management News</title>
-    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
-    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
-    <updated>2026-09-17T06:00:00.000Z</updated>
-    <author><name>Ncontracts Nsight (vendor)</name></author>
+    <title>Hadrius AI Governance Selected by Ritholtz Wealth Management to Enable Firmwide Claude Deployment</title>
+    <link href="https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment"/>
+    <id>https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment</id>
+    <updated>2026-09-16T11:47:51.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
+    <summary>Hadrius. (2026, September 15). Hadrius AI governance selected by Ritholtz Wealth Management to enable firmwide Claude deployment. PR Newswire. https://www.prnewswire.com/news-releases/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment-302878239.html Ritholtz Wealth Managem</summary>
   </entry>
   <entry>
-    <title>Ex-PayPal CEO Harris unveils AI-powered personal finance app</title>
-    <link href="https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app"/>
-    <id>https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app</id>
-    <updated>2026-09-18T13:05:00.000Z</updated>
+    <title>AI in Finance and Banking, September 15, 2026</title>
+    <link href="https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026"/>
+    <id>https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026</id>
+    <updated>2026-09-15T16:12:57.000Z</updated>
+    <author><name>LLRX</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>This semi-monthly column by Sabrina I. Pacifici highlights news, government documents, NGO/IGO papers, books, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the</summary>
+  </entry>
+  <entry>
+    <title>Mind the gap: What’s missing from modern resilience?</title>
+    <link href="https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience"/>
+    <id>https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience</id>
+    <updated>2026-11-03T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Former PayPal and Intuit CEO Bill Harris has unveiled his latest venture, a personalised AI-powered financial advice app called Evergreen.ai.</summary>
+    <summary>A roadmap towards engineering resilience into the technology estate from the outset.</summary>
   </entry>
   <entry>
-    <title>Security Researchers Use Anthropic’s Claude to Penetrate OpenAI’s Private Software Cache</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/security-researchers-use-anthropics-claude-to-penetrate-openais-private-software-cache"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/security-researchers-use-anthropics-claude-to-penetrate-openais-private-software-cache</id>
-    <updated>2026-09-18T15:35:49.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>AI in payments: Short-term gains, long-term transformation</title>
+    <link href="https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation"/>
+    <id>https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation</id>
+    <updated>2026-10-21T15:00:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Independent security researchers participating in an OpenAI bug-hunting program used Anthropic’s Claude to gain access to OpenAI’s private cache of software, the Wall Street Journal reported Friday (Sept. 18). The researchers from Hacktron AI reached the software by using Claude to gain access to an OpenAI employee’s C</summary>
+    <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>Labour conference set to vote on new AI regulator as cabinet concerns grow</title>
-    <link href="https://www.ft.com/content/2660e844-6aaa-49a4-ab7a-aafdf6a3d805?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/2660e844-6aaa-49a4-ab7a-aafdf6a3d805?syn-25a6b1a6=1</id>
-    <updated>2026-09-18T14:01:45.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Big Take: If You Work, Are You ‘Working Class’?</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-18/big-take-if-you-work-are-you-working-class-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-18/big-take-if-you-work-are-you-working-class-video</id>
+    <updated>2026-09-18T16:42:02.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Motion brought by union to replace AI Security Institute comes as minister opens door to strengthening legislation</summary>
+    <summary>The definition of &quot;working class&quot; in the US has been shifting over the last couple of decades with changes in the economic and labor market, and advances in AI are going to change the traditional white collar market, too. With midterms right around the corner, who are candidates talking about talking about when they ca</summary>
   </entry>
   <entry>
-    <title>Xi’s edge over Trump on AI</title>
-    <link href="https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1</id>
-    <updated>2026-09-18T13:00:02.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Nvidia, Google, Emerald AI Form AI Energy Management Alliance</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-18/nvidia-google-emerald-ai-form-ai-energy-alliance-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-18/nvidia-google-emerald-ai-form-ai-energy-alliance-video</id>
+    <updated>2026-09-18T18:28:41.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The US president’s anti-regulatory stance fails to take into account that China is catching up</summary>
+    <summary>Nvidia, Google and Emerald AI have launched the AI Energy Management Alliance (AEMA), a coalition that dynamically manages the electricity use of data centers in response to grid conditions. Varun Sivaram Founder and CEO of Emerald AI joins to discuss the alliance. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
@@ -241,39 +259,21 @@
     <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
   </entry>
   <entry>
-    <title>T. Rowe Price: DC Consultants Move Past AI Indecision</title>
-    <link href="https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision"/>
-    <id>https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision</id>
-    <updated>2026-09-16T21:46:57.000Z</updated>
-    <author><name>PlanSponsor AI</name></author>
+    <title>AI Product &amp; Service Launches – 9/14/2026</title>
+    <link href="https://www.planadviser.com/ai-product-service-launches-9-14-2026"/>
+    <id>https://www.planadviser.com/ai-product-service-launches-9-14-2026</id>
+    <updated>2026-09-14T20:39:50.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Only 14% of survey respondents said they were still evaluating how they could use artificial intelligence, down from 44% in 2025.</summary>
+    <summary>Anthropic launches Claude for Financial Advisors; Conquest offers AI financial advice platform; FINTRX launches agent for investment professionals; and more. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>New experts join Google’s AI &amp; Economy team</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench"/>
-    <id>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</id>
-    <updated>2026-09-18T14:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
+    <title>Microsoft’s commitment for AI in education: Protecting students, strengthening learning</title>
+    <link href="https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education"/>
+    <id>https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education</id>
+    <updated>2026-09-16T18:59:58.000Z</updated>
+    <author><name>Microsoft Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.</summary>
-  </entry>
-  <entry>
-    <title>Co-creating the future of fashion with Google</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week"/>
-    <id>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week</id>
-    <updated>2026-09-18T13:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.</summary>
-  </entry>
-  <entry>
-    <title>Helping founders achieve “exceptional”</title>
-    <link href="https://www.insightpartners.com/ideas/helping-founders-achieve"/>
-    <id>https://www.insightpartners.com/ideas/helping-founders-achieve</id>
-    <updated>2026-09-17T17:19:35.000Z</updated>
-    <author><name>Insight Partners</name></author>
-    <category term="RESEARCH"/>
-    <summary>The AI era has accelerated demand for talent and AI expertise among every CEO and founder at every stage of growth that we speak with. There is increasing urgency to find talent who can build AI systems that deliver the improved outcomes now expected of every product and every decision. Over the last twelve months, […]</summary>
+    <summary>Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues toda</summary>
   </entry>
 </feed>

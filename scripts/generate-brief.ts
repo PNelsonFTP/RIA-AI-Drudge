@@ -42,14 +42,21 @@ function fallback(articles: Article[], ctx: BriefContext | undefined): Brief {
     cited.push({ title: a.title, url: a.url, source: a.source });
   };
 
-  // 1. Top trending story (if any) — multi-source coverage is the strongest
-  // signal of "this is actually important today".
+  // 1. Top trending story — skip industry/labs/markets clusters when a
+  // RIA-home item exists so the brief headline stays advisor-relevant.
+  const riaBriefCats = new Set(["regulation", "advisor_tech", "wealthtech", "practice"]);
+  const genericTrendingCats = new Set(["industry", "labs", "markets"]);
+  const hasRiaItem = Boolean(
+    ctx?.categories?.some((c) => riaBriefCats.has(c.id) && c.articles.length > 0),
+  );
   if (ctx?.trending && ctx.trending.length > 0) {
-    add(ctx.trending[0].lead);
+    const tLead = ctx.trending[0].lead;
+    const skipGeneric = genericTrendingCats.has(tLead.category) && hasRiaItem;
+    if (!skipGeneric) add(tLead);
   }
 
   // 2. Lead from the highest-priority category that's present.
-  const leadCatOrder = ["regulation", "industry", "advisor_tech", "wealthtech", "compliance"];
+  const leadCatOrder = ["regulation", "advisor_tech", "wealthtech", "practice", "compliance", "industry"];
   if (ctx?.categories) {
     for (const id of leadCatOrder) {
       const cat = ctx.categories.find((c) => c.id === id);
@@ -64,9 +71,9 @@ function fallback(articles: Article[], ctx: BriefContext | undefined): Brief {
   // preferring variety over yet-another-model-release.
   if (ctx?.categories) {
     const varietyOrder = [
-      "compliance", "regulation", "wealthtech", "markets",
-      "banking_fintech", "labs", "institutional", "practice",
-      "research", "vendors",
+      "practice", "advisor_tech", "wealthtech", "compliance", "regulation",
+      "banking_fintech", "institutional", "research", "vendors",
+      "labs", "markets",
     ];
     let added = 0;
     for (const id of varietyOrder) {
@@ -110,12 +117,11 @@ Your job: produce a 4-6 bullet "daily brief" that synthesizes the most important
 
 HARD RULES (violation = failure):
 - ONLY reference articles present in the input. Do not invent stories.
-- Do NOT invent model names, version numbers, dates, statistics, or quotes that are not in the input.
+- Cite only URLs from the input. Do not invent model names, version numbers, dates, statistics, or quotes that are not in the input.
 - If the input mentions a model/story, you may name it. Otherwise do not.
 - Each bullet must be one sentence, ~15-25 words.
 - Be neutral and factual. No hype words like "revolutionary", "game-changing", "stunning".
-- Prioritize themes covered by MULTIPLE sources (the trending list). One-source
-  stories are fine to include but should not dominate the brief.
+- Prioritize supervision, vendor AI, exam priorities, and wealthtech for RIAs. Multi-source (trending) coverage still matters, but a one-source supervision or exam-priority story should outrank a generic model-release cluster.
 - Cover DIVERSE topics — do not make every bullet about model releases — include regulation, wealthtech, and markets when present.
 
 Respond as strict JSON: {"headline": str, "bullets": str[], "cited": [{"title","url","source"}]}

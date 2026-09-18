@@ -29,16 +29,33 @@ function jaccard(a: Set<string>, b: Set<string>): number {
 
 const THRESHOLD = 0.4;
 
-// Greedy clustering: process articles newest-first; the first article in a
-// cluster becomes the lead, subsequent matches attach as `related`.
-export function groupStories(articles: Article[]): GroupedArticle[] {
-  const sorted = [...articles].sort((a, b) => {
-    const ta = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
-    const tb = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-    return tb - ta;
-  });
+const WIRE_SOURCE = /business\s*wire|pr\s*newswire|globenewswire/i;
 
-  const clusters: { lead: Article; related: Article[]; tokens: Set<string> }[] = [];
+function publishedMs(a: Article): number {
+  return a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+}
+
+// Aggregator / wire / vendor items stay in the cluster but should not be
+// the displayed lead when trade press covers the same story.
+function isWeakClusterLead(a: Article): boolean {
+  if (a.source.startsWith("GN:") || a.source.startsWith("HN:")) return true;
+  if (a.vendor) return true;
+  if (WIRE_SOURCE.test(a.source)) return true;
+  return false;
+}
+
+function pickClusterLead(members: Article[]): Article {
+  const preferred = members.filter((m) => !isWeakClusterLead(m));
+  const pool = preferred.length > 0 ? preferred : members;
+  return [...pool].sort((a, b) => publishedMs(b) - publishedMs(a))[0] ?? members[0];
+}
+
+// Greedy clustering: process articles newest-first, then re-pick the lead
+// so trade press beats Business Wire / GN twins of the same story.
+export function groupStories(articles: Article[]): GroupedArticle[] {
+  const sorted = [...articles].sort((a, b) => publishedMs(b) - publishedMs(a));
+
+  const clusters: { members: Article[]; tokens: Set<string> }[] = [];
 
   for (const art of sorted) {
     const toks = tokens(art.title);
@@ -52,11 +69,15 @@ export function groupStories(articles: Article[]): GroupedArticle[] {
       }
     }
     if (bestIdx >= 0 && bestScore >= THRESHOLD) {
-      clusters[bestIdx].related.push(art);
+      clusters[bestIdx].members.push(art);
     } else {
-      clusters.push({ lead: art, related: [], tokens: toks });
+      clusters.push({ members: [art], tokens: toks });
     }
   }
 
-  return clusters.map((c) => ({ ...c.lead, related: c.related }));
+  return clusters.map((c) => {
+    const lead = pickClusterLead(c.members);
+    const related = c.members.filter((m) => m.url !== lead.url);
+    return { ...lead, related };
+  });
 }

@@ -76,6 +76,7 @@ export function useHeadlines() {
     }
     return fullPromise.current.then((h) => {
       if (h && isFullPayload(h)) applyFull(h);
+      else fullPromise.current = null;
       return h;
     });
   }, [applyFull]);

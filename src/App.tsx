@@ -27,6 +27,21 @@ type View = "home" | "bookmarks" | "queue";
 // #13: data considered stale if last refreshed more than this many hours ago.
 const STALE_DATA_HOURS = 6;
 
+function matchesSearch(
+  a: GroupedArticle,
+  searchLc: string,
+  categoryLabel?: string,
+): boolean {
+  if (!searchLc) return true;
+  return (
+    a.title.toLowerCase().includes(searchLc) ||
+    a.source.toLowerCase().includes(searchLc) ||
+    (categoryLabel ?? "").toLowerCase().includes(searchLc) ||
+    (a.summary ?? "").toLowerCase().includes(searchLc) ||
+    a.related.some((r: Article) => r.source.toLowerCase().includes(searchLc))
+  );
+}
+
 function dataIsStale(generatedAt: string | null): boolean {
   if (!generatedAt) return false;
   const then = new Date(generatedAt).getTime();
@@ -133,6 +148,8 @@ export default function App() {
 
   // Apply user mutes: drop muted categories entirely; drop muted sources from
   // the remaining categories' article lists. Also apply search filter.
+  // Empty-after-search-or-source-mute buckets stay in the grid so i % 3
+  // column placement does not slide.
   const filteredCategories = useMemo<CategoryBucket[]>(() => {
     if (!headlines) return [];
     return headlines.categories
@@ -140,22 +157,14 @@ export default function App() {
       .map((c) => {
         const filterFn = (a: GroupedArticle) => {
           if (mutedSources.has(a.source)) return false;
-          if (!searchLc) return true;
-          return (
-            a.title.toLowerCase().includes(searchLc) ||
-            a.source.toLowerCase().includes(searchLc) ||
-            c.label.toLowerCase().includes(searchLc) ||
-            (a.summary ?? "").toLowerCase().includes(searchLc) ||
-            a.related.some((r: Article) => r.source.toLowerCase().includes(searchLc))
-          );
+          return matchesSearch(a, searchLc, c.label);
         };
         return {
           ...c,
           articles: c.articles.filter(filterFn),
           articlesAll: c.articlesAll.filter(filterFn),
         };
-      })
-      .filter((c) => c.articles.length > 0);
+      });
   }, [headlines, mutedCategories, mutedSources, searchLc]);
 
   // Bookmarks/queue views: prefer the live payload article (it has related
@@ -196,22 +205,66 @@ export default function App() {
 
   // Lead story = the chosen lead URL if present (#7, always <72h at build time),
   // otherwise the first article from the highest-priority category present.
+  // Preview payloads leave articlesAll empty, so scan articles first.
   const lead = useMemo<GroupedArticle | null>(() => {
     if (!headlines) return null;
+
+    const visible = (a: GroupedArticle, categoryLabel?: string) => {
+      if (mutedSources.has(a.source)) return false;
+      if (mutedCategories.has(a.category)) return false;
+      return matchesSearch(a, searchLc, categoryLabel);
+    };
+
     if (headlines.leadUrl) {
       for (const c of headlines.categories) {
+        for (const a of c.articles) {
+          if (a.url === headlines.leadUrl && visible(a, c.label)) return a;
+        }
+      }
+      for (const c of headlines.categories) {
         for (const a of c.articlesAll) {
-          if (a.url === headlines.leadUrl) return a;
+          if (a.url === headlines.leadUrl && visible(a, c.label)) return a;
         }
       }
     }
-    const order = ["regulation", "industry", "advisor_tech", "wealthtech", "compliance"];
+    const order = ["regulation", "advisor_tech", "wealthtech", "practice", "compliance", "industry"];
     for (const id of order) {
       const cat = headlines.categories.find((c) => c.id === id);
-      if (cat && cat.articles.length > 0) return cat.articles[0];
+      const first = cat?.articles.find((a) => visible(a, cat.label));
+      if (first) return first;
     }
-    return headlines.categories[0]?.articles[0] ?? null;
-  }, [headlines]);
+    for (const c of headlines.categories) {
+      const first = c.articles.find((a) => visible(a, c.label));
+      if (first) return first;
+    }
+    return null;
+  }, [headlines, mutedSources, mutedCategories, searchLc]);
+
+  const filteredTrending = useMemo(() => {
+    if (!headlines) return [];
+    return headlines.trending.filter((s) => {
+      const a = s.lead;
+      if (mutedSources.has(a.source)) return false;
+      if (mutedCategories.has(a.category)) return false;
+      if (s.categoryIds.some((id) => mutedCategories.has(id))) return false;
+      if (!searchLc) return true;
+      const labels = s.categoryIds
+        .map((id) => categoryLabelsById[id] ?? id)
+        .join(" ");
+      return (
+        matchesSearch(a, searchLc, labels) ||
+        s.sources.some((src) => src.toLowerCase().includes(searchLc))
+      );
+    });
+  }, [headlines, mutedSources, mutedCategories, searchLc, categoryLabelsById]);
+
+  const filteredBrief = useMemo(() => {
+    if (!brief) return null;
+    if (brief.citedArticles.length === 0) return brief;
+    const cited = brief.citedArticles.filter((c) => !mutedSources.has(c.source));
+    if (cited.length === 0) return null;
+    return { ...brief, citedArticles: cited };
+  }, [brief, mutedSources]);
 
   // #14: flatten filtered categories for the LATEST strip.
   const latestArticles = useMemo<GroupedArticle[]>(() => {
@@ -239,6 +292,7 @@ export default function App() {
   }, [filteredCategories]);
 
   const mutedCount = mutedSources.size + mutedCategories.size;
+  const hasVisibleArticles = filteredCategories.some((c) => c.articles.length > 0);
 
   return (
     <ReadStateContext.Provider value={readState}>
@@ -294,16 +348,16 @@ export default function App() {
               </div>
             )}
 
-            {brief && <DailyBrief brief={brief} />}
-            {headlines.trending.length > 0 && (
-              <Trending stories={headlines.trending} onHover={showHover} onHoverEnd={hideHover} />
+            {filteredBrief && <DailyBrief brief={filteredBrief} />}
+            {filteredTrending.length > 0 && (
+              <Trending stories={filteredTrending} onHover={showHover} onHoverEnd={hideHover} />
             )}
             {lead && (
               <LeadStory article={lead} onHover={showHover} onHoverEnd={hideHover} />
             )}
             <LatestStrip articles={latestArticles} onHover={showHover} onHoverEnd={hideHover} />
 
-            {filteredCategories.length === 0 ? (
+            {filteredCategories.length === 0 || !hasVisibleArticles ? (
               <div className="opacity-60 text-center py-12">
                 {search
                   ? "No headlines match your search."

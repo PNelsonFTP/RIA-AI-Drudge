@@ -36,7 +36,8 @@ export function CategoryColumn({
   // open. We track open state only so mobile users can expand/collapse.
   const [open, setOpen] = useState(true);
 
-  const list = expanded ? bucket.articlesAll : bucket.articles;
+  const awaitingFull = expanded && bucket.articlesAll.length === 0 && bucket.articles.length > 0;
+  const list = awaitingFull ? bucket.articles : expanded ? bucket.articlesAll : bucket.articles;
   const fullCount = bucket.fullCount ?? bucket.articlesAll.length;
   const hasMore = fullCount > bucket.articles.length;
 
@@ -79,6 +80,9 @@ export function CategoryColumn({
             onHoverEnd={onHoverEnd}
           />
         ))}
+        {awaitingFull && (
+          <div className="text-[11px] opacity-50 mt-1 ml-7">loading…</div>
+        )}
         {hasMore && (
           <button
             onClick={() => {

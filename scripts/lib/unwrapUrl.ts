@@ -190,7 +190,7 @@ export async function resolveGoogleNewsUrls(
 ): Promise<Map<string, string>> {
   const concurrency = opts?.concurrency ?? 4;
   const timeoutMs = opts?.timeoutMs ?? 8000;
-  const cap = opts?.cap ?? 40;
+  const cap = opts?.cap ?? 160;
   const unique = [...new Set(urls.filter(isGoogleNewsUrl))].slice(0, cap);
   const out = new Map<string, string>();
   let i = 0;

@@ -13,8 +13,10 @@ import { XMLParser } from "fast-xml-parser";
 import type { Article } from "./types";
 import { type FeedSource, PRIORITY_WEIGHT, SOURCES } from "./sources";
 import { extractDate } from "./lib/timeAgo";
+import { matchesRequireAny } from "./lib/requireAny";
 import {
   isGoogleNewsUrl,
+  normalizeArticleUrl,
   resolveGoogleNewsUrls,
   stripGoogleNewsTitle,
   unwrapSync,
@@ -361,9 +363,16 @@ async function fetchOneFeed(src: FeedSource): Promise<{ articles: Article[]; ok:
 
   // Cap each feed to its most recent 15 items. This prevents high-volume
   // feeds (Reddit, OpenAI News, GitHub releases) from flooding categories
-  // after keyword routing.
+  // after keyword routing. Sort by date first — feed order is not recency.
   const ITEMS_PER_FEED_CAP = 15;
-  const cappedItems = items.slice(0, ITEMS_PER_FEED_CAP);
+  const itemDateMs = (item: ParsedItem): number => {
+    const raw = firstStr(item.pubDate, item.published, item.updated, item.date, (item as any)["dc:date"]);
+    const iso = extractDate(raw, now);
+    return iso ? new Date(iso).getTime() : 0;
+  };
+  const cappedItems = [...items]
+    .sort((a, b) => itemDateMs(b) - itemDateMs(a))
+    .slice(0, ITEMS_PER_FEED_CAP);
 
   // Only apply the release-noise filter to GitHub release feeds — news sites
   // occasionally publish legitimate titles like "v8 is here". (Matching on
@@ -416,19 +425,7 @@ async function fetchOneFeed(src: FeedSource): Promise<{ articles: Article[]; ok:
       : null;
 
     if (src.requireAny && src.requireAny.length > 0) {
-      const hay = `${title} ${summary ?? ""}`.toLowerCase();
-      const hit = src.requireAny.some((k) => {
-        const needle = k.toLowerCase();
-        if (needle.trim().length <= 3) {
-          try {
-            return new RegExp(`\\b${needle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i").test(hay);
-          } catch {
-            return hay.includes(needle);
-          }
-        }
-        return hay.includes(needle);
-      });
-      if (!hit) continue;
+      if (!matchesRequireAny(title, summary, src.requireAny)) continue;
     }
 
     out.push({
@@ -442,6 +439,7 @@ async function fetchOneFeed(src: FeedSource): Promise<{ articles: Article[]; ok:
       publishedRaw: rawDate,
       summary,
       collectedAt,
+      vendor: src.vendor,
     });
   }
 
@@ -465,25 +463,40 @@ export async function fetchAllFeeds(): Promise<{
   let articles = results.flatMap((r) => r.articles);
 
   // Resolve remaining Google News wrappers so they dedupe against publisher feeds.
-  const gnUrls = articles.filter((a) => isGoogleNewsUrl(a.url)).map((a) => a.url);
+  // Prefer FINRA/SEC/RIA/wealth wrappers so the resolve cap spends budget there first.
+  const gnPriority = /FINRA|SEC|RIA|wealth/i;
+  const gnSeen = new Set<string>();
+  const gnUrls: string[] = [];
+  for (const a of [...articles]
+    .filter((x) => isGoogleNewsUrl(x.url))
+    .sort((a, b) => {
+      const ap = gnPriority.test(a.source) || gnPriority.test(a.url) ? 0 : 1;
+      const bp = gnPriority.test(b.source) || gnPriority.test(b.url) ? 0 : 1;
+      return ap - bp;
+    })) {
+    if (gnSeen.has(a.url)) continue;
+    gnSeen.add(a.url);
+    gnUrls.push(a.url);
+  }
   if (gnUrls.length > 0) {
     console.log(`Unwrapping ${gnUrls.length} Google News URLs…`);
-    const resolved = await resolveGoogleNewsUrls(gnUrls);
+    const resolved = await resolveGoogleNewsUrls(gnUrls, { cap: Math.max(160, gnUrls.length) });
     let hits = 0;
     articles = articles.map((a) => {
       const next = resolved.get(a.url);
       if (!next) return a;
       hits++;
-      return { ...a, url: next, id: hashId(next) };
+      // Keep the original id so bookmarks are not orphaned after unwrap.
+      return { ...a, url: next };
     });
     console.log(`  resolved ${hits}/${gnUrls.length} Google News URLs to publisher links`);
   }
 
-  // Dedup by URL first, then by title (case-insensitive).
+  // Dedup by normalized URL first, then by title (case-insensitive).
   const seenUrl = new Set<string>();
   const seenTitle = new Set<string>();
   articles = articles.filter((a) => {
-    const urlKey = a.url.replace(/[#?].*$/, "").replace(/\/$/, "");
+    const urlKey = normalizeArticleUrl(a.url);
     const titleKey = a.title.toLowerCase();
     if (seenUrl.has(urlKey) || seenTitle.has(titleKey)) return false;
     seenUrl.add(urlKey);

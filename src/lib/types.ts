@@ -28,6 +28,7 @@ export interface Article {
   publishedRaw: string | null;
   summary: string | null;
   collectedAt: string;
+  vendor?: boolean;
 }
 
 export interface GroupedArticle extends Article {

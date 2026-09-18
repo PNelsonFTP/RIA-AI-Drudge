@@ -36,6 +36,15 @@ export function isAggregatorSource(name: string): boolean {
   return false;
 }
 
+/** Home categories that should win the site-wide lead over labs/industry. */
+export const RIA_HOME_CATEGORIES = new Set<CategoryId>([
+  "regulation",
+  "advisor_tech",
+  "wealthtech",
+  "practice",
+  "compliance",
+]);
+
 function toPlain(g: GroupedArticle): Article {
   const { related: _related, ...plain } = g;
   return plain;
@@ -200,8 +209,9 @@ export function buildCategories(
     title: string;
   }>();
 
-  // #7: pick the highest-scoring <72h article as the Lead Story.
-  let leadCandidate: { url: string; score: number } | null = null;
+  // #7: among <72h articles, prefer an RIA-home story over industry/labs.
+  let riaLead: { url: string; score: number } | null = null;
+  let anyLead: { url: string; score: number } | null = null;
 
   for (const meta of CATEGORIES) {
     const window = AGE_WINDOWS[meta.id];
@@ -222,7 +232,16 @@ export function buildCategories(
       inCat.push({ article, score: finalScore(article, ctx) });
     }
 
-    if (inCat.length === 0) continue;
+    if (inCat.length === 0) {
+      buckets.push({
+        id: meta.id,
+        label: meta.label,
+        articles: [],
+        articlesAll: [],
+        sourceCount: 0,
+      });
+      continue;
+    }
 
     inCat.sort((a, b) => b.score - a.score);
 
@@ -275,9 +294,12 @@ export function buildCategories(
       const score = scoreByTitle.get(g.title) ?? 0;
       const ageH = ageHours(g.publishedAt, now);
 
-      // #7: track the lead candidate (must be < 72h).
-      if (ageH <= 72 && (!leadCandidate || score > leadCandidate.score)) {
-        leadCandidate = { url: g.url, score };
+      // #7: track lead candidates (must be < 72h). RIA-home wins the site lead.
+      if (ageH <= 72) {
+        if (!anyLead || score > anyLead.score) anyLead = { url: g.url, score };
+        if (RIA_HOME_CATEGORIES.has(g.category) && (!riaLead || score > riaLead.score)) {
+          riaLead = { url: g.url, score };
+        }
       }
 
       // Try to find an existing story cluster by URL OR by title similarity.
@@ -340,5 +362,5 @@ export function buildCategories(
     categoryIds: [...s.categories],
   }));
 
-  return { buckets, trending: trendingOut, leadUrl: leadCandidate?.url ?? null };
+  return { buckets, trending: trendingOut, leadUrl: riaLead?.url ?? anyLead?.url ?? null };
 }

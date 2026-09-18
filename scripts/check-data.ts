@@ -21,13 +21,13 @@ interface Thresholds {
 }
 
 const T: Thresholds = {
-  minFeedOkRatio: 0.40,
+  minFeedOkRatio: 0.75,
   // Median age is warn-only: hourly CI often sees 48–72h when many sources
   // publish once/day. Hard-fail on maxItemAgeDays instead — that catches the
   // real regression (845-day articles leaking through age windows).
   warnMedianAgeH: 96,
   maxItemAgeDays: 30,
-  warnFeedOkRatio: 0.60,
+  warnFeedOkRatio: 0.85,
 };
 
 async function main() {
@@ -80,6 +80,12 @@ async function main() {
 
   // Hard failures
   const failures: string[] = [];
+  if (j.categories.length === 0) {
+    failures.push("categories array is empty");
+  }
+  if (j.totalCount === 0) {
+    failures.push("totalCount is 0");
+  }
   if (feedRatio < T.minFeedOkRatio) {
     failures.push(`feed health ${(feedRatio * 100).toFixed(0)}% < ${(T.minFeedOkRatio * 100).toFixed(0)}% threshold`);
   }
@@ -98,7 +104,11 @@ async function main() {
     console.warn(`⚠  WARN: feed health below ${(T.warnFeedOkRatio * 100).toFixed(0)}% target`);
   }
   if (zeroItemOk.length > 0) {
-    console.warn(`⚠  WARN: ${zeroItemOk.length} feeds report OK but return 0 items (likely HTML/SPA responses)`);
+    console.warn(`⚠  WARN: ${zeroItemOk.length} feeds report OK but return 0 items (may be requireAny empties, not HTML/SPA)`);
+  }
+  const regulationShown = j.categories.find((c) => c.id === "regulation")?.articles.length ?? 0;
+  if (regulationShown < 3) {
+    console.warn(`⚠  WARN: regulation bucket has ${regulationShown} displayed articles (< 3)`);
   }
   if (j.trending.length < 4) {
     console.warn(`⚠  WARN: trending thin (${j.trending.length} clusters)`);
