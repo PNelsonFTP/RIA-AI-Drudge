@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-18T19:20:52.799Z</updated>
+  <updated>2026-09-18T19:22:40.745Z</updated>
   <entry>
     <title>Security researchers used Claude to help them hack into OpenAI</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"/>
@@ -25,13 +25,13 @@
     <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: GN: FINRA AI</summary>
   </entry>
   <entry>
-    <title>How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience</title>
-    <link href="https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience"/>
-    <id>https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience</id>
-    <updated>2026-09-18T19:09:37.000Z</updated>
-    <author><name>ETF Trends</name></author>
+    <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
+    <link href="https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248"/>
+    <id>https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248</id>
+    <updated>2026-09-17T20:45:14.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Despite fears that artificial intelligence (AI) will disrupt the software-as-a-service (SaaS) business model, the approach of VFLO’s Index, centered on a free cash flow (FCF) screen, shows that mature software leaders like Adobe (ADBE), Salesforce (CRM), and Intuit (INTU) have been generating strong FCF. Skeptics often</summary>
+    <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
     <title>Wall St mixed as benchmark Treasury yields reach 5%, oil takes a pause</title>
@@ -61,13 +61,13 @@
     <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
   </entry>
   <entry>
-    <title>Advisors want more client time. Is AI actually giving it to them?</title>
-    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
-    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
-    <updated>2026-09-17T16:28:02.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well</title>
+    <link href="https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well"/>
+    <id>https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well</id>
+    <updated>2026-09-18T02:58:20.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
+    <summary>Ryan Smith, Ryan Sweeney and Halo invested at a valuation 560% more than Savvy's B round 15 months ago, enticed by some wins, an artificial intelligence tailwind and the former LPL CEO on speed-dial.</summary>
   </entry>
   <entry>
     <title>September 2026 Vendor Management News</title>
@@ -106,13 +106,22 @@
     <summary>After several years of debate over whether AI’s potential was being overstated or whether we were witnessing the emergence of a genuinely transformational technology, it is now increasingly clear large language models (LLMs) represent a meaningful leap forward.</summary>
   </entry>
   <entry>
-    <title>What we’ve learned from Microsoft’s own AI transformation</title>
-    <link href="https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation"/>
-    <id>https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation</id>
-    <updated>2026-09-17T14:00:05.000Z</updated>
-    <author><name>Microsoft Blog</name></author>
+    <title>New experts join Google’s AI &amp; Economy team</title>
+    <link href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench"/>
+    <id>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</id>
+    <updated>2026-09-18T14:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier</summary>
+    <summary>We are expanding our AI &amp; Economy team with world-class academic advisors, fellows, and core internal researchers.</summary>
+  </entry>
+  <entry>
+    <title>The $2.3 trillion horizon: How AI is rewriting the semiconductor story</title>
+    <link href="https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"/>
+    <id>https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story</id>
+    <updated>2026-09-18T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.</summary>
   </entry>
   <entry>
     <title>Ant International Unveils 100 Products to Drive Agentic Financial Operations</title>
@@ -124,13 +133,22 @@
     <summary>Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant International’s two proprietary foundatio</summary>
   </entry>
   <entry>
-    <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
-    <link href="https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248"/>
-    <id>https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248</id>
-    <updated>2026-09-17T20:45:14.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>Advisors want more client time. Is AI actually giving it to them?</title>
+    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
+    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
+    <updated>2026-09-17T16:28:02.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
+    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
+  </entry>
+  <entry>
+    <title>AdvisorCRM Launches AdvisorCRM Studio to Help Advisors Build Custom Apps Without Coding</title>
+    <link href="https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding"/>
+    <id>https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding</id>
+    <updated>2026-09-15T22:37:39.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
     <title>Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops</title>
@@ -187,15 +205,6 @@
     <summary>Wealth Tech Awards 2027: Judges Professional Wealth Management</summary>
   </entry>
   <entry>
-    <title>Thursday links: differentiated trust</title>
-    <link href="https://abnormalreturns.com/2026/09/17/thursday-links-differentiated-trust"/>
-    <id>https://abnormalreturns.com/2026/09/17/thursday-links-differentiated-trust</id>
-    <updated>2026-09-17T15:40:43.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Rates The Federal Reserve doesn't control long term interest rates. (trendlabs.com) Are structural deficits going to keep long term rates high? (economist.com) IPOs Is anybody really ready for an Anthropic IPO? (barrons.com) Revolut plans to dual list in New York and London. (ft.com) Finance Jackson National ($JXN) is </summary>
-  </entry>
-  <entry>
     <title>Hadrius AI Governance Selected by Ritholtz Wealth Management to Enable Firmwide Claude Deployment</title>
     <link href="https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment"/>
     <id>https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment</id>
@@ -241,13 +250,13 @@
     <summary>The definition of &quot;working class&quot; in the US has been shifting over the last couple of decades with changes in the economic and labor market, and advances in AI are going to change the traditional white collar market, too. With midterms right around the corner, who are candidates talking about talking about when they ca</summary>
   </entry>
   <entry>
-    <title>Nvidia, Google, Emerald AI Form AI Energy Management Alliance</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-18/nvidia-google-emerald-ai-form-ai-energy-alliance-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-18/nvidia-google-emerald-ai-form-ai-energy-alliance-video</id>
-    <updated>2026-09-18T18:28:41.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Labour conference set to vote on new AI regulator as cabinet concerns grow</title>
+    <link href="https://www.ft.com/content/2660e844-6aaa-49a4-ab7a-aafdf6a3d805?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/2660e844-6aaa-49a4-ab7a-aafdf6a3d805?syn-25a6b1a6=1</id>
+    <updated>2026-09-18T14:01:45.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Nvidia, Google and Emerald AI have launched the AI Energy Management Alliance (AEMA), a coalition that dynamically manages the electricity use of data centers in response to grid conditions. Varun Sivaram Founder and CEO of Emerald AI joins to discuss the alliance. (Source: Bloomberg)</summary>
+    <summary>Motion brought by union to replace AI Security Institute comes as minister opens door to strengthening legislation</summary>
   </entry>
   <entry>
     <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
@@ -259,21 +268,12 @@
     <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
   </entry>
   <entry>
-    <title>AI Product &amp; Service Launches – 9/14/2026</title>
-    <link href="https://www.planadviser.com/ai-product-service-launches-9-14-2026"/>
-    <id>https://www.planadviser.com/ai-product-service-launches-9-14-2026</id>
-    <updated>2026-09-14T20:39:50.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
+    <title>T. Rowe Price: DC Consultants Move Past AI Indecision</title>
+    <link href="https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision"/>
+    <id>https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision</id>
+    <updated>2026-09-16T21:46:57.000Z</updated>
+    <author><name>PlanSponsor AI</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Anthropic launches Claude for Financial Advisors; Conquest offers AI financial advice platform; FINTRX launches agent for investment professionals; and more. — Also covered by: PlanAdviser AI</summary>
-  </entry>
-  <entry>
-    <title>Microsoft’s commitment for AI in education: Protecting students, strengthening learning</title>
-    <link href="https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education"/>
-    <id>https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education</id>
-    <updated>2026-09-16T18:59:58.000Z</updated>
-    <author><name>Microsoft Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues toda</summary>
+    <summary>Only 14% of survey respondents said they were still evaluating how they could use artificial intelligence, down from 44% in 2025.</summary>
   </entry>
 </feed>
