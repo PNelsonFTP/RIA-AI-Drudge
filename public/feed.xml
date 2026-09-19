@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-19T17:55:43.741Z</updated>
+  <updated>2026-09-19T20:30:41.376Z</updated>
   <entry>
     <title>Gemini went rogue, hacked three companies, and Google hid it</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
@@ -34,13 +34,13 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
-    <link href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"/>
-    <id>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking</id>
-    <updated>2026-09-19T13:00:00.000Z</updated>
+    <title>Trump suggests rebranding AI with a new name, says he’s also creating an AI Force</title>
+    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
+    <id>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</id>
+    <updated>2026-09-19T19:57:47.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.</summary>
+    <summary>Trump claimed, without evidence, that the AI backlash is a Democratic hoax.</summary>
   </entry>
   <entry>
     <title>Remarks Before 12th Annual Government Enforcement Institute</title>
@@ -88,13 +88,13 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033</title>
-    <link href="https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4696255/prediction-this-nvidia-backed-artificial-intelligence-ai-stock-could-10x-by-2033"/>
-    <id>https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4696255/prediction-this-nvidia-backed-artificial-intelligence-ai-stock-could-10x-by-2033</id>
-    <updated>2026-09-19T17:20:39.000Z</updated>
-    <author><name>GN: AI capex / ETF</name></author>
+    <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
+    <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology</id>
+    <updated>2026-09-19T18:18:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Globe and Mail</summary>
+    <summary>The president calls for federal oversight of the industry as opposition toward AI grows among voters.</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
@@ -104,6 +104,15 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>After several years of debate over whether AI’s potential was being overstated or whether we were witnessing the emergence of a genuinely transformational technology, it is now increasingly clear large language models (LLMs) represent a meaningful leap forward.</summary>
+  </entry>
+  <entry>
+    <title>Google’s Gemini is the latest AI model to hack other companies</title>
+    <link href="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies"/>
+    <id>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies</id>
+    <updated>2026-09-19T17:30:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Google said Gemini had &quot;acted appropriately&quot; by ending each hack immediately.</summary>
   </entry>
   <entry>
     <title>Advisors want more client time. Is AI actually giving it to them?</title>
@@ -133,22 +142,13 @@
     <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
-    <title>Petlibro’s new AI-powered feeder is a game changer for multi-cat homes</title>
-    <link href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes"/>
-    <id>https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes</id>
-    <updated>2026-09-19T15:00:00.000Z</updated>
+    <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
+    <link href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"/>
+    <id>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking</id>
+    <updated>2026-09-19T13:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.</summary>
-  </entry>
-  <entry>
-    <title>AI safety conversations have gotten unbelievable</title>
-    <link href="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable"/>
-    <id>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable</id>
-    <updated>2026-09-19T15:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.</summary>
+    <summary>Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -178,13 +178,13 @@
     <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
   </entry>
   <entry>
-    <title>UK Leads European WealthTech Funding Despite Market Shifts in H1 2026</title>
-    <link href="https://evotek.vn/en/uk-leads-european-wealthtech-funding-despite-market-shifts-in-h1-2026"/>
-    <id>https://evotek.vn/en/uk-leads-european-wealthtech-funding-despite-market-shifts-in-h1-2026</id>
-    <updated>2026-09-18T21:31:05.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>Allworth: A Tech Stack Built to Leverage AI Today</title>
+    <link href="https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today"/>
+    <id>https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today</id>
+    <updated>2026-09-18T13:21:30.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>UK Leads European WealthTech Funding Despite Market Shifts in H1 2026 Evotek JSC</summary>
+    <summary>Pete Engelken explains how $40 billion Allworth’s early move to manage its data has set it up to leverage a list of AI-driven vendors from Jump to Anthropic.</summary>
   </entry>
   <entry>
     <title>NASAA Announces 2027 System Fees for Investment Adviser Registration Depository System</title>
@@ -232,22 +232,22 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron</title>
-    <link href="https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-155000467.html"/>
-    <id>https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-ai-stock-155000467.html</id>
-    <updated>2026-09-19T15:50:00.000Z</updated>
-    <author><name>GN: AI capex / ETF</name></author>
+    <title>Trump to Name AI Czar While Rejecting Safety Risks as a Hoax</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax</id>
+    <updated>2026-09-19T18:02:53.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron Yahoo Finance</summary>
+    <summary>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.</summary>
   </entry>
   <entry>
-    <title>Google’s Gemini hacked three companies in new AI safety incident</title>
-    <link href="https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1</id>
-    <updated>2026-09-19T01:29:25.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033</title>
+    <link href="https://www.fool.com/investing/2026/09/19/prediction-this-nvidia-backed-artificial-intellige"/>
+    <id>https://www.fool.com/investing/2026/09/19/prediction-this-nvidia-backed-artificial-intellige</id>
+    <updated>2026-09-19T17:45:00.000Z</updated>
+    <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
-    <summary>Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems — Also covered by: WSJ Tech</summary>
+    <summary>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Motley Fool</summary>
   </entry>
   <entry>
     <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
