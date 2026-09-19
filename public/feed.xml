@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-19T05:42:26.507Z</updated>
+  <updated>2026-09-19T10:47:23.303Z</updated>
   <entry>
     <title>Google’s Gemini hacked three companies in new AI safety incident</title>
     <link href="https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1"/>
@@ -64,7 +64,7 @@
     <title>UPI MDR could upend lending, wealth-tech economics</title>
     <link href="https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP"/>
     <id>https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP</id>
-    <updated>2026-09-19T03:24:52.000Z</updated>
+    <updated>2026-09-19T05:04:05.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>UPI MDR could upend lending, wealth-tech economics The Arc Web</summary>
@@ -97,13 +97,13 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Investors weigh whether Anthropic can sustain surging revenues post-IPO</title>
-    <link href="https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1</id>
-    <updated>2026-09-19T04:00:24.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Odd Lots: Goldman’s Sykes on the 2028 Olympics Deal (Podcast)</title>
+    <link href="https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast"/>
+    <id>https://www.bloomberg.com/news/audio/2026-09-19/odd-lots-goldman-s-sykes-on-the-2028-olympics-deal-podcast</id>
+    <updated>2026-09-19T08:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model ahead of IPO</summary>
+    <summary>We’re in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles come and go over his multi-decade career. The co-head of mergers and acquisitions has worked on famous transactions like Comcast’s purchase of </summary>
   </entry>
   <entry>
     <title>Portugal approves $918 million pension bonus, tax cuts package</title>
@@ -124,22 +124,22 @@
     <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
-    <title>California Governor Mobilizes Expert Panel to Strengthen AI Safety Laws</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/california-governor-mobilizes-expert-panel-strengthen-ai-safety-laws"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/california-governor-mobilizes-expert-panel-strengthen-ai-safety-laws</id>
-    <updated>2026-09-18T23:02:09.000Z</updated>
+    <title>Ant International Unveils 100 Products to Drive Agentic Financial Operations</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations</id>
+    <updated>2026-09-18T18:09:53.000Z</updated>
     <author><name>PYMNTS AI</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>California Gov. Gavin Newsom issued an executive order Friday (Sept. 18) that will convene national experts to provide a guide for the state to reinforce and strengthen its laws covering artificial intelligence safety and security, the governor’s office said in a Friday press release. The executive order is meant to ac</summary>
+    <summary>Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant International’s two proprietary foundatio</summary>
   </entry>
   <entry>
-    <title>Why Open APIs Are the Foundation of Modern Wealth Platforms</title>
-    <link href="https://www.ssctech.com/blog/why-open-apis-are-the-foundation-of-modern-wealth-platforms"/>
-    <id>https://www.ssctech.com/blog/why-open-apis-are-the-foundation-of-modern-wealth-platforms</id>
-    <updated>2026-09-17T15:16:20.000Z</updated>
-    <author><name>SS&amp;C (vendor)</name></author>
+    <title>AdvisorCRM Launches AdvisorCRM Studio to Help Advisors Build Custom Apps Without Coding</title>
+    <link href="https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding"/>
+    <id>https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding</id>
+    <updated>2026-09-15T22:37:39.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>In today's market, connectivity is becoming the defining measure of a wealth platform's value. Wealth management firms rely on a growing ecosystem of CRM systems, client portals, planning tools, business intelligence platforms and, increasingly, AI-enabled applications. As this ecosystem expands, firms need technology </summary>
+    <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
     <title>Anthropic’s first embedded evaluator is … Accenture?</title>
@@ -151,13 +151,13 @@
     <summary>Accenture is about to take on its most high-risk consulting engagement ever.</summary>
   </entry>
   <entry>
-    <title>India forces caller-ID apps to feed spam reports to telcos</title>
-    <link href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos"/>
-    <id>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos</id>
-    <updated>2026-09-19T01:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Mathematicians Hate AI. They Can’t Quit It</title>
+    <link href="https://www.wired.com/story/mathematicians-cant-quit-ai"/>
+    <id>https://www.wired.com/story/mathematicians-cant-quit-ai</id>
+    <updated>2026-09-19T10:00:00.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.</summary>
+    <summary>Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -241,13 +241,13 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>Anthropic brings in Accenture for AI safety testing</title>
-    <link href="https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1</id>
-    <updated>2026-09-18T23:38:50.000Z</updated>
+    <title>Investors warn Anthropic could struggle to sustain revenues post-IPO</title>
+    <link href="https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1</id>
+    <updated>2026-09-19T04:00:24.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology</summary>
+    <summary>OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
