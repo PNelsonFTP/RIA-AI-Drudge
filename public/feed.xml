@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-19T20:30:41.376Z</updated>
+  <updated>2026-09-19T22:52:55.178Z</updated>
   <entry>
     <title>Gemini went rogue, hacked three companies, and Google hid it</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
@@ -14,6 +14,15 @@
     <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol — Also covered by: FT Artificial Intelligence, WSJ Tech</summary>
+  </entry>
+  <entry>
+    <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
+    <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology</id>
+    <updated>2026-09-19T21:58:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>The president calls for federal oversight of the industry as opposition toward AI grows among voters. — Also covered by: FT Artificial Intelligence</summary>
   </entry>
   <entry>
     <title>Anthropic Launches Claude For Financial Advisors</title>
@@ -34,13 +43,13 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Trump suggests rebranding AI with a new name, says he’s also creating an AI Force</title>
-    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
-    <id>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</id>
-    <updated>2026-09-19T19:57:47.000Z</updated>
+    <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
+    <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"/>
+    <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts</id>
+    <updated>2026-09-19T20:39:13.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Trump claimed, without evidence, that the AI backlash is a Democratic hoax.</summary>
+    <summary>Without buyouts, Flock would &quot;almost certainly&quot; need to lay off staff.</summary>
   </entry>
   <entry>
     <title>Remarks Before 12th Annual Government Enforcement Institute</title>
@@ -88,15 +97,6 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
-    <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology</id>
-    <updated>2026-09-19T18:18:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The president calls for federal oversight of the industry as opposition toward AI grows among voters.</summary>
-  </entry>
-  <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
     <link href="https://www.investmentweek.co.uk/opinion/4535685/blackrock-mymaps-chris-ellis-thomas-invest-ai-trades-act"/>
     <id>https://www.investmentweek.co.uk/opinion/4535685/blackrock-mymaps-chris-ellis-thomas-invest-ai-trades-act</id>
@@ -142,13 +142,13 @@
     <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
-    <title>Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
-    <link href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"/>
-    <id>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking</id>
-    <updated>2026-09-19T13:00:00.000Z</updated>
+    <title>Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
+    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
+    <id>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</id>
+    <updated>2026-09-19T19:57:47.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.</summary>
+    <summary>Trump claimed, without evidence, that the AI backlash is a Democratic hoax.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -211,7 +211,7 @@
     <updated>2026-09-14T17:43:09.000Z</updated>
     <author><name>GN: RIA AI</name></author>
     <category term="COMPLIANCE"/>
-    <summary>How RIAs can build a practical AI compliance framework FinTech Global</summary>
+    <summary>How RIAs can build a practical AI compliance framework fintech.global</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
