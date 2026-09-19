@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-19T00:08:20.690Z</updated>
+  <updated>2026-09-19T05:42:26.507Z</updated>
+  <entry>
+    <title>Google’s Gemini hacked three companies in new AI safety incident</title>
+    <link href="https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1</id>
+    <updated>2026-09-19T01:29:25.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems — Also covered by: WSJ Tech</summary>
+  </entry>
   <entry>
     <title>Security researchers used Claude to help them hack into OpenAI</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"/>
@@ -21,8 +30,8 @@
     <id>https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors</id>
     <updated>2026-09-16T14:53:06.000Z</updated>
     <author><name>Wealth Solutions Report</name></author>
-    <category term="REGULATION"/>
-    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: GN: FINRA AI</summary>
+    <category term="WEALTHTECH"/>
+    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: WealthTech Strategy</summary>
   </entry>
   <entry>
     <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
@@ -34,7 +43,7 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>A startup that builds other startups raised $100M, and is all-in on physical AI</title>
+    <title>A startup that builds other startups raised $100M and is all-in on physical AI</title>
     <link href="https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai"/>
     <id>https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai</id>
     <updated>2026-09-18T23:25:01.000Z</updated>
@@ -52,13 +61,13 @@
     <summary>David Woodcock, Director, Division of Enforcement</summary>
   </entry>
   <entry>
-    <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
-    <link href="https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features"/>
-    <id>https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features</id>
-    <updated>2026-09-18T15:01:57.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>UPI MDR could upend lending, wealth-tech economics</title>
+    <link href="https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP"/>
+    <id>https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP</id>
+    <updated>2026-09-19T03:24:52.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
+    <summary>UPI MDR could upend lending, wealth-tech economics The Arc Web</summary>
   </entry>
   <entry>
     <title>Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well</title>
@@ -88,13 +97,13 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Anthropic brings in Accenture for AI safety testing</title>
-    <link href="https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1</id>
-    <updated>2026-09-18T23:38:50.000Z</updated>
+    <title>Investors weigh whether Anthropic can sustain surging revenues post-IPO</title>
+    <link href="https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1</id>
+    <updated>2026-09-19T04:00:24.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology</summary>
+    <summary>OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model ahead of IPO</summary>
   </entry>
   <entry>
     <title>Portugal approves $918 million pension bonus, tax cuts package</title>
@@ -106,22 +115,13 @@
     <summary>Portugal approves $918 million pension bonus, tax cuts package Reuters</summary>
   </entry>
   <entry>
-    <title>Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests</id>
-    <updated>2026-09-18T22:45:15.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google’s Gemini artificial intelligence model inadvertently hacked into three company systems in May during cybersecurity testing, adding to a string of breaches by AI agents that have alarmed security experts and developers of the technology alike.</summary>
-  </entry>
-  <entry>
-    <title>The $2.3 trillion horizon: How AI is rewriting the semiconductor story</title>
-    <link href="https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"/>
-    <id>https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story</id>
-    <updated>2026-09-18T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
+    <title>Advisors want more client time. Is AI actually giving it to them?</title>
+    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
+    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
+    <updated>2026-09-17T16:28:02.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="RESEARCH"/>
-    <summary>AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.</summary>
+    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
     <title>California Governor Mobilizes Expert Panel to Strengthen AI Safety Laws</title>
@@ -133,22 +133,13 @@
     <summary>California Gov. Gavin Newsom issued an executive order Friday (Sept. 18) that will convene national experts to provide a guide for the state to reinforce and strengthen its laws covering artificial intelligence safety and security, the governor’s office said in a Friday press release. The executive order is meant to ac</summary>
   </entry>
   <entry>
-    <title>Advisors want more client time. Is AI actually giving it to them?</title>
-    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
-    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
-    <updated>2026-09-17T16:28:02.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Why Open APIs Are the Foundation of Modern Wealth Platforms</title>
+    <link href="https://www.ssctech.com/blog/why-open-apis-are-the-foundation-of-modern-wealth-platforms"/>
+    <id>https://www.ssctech.com/blog/why-open-apis-are-the-foundation-of-modern-wealth-platforms</id>
+    <updated>2026-09-17T15:16:20.000Z</updated>
+    <author><name>SS&amp;C (vendor)</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
-  </entry>
-  <entry>
-    <title>AdvisorCRM Launches AdvisorCRM Studio to Help Advisors Build Custom Apps Without Coding</title>
-    <link href="https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding"/>
-    <id>https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding</id>
-    <updated>2026-09-15T22:37:39.000Z</updated>
-    <author><name>T3 Technology Hub</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
+    <summary>In today's market, connectivity is becoming the defining measure of a wealth platform's value. Wealth management firms rely on a growing ecosystem of CRM systems, client portals, planning tools, business intelligence platforms and, increasingly, AI-enabled applications. As this ecosystem expands, firms need technology </summary>
   </entry>
   <entry>
     <title>Anthropic’s first embedded evaluator is … Accenture?</title>
@@ -160,13 +151,13 @@
     <summary>Accenture is about to take on its most high-risk consulting engagement ever.</summary>
   </entry>
   <entry>
-    <title>Anthropic is operating a lab that conducts biology experiments</title>
-    <link href="https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments"/>
-    <id>https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments</id>
-    <updated>2026-09-18T23:13:31.000Z</updated>
+    <title>India forces caller-ID apps to feed spam reports to telcos</title>
+    <link href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos"/>
+    <id>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos</id>
+    <updated>2026-09-19T01:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.</summary>
+    <summary>Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -187,6 +178,15 @@
     <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
+    <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
+    <link href="https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features"/>
+    <id>https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features</id>
+    <updated>2026-09-18T15:01:57.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
+  </entry>
+  <entry>
     <title>UK Leads European WealthTech Funding Despite Market Shifts in H1 2026</title>
     <link href="https://evotek.vn/en/uk-leads-european-wealthtech-funding-despite-market-shifts-in-h1-2026"/>
     <id>https://evotek.vn/en/uk-leads-european-wealthtech-funding-despite-market-shifts-in-h1-2026</id>
@@ -194,15 +194,6 @@
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>UK Leads European WealthTech Funding Despite Market Shifts in H1 2026 Evotek JSC</summary>
-  </entry>
-  <entry>
-    <title>Allworth: A Tech Stack Built to Leverage AI Today</title>
-    <link href="https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today"/>
-    <id>https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today</id>
-    <updated>2026-09-18T13:21:30.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Pete Engelken explains how $40 billion Allworth’s early move to manage its data has set it up to leverage a list of AI-driven vendors from Jump to Anthropic.</summary>
   </entry>
   <entry>
     <title>Most of what you know about data centers is wrong</title>
@@ -250,22 +241,13 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>US and China Vie For AI Lead Before Trump- Xi Summit</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-18/us-and-china-vie-for-ai-lead-before-trump-xi-summit-video</id>
-    <updated>2026-09-18T18:52:41.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Less than a week before Chinese leader Xi Jinping travels to the US to meet President Donald Trump, AI has taken center stage in the bilateral relationship. In some ways the rivalry is straightforward. Most benchmarks show American models have a lead in performance that Washington very much wants to maintain, for milit</summary>
-  </entry>
-  <entry>
-    <title>OpenAI expects to burn $280bn by 2030</title>
-    <link href="https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1</id>
-    <updated>2026-09-18T22:33:32.000Z</updated>
+    <title>Anthropic brings in Accenture for AI safety testing</title>
+    <link href="https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1</id>
+    <updated>2026-09-18T23:38:50.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures</summary>
+    <summary>CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
@@ -275,5 +257,23 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>After several years of debate over whether AI’s potential was being overstated or whether we were witnessing the emergence of a genuinely transformational technology, it is now increasingly clear large language models (LLMs) represent a meaningful leap forward.</summary>
+  </entry>
+  <entry>
+    <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
+    <link href="https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price"/>
+    <id>https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price</id>
+    <updated>2026-09-16T21:47:52.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
+  </entry>
+  <entry>
+    <title>Introducing the Australian Youth Safety Blueprint</title>
+    <link href="https://openai.com/index/australian-youth-safety-blueprint"/>
+    <id>https://openai.com/index/australian-youth-safety-blueprint</id>
+    <updated>2026-09-18T12:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.</summary>
   </entry>
 </feed>
