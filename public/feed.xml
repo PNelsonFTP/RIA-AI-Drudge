@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-19T22:52:55.178Z</updated>
+  <updated>2026-09-20T00:57:57.768Z</updated>
   <entry>
     <title>Gemini went rogue, hacked three companies, and Google hid it</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
@@ -19,7 +19,7 @@
     <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
     <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
     <id>https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology</id>
-    <updated>2026-09-19T21:58:00.000Z</updated>
+    <updated>2026-09-19T23:41:00.000Z</updated>
     <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
     <summary>The president calls for federal oversight of the industry as opposition toward AI grows among voters. — Also covered by: FT Artificial Intelligence</summary>
@@ -30,8 +30,8 @@
     <id>https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors</id>
     <updated>2026-09-16T14:53:06.000Z</updated>
     <author><name>Wealth Solutions Report</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: WealthTech Strategy</summary>
+    <category term="REGULATION"/>
+    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: GN: FINRA AI</summary>
   </entry>
   <entry>
     <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
@@ -211,7 +211,7 @@
     <updated>2026-09-14T17:43:09.000Z</updated>
     <author><name>GN: RIA AI</name></author>
     <category term="COMPLIANCE"/>
-    <summary>How RIAs can build a practical AI compliance framework fintech.global</summary>
+    <summary>How RIAs can build a practical AI compliance framework FinTech Global</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
