@@ -6,7 +6,7 @@ Operations guide. Last updated: 2026-09-18 (first local run).
 
 | Item | Value |
 |------|-------|
-| Public name | **RIA AI REPORT** |
+| Public name | **CFP AI REPORT** |
 | Local path | `/Users/paulnelson/Documents/Development/RIA-AI-Drudge/` |
 | Local URL | http://127.0.0.1:5173/RIA-AI-Drudge/ |
 | Git remote | https://github.com/PNelsonFTP/RIA-AI-Drudge |

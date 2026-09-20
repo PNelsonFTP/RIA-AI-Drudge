@@ -13,7 +13,7 @@ Hard rules for every conversation in this folder.
 
 ## Product voice
 
-- Masthead: **RIA AI REPORT** (red, monospace, dense).
+- Masthead: **CFP AI REPORT** (First Trust / XPND chrome: navy, gold rule, Arial).
 - Subhead: AI headlines for advisors, RIAs, and wealth professionals.
 - Footer may say it is an aggregator with no affiliation to Drudge Report.
 - Paywalled sources: headline + link only. Never reproduce body text.

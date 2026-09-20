@@ -94,7 +94,7 @@ function fallback(articles: Article[], ctx: BriefContext | undefined): Brief {
 
   // Synthesize a headline from the top cited item.
   const headline = cited.length > 0
-    ? `Today's top RIA AI story: ${cited[0].title}`
+    ? `Today's top CFP AI story: ${cited[0].title}`
     : "No headlines available";
 
   // Bullets = one per cited item, terse.
@@ -109,7 +109,7 @@ function fallback(articles: Article[], ctx: BriefContext | undefined): Brief {
   };
 }
 
-const SYSTEM_PROMPT = `You are the editor of RIA AI REPORT, an aggregator of AI news for advisors, RIAs, and wealth professionals.
+const SYSTEM_PROMPT = `You are the editor of CFP AI REPORT, an aggregator of AI news for advisors, CFPs, RIAs, and wealth professionals.
 You will receive a JSON list of today's AI headlines (title, source, category, summary)
 PLUS a list of trending stories (those covered by multiple outlets).
 
@@ -210,7 +210,7 @@ export async function generateBrief(
     return {
       generatedAt: new Date().toISOString(),
       source: "claude",
-      headline: parsed.headline ?? "RIA AI Daily Brief",
+      headline: parsed.headline ?? "CFP AI Daily Brief",
       bullets: Array.isArray(parsed.bullets) ? parsed.bullets.slice(0, 6) : [],
       citedArticles: cited,
     };

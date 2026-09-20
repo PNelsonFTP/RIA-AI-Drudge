@@ -1,16 +1,15 @@
 import { useEffect, useState } from "react";
 
 type Theme = "dark" | "light";
-const KEY = "ria-ai-report:theme";
+const KEY = "ria-ai-report:theme-v2";
 
 function initial(): Theme {
   try {
     const stored = localStorage.getItem(KEY);
     if (stored === "dark" || stored === "light") return stored;
   } catch { /* ignore */ }
-  // Drudge is traditionally light; default to dark since AI news tends to
-  // be read at night and most users prefer it for this kind of dense layout.
-  return "dark";
+  // Match XPND / First Trust: light is the house theme.
+  return "light";
 }
 
 export function useTheme() {
@@ -20,6 +19,7 @@ export function useTheme() {
     const root = document.documentElement;
     root.classList.toggle("dark", theme === "dark");
     root.classList.toggle("light", theme === "light");
+    root.setAttribute("data-theme", theme);
     try { localStorage.setItem(KEY, theme); } catch { /* ignore */ }
   }, [theme]);
 

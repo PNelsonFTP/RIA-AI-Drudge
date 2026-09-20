@@ -18,65 +18,52 @@ export function ManageMutes({
   const empty = mutedSources.length === 0 && mutedCategories.length === 0;
 
   return (
-    <div className="fixed inset-0 z-40 flex items-start justify-center pt-20 px-4 bg-black/60" onClick={onClose}>
-      <div
-        className="max-w-lg w-full p-5 border max-h-[70vh] overflow-y-auto"
-        style={{ background: "var(--bg, #161616)", borderColor: "#444" }}
-        onClick={(e) => e.stopPropagation()}
-      >
-        <div className="flex items-baseline justify-between mb-4">
-          <h2 className="text-lg font-bold">Hidden sources & sections</h2>
-          <button onClick={onClose} className="opacity-60 hover:opacity-100 text-sm">✕ close</button>
+    <div className="modal-backdrop" onClick={onClose}>
+      <div className="modal-card" onClick={(e) => e.stopPropagation()}>
+        <div className="modal-head">
+          <h2>Hidden sources & sections</h2>
+          <button onClick={onClose}>✕ close</button>
         </div>
+        <div className="modal-body">
+          {empty && (
+            <p className="status" style={{ padding: 0, textAlign: "left" }}>
+              Nothing hidden yet. Hover any headline and click mute to hide that
+              source, or mute a section heading to hide the whole section.
+            </p>
+          )}
 
-        {empty && (
-          <p className="text-sm opacity-60">
-            Nothing hidden yet. Hover any headline and click "mute" to hide that source,
-            or click "✕" next to a section heading to hide the whole section.
-          </p>
-        )}
-
-        {mutedCategories.length > 0 && (
-          <div className="mb-5">
-            <h3 className="text-[11px] uppercase tracking-wider opacity-60 mb-2">
-              Hidden sections ({mutedCategories.length})
-            </h3>
-            <div className="space-y-1">
+          {mutedCategories.length > 0 && (
+            <div className="mute-group">
+              <h3 className="section-title" style={{ marginBottom: 6 }}>
+                Hidden sections ({mutedCategories.length})
+              </h3>
               {mutedCategories.map((c) => (
-                <div key={c} className="flex items-center justify-between text-sm py-1">
+                <div key={c} className="mute-row">
                   <span>{categoryLabelsById[c] ?? c}</span>
-                  <button
-                    onClick={() => onUnmuteCategory(c)}
-                    className="text-xs underline opacity-70 hover:opacity-100"
-                  >
+                  <button className="show-more" onClick={() => onUnmuteCategory(c)}>
                     restore
                   </button>
                 </div>
               ))}
             </div>
-          </div>
-        )}
+          )}
 
-        {mutedSources.length > 0 && (
-          <div>
-            <h3 className="text-[11px] uppercase tracking-wider opacity-60 mb-2">
-              Hidden sources ({mutedSources.length})
-            </h3>
-            <div className="space-y-1">
+          {mutedSources.length > 0 && (
+            <div className="mute-group">
+              <h3 className="section-title" style={{ marginBottom: 6 }}>
+                Hidden sources ({mutedSources.length})
+              </h3>
               {mutedSources.map((s) => (
-                <div key={s} className="flex items-center justify-between text-sm py-1">
+                <div key={s} className="mute-row">
                   <span>{s}</span>
-                  <button
-                    onClick={() => onUnmuteSource(s)}
-                    className="text-xs underline opacity-70 hover:opacity-100"
-                  >
+                  <button className="show-more" onClick={() => onUnmuteSource(s)}>
                     restore
                   </button>
                 </div>
               ))}
             </div>
-          </div>
-        )}
+          )}
+        </div>
       </div>
     </div>
   );

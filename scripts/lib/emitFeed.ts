@@ -1,5 +1,5 @@
 // Emit an Atom 1.0 feed of the aggregator itself (#1 from the roadmap), so
-// users can subscribe to RIA AI REPORT from any feed reader. Entries link
+// users can subscribe to CFP AI REPORT from any feed reader. Entries link
 // directly to the original source articles.
 //
 // Selection mirrors the homepage's editorial hierarchy: trending stories
@@ -68,7 +68,7 @@ export function buildSiteFeed(
   return [
     `<?xml version="1.0" encoding="utf-8"?>`,
     `<feed xmlns="http://www.w3.org/2005/Atom">`,
-    `  <title>RIA AI REPORT</title>`,
+    `  <title>CFP AI REPORT</title>`,
     `  <subtitle>AI headlines for advisors, RIAs, and wealth professionals</subtitle>`,
     `  <link href="${SITE_URL}"/>`,
     `  <link rel="self" href="${FEED_URL}"/>`,

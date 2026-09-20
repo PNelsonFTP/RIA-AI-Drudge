@@ -29,11 +29,7 @@ export function CategoryColumn({
   onHoverEnd,
   onRequestFull,
 }: CategoryColumnProps) {
-  // expanded = the "View all" toggle (applies on every screen size).
   const [expanded, setExpanded] = useState(false);
-  // open = whether the section body is visible. On mobile the section starts
-  // collapsed (so 18 sections don't bury the page); on desktop it's always
-  // open. We track open state only so mobile users can expand/collapse.
   const [open, setOpen] = useState(true);
 
   const awaitingFull = expanded && bucket.articlesAll.length === 0 && bucket.articles.length > 0;
@@ -42,29 +38,26 @@ export function CategoryColumn({
   const hasMore = fullCount > bucket.articles.length;
 
   return (
-    <section>
-      <div className="flex items-baseline justify-between gap-2">
+    <section className="company" id={`cat-${bucket.id}`}>
+      <div className="company-head">
         <h2
-          className="section-heading flex-1 cursor-pointer select-none md:cursor-default"
+          className="company-ticker"
           onClick={() => setOpen((v) => !v)}
           title="Tap to expand/collapse on mobile"
+          style={{ cursor: "pointer" }}
         >
-          {/* Caret only shows on mobile (md:hidden) */}
-          <span className="md:hidden mr-1">{open ? "▼" : "▶"}</span>
+          <span className="md:hidden">{open ? "▼ " : "▶ "}</span>
           {bucket.label}
         </h2>
-        <div className="flex items-center gap-2 text-[10px] opacity-50 uppercase tracking-wider pb-1 shrink-0">
-          <span title="Distinct sources in this section">{bucket.sourceCount} src</span>
-          <button
-            onClick={() => onMuteCategory(bucket.id)}
-            className="hover:text-[var(--siren)] hover:opacity-100"
-            title={`Hide the ${bucket.label} section`}
-          >
-            ✕
-          </button>
-        </div>
+        <span className="company-weight">{bucket.sourceCount} src</span>
+        <button
+          onClick={() => onMuteCategory(bucket.id)}
+          className="mute-btn"
+          title={`Hide the ${bucket.label} section`}
+        >
+          mute
+        </button>
       </div>
-      {/* On mobile, hide body when collapsed. On desktop (md:block) always show. */}
       <div className={`${open ? "block" : "hidden"} md:block`}>
         {list.map((a) => (
           <Headline
@@ -81,7 +74,7 @@ export function CategoryColumn({
           />
         ))}
         {awaitingFull && (
-          <div className="text-[11px] opacity-50 mt-1 ml-7">loading…</div>
+          <div className="status" style={{ padding: "6px 0" }}>loading…</div>
         )}
         {hasMore && (
           <button
@@ -89,11 +82,9 @@ export function CategoryColumn({
               if (!expanded) onRequestFull?.();
               setExpanded((v) => !v);
             }}
-            className="text-[11px] opacity-60 hover:opacity-100 underline mt-2 ml-7"
+            className="show-more"
           >
-            {expanded
-              ? "▲ show less"
-              : `▼ view all ${fullCount}`}
+            {expanded ? "show less" : `view all ${fullCount}`}
           </button>
         )}
       </div>

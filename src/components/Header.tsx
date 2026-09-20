@@ -43,64 +43,69 @@ export function Header({
   const { label: updatedLabel, stale: dataStale } = relativeUpdated(generatedAt);
 
   return (
-    <header className="border-b-2 border-[var(--siren)] px-4 py-3">
-      <div className="mx-auto max-w-[1400px]">
-        <div className="flex items-end justify-between gap-4 flex-wrap">
-          <div>
-            <h1 className="masthead text-[var(--siren)]" style={{ fontSize: "clamp(28px, 5vw, 52px)" }}>
-              RIA&nbsp;AI&nbsp;REPORT
-            </h1>
-            <p className="text-[11px] uppercase tracking-widest opacity-60 mt-1">
-              AI headlines for advisors, RIAs, and wealth professionals
-            </p>
-          </div>
-
-          <div className="flex items-center gap-2 text-xs flex-wrap justify-end">
-            <span className={`mr-1 ${dataStale ? "text-[var(--siren)]" : "opacity-60"}`}>
-              {generatedAt
-                ? `${totalCount} ${totalCount === 1 ? "story" : "stories"} · ${updatedLabel}`
-                : "loading…"}
-            </span>
-            <button
-              onClick={() => onSetView(view === "bookmarks" ? "home" : "bookmarks")}
-              className={`px-2 py-1 border rounded ${view === "bookmarks" ? "bg-[var(--gold)] text-black border-[var(--gold)]" : "opacity-80"}`}
-              title="Bookmarks (save permanently)"
-            >
-              ★ {bookmarksCount}
-            </button>
-            <button
-              onClick={() => onSetView(view === "queue" ? "home" : "queue")}
-              className={`px-2 py-1 border rounded ${view === "queue" ? "bg-[var(--accent)] text-white border-[var(--accent)]" : "opacity-80"}`}
-              title="Read-later queue (clears on open)"
-            >
-              ◷ {queueCount}
-            </button>
-            <button
-              onClick={onOpenManageMutes}
-              className="px-2 py-1 border rounded opacity-80"
-              title="Manage hidden sources & sections"
-            >
-              ✕ {mutedCount}
-            </button>
-            <button
-              onClick={onToggleTheme}
-              className="px-2 py-1 border rounded opacity-80"
-              title="Toggle theme"
-            >
-              {theme === "dark" ? "☀ light" : "☾ dark"}
-            </button>
-          </div>
+    <header>
+      <div className="header-row">
+        <div className="masthead">
+          <a href="#top" className="logo" onClick={() => onSetView("home")}>
+            CFP AI <span className="siren">REPORT</span>
+          </a>
+          <p className="tagline">
+            AI headlines for advisors, RIAs, and wealth professionals
+          </p>
         </div>
 
-        <div className="mt-3 max-w-md">
-          <input
-            type="search"
-            className="search-input"
-            placeholder="Search headlines, sources, categories…"
-            value={search}
-            onChange={(e) => onSearchChange(e.target.value)}
-          />
+        <div className="toolbar">
+          <span
+            id="refresh-countdown"
+            style={{ color: "#c5d3e4", fontSize: "9.5px", marginRight: 4 }}
+            className={dataStale ? "siren" : undefined}
+          >
+            {generatedAt
+              ? `${totalCount} ${totalCount === 1 ? "story" : "stories"} · ${updatedLabel}`
+              : "loading…"}
+          </span>
+          <span className="tool-sep" aria-hidden="true" />
+          <button
+            onClick={() => onSetView(view === "bookmarks" ? "home" : "bookmarks")}
+            className={`tool-btn ${view === "bookmarks" ? "active" : ""}`}
+            title="Bookmarks (save permanently)"
+          >
+            ★ Bookmarks {bookmarksCount}
+          </button>
+          <button
+            onClick={() => onSetView(view === "queue" ? "home" : "queue")}
+            className={`tool-btn ${view === "queue" ? "active" : ""}`}
+            title="Read-later queue (clears on open)"
+          >
+            Later {queueCount}
+          </button>
+          <button
+            onClick={onOpenManageMutes}
+            className="tool-btn"
+            title="Manage hidden sources & sections"
+          >
+            Mutes {mutedCount}
+          </button>
+          <span className="tool-sep" aria-hidden="true" />
+          <button
+            onClick={onToggleTheme}
+            className="tool-btn"
+            title={theme === "dark" ? "Theme: dark. Switch to light." : "Theme: light. Switch to dark."}
+          >
+            {theme === "dark" ? "Light" : "Dark"}
+          </button>
         </div>
+      </div>
+
+      <div className="control-row">
+        <input
+          type="search"
+          className="search-input"
+          placeholder="search headlines, sources, categories…  (press /)"
+          value={search}
+          onChange={(e) => onSearchChange(e.target.value)}
+          aria-label="Search headlines"
+        />
       </div>
     </header>
   );

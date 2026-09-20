@@ -10,34 +10,30 @@ interface LeadStoryProps {
 export function LeadStory({ article, onHover, onHoverEnd }: LeadStoryProps) {
   return (
     <section
-      className="text-center mb-6 pb-6 border-b border-current border-opacity-20"
+      id="lead-story"
+      className="panel"
       onMouseEnter={(e) => onHover(article, e)}
       onMouseLeave={onHoverEnd}
     >
-      <a
-        href={article.url}
-        target="_blank"
-        rel="noreferrer noopener"
-        className="lead-title headline-critical inline-block"
-      >
-        {article.title.toUpperCase()}
-      </a>
-      <div className="flex items-center justify-center gap-3 mt-2 text-[11px] uppercase tracking-widest opacity-70">
-        <span className="source-badge">{article.source}</span>
-        <span>{timeAgoDisplay(article.publishedAt)}</span>
+      <div className="section-head gold">
+        <h2 className="section-title">Lead story</h2>
+        <span className="section-meta">{article.source} · {timeAgoDisplay(article.publishedAt)}</span>
       </div>
+      <h3 className={`lead-title ${article.priority === "critical" ? "headline-critical" : ""}`}>
+        <a href={article.url} target="_blank" rel="noreferrer noopener">
+          {article.title}
+        </a>
+      </h3>
       {article.summary && (
-        <p className="mt-2 text-[13px] opacity-80 max-w-2xl mx-auto">
-          {article.summary}
-        </p>
+        <p className="lead-snippet">{article.summary}</p>
       )}
       {article.related.length > 0 && (
-        <p className="mt-2 text-[11px] opacity-60">
-          <span className="uppercase tracking-wider">Also covered by:</span>{" "}
+        <p className="also-covered">
+          Also covered by:{" "}
           {article.related.map((r, i) => (
             <span key={r.url}>
               {i > 0 && " · "}
-              <a href={r.url} target="_blank" rel="noreferrer noopener" className="underline">{r.source}</a>
+              <a href={r.url} target="_blank" rel="noreferrer noopener">{r.source}</a>
             </span>
           ))}
         </p>

@@ -94,6 +94,18 @@ export default function App() {
 
   const searchLc = search.trim().toLowerCase();
 
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
+      const t = e.target as HTMLElement | null;
+      if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
+      e.preventDefault();
+      document.querySelector<HTMLInputElement>("input.search-input")?.focus();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
   // Search and View All need the full payload; preview omits View-All tails.
   useEffect(() => {
     if (searchLc) loadFull();
@@ -283,7 +295,7 @@ export default function App() {
     );
     let headline = brief.headline;
     if (mutedTitles.some((t) => headline.toLowerCase().includes(t))) {
-      headline = `Today's top RIA AI story: ${cited[0].title}`;
+      headline = `Today's top CFP AI story: ${cited[0].title}`;
     }
     return { ...brief, headline, bullets, citedArticles: cited };
   }, [brief, mutedSources]);
@@ -318,79 +330,93 @@ export default function App() {
 
   return (
     <ReadStateContext.Provider value={readState}>
-    <div className="min-h-full">
-      <Header
-        theme={theme}
-        onToggleTheme={toggleTheme}
-        generatedAt={headlines?.generatedAt ?? null}
-        totalCount={headlines?.totalCount ?? 0}
-        bookmarksCount={bookmarks.size}
-        queueCount={queue.size}
-        mutedCount={mutedCount}
-        view={view}
-        onSetView={setView}
-        onOpenManageMutes={() => setManageOpen(true)}
-        search={search}
-        onSearchChange={setSearch}
-      />
-      <StockTicker stocks={stocks} />
+    <div className="min-h-full" id="top">
+      <a href="#main" className="skip-link">Skip to headlines</a>
+      <div className="sticky-top">
+        <Header
+          theme={theme}
+          onToggleTheme={toggleTheme}
+          generatedAt={headlines?.generatedAt ?? null}
+          totalCount={headlines?.totalCount ?? 0}
+          bookmarksCount={bookmarks.size}
+          queueCount={queue.size}
+          mutedCount={mutedCount}
+          view={view}
+          onSetView={setView}
+          onOpenManageMutes={() => setManageOpen(true)}
+          search={search}
+          onSearchChange={setSearch}
+        />
+        <StockTicker stocks={stocks} />
+        {headlines && view === "home" && filteredCategories.length > 0 && (
+          <nav className="index-strip" aria-label="Jump to section">
+            {filteredCategories.map((c) => (
+              <a key={c.id} className="index-chip" href={`#cat-${c.id}`}>
+                {c.label}
+              </a>
+            ))}
+          </nav>
+        )}
+      </div>
 
-      <main className="mx-auto max-w-[1400px] px-4 py-6">
+      <main id="main" className="main">
         {error && (
-          <div className="border border-[var(--siren)] text-[var(--siren)] p-4 mb-6">
+          <div className="banner">
             {error} — the site will retry on next visit.
           </div>
         )}
 
         {!headlines && !error && (
-          <div className="opacity-60 text-center py-12">Loading headlines…</div>
+          <p className="status">Loading headlines…</p>
         )}
 
         {/* HOME VIEW */}
         {headlines && view === "home" && (
           <>
             {staleData && (
-              <div className="border border-[var(--siren)] text-[var(--siren)] px-4 py-2 mb-4 text-[12px]">
+              <div className="banner">
                 Headlines may be delayed — last refresh was more than {STALE_DATA_HOURS} hours ago.
               </div>
             )}
 
             {newSinceLastVisit > 0 && !newBannerDismissed && (
-              <div className="border border-current px-4 py-2 mb-4 text-[12px] flex items-center justify-between gap-3 opacity-90">
+              <div className="banner info">
                 <span>
                   <strong>{newSinceLastVisit}</strong> new {newSinceLastVisit === 1 ? "story" : "stories"} since your last visit.
                 </span>
-                <button
-                  onClick={() => setNewBannerDismissed(true)}
-                  className="opacity-60 hover:opacity-100 shrink-0"
-                  aria-label="Dismiss"
-                >
-                  ✕
+                <button onClick={() => setNewBannerDismissed(true)} aria-label="Dismiss">
+                  dismiss
                 </button>
               </div>
             )}
 
-            {filteredBrief && <DailyBrief brief={filteredBrief} />}
-            {filteredTrending.length > 0 && (
-              <Trending stories={filteredTrending} onHover={showHover} onHoverEnd={hideHover} />
-            )}
-            {lead && (
-              <LeadStory article={lead} onHover={showHover} onHoverEnd={hideHover} />
-            )}
-            <LatestStrip articles={latestArticles} onHover={showHover} onHoverEnd={hideHover} />
+            <div className="top-grid">
+              <div className="top-main">
+                {lead && (
+                  <LeadStory article={lead} onHover={showHover} onHoverEnd={hideHover} />
+                )}
+                {filteredTrending.length > 0 && (
+                  <Trending stories={filteredTrending} onHover={showHover} onHoverEnd={hideHover} />
+                )}
+              </div>
+              <div className="top-side">
+                {filteredBrief && <DailyBrief brief={filteredBrief} />}
+                <LatestStrip articles={latestArticles} onHover={showHover} onHoverEnd={hideHover} />
+              </div>
+            </div>
 
             {filteredCategories.length === 0 || !hasVisibleArticles ? (
-              <div className="opacity-60 text-center py-12">
+              <p className="status">
                 {search
                   ? "No headlines match your search."
                   : mutedCategories.size > 0 || mutedSources.size > 0
-                    ? "All sections hidden — click ✕ in the header to restore."
+                    ? "All sections hidden — click Mutes in the header to restore."
                     : "No headlines available right now."}
-              </div>
+              </p>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="columns">
                 {columns.map((col, i) => (
-                  <div key={i} className="space-y-6">
+                  <div key={i} className="col">
                     {col.map((bucket) => (
                       <CategoryColumn
                         key={bucket.id}
@@ -452,24 +478,22 @@ export default function App() {
           />
         )}
 
-        <footer className="mt-12 pt-6 border-t border-current border-opacity-20 text-[11px] opacity-50 flex flex-wrap items-center justify-between gap-2">
-          <span>
-            RIA AI REPORT — aggregator, no affiliation with Drudge Report.{" "}
-            <a href={`${import.meta.env.BASE_URL}feed.xml`} className="underline hover:opacity-100">
-              RSS
-            </a>
-          </span>
-          {headlines?.feedStats && (
-            <button
-              onClick={() => setFeedHealthOpen(true)}
-              className="underline hover:opacity-100"
-              title="Per-feed fetch status from the last build"
-            >
-              {headlines.feedStats.filter((f: { ok: boolean }) => f.ok).length}/{headlines.feedStats.length} feeds OK
-            </button>
-          )}
-        </footer>
       </main>
+
+      <footer className="site-footer">
+        <span>
+          CFP AI REPORT — aggregator, no affiliation with Drudge Report or First Trust.{" "}
+          <a href={`${import.meta.env.BASE_URL}feed.xml`}>RSS</a>
+        </span>
+        {headlines?.feedStats && (
+          <button
+            onClick={() => setFeedHealthOpen(true)}
+            title="Per-feed fetch status from the last build"
+          >
+            {headlines.feedStats.filter((f: { ok: boolean }) => f.ok).length}/{headlines.feedStats.length} feeds OK
+          </button>
+        )}
+      </footer>
 
       {hover && (
         <HoverCardContent article={hover.article} anchor={hover.anchor} />
@@ -523,11 +547,13 @@ function Section({
   onHover, onHoverEnd, consumeOnOpen, onConsume,
 }: SectionProps) {
   return (
-    <section className="max-w-3xl mx-auto">
-      <h2 className="section-heading">{title}</h2>
-      <p className="text-[11px] opacity-60 -mt-3 mb-4">{subtitle}</p>
+    <section className="list-view-wrap">
+      <div className="section-head">
+        <h2 className="section-title">{title}</h2>
+      </div>
+      <p className="list-sub">{subtitle}</p>
       {articles.length === 0 ? (
-        <div className="opacity-60 text-center py-12">{emptyMessage}</div>
+        <p className="status">{emptyMessage}</p>
       ) : (
         <div>
           {articles.map((a) => (

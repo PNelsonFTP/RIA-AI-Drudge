@@ -1,4 +1,4 @@
-# RIA AI Report
+# CFP AI Report
 
 Drudge-style headline aggregator for **RIAs, broker-dealers, and wealth
 professionals** who need to keep up on AI — advisor tools, wealthtech,

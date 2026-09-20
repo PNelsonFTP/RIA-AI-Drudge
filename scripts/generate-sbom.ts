@@ -67,7 +67,7 @@ async function main() {
         "bom-ref": `pkg:npm/${pkg.name}@${pkg.version}`,
         name: pkg.name,
         version: pkg.version,
-        description: "RIA AI Report — static AI headline aggregator for advisors and wealth professionals",
+        description: "CFP AI Report — static AI headline aggregator for advisors and wealth professionals",
       },
       tools: [{ vendor: "ria-ai-report", name: "scripts/generate-sbom.ts", version: "1.0" }],
     },

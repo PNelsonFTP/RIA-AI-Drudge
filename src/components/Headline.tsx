@@ -13,7 +13,6 @@ interface HeadlineProps {
   onMuteSource: (source: string) => void;
   onHover: (article: GroupedArticle, e: React.MouseEvent) => void;
   onHoverEnd: () => void;
-  // When true (read-later view), clicking the title also removes from queue.
   consumeOnOpen?: boolean;
   onConsume?: (id: string) => void;
 }
@@ -47,35 +46,34 @@ export function Headline({
 
   const fresh = isNew(article.publishedAt);
   const stale = isStale(article.publishedAt);
-  // Dim headlines the reader already scrolled past in a previous session.
   const seen = wasSeen(article.id) && !fresh;
 
-  // Dimmed if user has muted this source (only happens when explicitly
-  // viewing muted items from the manage panel; otherwise they're filtered out).
   return (
     <div
       ref={(el) => observe(el, article.id)}
-      className={`group flex items-start gap-1 py-1 ${stale || seen ? "opacity-60" : ""}`}
+      className={`headline-row group ${stale || seen ? "stale" : ""}`}
       onMouseEnter={(e) => { onHover(article, e); setShowActions(true); }}
       onMouseLeave={() => { onHoverEnd(); setShowActions(false); }}
     >
-      <button
-        onClick={() => onToggleBookmark(article.id)}
-        className={`shrink-0 text-xs mt-0.5 ${isBookmark ? "text-[var(--gold)]" : "opacity-30 hover:opacity-100"}`}
-        title={isBookmark ? "Remove bookmark" : "Bookmark (save permanently)"}
-        aria-label={isBookmark ? "Remove bookmark" : "Bookmark"}
-      >
-        {isBookmark ? "★" : "☆"}
-      </button>
-      <button
-        onClick={() => onToggleQueue(article.id)}
-        className={`shrink-0 text-xs mt-0.5 ${isInQueue ? "text-[var(--accent)]" : "opacity-30 hover:opacity-100"}`}
-        title={isInQueue ? "Remove from read-later" : "Add to read-later (clears on open)"}
-        aria-label={isInQueue ? "Remove from read-later" : "Add to read-later"}
-      >
-        {isInQueue ? "◷" : "○"}
-      </button>
-      <div className={`min-w-0 flex-1 ${isSourceMuted ? "opacity-40" : ""}`}>
+      <div className="hl-actions">
+        <button
+          onClick={() => onToggleBookmark(article.id)}
+          className={isBookmark ? "on-star" : undefined}
+          title={isBookmark ? "Remove bookmark" : "Bookmark (save permanently)"}
+          aria-label={isBookmark ? "Remove bookmark" : "Bookmark"}
+        >
+          {isBookmark ? "★" : "☆"}
+        </button>
+        <button
+          onClick={() => onToggleQueue(article.id)}
+          className={isInQueue ? "on-queue" : undefined}
+          title={isInQueue ? "Remove from read-later" : "Add to read-later (clears on open)"}
+          aria-label={isInQueue ? "Remove from read-later" : "Add to read-later"}
+        >
+          {isInQueue ? "◷" : "○"}
+        </button>
+      </div>
+      <div className={`hl-body ${isSourceMuted ? "stale" : ""}`}>
         <a
           href={article.url}
           target="_blank"
@@ -86,19 +84,14 @@ export function Headline({
           {article.title}
         </a>
         {fresh && (
-          <span
-            className="ml-1 text-[9px] uppercase tracking-wider align-top text-[var(--siren)] font-bold"
-            title="Posted in the last 6 hours"
-          >
-            NEW
-          </span>
+          <span className="new-badge" title="Posted in the last 6 hours">NEW</span>
         )}
         {article.related.length > 0 && (
           <span className="related-badge" title={`${article.related.length} more source(s) covering this story`}>
             +{article.related.length}
           </span>
         )}
-        <div className="flex items-center gap-2 text-[10px] opacity-50 mt-0.5">
+        <div className="hl-meta">
           <span className="source-badge">{article.source}</span>
           {(article.vendor === true ||
             article.source.includes("(vendor)") ||
@@ -106,10 +99,10 @@ export function Headline({
             <span className="vendor-badge">VENDOR</span>
           )}
           <span>{timeAgoDisplay(article.publishedAt)}</span>
-          {showActions && !isSourceMuted && (
+          {!isSourceMuted && (
             <button
               onClick={(e) => { e.preventDefault(); e.stopPropagation(); onMuteSource(article.source); }}
-              className="opacity-60 hover:opacity-100 hover:text-[var(--siren)] underline ml-1"
+              className="mute-btn"
               title={`Hide all stories from ${article.source}`}
             >
               mute
