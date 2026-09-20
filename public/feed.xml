@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-20T13:32:12.007Z</updated>
+  <updated>2026-09-20T13:41:52.397Z</updated>
   <entry>
     <title>Anthropic Launches Claude For Financial Advisors</title>
     <link href="https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors"/>
@@ -43,13 +43,13 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
-    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
-    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
-    <updated>2026-09-20T10:30:00.000Z</updated>
-    <author><name>Wired AI</name></author>
+    <title>Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems</title>
+    <link href="https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"/>
+    <id>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</id>
+    <updated>2026-09-20T12:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
+    <summary>Before recent high-profile hacks raised the specter of AI possibly &quot;killing all humans,&quot; our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. &quot;We were always prey. We were just kind of surviving at the appetite of our predators,&quot; Joshua Corman, executive in residence for pub</summary>
   </entry>
   <entry>
     <title>Remarks Before 12th Annual Government Enforcement Institute</title>
@@ -151,6 +151,15 @@
     <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
+    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
+    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
+    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
+    <updated>2026-09-20T10:30:00.000Z</updated>
+    <author><name>Wired AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
+  </entry>
+  <entry>
     <title>It’s Donald Trump Versus MAGA on Data Centers</title>
     <link href="https://www.wired.com/story/donald-trump-versus-maga-on-data-centers"/>
     <id>https://www.wired.com/story/donald-trump-versus-maga-on-data-centers</id>
@@ -158,15 +167,6 @@
     <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>The president has doubled down on data centers and AI. His base is running in the opposite direction.</summary>
-  </entry>
-  <entry>
-    <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
-    <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"/>
-    <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts</id>
-    <updated>2026-09-19T20:39:13.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Without buyouts, Flock would &quot;almost certainly&quot; need to lay off staff.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
