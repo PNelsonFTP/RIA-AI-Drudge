@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-20T00:57:57.768Z</updated>
-  <entry>
-    <title>Gemini went rogue, hacked three companies, and Google hid it</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</id>
-    <updated>2026-09-19T15:25:03.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol — Also covered by: FT Artificial Intelligence, WSJ Tech</summary>
-  </entry>
+  <updated>2026-09-20T06:01:13.569Z</updated>
   <entry>
     <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
     <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
@@ -23,6 +14,15 @@
     <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
     <summary>The president calls for federal oversight of the industry as opposition toward AI grows among voters. — Also covered by: FT Artificial Intelligence</summary>
+  </entry>
+  <entry>
+    <title>Gemini went rogue, hacked three companies, and Google hid it</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</id>
+    <updated>2026-09-19T15:25:03.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol — Also covered by: FT Artificial Intelligence</summary>
   </entry>
   <entry>
     <title>Anthropic Launches Claude For Financial Advisors</title>
@@ -95,6 +95,15 @@
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Burned Out and Unemployed, Young People in China Are Launching AI Startups</title>
+    <link href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology"/>
+    <id>https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology</id>
+    <updated>2026-09-20T03:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Last year, more than seven million new one-person companies were established in China.</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
@@ -232,22 +241,13 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>Trump to Name AI Czar While Rejecting Safety Risks as a Hoax</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax</id>
-    <updated>2026-09-19T18:02:53.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.</summary>
-  </entry>
-  <entry>
-    <title>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033</title>
-    <link href="https://www.fool.com/investing/2026/09/19/prediction-this-nvidia-backed-artificial-intellige"/>
-    <id>https://www.fool.com/investing/2026/09/19/prediction-this-nvidia-backed-artificial-intellige</id>
-    <updated>2026-09-19T17:45:00.000Z</updated>
+    <title>Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026?</title>
+    <link href="https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4698632/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-in-2026"/>
+    <id>https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4698632/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-in-2026</id>
+    <updated>2026-09-20T01:36:31.000Z</updated>
     <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
-    <summary>Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Motley Fool</summary>
+    <summary>Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026? theglobeandmail.com</summary>
   </entry>
   <entry>
     <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
