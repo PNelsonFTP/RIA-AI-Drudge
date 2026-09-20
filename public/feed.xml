@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-20T13:24:14.411Z</updated>
+  <updated>2026-09-20T13:32:12.007Z</updated>
   <entry>
     <title>Anthropic Launches Claude For Financial Advisors</title>
     <link href="https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors"/>
@@ -43,13 +43,13 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems</title>
-    <link href="https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"/>
-    <id>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</id>
-    <updated>2026-09-20T12:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
+    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
+    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
+    <updated>2026-09-20T10:30:00.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Before recent high-profile hacks raised the specter of AI possibly &quot;killing all humans,&quot; our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. &quot;We were always prey. We were just kind of surviving at the appetite of our predators,&quot; Joshua Corman, executive in residence for pub</summary>
+    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
   </entry>
   <entry>
     <title>Remarks Before 12th Annual Government Enforcement Institute</title>
@@ -124,13 +124,13 @@
     <summary>Google said Gemini had &quot;acted appropriately&quot; by ending each hack immediately.</summary>
   </entry>
   <entry>
-    <title>The $2.3 trillion horizon: How AI is rewriting the semiconductor story</title>
-    <link href="https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"/>
-    <id>https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story</id>
-    <updated>2026-09-18T05:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
+    <title>Advisors want more client time. Is AI actually giving it to them?</title>
+    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
+    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
+    <updated>2026-09-17T16:28:02.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="RESEARCH"/>
-    <summary>AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.</summary>
+    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
     <title>Jacobi Selected as Tech Solution for Aberdeen's Model Portfolio Service</title>
@@ -142,31 +142,13 @@
     <summary>Jacobi Inc. (2026, September 18). Jacobi selected by Aberdeen Portfolio Solutions Limited as a technology vendor to accelerate growth of its managed portfolio service. PR Newswire. https://www.prnewswire.com/news-releases/jacobi-selected-by-aberdeen-portfolio-solutions-limited-as-a-technology-vendor-to-accelerate-growt</summary>
   </entry>
   <entry>
-    <title>How the VFLO Index’s Free Cash Flow Screen Has Captured SaaS Resilience</title>
-    <link href="https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience"/>
-    <id>https://www.etftrends.com/free-cash-flow-content-hub/how-vflo-index-fcf-screen-captured-saas-resilience</id>
-    <updated>2026-09-18T19:09:37.000Z</updated>
-    <author><name>ETF Trends</name></author>
+    <title>AdvisorCRM Launches AdvisorCRM Studio to Help Advisors Build Custom Apps Without Coding</title>
+    <link href="https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding"/>
+    <id>https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding</id>
+    <updated>2026-09-15T22:37:39.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Despite fears that artificial intelligence (AI) will disrupt the software-as-a-service (SaaS) business model, the approach of VFLO’s Index, centered on a free cash flow (FCF) screen, shows that mature software leaders like Adobe (ADBE), Salesforce (CRM), and Intuit (INTU) have been generating strong FCF. Skeptics often</summary>
-  </entry>
-  <entry>
-    <title>Advisors want more client time. Is AI actually giving it to them?</title>
-    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
-    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
-    <updated>2026-09-17T16:28:02.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
-  </entry>
-  <entry>
-    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
-    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
-    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
-    <updated>2026-09-20T10:30:00.000Z</updated>
-    <author><name>Wired AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
+    <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
     <title>It’s Donald Trump Versus MAGA on Data Centers</title>
@@ -176,6 +158,15 @@
     <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>The president has doubled down on data centers and AI. His base is running in the opposite direction.</summary>
+  </entry>
+  <entry>
+    <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
+    <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"/>
+    <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts</id>
+    <updated>2026-09-19T20:39:13.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Without buyouts, Flock would &quot;almost certainly&quot; need to lay off staff.</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -274,6 +265,15 @@
     <updated>2026-09-20T08:55:56.000Z</updated>
     <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
-    <summary>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now. fool.com</summary>
+    <summary>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now. The Motley Fool</summary>
+  </entry>
+  <entry>
+    <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
+    <link href="https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price"/>
+    <id>https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price</id>
+    <updated>2026-09-16T21:47:52.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
   </entry>
 </feed>
