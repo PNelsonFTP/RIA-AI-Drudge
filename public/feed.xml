@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-20T06:01:13.569Z</updated>
+  <updated>2026-09-20T11:11:13.059Z</updated>
   <entry>
     <title>Trump Announces an ‘AI Force’ After Industry Sounded Alarm</title>
     <link href="https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f?mod=rss_Technology"/>
@@ -43,22 +43,22 @@
     <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
   </entry>
   <entry>
-    <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
-    <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"/>
-    <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts</id>
-    <updated>2026-09-19T20:39:13.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
+    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
+    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
+    <updated>2026-09-20T10:30:00.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Without buyouts, Flock would &quot;almost certainly&quot; need to lay off staff.</summary>
+    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
   </entry>
   <entry>
-    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
-    <updated>2026-09-18T14:40:06.000Z</updated>
-    <author><name>SEC Speeches</name></author>
+    <title>YNDX6516607 Bond Yield and Price — FINRA:YNDX6516607</title>
+    <link href="https://www.tradingview.com/symbols/FINRA-YNDX6516607"/>
+    <id>https://www.tradingview.com/symbols/FINRA-YNDX6516607</id>
+    <updated>2026-09-20T04:16:58.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>David Woodcock, Director, Division of Enforcement</summary>
+    <summary>YNDX6516607 Bond Yield and Price — FINRA:YNDX6516607 TradingView</summary>
   </entry>
   <entry>
     <title>UPI MDR could upend lending, wealth-tech economics</title>
@@ -97,13 +97,13 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Burned Out and Unemployed, Young People in China Are Launching AI Startups</title>
-    <link href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology"/>
-    <id>https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology</id>
-    <updated>2026-09-20T03:00:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now.</title>
+    <link href="https://www.fool.com/investing/2026/09/20/should-you-invest-in-an-anthropic-ipo-etf-what-inv"/>
+    <id>https://www.fool.com/investing/2026/09/20/should-you-invest-in-an-anthropic-ipo-etf-what-inv</id>
+    <updated>2026-09-20T08:55:56.000Z</updated>
+    <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
-    <summary>Last year, more than seven million new one-person companies were established in China.</summary>
+    <summary>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now. The Motley Fool</summary>
   </entry>
   <entry>
     <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
@@ -151,13 +151,31 @@
     <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
   </entry>
   <entry>
-    <title>Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
-    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"/>
-    <id>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</id>
-    <updated>2026-09-19T19:57:47.000Z</updated>
+    <title>It’s Donald Trump Versus MAGA on Data Centers</title>
+    <link href="https://www.wired.com/story/donald-trump-versus-maga-on-data-centers"/>
+    <id>https://www.wired.com/story/donald-trump-versus-maga-on-data-centers</id>
+    <updated>2026-09-20T10:30:00.000Z</updated>
+    <author><name>Wired AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The president has doubled down on data centers and AI. His base is running in the opposite direction.</summary>
+  </entry>
+  <entry>
+    <title>Flock reportedly tries to shrink workforce with employee buyouts</title>
+    <link href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"/>
+    <id>https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts</id>
+    <updated>2026-09-19T20:39:13.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Trump claimed, without evidence, that the AI backlash is a Democratic hoax.</summary>
+    <summary>Without buyouts, Flock would &quot;almost certainly&quot; need to lay off staff.</summary>
+  </entry>
+  <entry>
+    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
+    <updated>2026-09-18T14:40:06.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>David Woodcock, Director, Division of Enforcement</summary>
   </entry>
   <entry>
     <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
@@ -167,15 +185,6 @@
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
     <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
-  </entry>
-  <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
-    <author><name>SEC Speeches</name></author>
-    <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
     <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
@@ -205,15 +214,6 @@
     <summary>NASAA today announced that the waiver of Investment Adviser Registration Depository (IARD) system fees for state-registered investment adviser firms will continue through 2027, and the initial set-up and annual system fees for investment adviser representatives will remain unchanged at $15. The post NASAA Announces 202</summary>
   </entry>
   <entry>
-    <title>Hadrius AI Governance Selected by Ritholtz Wealth Management to Enable Firmwide Claude Deployment</title>
-    <link href="https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment"/>
-    <id>https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment</id>
-    <updated>2026-09-16T11:47:51.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Hadrius. (2026, September 15). Hadrius AI governance selected by Ritholtz Wealth Management to enable firmwide Claude deployment. PR Newswire. https://www.prnewswire.com/news-releases/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment-302878239.html Ritholtz Wealth Managem</summary>
-  </entry>
-  <entry>
     <title>How RIAs can build a practical AI compliance framework</title>
     <link href="https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework"/>
     <id>https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework</id>
@@ -221,6 +221,15 @@
     <author><name>GN: RIA AI</name></author>
     <category term="COMPLIANCE"/>
     <summary>How RIAs can build a practical AI compliance framework FinTech Global</summary>
+  </entry>
+  <entry>
+    <title>Hadrius AI Governance Selected by Ritholtz Wealth Management to Enable Firmwide Claude Deployment</title>
+    <link href="https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment"/>
+    <id>https://www.wealthtechstrategy.com/post/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment</id>
+    <updated>2026-09-16T11:47:51.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Hadrius. (2026, September 15). Hadrius AI governance selected by Ritholtz Wealth Management to enable firmwide Claude deployment. PR Newswire. https://www.prnewswire.com/news-releases/hadrius-ai-governance-selected-by-ritholtz-wealth-management-to-enable-firmwide-claude-deployment-302878239.html Ritholtz Wealth Managem</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
@@ -241,13 +250,22 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026?</title>
-    <link href="https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4698632/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-in-2026"/>
-    <id>https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4698632/applied-materials-vs-nvidia-which-tech-stock-is-a-better-buy-in-2026</id>
-    <updated>2026-09-20T01:36:31.000Z</updated>
+    <title>Burned Out and Unemployed, Young People in China Are Launching AI Startups</title>
+    <link href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology"/>
+    <id>https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?mod=rss_Technology</id>
+    <updated>2026-09-20T03:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Last year, more than seven million new one-person companies were established in China.</summary>
+  </entry>
+  <entry>
+    <title>Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stalls Have Ended 2 Ways.</title>
+    <link href="https://www.theglobeandmail.com/investing/markets/markets-news/motley/4699892/nvidia-stock-hasn-t-set-a-record-in-4-months-history-says-these-stalls-have-ended-2-ways"/>
+    <id>https://www.theglobeandmail.com/investing/markets/markets-news/motley/4699892/nvidia-stock-hasn-t-set-a-record-in-4-months-history-says-these-stalls-have-ended-2-ways</id>
+    <updated>2026-09-20T09:32:55.000Z</updated>
     <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
-    <summary>Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy in 2026? theglobeandmail.com</summary>
+    <summary>Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stalls Have Ended 2 Ways. The Globe and Mail</summary>
   </entry>
   <entry>
     <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
@@ -257,23 +275,5 @@
     <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
-  </entry>
-  <entry>
-    <title>T. Rowe Price: DC Consultants Move Past AI Indecision</title>
-    <link href="https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision"/>
-    <id>https://www.plansponsor.com/t-rowe-price-dc-consultants-move-past-ai-indecision</id>
-    <updated>2026-09-16T21:46:57.000Z</updated>
-    <author><name>PlanSponsor AI</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Only 14% of survey respondents said they were still evaluating how they could use artificial intelligence, down from 44% in 2025.</summary>
-  </entry>
-  <entry>
-    <title>Introducing the Australian Youth Safety Blueprint</title>
-    <link href="https://openai.com/index/australian-youth-safety-blueprint"/>
-    <id>https://openai.com/index/australian-youth-safety-blueprint</id>
-    <updated>2026-09-18T12:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.</summary>
   </entry>
 </feed>
