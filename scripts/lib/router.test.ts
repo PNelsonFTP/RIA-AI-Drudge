@@ -41,6 +41,24 @@ describe("trending lead quality", () => {
     assert.equal(lead.related.some((r) => r.source.startsWith("HN:")), true);
   });
 
+  it("prefers trade press over a vendor or wire twin within 10%", () => {
+    const wire = article({
+      title: "Envestnet launches AI platform",
+      url: "https://www.businesswire.com/envestnet-ai",
+      source: "Business Wire wealth AI",
+    });
+    const press = article({
+      title: "Envestnet launches AI platform for advisors",
+      url: "https://www.riabiz.com/envestnet-ai",
+      source: "RIABiz",
+    });
+    const lead = pickTrendingLead([
+      { article: { ...wire, vendor: true }, score: 100 },
+      { article: press, score: 92 },
+    ]);
+    assert.equal(lead.source, "RIABiz");
+  });
+
   it("keeps the aggregator when no press alternative is close", () => {
     const hn = article({ title: "only on HN", url: "https://news.ycombinator.com/item?id=2", source: "HN: AI (150+ points)" });
     const old = article({ title: "unrelated press", url: "https://example.com/old", source: "TechCrunch AI" });
@@ -86,6 +104,63 @@ describe("RIA-home lead preference", () => {
       assert.deepEqual(b.articlesAll, []);
       assert.equal(b.sourceCount, 0);
     }
+  });
+
+  it("ranks regulation above a fresher practice linkdump for the site lead", () => {
+    const now = new Date().toISOString();
+    const practice = article({
+      title: "Sunday links: the AI safety debate",
+      url: "https://abnormalreturns.com/sunday-links",
+      source: "Abnormal Returns",
+      category: "practice",
+      priority: "medium",
+      publishedAt: now,
+    });
+    const regulation = article({
+      title: "Remarks Before the Government Enforcement Institute",
+      url: "https://www.sec.gov/enforcement-remarks",
+      source: "SEC Speeches",
+      category: "regulation",
+      priority: "high",
+      publishedAt: now,
+    });
+    const { leadUrl } = buildCategories([practice, regulation]);
+    assert.equal(leadUrl, regulation.url);
+  });
+
+  it("keeps Shopify / NVIDIA Dreamforce out of vendor and advisor-tech columns", () => {
+    const now = new Date().toISOString();
+    const shopify = article({
+      title: "How Shopify and Meta are diving deeper into banking product launch",
+      url: "https://www.americanbanker.com/shopify-banking",
+      source: "American Banker AI",
+      category: "banking_fintech",
+      priority: "medium",
+      publishedAt: now,
+    });
+    const nvidia = article({
+      title: "NVIDIA Dreamforce keynote on AI agents",
+      url: "https://nvidianews.nvidia.com/dreamforce",
+      source: "TechCrunch AI",
+      category: "advisor_tech",
+      priority: "medium",
+      publishedAt: now,
+    });
+    const envestnet = article({
+      title: "Envestnet enhances wealth data platform with AI-driven advisor insights",
+      url: "https://www.envestnet.com/ai",
+      source: "Envestnet (vendor)",
+      category: "vendors",
+      priority: "medium",
+      publishedAt: now,
+      vendor: true,
+    });
+    const { buckets } = buildCategories([shopify, nvidia, envestnet]);
+    const vendors = buckets.find((b) => b.id === "vendors");
+    const tech = buckets.find((b) => b.id === "advisor_tech");
+    assert.equal(vendors?.articles.some((a) => /shopify/i.test(a.title)), false);
+    assert.equal(tech?.articles.some((a) => /dreamforce/i.test(a.title)), false);
+    assert.equal(vendors?.articles.some((a) => a.url === envestnet.url), true);
   });
 
   it("falls back to the highest-scoring story when no RIA-home candidate exists", () => {

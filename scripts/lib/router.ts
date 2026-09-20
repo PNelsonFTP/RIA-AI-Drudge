@@ -29,10 +29,19 @@ export const KEYWORD_AGNOSTIC_SOURCES = new Set([
 
 // Aggregator titles are often repo names or terse HN posts. Prefer a press
 // headline as the trending lead when one exists within ~10% of the top score.
+const WIRE_SOURCE = /business\s*wire|pr\s*newswire|globenewswire/i;
+
 export function isAggregatorSource(name: string): boolean {
   if (KEYWORD_AGNOSTIC_SOURCES.has(name)) return true;
   if (name.startsWith("HN:") || name.startsWith("GN:")) return true;
   if (name.includes("Google News") || name.includes("Subreddit")) return true;
+  return false;
+}
+
+function isWeakTrendingMember(article: GroupedArticle): boolean {
+  if (isAggregatorSource(article.source)) return true;
+  if (article.vendor) return true;
+  if (WIRE_SOURCE.test(article.source)) return true;
   return false;
 }
 
@@ -44,6 +53,34 @@ export const RIA_HOME_CATEGORIES = new Set<CategoryId>([
   "practice",
   "compliance",
 ]);
+
+const RIA_LEAD_RANK: Record<string, number> = {
+  regulation: 5,
+  advisor_tech: 4,
+  wealthtech: 3,
+  compliance: 2,
+  practice: 1,
+};
+
+const VENDOR_JUNK = /shopify|pteverywhere|pt everywhere|dreamforce|\bmarine\b|boating/i;
+const VENDOR_TOPIC = /wealth|advisor|ria\b|envestnet|orion|emoney|docupace|altruist|tifin|practifi|wealthbox|registered investment|estate plan|model portfolio/i;
+
+function allowInBucket(article: Article, categoryId: CategoryId): boolean {
+  const hay = `${article.title} ${article.summary ?? ""} ${article.source}`;
+  if (categoryId === "vendors") {
+    if (VENDOR_JUNK.test(hay)) return false;
+    if (/\bnvidia\b/i.test(hay) && !VENDOR_TOPIC.test(hay)) return false;
+    if (article.vendor || article.source.includes("(vendor)") || article.category === "vendors") {
+      return true;
+    }
+    return VENDOR_TOPIC.test(hay);
+  }
+  if (categoryId === "advisor_tech") {
+    if (/dreamforce|pteverywhere|pt everywhere/i.test(hay)) return false;
+    if (/\bnvidia\b/i.test(hay) && !VENDOR_TOPIC.test(hay)) return false;
+  }
+  return true;
+}
 
 function toPlain(g: GroupedArticle): Article {
   const { related: _related, ...plain } = g;
@@ -59,7 +96,7 @@ export function pickTrendingLead(
   const sorted = [...members].sort((a, b) => b.score - a.score);
   const top = sorted[0];
   const threshold = top.score * 0.9;
-  const press = sorted.find((m) => !isAggregatorSource(m.article.source) && m.score >= threshold);
+  const press = sorted.find((m) => !isWeakTrendingMember(m.article) && m.score >= threshold);
   const chosen = press?.article ?? top.article;
   const others = members.map((m) => m.article).filter((a) => a.url !== chosen.url);
   const seen = new Set<string>([chosen.url]);
@@ -210,7 +247,7 @@ export function buildCategories(
   }>();
 
   // #7: among <72h articles, prefer an RIA-home story over industry/labs.
-  let riaLead: { url: string; score: number } | null = null;
+  let riaLead: { url: string; score: number; rank: number } | null = null;
   let anyLead: { url: string; score: number } | null = null;
 
   for (const meta of CATEGORIES) {
@@ -220,6 +257,7 @@ export function buildCategories(
     const inCat: ScoredArticle[] = [];
     for (const { article, cats } of routed) {
       if (!cats.has(meta.id)) continue;
+      if (!allowInBucket(article, meta.id)) continue;
       // #3: drop items older than the hard age window.
       const ageH = ageHours(article.publishedAt, now);
       if (ageH > window.hardDays * 24) continue;
@@ -260,7 +298,10 @@ export function buildCategories(
     const top = filled.slice(0, cap);
 
     // Group same-story (Jaccard) within the category.
-    const grouped: GroupedArticle[] = groupStories(top.map((s) => s.article));
+    const grouped: GroupedArticle[] = groupStories(
+      top.map((s) => s.article),
+      new Map(top.map((s) => [s.article.url, s.score])),
+    );
 
     // Re-sort grouped by the lead article's score (grouping may have reordered).
     const scoreByTitle = new Map(top.map((s) => [s.article.title, s.score]));
@@ -297,8 +338,11 @@ export function buildCategories(
       // #7: track lead candidates (must be < 72h). RIA-home wins the site lead.
       if (ageH <= 72) {
         if (!anyLead || score > anyLead.score) anyLead = { url: g.url, score };
-        if (RIA_HOME_CATEGORIES.has(g.category) && (!riaLead || score > riaLead.score)) {
-          riaLead = { url: g.url, score };
+        if (RIA_HOME_CATEGORIES.has(g.category)) {
+          const rank = RIA_LEAD_RANK[g.category] ?? 0;
+          if (!riaLead || rank > riaLead.rank || (rank === riaLead.rank && score > riaLead.score)) {
+            riaLead = { url: g.url, score, rank };
+          }
         }
       }
 
@@ -353,6 +397,9 @@ export function buildCategories(
   }
   trending.sort((a, b) => {
     if (b.sources.size !== a.sources.size) return b.sources.size - a.sources.size;
+    const aRia = RIA_HOME_CATEGORIES.has(a.lead.category) ? 1 : 0;
+    const bRia = RIA_HOME_CATEGORIES.has(b.lead.category) ? 1 : 0;
+    if (bRia !== aRia) return bRia - aRia;
     return b.maxScore - a.maxScore;
   });
   const trendingOut: TrendingStory[] = trending.slice(0, 12).map((s) => ({

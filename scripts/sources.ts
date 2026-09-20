@@ -67,17 +67,15 @@ export const AI_FILTER = [
   "ai",
 ];
 
-/** SEC / NASAA: AI plus exam/enforcement/adviser signal — not a full firehose. */
+/** SEC / NASAA: AI plus exam/enforcement — not every adviser-admin headline. */
 export const SUPERVISION_FILTER = [
   ...AI_FILTER,
   "examination",
   "exam priority",
   "exams",
   "enforcement",
-  "adviser",
-  "advisor",
-  "ria",
   "ai-washing",
+  "ai washing",
   "form adv",
   "model risk",
   "supervision",
@@ -170,8 +168,8 @@ export const SOURCES: FeedSource[] = [
   { name: "EBA News", url: "https://www.eba.europa.eu/news-press/news/rss.xml", category: "regulation", priority: "medium", requireAny: AI_FILTER },
   { name: "Bank of England", url: "https://www.bankofengland.co.uk/rss/news", category: "regulation", priority: "medium", requireAny: AI_FILTER },
   { name: "EU AI Act tracker", url: "https://artificialintelligenceact.eu/feed/", category: "regulation", priority: "high" },
-  { name: "GN: FINRA AI", url: "https://news.google.com/rss/search?q=FINRA+%22artificial+intelligence%22+OR+%22generative+AI%22&hl=en-US&gl=US&ceid=US:en", category: "regulation", priority: "high" },
-  { name: "GN: SEC AI", url: "https://news.google.com/rss/search?q=SEC+(AI-washing+OR+%22artificial+intelligence%22+advisor+OR+RIA)&hl=en-US&gl=US&ceid=US:en", category: "regulation", priority: "high" },
+  { name: "GN: FINRA AI", url: "https://news.google.com/rss/search?q=FINRA+%22artificial+intelligence%22+OR+%22generative+AI%22&hl=en-US&gl=US&ceid=US:en", category: "regulation", priority: "high", requireAny: AI_FILTER },
+  { name: "GN: SEC AI", url: "https://news.google.com/rss/search?q=SEC+(AI-washing+OR+%22artificial+intelligence%22+advisor+OR+RIA)&hl=en-US&gl=US&ceid=US:en", category: "regulation", priority: "high", requireAny: AI_FILTER },
 
   // ── Institutional (tier 5) ────────────────────────────────────────────
   { name: "PlanSponsor AI", url: "https://www.plansponsor.com/tag/artificial-intelligence/feed/", category: "institutional", priority: "medium" },

@@ -242,19 +242,31 @@ export default function App() {
 
   const filteredTrending = useMemo(() => {
     if (!headlines) return [];
-    return headlines.trending.filter((s) => {
-      const a = s.lead;
-      if (mutedSources.has(a.source)) return false;
-      if (mutedCategories.has(a.category)) return false;
-      if (s.categoryIds.some((id) => mutedCategories.has(id))) return false;
-      if (!searchLc) return true;
+    return headlines.trending.flatMap((s) => {
+      const members = [s.lead, ...s.lead.related];
+      const visibleMembers = members.filter((a) => {
+        if (mutedSources.has(a.source)) return false;
+        if (mutedCategories.has(a.category)) return false;
+        return true;
+      });
+      if (visibleMembers.length === 0) return [];
+      const leadArt = visibleMembers[0];
+      const lead: GroupedArticle = {
+        ...leadArt,
+        related: visibleMembers.slice(1),
+      };
+      if (mutedCategories.has(lead.category)) return [];
+      const sources = s.sources.filter((src) => !mutedSources.has(src));
+      if (!searchLc) {
+        return [{ ...s, lead, sources, sourceCount: sources.length }];
+      }
       const labels = s.categoryIds
         .map((id) => categoryLabelsById[id] ?? id)
         .join(" ");
-      return (
-        matchesSearch(a, searchLc, labels) ||
-        s.sources.some((src) => src.toLowerCase().includes(searchLc))
-      );
+      const hit =
+        matchesSearch(lead, searchLc, labels) ||
+        sources.some((src) => src.toLowerCase().includes(searchLc));
+      return hit ? [{ ...s, lead, sources, sourceCount: sources.length }] : [];
     });
   }, [headlines, mutedSources, mutedCategories, searchLc, categoryLabelsById]);
 
@@ -263,7 +275,17 @@ export default function App() {
     if (brief.citedArticles.length === 0) return brief;
     const cited = brief.citedArticles.filter((c) => !mutedSources.has(c.source));
     if (cited.length === 0) return null;
-    return { ...brief, citedArticles: cited };
+    const mutedTitles = brief.citedArticles
+      .filter((c) => mutedSources.has(c.source))
+      .map((c) => c.title.toLowerCase());
+    const bullets = brief.bullets.filter(
+      (b) => !mutedTitles.some((t) => b.toLowerCase().includes(t)),
+    );
+    let headline = brief.headline;
+    if (mutedTitles.some((t) => headline.toLowerCase().includes(t))) {
+      headline = `Today's top RIA AI story: ${cited[0].title}`;
+    }
+    return { ...brief, headline, bullets, citedArticles: cited };
   }, [brief, mutedSources]);
 
   // #14: flatten filtered categories for the LATEST strip.

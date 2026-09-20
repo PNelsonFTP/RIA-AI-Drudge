@@ -44,15 +44,22 @@ function isWeakClusterLead(a: Article): boolean {
   return false;
 }
 
-function pickClusterLead(members: Article[]): Article {
-  const preferred = members.filter((m) => !isWeakClusterLead(m));
+function pickClusterLead(members: Article[], scores?: Map<string, number>): Article {
+  const scoreOf = (a: Article) => scores?.get(a.url) ?? publishedMs(a);
+  const max = Math.max(...members.map(scoreOf));
+  const threshold = max * 0.9;
+  const preferred = members.filter((m) => !isWeakClusterLead(m) && scoreOf(m) >= threshold);
   const pool = preferred.length > 0 ? preferred : members;
-  return [...pool].sort((a, b) => publishedMs(b) - publishedMs(a))[0] ?? members[0];
+  return [...pool].sort((a, b) => {
+    const ds = scoreOf(b) - scoreOf(a);
+    if (ds !== 0) return ds;
+    return publishedMs(b) - publishedMs(a);
+  })[0] ?? members[0];
 }
 
 // Greedy clustering: process articles newest-first, then re-pick the lead
-// so trade press beats Business Wire / GN twins of the same story.
-export function groupStories(articles: Article[]): GroupedArticle[] {
+// so trade press beats Business Wire / GN twins when scores are within ~10%.
+export function groupStories(articles: Article[], scores?: Map<string, number>): GroupedArticle[] {
   const sorted = [...articles].sort((a, b) => publishedMs(b) - publishedMs(a));
 
   const clusters: { members: Article[]; tokens: Set<string> }[] = [];
@@ -76,7 +83,7 @@ export function groupStories(articles: Article[]): GroupedArticle[] {
   }
 
   return clusters.map((c) => {
-    const lead = pickClusterLead(c.members);
+    const lead = pickClusterLead(c.members, scores);
     const related = c.members.filter((m) => m.url !== lead.url);
     return { ...lead, related };
   });
