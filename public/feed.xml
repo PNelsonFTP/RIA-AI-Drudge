@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-21T06:07:51.043Z</updated>
+  <updated>2026-09-21T13:55:01.672Z</updated>
   <entry>
     <title>Anthropic Launches Claude for Financial Advisors, Taking Aim at Wealth Management</title>
     <link href="https://finance.biggo.com/news/2313bdb4-d8f2-413c-b227-0efe4e010463"/>
@@ -43,31 +43,40 @@
     <summary>Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>WealthTech Safari — Week of September 18, 2026</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026</id>
-    <updated>2026-09-20T18:03:02.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
+    <title>AI chatbots give wrong financial answers most of the time, study finds</title>
+    <link href="https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267"/>
+    <id>https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267</id>
+    <updated>2026-09-21T10:35:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Charles Schwab and Anthropic bring Claude to 16,000 independent RIAs Schwab Advisor Services partnered with Anthropic to deliver Claude for Financial Advisors to more than 16,000 registered investment advisors, with authenticated access to Schwab Advisor Center inside Claude and integrations across CRM, custody, portfo</summary>
+    <summary>Major AI models failed to correctly answer financial questions in 57% of cases, new research shows, raising serious questions about consumer reliance on AI tools.</summary>
   </entry>
   <entry>
-    <title>China slows humanoid robot IPO rush as hype outruns reality</title>
-    <link href="https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21"/>
-    <id>https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21</id>
-    <updated>2026-09-21T03:37:53.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>How we made the first comprehensive map of deaths along the US border’s “virtual wall”</title>
+    <link href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology"/>
+    <id>https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology</id>
+    <updated>2026-09-21T12:00:00.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>China slows humanoid robot IPO rush as hype outruns reality Reuters</summary>
+    <summary>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Die</summary>
   </entry>
   <entry>
-    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
-    <updated>2026-09-18T14:40:06.000Z</updated>
-    <author><name>SEC Speeches</name></author>
+    <title>Manual AI disclaimers won’t survive EU AI Act scrutiny</title>
+    <link href="https://fintech.global/2026/09/21/manual-ai-disclaimers-wont-survive-eu-ai-act-scrutiny"/>
+    <id>https://fintech.global/2026/09/21/manual-ai-disclaimers-wont-survive-eu-ai-act-scrutiny</id>
+    <updated>2026-09-21T09:20:07.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="REGULATION"/>
-    <summary>David Woodcock, Director, Division of Enforcement</summary>
+    <summary>The EU AI Act is no longer a distant regulatory milestone, it is an active compliance obligation. Prohibitions took effect from February 2025, transparency rules are being phased in through 2026, and enforcement bodies are already operational. According to Theta Lake, for organisations that have rolled out AI-powered c</summary>
+  </entry>
+  <entry>
+    <title>This Time It’s Different. Or Is It?</title>
+    <link href="https://www.wealthsolutionsreport.com/this-time-its-different-or-is-it"/>
+    <id>https://www.wealthsolutionsreport.com/this-time-its-different-or-is-it</id>
+    <updated>2026-09-21T12:05:10.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Four Wealthtech Executives Assess What Claude For Financial Advisors Means For Firms Already Serving Wealth Management</summary>
   </entry>
   <entry>
     <title>Q&amp;A: State Street Goes Live With Custody Offering</title>
@@ -79,13 +88,13 @@
     <summary>Britton, D. (2026, September 17). Q&amp;A: State Street goes live with custody offering. WealthManagement.com. https://www.wealthmanagement.com/ria-news/state-street-launches-new-ria-custody-business State Street went live this week with State Street Wealth Services, a new RIA clearing and custody business that the firm is</summary>
   </entry>
   <entry>
-    <title>September 2026 Vendor Management News</title>
-    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
-    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
-    <updated>2026-09-17T06:00:00.000Z</updated>
-    <author><name>Ncontracts Nsight (vendor)</name></author>
+    <title>Curvestone named OpenAI Select Partner</title>
+    <link href="https://fintech.global/2026/09/21/curvestone-named-openai-select-partner"/>
+    <id>https://fintech.global/2026/09/21/curvestone-named-openai-select-partner</id>
+    <updated>2026-09-21T11:09:10.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
+    <summary>Curvestone, an AI compliance platform for regulated financial services, has been named an OpenAI Select Partner, strengthening its work to automate regulatory checks for UK mortgage, lending and advice firms. The company has joined the OpenAI Partner Network, a global programme supporting organisations that build, sell</summary>
   </entry>
   <entry>
     <title>How acquirers are commercialising fraud intelligence</title>
@@ -97,13 +106,13 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Lex in depth: Anthropic at $2tn isn’t far-fetched</title>
-    <link href="https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1</id>
-    <updated>2026-09-21T04:00:11.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Trust in Leadership Proves Latest Challenge for Corporate AI Ambitions</title>
+    <link href="https://www.wsj.com/cio-journal/trust-in-leadership-proves-latest-challenge-for-corporate-ai-ambitions-55b779a4?mod=rss_Technology"/>
+    <id>https://www.wsj.com/cio-journal/trust-in-leadership-proves-latest-challenge-for-corporate-ai-ambitions-55b779a4?mod=rss_Technology</id>
+    <updated>2026-09-21T12:44:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>There are several ways to crack the valuation nut. Some suggest the company may be worth far more</summary>
+    <summary>Plus: Gemini Hacked Three Companies in First Known Breakout; Trump says he’s launching an ‘AI Force’.</summary>
   </entry>
   <entry>
     <title>Risk managers go softly-softly on AI adoption</title>
@@ -115,13 +124,22 @@
     <summary>ERM teams still in testing mode for most AI use cases, latest Risk Benchmarking study shows</summary>
   </entry>
   <entry>
-    <title>Anthropic Mulls New AI Model Despite Investors’ Pre-IPO Worries</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-mulls-new-ai-model-amid-investors-pre-ipo-worries"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-mulls-new-ai-model-amid-investors-pre-ipo-worries</id>
-    <updated>2026-09-20T22:03:10.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Anthropic is reportedly considering the launch of a new artificial intelligence model before it goes public. That’s according to a Friday (Sept. 18) report by Reuters, citing three sources familiar with the matter. The report noted that a new AI model could offset the momentum OpenAI has enjoyed since debuting its GPT-</summary>
+    <title>Artificial Intelligence at Cleveland Clinic</title>
+    <link href="https://emerj.com/artificial-intelligence-at-cleveland-clinic"/>
+    <id>https://emerj.com/artificial-intelligence-at-cleveland-clinic</id>
+    <updated>2026-09-21T10:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>Cleveland Clinic is a nonprofit academic medical center headquartered in Cleveland, Ohio, with operations in Florida, Las Vegas, Toronto, London, and Abu Dhabi. The health system employs 83,000 caregivers and operates 23 hospitals and 300 outpatient facilities.​ In 2025, Cleveland Clinic reported $18.3 billion in opera</summary>
+  </entry>
+  <entry>
+    <title>WealthTech Safari — Week of September 18, 2026</title>
+    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026"/>
+    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026</id>
+    <updated>2026-09-20T18:03:02.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Charles Schwab and Anthropic bring Claude to 16,000 independent RIAs Schwab Advisor Services partnered with Anthropic to deliver Claude for Financial Advisors to more than 16,000 registered investment advisors, with authenticated access to Schwab Advisor Center inside Claude and integrations across CRM, custody, portfo</summary>
   </entry>
   <entry>
     <title>Advisors want more client time. Is AI actually giving it to them?</title>
@@ -129,62 +147,44 @@
     <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
     <updated>2026-09-17T16:28:02.000Z</updated>
     <author><name>Financial Planning</name></author>
-    <category term="RESEARCH"/>
+    <category term="ADVISOR TECH"/>
     <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
-    <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
-    <link href="https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248"/>
-    <id>https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248</id>
-    <updated>2026-09-17T20:45:14.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
-  </entry>
-  <entry>
-    <title>Australia's Telix Pharma agrees to buy Germany's ITM Isotope for about $1.65 billion</title>
-    <link href="https://www.reuters.com/legal/transactional/australias-telix-pharma-agrees-buy-germanys-itm-isotope-about-165-billion-2026-09-20"/>
-    <id>https://www.reuters.com/legal/transactional/australias-telix-pharma-agrees-buy-germanys-itm-isotope-about-165-billion-2026-09-20</id>
-    <updated>2026-09-20T23:01:00.000Z</updated>
+    <title>India's NSE IPO draws over $10 billion, traders eye modest listing pop</title>
+    <link href="https://www.reuters.com/world/india/indias-nse-ipo-draws-10-billion-bids-2026-09-21"/>
+    <id>https://www.reuters.com/world/india/indias-nse-ipo-draws-10-billion-bids-2026-09-21</id>
+    <updated>2026-09-21T13:21:48.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Australia's Telix Pharma agrees to buy Germany's ITM Isotope for about $1.65 billion Reuters</summary>
+    <summary>India's NSE IPO draws over $10 billion, traders eye modest listing pop Reuters</summary>
   </entry>
   <entry>
-    <title>6 days left to save up to $200 to TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026"/>
-    <id>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026</id>
-    <updated>2026-09-20T21:41:08.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>The US spent billions on border surveillance. Why can’t it catch people before they die?</title>
+    <link href="https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation"/>
+    <id>https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation</id>
+    <updated>2026-09-21T12:00:00.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.</summary>
+    <summary>When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newl</summary>
   </entry>
   <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
+    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
+    <updated>2026-09-18T14:40:06.000Z</updated>
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
+    <summary>David Woodcock, Director, Division of Enforcement</summary>
   </entry>
   <entry>
-    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
-    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
-    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
-    <updated>2026-09-18T21:20:12.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
+    <title>NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection</title>
+    <link href="https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection"/>
+    <id>https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection</id>
+    <updated>2026-09-18T13:49:52.000Z</updated>
+    <author><name>NASAA</name></author>
     <category term="REGULATION"/>
-    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
-  </entry>
-  <entry>
-    <title>UPI MDR could upend lending, wealth-tech economics</title>
-    <link href="https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP"/>
-    <id>https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP</id>
-    <updated>2026-09-19T10:32:45.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>UPI MDR could upend lending, wealth-tech economics The Arc Web</summary>
+    <summary>The post NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection appeared first on NASAA .</summary>
   </entry>
   <entry>
     <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
@@ -205,6 +205,15 @@
     <summary>Markets How bond math works with ~5% yields (awealthofcommonsense.com) How to structure a bond portfolio, especially if you don't know where interest rates are headed. (humbledollar.com) Bonds are now investable. (dampedspring101.substack.com) Berkshire Hathaway Howard Buffett is now the chairman of Berkshire Hathaway </summary>
   </entry>
   <entry>
+    <title>September 2026 Vendor Management News</title>
+    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
+    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
+    <updated>2026-09-17T06:00:00.000Z</updated>
+    <author><name>Ncontracts Nsight (vendor)</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
+  </entry>
+  <entry>
     <title>How RIAs can build a practical AI compliance framework</title>
     <link href="https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework"/>
     <id>https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework</id>
@@ -212,15 +221,6 @@
     <author><name>GN: RIA AI</name></author>
     <category term="COMPLIANCE"/>
     <summary>How RIAs can build a practical AI compliance framework FinTech Global</summary>
-  </entry>
-  <entry>
-    <title>AI in Finance and Banking, September 15, 2026</title>
-    <link href="https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026"/>
-    <id>https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026</id>
-    <updated>2026-09-15T16:12:57.000Z</updated>
-    <author><name>LLRX</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>This semi-monthly column by Sabrina I. Pacifici highlights news, government documents, NGO/IGO papers, books, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
@@ -241,22 +241,22 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>BlackRock's Vavrek: AI Hardware to Drive EM</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-21/blackrock-s-vavrek-ai-hardware-to-drive-em-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-21/blackrock-s-vavrek-ai-hardware-to-drive-em-video</id>
-    <updated>2026-09-21T03:44:23.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Egon Vavrek, Head of Emerging Markets at BlackRock, says AI hardware and the &quot;picks-and-shovels&quot; players serving hyperscalers will carry emerging markets forward. He spoke on the sidelines of the BofA APAC Conference in Hong Kong. (Source: Bloomberg)</summary>
-  </entry>
-  <entry>
-    <title>T. Rowe Fund Targets Chinese Winners of Booming AI Supply Chain</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-21/t-rowe-fund-targets-chinese-winners-of-booming-ai-supply-chain"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-21/t-rowe-fund-targets-chinese-winners-of-booming-ai-supply-chain</id>
-    <updated>2026-09-21T03:55:56.000Z</updated>
+    <title>Google Rolls Out $899-Plus Googlebooks from Dell, HP, Lenovo, Acer, ASUS</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus</id>
+    <updated>2026-09-21T13:00:02.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>A top-performing T. Rowe Price fund is ramping up bets on Greater China companies lower down the AI supply chain, betting the region’s investment cycle still has room to catch up with global trends.</summary>
+    <summary>Alphabet Inc.’s Google announced pricing and hardware specifications for the first so-called Googlebooks, marking a push into a high-end laptop market where built-in artificial intelligence features have become the norm.</summary>
+  </entry>
+  <entry>
+    <title>Stocks Rise as US, China Hail Positive Talks Ahead of Trump-Xi Summit</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-21/bloomberg-brief-09-21-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-21/bloomberg-brief-09-21-2026-video</id>
+    <updated>2026-09-21T11:52:58.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Global stocks rally as markets look ahead to President Xi Jinping's visit to Washington later in the week. US Treasury Secretary Scott Bessent and China's top trade negotiators tout positive talks around AI, trade and investment over the weekend. Oil extends its decline for a fourth consecutive day, while US retail die</summary>
   </entry>
   <entry>
     <title>AI in finance must be policed differently</title>
