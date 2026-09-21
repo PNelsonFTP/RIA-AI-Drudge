@@ -5,51 +5,33 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-20T13:41:52.397Z</updated>
+  <updated>2026-09-21T17:42:37.567Z</updated>
   <entry>
-    <title>Anthropic Launches Claude For Financial Advisors</title>
-    <link href="https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors"/>
-    <id>https://www.wealthsolutionsreport.com/anthropic-launches-claude-for-financial-advisors</id>
-    <updated>2026-09-16T14:53:06.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
-    <category term="REGULATION"/>
-    <summary>AI Tool Suite Connects Advisor Technology And Adds Workflow Skills As Dynasty Builds A Broader AI System On Claude. — Also covered by: GN: FINRA AI</summary>
-  </entry>
-  <entry>
-    <title>Trump announces ‘AI Force’ as alarm grows over technology’s advance</title>
-    <link href="https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1</id>
-    <updated>2026-09-19T19:49:31.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>US president has resisted calls for regulation but said he would appoint a ‘tsar’ to monitor for ‘bad’ behaviour — Also covered by: WSJ Tech</summary>
-  </entry>
-  <entry>
-    <title>Gemini went rogue, hacked three companies, and Google hid it</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack</id>
-    <updated>2026-09-19T15:25:03.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Amazon Blocks Meta’s Muse AI Agent From Its Retail Site</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site</id>
+    <updated>2026-09-21T15:13:34.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents invol — Also covered by: FT Artificial Intelligence</summary>
+    <summary>Amazon.com Inc. has blocked Meta Platforms Inc.’s new artificial intelligence agent from its retail site after the social media company declined a request to remove the bot. — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Advisors get the keys: AdvisorCRM and Zeplyn let firms build their own AI tools</title>
-    <link href="https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248"/>
-    <id>https://www.investmentnews.com/fintech/advisors-get-the-keys-advisorcrm-and-zeplyn-let-firms-build-their-own-ai-tools/268248</id>
-    <updated>2026-09-17T20:45:14.000Z</updated>
+    <title>AI chatbots give wrong financial answers most of the time, study finds</title>
+    <link href="https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267"/>
+    <id>https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267</id>
+    <updated>2026-09-21T10:35:00.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Two wealthtech providers are handing advisors the controls, letting firms design their own workflows and AI agents in plain language.</summary>
+    <summary>Major AI models failed to correctly answer financial questions in 57% of cases, new research shows, raising serious questions about consumer reliance on AI tools.</summary>
   </entry>
   <entry>
-    <title>Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems</title>
-    <link href="https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure"/>
-    <id>https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure</id>
-    <updated>2026-09-20T12:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026</title>
+    <link href="https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026"/>
+    <id>https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026</id>
+    <updated>2026-09-21T14:30:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Before recent high-profile hacks raised the specter of AI possibly &quot;killing all humans,&quot; our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. &quot;We were always prey. We were just kind of surviving at the appetite of our predators,&quot; Joshua Corman, executive in residence for pub</summary>
+    <summary>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.</summary>
   </entry>
   <entry>
     <title>Remarks Before 12th Annual Government Enforcement Institute</title>
@@ -61,22 +43,21 @@
     <summary>David Woodcock, Director, Division of Enforcement</summary>
   </entry>
   <entry>
-    <title>UPI MDR could upend lending, wealth-tech economics</title>
-    <link href="https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP"/>
-    <id>https://www.thearcweb.com/article/upi-mdr-npci-lending-wealthtech-eXjHHnC7ZMh7EIcP</id>
-    <updated>2026-09-19T10:32:45.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>To Get a Piece of Anthropic, Retail Investors Are Open to Big Risks</title>
+    <link href="https://www.wealthmanagement.com/equities/to-get-a-piece-of-anthropic-retail-investors-are-open-to-big-risks"/>
+    <id>https://www.wealthmanagement.com/equities/to-get-a-piece-of-anthropic-retail-investors-are-open-to-big-risks</id>
+    <updated>2026-09-21T15:00:12.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>UPI MDR could upend lending, wealth-tech economics The Arc Web</summary>
   </entry>
   <entry>
-    <title>Sunday links: the AI safety debate</title>
-    <link href="https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate"/>
-    <id>https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate</id>
-    <updated>2026-09-20T12:00:11.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>Papal envoy plans to visit Russia in late September, RIA says</title>
+    <link href="https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21"/>
+    <id>https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21</id>
+    <updated>2026-09-21T13:54:31.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets How bond math works with ~5% yields (awealthofcommonsense.com) How to structure a bond portfolio, especially if you don't know where interest rates are headed. (humbledollar.com) Bonds are now investable. (dampedspring101.substack.com) Berkshire Hathaway Howard Buffett is now the chairman of Berkshire Hathaway </summary>
+    <summary>Papal envoy plans to visit Russia in late September, RIA says Reuters</summary>
   </entry>
   <entry>
     <title>September 2026 Vendor Management News</title>
@@ -97,31 +78,58 @@
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Marsh CEO Says Geopolitics Tops CEO Risks</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-20/marsh-ceo-says-geopolitics-tops-ceo-risks-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-20/marsh-ceo-says-geopolitics-tops-ceo-risks-video</id>
-    <updated>2026-09-20T13:03:25.000Z</updated>
+    <title>AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar</id>
+    <updated>2026-09-21T15:36:44.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Marsh CEO &amp; President John Doyle says geopolitical tensions and their impact on trade and supply chains are among the biggest concerns facing corporate leaders, while emerging technology is adding to cyber threats. Doyle also tells Bloomberg This Weekend hosts David Gura and Christina Ruffini that AI offers significant</summary>
+    <summary>Advanced Micro Devices Inc. shares jumped Monday, putting the company on track to close above $1 trillion in market value for the first time amid renewed optimism for chipmakers necessary to power artificial intelligence.</summary>
   </entry>
   <entry>
-    <title>BlackRock MyMap's Chris Ellis Thomas: Three ways to invest in AI trade's second act</title>
-    <link href="https://www.investmentweek.co.uk/opinion/4535685/blackrock-mymaps-chris-ellis-thomas-invest-ai-trades-act"/>
-    <id>https://www.investmentweek.co.uk/opinion/4535685/blackrock-mymaps-chris-ellis-thomas-invest-ai-trades-act</id>
-    <updated>2026-09-18T07:20:35.000Z</updated>
-    <author><name>Investment Week</name></author>
+    <title>Risk managers go softly-softly on AI adoption</title>
+    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964124/risk-managers-go-softly-softly-on-ai-adoption"/>
+    <id>https://www.risk.net/benchmarking/enterprise-risk/7964124/risk-managers-go-softly-softly-on-ai-adoption</id>
+    <updated>2026-09-21T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>After several years of debate over whether AI’s potential was being overstated or whether we were witnessing the emergence of a genuinely transformational technology, it is now increasingly clear large language models (LLMs) represent a meaningful leap forward.</summary>
+    <summary>ERM teams still in testing mode for most AI use cases, latest Risk Benchmarking study shows</summary>
   </entry>
   <entry>
-    <title>Google’s Gemini is the latest AI model to hack other companies</title>
-    <link href="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies"/>
-    <id>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies</id>
-    <updated>2026-09-19T17:30:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Building standards for the next phase of AI</title>
+    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
+    <id>https://openai.com/index/building-standards-next-phase-ai</id>
+    <updated>2026-09-21T10:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Google said Gemini had &quot;acted appropriately&quot; by ending each hack immediately.</summary>
+    <summary>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</summary>
+  </entry>
+  <entry>
+    <title>Artificial Intelligence at Cleveland Clinic</title>
+    <link href="https://emerj.com/artificial-intelligence-at-cleveland-clinic"/>
+    <id>https://emerj.com/artificial-intelligence-at-cleveland-clinic</id>
+    <updated>2026-09-21T10:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>Cleveland Clinic is a nonprofit academic medical center headquartered in Cleveland, Ohio, with operations in Florida, Las Vegas, Toronto, London, and Abu Dhabi. The health system employs 83,000 caregivers and operates 23 hospitals and 300 outpatient facilities.​ In 2025, Cleveland Clinic reported $18.3 billion in opera</summary>
+  </entry>
+  <entry>
+    <title>$, -</title>
+    <link href="https://www.wealthtechstrategy.com/post/crowwd-raises-260-000-in-pre-seed-round"/>
+    <id>https://www.wealthtechstrategy.com/post/crowwd-raises-260-000-in-pre-seed-round</id>
+    <updated>2026-09-21T15:33:05.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Crowwd, a New Delhi based wealth-tech platform, has raised $260,000 in a pre-seed round from more than 30 investors at an approximate valuation of $5.2 million. Backers include Dr Ritesh Malik, founder of Innov8, Three Words Capital, Sachin Panwar, YogaCleanAir co-founders Deepak Raina and Gaurav Nagar, France based He</summary>
+  </entry>
+  <entry>
+    <title>WealthTech Safari — Week of September 18, 2026</title>
+    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026"/>
+    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-september-18-2026</id>
+    <updated>2026-09-20T18:03:02.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Charles Schwab and Anthropic bring Claude to 16,000 independent RIAs Schwab Advisor Services partnered with Anthropic to deliver Claude for Financial Advisors to more than 16,000 registered investment advisors, with authenticated access to Schwab Advisor Center inside Claude and integrations across CRM, custody, portfo</summary>
   </entry>
   <entry>
     <title>Advisors want more client time. Is AI actually giving it to them?</title>
@@ -129,53 +137,35 @@
     <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
     <updated>2026-09-17T16:28:02.000Z</updated>
     <author><name>Financial Planning</name></author>
-    <category term="RESEARCH"/>
+    <category term="ADVISOR TECH"/>
     <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
   </entry>
   <entry>
-    <title>Jacobi Selected as Tech Solution for Aberdeen's Model Portfolio Service</title>
-    <link href="https://www.wealthtechstrategy.com/post/jacobi-selected-by-aberdeen-portfolio-solutions-limited-as-a-technology-vendor-to-accelerate-growth"/>
-    <id>https://www.wealthtechstrategy.com/post/jacobi-selected-by-aberdeen-portfolio-solutions-limited-as-a-technology-vendor-to-accelerate-growth</id>
-    <updated>2026-09-20T12:25:01.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Jacobi Inc. (2026, September 18). Jacobi selected by Aberdeen Portfolio Solutions Limited as a technology vendor to accelerate growth of its managed portfolio service. PR Newswire. https://www.prnewswire.com/news-releases/jacobi-selected-by-aberdeen-portfolio-solutions-limited-as-a-technology-vendor-to-accelerate-growt</summary>
-  </entry>
-  <entry>
-    <title>AdvisorCRM Launches AdvisorCRM Studio to Help Advisors Build Custom Apps Without Coding</title>
-    <link href="https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding"/>
-    <id>https://t3technologyhub.com/advisorcrm-launches-advisorcrm-studio-to-help-advisors-build-custom-apps-without-coding</id>
-    <updated>2026-09-15T22:37:39.000Z</updated>
-    <author><name>T3 Technology Hub</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>New platform gives advisory firms one place to create, preview, and control firm-specific workflows without developers or templates AdvisorCRM announced AdvisorCRM Studio (“Studio”), a flexible app-building platform that allows […]</summary>
-  </entry>
-  <entry>
-    <title>Meta's Muse Is Better at Surveilling Than Helping Me</title>
-    <link href="https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me"/>
-    <id>https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me</id>
-    <updated>2026-09-20T10:30:00.000Z</updated>
-    <author><name>Wired AI</name></author>
+    <title>How we made the first comprehensive map of deaths along the US border’s “virtual wall”</title>
+    <link href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology"/>
+    <id>https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology</id>
+    <updated>2026-09-21T12:00:00.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.</summary>
+    <summary>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Die</summary>
   </entry>
   <entry>
-    <title>It’s Donald Trump Versus MAGA on Data Centers</title>
-    <link href="https://www.wired.com/story/donald-trump-versus-maga-on-data-centers"/>
-    <id>https://www.wired.com/story/donald-trump-versus-maga-on-data-centers</id>
-    <updated>2026-09-20T10:30:00.000Z</updated>
-    <author><name>Wired AI</name></author>
+    <title>Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026</title>
+    <link href="https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026"/>
+    <id>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026</id>
+    <updated>2026-09-21T15:00:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The president has doubled down on data centers and AI. His base is running in the opposite direction.</summary>
+    <summary>Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.</summary>
   </entry>
   <entry>
-    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
-    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
-    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
-    <updated>2026-09-18T21:20:12.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
+    <title>NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection</title>
+    <link href="https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection"/>
+    <id>https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection</id>
+    <updated>2026-09-18T13:49:52.000Z</updated>
+    <author><name>NASAA</name></author>
     <category term="REGULATION"/>
-    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
+    <summary>The post NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection appeared first on NASAA .</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -187,31 +177,31 @@
     <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
-    <title>WealthStack Roundup: Summarizing Envestnet's Third 2026 Technology Update</title>
-    <link href="https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features"/>
-    <id>https://www.wealthmanagement.com/advisor-support-platforms/envestnet-amplify-zeplyn-roll-out-new-features</id>
-    <updated>2026-09-18T15:01:57.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things</title>
+    <link href="https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things"/>
+    <id>https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things</id>
+    <updated>2026-09-21T15:05:00.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Envestnet brings AI widgets and interactive dashboards; Amplify adds account-level risk tools; Zeplyn launches Agent Studio; and other advisory tech news.</summary>
+    <summary>RIA Founders Should Look Beyond AI To Organic Growth, Talent Development And Technology-Enabled Scale As They Prepare For Future M&amp;A</summary>
   </entry>
   <entry>
-    <title>Allworth: A Tech Stack Built to Leverage AI Today</title>
-    <link href="https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today"/>
-    <id>https://www.wealthmanagement.com/financial-technology/allworth-a-tech-stack-built-to-leverage-ai-today</id>
-    <updated>2026-09-18T13:21:30.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>This Time It’s Different. Or Is It?</title>
+    <link href="https://www.wealthsolutionsreport.com/this-time-its-different-or-is-it"/>
+    <id>https://www.wealthsolutionsreport.com/this-time-its-different-or-is-it</id>
+    <updated>2026-09-21T12:05:10.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Pete Engelken explains how $40 billion Allworth’s early move to manage its data has set it up to leverage a list of AI-driven vendors from Jump to Anthropic.</summary>
+    <summary>Four Wealthtech Executives Assess What Claude For Financial Advisors Means For Firms Already Serving Wealth Management</summary>
   </entry>
   <entry>
-    <title>Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well</title>
-    <link href="https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well"/>
-    <id>https://riabiz.com/a/2026/9/18/ritik-malhotra-sells-not-for-sale-savvy-stake-for-100-million-after-utah-jazz-owner-showed-up-big-for-his-lpl-disruption-by-ai-play-and-mark-casady-re-upped-at-the-new-price-as-well</id>
-    <updated>2026-09-18T02:58:20.000Z</updated>
-    <author><name>RIABiz</name></author>
+    <title>Sunday links: the AI safety debate</title>
+    <link href="https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate"/>
+    <id>https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate</id>
+    <updated>2026-09-20T12:00:11.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Ryan Smith, Ryan Sweeney and Halo invested at a valuation 560% more than Savvy's B round 15 months ago, enticed by some wins, an artificial intelligence tailwind and the former LPL CEO on speed-dial.</summary>
+    <summary>Markets How bond math works with ~5% yields (awealthofcommonsense.com) How to structure a bond portfolio, especially if you don't know where interest rates are headed. (humbledollar.com) Bonds are now investable. (dampedspring101.substack.com) Berkshire Hathaway Howard Buffett is now the chairman of Berkshire Hathaway </summary>
   </entry>
   <entry>
     <title>How RIAs can build a practical AI compliance framework</title>
@@ -250,30 +240,39 @@
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
   </entry>
   <entry>
-    <title>AI’s Wobbly House of Cards Puts Markets and US Economy at Risk</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk</id>
-    <updated>2026-09-20T13:00:00.000Z</updated>
+    <title>Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround | Stock Movers</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-21/accenture-anthropic-partnership-novo-nordisk-falls-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-21/accenture-anthropic-partnership-novo-nordisk-falls-video</id>
+    <updated>2026-09-21T14:49:08.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The heads of America’s leading AI development labs have started a national conversation about tapping the brakes on a technology that’s offering so much promise for society, while at the same time showing it can do a frightening amount of harm.</summary>
+    <summary>On this episode of Stock Movers: - Novo Nordisk (NVO) shares are lower as it disappointed investors hoping for concrete turnaround plans from Chief Executive Officer Mike Doustdar after losing its lead in the obesity market to Eli Lilly &amp; Co. The company pledged to launch more than five blockbusters and deliver more th</summary>
   </entry>
   <entry>
-    <title>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now.</title>
-    <link href="https://www.fool.com/investing/2026/09/20/should-you-invest-in-an-anthropic-ipo-etf-what-inv"/>
-    <id>https://www.fool.com/investing/2026/09/20/should-you-invest-in-an-anthropic-ipo-etf-what-inv</id>
-    <updated>2026-09-20T08:55:56.000Z</updated>
-    <author><name>GN: AI capex / ETF</name></author>
+    <title>Inside the New War for Critical Metals</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-21/inside-the-new-war-for-critical-metals-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-21/inside-the-new-war-for-critical-metals-video</id>
+    <updated>2026-09-21T15:22:40.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Should You Invest in an Anthropic IPO ETF? What Investors Need to Know Right Now. The Motley Fool</summary>
+    <summary>Legendary mining investor Robert Friedland joins Bloomberg Open Interest to explains why copper and rare earth metals have become the new front line in a US, China resource cold war. He breaks down how China quietly seized control of critical supply chains, why AI data centers are sending metal demand into overdrive an</summary>
   </entry>
   <entry>
-    <title>AI Use Surges Among DC Advisers, Consultants, per T. Rowe Price</title>
-    <link href="https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price"/>
-    <id>https://www.planadviser.com/ai-use-surges-among-dc-advisers-consultants-per-t-rowe-price</id>
-    <updated>2026-09-16T21:47:52.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
+    <title>AI in finance must be policed differently</title>
+    <link href="https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a"/>
+    <id>https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a</id>
+    <updated>2026-09-21T04:00:18.000Z</updated>
+    <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Task automation using artificial – intelligence-powered tools more than doubled among survey respondents since last year.</summary>
+    <summary>Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help</summary>
+  </entry>
+  <entry>
+    <title>As LLMs spread, quants confront ‘lexical risk’</title>
+    <link href="https://www.risk.net/risk-management/7964116/as-llms-spread-quants-confront-%E2%80%98lexical-risk%E2%80%99"/>
+    <id>https://www.risk.net/risk-management/7964116/as-llms-spread-quants-confront-%E2%80%98lexical-risk%E2%80%99</id>
+    <updated>2026-09-21T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Users are finding the uncertainty in GenAI models is hard to measure</summary>
   </entry>
 </feed>

@@ -11,6 +11,7 @@ interface HeaderProps {
   onOpenManageMutes: () => void;
   search: string;
   onSearchChange: (s: string) => void;
+  onSearchFocus?: () => void;
 }
 
 function relativeUpdated(generatedAt: string | null): { label: string; stale: boolean } {
@@ -39,6 +40,7 @@ export function Header({
   onOpenManageMutes,
   search,
   onSearchChange,
+  onSearchFocus,
 }: HeaderProps) {
   const { label: updatedLabel, stale: dataStale } = relativeUpdated(generatedAt);
 
@@ -104,6 +106,7 @@ export function Header({
           placeholder="search headlines, sources, categories…  (press /)"
           value={search}
           onChange={(e) => onSearchChange(e.target.value)}
+          onFocus={() => onSearchFocus?.()}
           aria-label="Search headlines"
         />
       </div>

@@ -110,8 +110,8 @@ async function main() {
   if (regulationShown < 3) {
     console.warn(`⚠  WARN: regulation bucket has ${regulationShown} displayed articles (< 3)`);
   }
-  if (j.trending.length < 4) {
-    console.warn(`⚠  WARN: trending thin (${j.trending.length} clusters)`);
+  if (j.trending.length < 3) {
+    console.warn(`⚠  WARN: trending thin (${j.trending.length} clusters; floor is 3)`);
   }
 
   if (failures.length > 0) {

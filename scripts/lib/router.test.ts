@@ -163,6 +163,29 @@ describe("RIA-home lead preference", () => {
     assert.equal(vendors?.articles.some((a) => a.url === envestnet.url), true);
   });
 
+  it("keeps a 96-hour multi-source story when fewer than 3 clusters are under 72 hours", () => {
+    const hoursAgo = (h: number) => new Date(Date.now() - h * 3_600_000).toISOString();
+    const publishedAt = hoursAgo(96);
+    const sec = article({
+      title: "SEC updates AI supervision exam priorities",
+      url: "https://www.sec.gov/ai-supervision-old",
+      source: "SEC Press",
+      category: "regulation",
+      priority: "high",
+      publishedAt,
+    });
+    const press = article({
+      title: "SEC updates AI supervision exam priorities",
+      url: "https://www.riabiz.com/ai-supervision-old",
+      source: "RIABiz",
+      category: "practice",
+      priority: "high",
+      publishedAt,
+    });
+    const { trending } = buildCategories([sec, press]);
+    assert.equal(trending.some((t) => t.lead.url === sec.url || t.lead.url === press.url), true);
+  });
+
   it("falls back to the highest-scoring story when no RIA-home candidate exists", () => {
     const now = new Date().toISOString();
     const industry = article({

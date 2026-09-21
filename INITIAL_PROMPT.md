@@ -1,5 +1,10 @@
 # INITIAL PROMPT — RIA AI Report
 
+> **Archive (2026-09-18).** The live product name is **CFP AI REPORT**.
+> Pages is already at https://pnelsonftp.github.io/RIA-AI-Drudge/.
+> Current operating docs: `README.md` and `docs/HANDOFF.md`. Do not revert
+> the masthead or the First Trust chrome because this prompt still says RIA.
+
 Paste this into a **new** Cursor conversation whose workspace is
 `/Users/paulnelson/Documents/Development/RIA-AI-Drudge/`.
 

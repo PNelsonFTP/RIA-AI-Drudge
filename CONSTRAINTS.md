@@ -1,4 +1,4 @@
-# CONSTRAINTS — RIA AI Report
+# CONSTRAINTS — CFP AI Report
 
 Hard rules for every conversation in this folder.
 
@@ -15,12 +15,13 @@ Hard rules for every conversation in this folder.
 
 - Masthead: **CFP AI REPORT** (First Trust / XPND chrome: navy, gold rule, Arial).
 - Subhead: AI headlines for advisors, RIAs, and wealth professionals.
-- Footer may say it is an aggregator with no affiliation to Drudge Report.
+- Footer says it is an aggregator with no affiliation to Drudge Report or First Trust.
 - Paywalled sources: headline + link only. Never reproduce body text.
 
 ## Layout
 
-- Keep the current 3-column Drudge wire. Propose redesigns; do not ship them
+- Visual system is the First Trust / XPND chrome in `src/styles.css` (navy,
+  gold rule, Arial, light default). Keep the 3-column wire. Do not redesign
   unasked.
 - Preserve: bookmarks, read-later, mutes, read-state dimming, search,
   theme toggle, Feed Health, LATEST strip, Daily Brief, stock ticker,
@@ -42,9 +43,11 @@ Hard rules for every conversation in this folder.
 - Vendor/sponsor items belong in VENDOR WATCH (or tagged in the source name).
 - Dedup by URL and by Jaccard title clusters.
 
-## GitHub (later)
+## GitHub
 
-- After the owner reviews a first look: new **public** repo, commit, push,
-  GitHub Pages — same pattern as the other aggregators.
-- Do not create the remote or Pages until asked.
-- When the repo name is known, set `vite.config.ts` `base` and Atom `SITE_URL`.
+- Public repo and Pages are already live:
+  https://github.com/PNelsonFTP/RIA-AI-Drudge and
+  https://pnelsonftp.github.io/RIA-AI-Drudge/.
+- `origin` is that GitHub remote. Do not add the AI Drudge remote.
+- `vite.config.ts` `base` is `/RIA-AI-Drudge/`. Atom `SITE_URL` is the Pages URL.
+- Do not force-push `main`. Hourly Actions commits data on `main`; merge before pushing.

@@ -1,5 +1,9 @@
 # FOLLOW-UP PROMPTS — RIA AI Report
 
+> **Archive.** Go-live, the first-look polish, the First Trust restyle, and
+> the rename to **CFP AI REPORT** are done. Open work is
+> `docs/FUTURE_IMPROVEMENTS.md`.
+
 Use these in later conversations in this folder. Not required for the first run.
 
 ---

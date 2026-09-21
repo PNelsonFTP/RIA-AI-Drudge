@@ -375,11 +375,11 @@ export function buildCategories(
   }
 
   // Trending = stories covered by 2+ distinct sources AND fresh (<72h).
-  // If the strict gate yields too few, relax to <120h to reach min 4.
-  // Sorted by source count then by score. Cap at 12.
+  // RIA overlap often tops out at 3. Only when the strict gate is under 3,
+  // widen to <120h. Do not lower the Jaccard threshold. Cap at 12.
   const TRENDING_FRESH_H = 72;
   const TRENDING_RELAXED_H = 120;
-  const TRENDING_MIN = 4;
+  const TRENDING_MIN = 3;
 
   const withLead = [...storyCoverage.values()]
     .filter((s) => s.sources.size >= 2)

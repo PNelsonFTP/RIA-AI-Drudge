@@ -74,6 +74,24 @@ export interface StockQuote {
   fetchedAt: string;
 }
 
+export interface SearchItem {
+  id: string;
+  title: string;
+  url: string;
+  source: string;
+  category: CategoryId;
+  priority: Priority;
+  publishedAt: string | null;
+  summary: string | null;
+  vendor?: boolean;
+  relatedSources: string[];
+}
+
+export interface SearchIndex {
+  generatedAt: string;
+  items: SearchItem[];
+}
+
 export interface Brief {
   generatedAt: string;
   source: "claude" | "fallback";

@@ -20,12 +20,41 @@ import {
   useArticleSnapshots,
 } from "./hooks/useLocalStorageSet";
 import { ReadStateContext, useReadStateProvider } from "./hooks/useReadState";
-import type { Article, CategoryBucket, GroupedArticle } from "./lib/types";
+import type { Article, CategoryBucket, GroupedArticle, SearchItem } from "./lib/types";
 
 type View = "home" | "bookmarks" | "queue";
 
 // #13: data considered stale if last refreshed more than this many hours ago.
 const STALE_DATA_HOURS = 6;
+
+function fromSearchItem(item: SearchItem): GroupedArticle {
+  const related: Article[] = item.relatedSources.map((source, i) => ({
+    id: `${item.id}-rel-${i}`,
+    title: item.title,
+    url: `${item.url}#rel-${i}`,
+    source,
+    category: item.category,
+    priority: item.priority,
+    publishedAt: item.publishedAt,
+    publishedRaw: null,
+    summary: null,
+    collectedAt: item.publishedAt ?? "",
+  }));
+  return {
+    id: item.id,
+    title: item.title,
+    url: item.url,
+    source: item.source,
+    category: item.category,
+    priority: item.priority,
+    publishedAt: item.publishedAt,
+    publishedRaw: null,
+    summary: item.summary,
+    collectedAt: item.publishedAt ?? "",
+    vendor: item.vendor,
+    related,
+  };
+}
 
 function matchesSearch(
   a: GroupedArticle,
@@ -76,7 +105,7 @@ function useLastVisit(loaded: boolean): number | null {
 }
 
 export default function App() {
-  const { headlines, stocks, brief, error, loadFull } = useHeadlines();
+  const { headlines, stocks, brief, error, loadFull, searchItems, loadSearch } = useHeadlines();
   const { theme, toggle: toggleTheme } = useTheme();
   const { bookmarks, toggle: toggleBookmark } = useBookmarks();
   const { queue, toggle: toggleQueue, remove: removeFromQueue } = useReadLater();
@@ -106,10 +135,12 @@ export default function App() {
     return () => window.removeEventListener("keydown", onKey);
   }, []);
 
-  // Search and View All need the full payload; preview omits View-All tails.
+  // Search uses the compact index (titles + summaries). View All still loads
+  // the full headlines file. The index fetch starts on the first keystroke
+  // or when the search box is focused.
   useEffect(() => {
-    if (searchLc) loadFull();
-  }, [searchLc, loadFull]);
+    if (searchLc) loadSearch();
+  }, [searchLc, loadSearch]);
 
   // ID -> live article, for snapshotting bookmarks/queue items before they
   // age out of the payload.
@@ -167,6 +198,13 @@ export default function App() {
     return headlines.categories
       .filter((c) => !mutedCategories.has(c.id))
       .map((c) => {
+        if (searchLc && searchItems) {
+          const matches = searchItems
+            .filter((item) => item.category === c.id && !mutedSources.has(item.source))
+            .map(fromSearchItem)
+            .filter((a) => matchesSearch(a, searchLc, c.label));
+          return { ...c, articles: matches, articlesAll: matches };
+        }
         const filterFn = (a: GroupedArticle) => {
           if (mutedSources.has(a.source)) return false;
           return matchesSearch(a, searchLc, c.label);
@@ -177,7 +215,7 @@ export default function App() {
           articlesAll: c.articlesAll.filter(filterFn),
         };
       });
-  }, [headlines, mutedCategories, mutedSources, searchLc]);
+  }, [headlines, mutedCategories, mutedSources, searchLc, searchItems]);
 
   // Bookmarks/queue views: prefer the live payload article (it has related
   // coverage), fall back to the localStorage snapshot once the article has
@@ -346,6 +384,7 @@ export default function App() {
           onOpenManageMutes={() => setManageOpen(true)}
           search={search}
           onSearchChange={setSearch}
+          onSearchFocus={loadSearch}
         />
         <StockTicker stocks={stocks} />
         {headlines && view === "home" && filteredCategories.length > 0 && (

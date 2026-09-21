@@ -10,7 +10,15 @@
 // Output: Article[] matching the RSS path's shape, ready to merge.
 
 import type { Article } from "./types";
-import type { CategoryId, Priority } from "./sources";
+import { AI_FILTER, SUPERVISION_FILTER, type CategoryId, type Priority } from "./sources";
+import { matchesRequireAny } from "./lib/requireAny";
+import {
+  extractFinraNotices,
+  extractJumpPosts,
+  extractZocksPosts,
+  parseLooseDate,
+  type ListingCard,
+} from "./lib/listingCards";
 
 interface ScrapeSource {
   name: string;
@@ -49,6 +57,61 @@ const SCRAPE_SOURCES: ScrapeSource[] = [
     defaultPriority: "high",
     cardPattern: /<a href="(\/research\/[a-z0-9-]+)"[^>]*>([\s\S]{0,1500}?)<\/a>/g,
     maxItems: 10,
+  },
+];
+
+interface CustomScrape {
+  name: string;
+  listingUrl: string;
+  homeUrl: string;
+  defaultCategory: CategoryId;
+  defaultPriority: Priority;
+  vendor?: boolean;
+  requireAny?: string[];
+  maxItems?: number;
+  extract: (html: string) => ListingCard[];
+}
+
+// Probed 2026-09-21. Only pages with stable server-rendered cards are listed.
+// Skipped the same day (see docs/FUTURE_IMPROVEMENTS.md): ThinkAdvisor,
+// Advisor Perspectives, and Financial Brand (Cloudflare 403); Citywire RIA
+// (200, 212-byte empty shell); Morgan Stanley 403; Schwab and Wells Fargo
+// Cloudflare 403; JPM, BlackRock, Vanguard, UBS, and Goldman HTML had no
+// stable dated news cards. FINRA rss.xml is 200 but is stale FAQs plus PDF
+// filenames, so notices are scraped instead.
+const CUSTOM_SCRAPES: CustomScrape[] = [
+  {
+    name: "FINRA Notices",
+    listingUrl: "https://www.finra.org/rules-guidance/notices",
+    homeUrl: "https://www.finra.org",
+    defaultCategory: "regulation",
+    defaultPriority: "high",
+    // The page is already FINRA, so the word "finra" must not pass every row.
+    requireAny: SUPERVISION_FILTER.filter((n) => n.trim().toLowerCase() !== "finra"),
+    maxItems: 8,
+    extract: extractFinraNotices,
+  },
+  {
+    name: "Jump (vendor)",
+    listingUrl: "https://jump.ai/blog",
+    homeUrl: "https://jump.ai",
+    defaultCategory: "vendors",
+    defaultPriority: "low",
+    vendor: true,
+    requireAny: AI_FILTER,
+    maxItems: 6,
+    extract: extractJumpPosts,
+  },
+  {
+    name: "Zocks (vendor)",
+    listingUrl: "https://www.zocks.io/resources/blog",
+    homeUrl: "https://www.zocks.io",
+    defaultCategory: "vendors",
+    defaultPriority: "low",
+    vendor: true,
+    requireAny: AI_FILTER,
+    maxItems: 6,
+    extract: extractZocksPosts,
   },
 ];
 
@@ -108,11 +171,48 @@ async function fetchHtml(url: string): Promise<string | null> {
   }
 }
 
-async function scrapeOne(src: ScrapeSource): Promise<Article[]> {
+function cardsToArticles(
+  src: { name: string; homeUrl: string; defaultCategory: CategoryId; defaultPriority: Priority; vendor?: boolean; requireAny?: string[]; maxItems?: number },
+  cards: ListingCard[],
+): Article[] {
+  const collectedAt = new Date().toISOString();
+  const cap = src.maxItems ?? 10;
+  const out: Article[] = [];
+  for (const card of cards) {
+    if (out.length >= cap) break;
+    if (src.requireAny && !matchesRequireAny(card.title, card.summary, src.requireAny)) continue;
+    const url = card.href.startsWith("http") ? card.href : `${src.homeUrl}${card.href}`;
+    out.push({
+      id: hashId(url),
+      title: card.title,
+      url,
+      source: src.name,
+      category: src.defaultCategory,
+      priority: src.defaultPriority,
+      publishedAt: parseLooseDate(card.dateRaw),
+      publishedRaw: card.dateRaw,
+      summary: card.summary,
+      collectedAt,
+      vendor: src.vendor,
+    });
+  }
+  return out;
+}
+
+async function scrapeCustom(src: CustomScrape): Promise<{ articles: Article[]; fetched: boolean }> {
   const html = await fetchHtml(src.listingUrl);
   if (!html) {
     console.warn(`  [skip] ${src.name}: HTTP fetch failed`);
-    return [];
+    return { articles: [], fetched: false };
+  }
+  return { articles: cardsToArticles(src, src.extract(html)), fetched: true };
+}
+
+async function scrapeOne(src: ScrapeSource): Promise<{ articles: Article[]; fetched: boolean }> {
+  const html = await fetchHtml(src.listingUrl);
+  if (!html) {
+    console.warn(`  [skip] ${src.name}: HTTP fetch failed`);
+    return { articles: [], fetched: false };
   }
 
   const out: Article[] = [];
@@ -140,8 +240,8 @@ async function scrapeOne(src: ScrapeSource): Promise<Article[]> {
     if (!title || title.length < 5) continue;
 
     // Date: <time>YYYY-MM-DD</time> or <time>Mon DD, YYYY</time>
-    const timeMatch = body.match(/<time[^>]*datetime="([^"]+)"[^>]*>/) ||
-                      body.match(/<time[^>]*>([^<]+)<\/time>/);
+    const timeMatch = body.match(/<time[^>]*datetime="([^"]+)"[^>]*>/i) ||
+                      body.match(/<time[^>]*>([^<]+)<\/time>/i);
     const rawDate = timeMatch ? timeMatch[1].trim() : null;
     const publishedAt = rawDate
       ? (parseMonthDayYear(rawDate) || (isNaN(new Date(rawDate).getTime()) ? null : new Date(rawDate).toISOString()))
@@ -170,7 +270,7 @@ async function scrapeOne(src: ScrapeSource): Promise<Article[]> {
     });
   }
 
-  return out;
+  return { articles: out, fetched: true };
 }
 
 export async function scrapeAllSources(): Promise<{
@@ -181,17 +281,21 @@ export async function scrapeAllSources(): Promise<{
     return { articles: [], stats: [] };
   }
 
-  console.log(`Scraping ${SCRAPE_SOURCES.length} HTML sources…`);
+  const jobs = [
+    ...SCRAPE_SOURCES.map((src) => ({ name: src.name, run: () => scrapeOne(src) })),
+    ...CUSTOM_SCRAPES.map((src) => ({ name: src.name, run: () => scrapeCustom(src) })),
+  ];
+  console.log(`Scraping ${jobs.length} HTML sources…`);
   const results = await Promise.all(
-    SCRAPE_SOURCES.map(async (src) => {
-      const articles = await scrapeOne(src);
-      console.log(`  ${articles.length > 0 ? "OK" : "FAIL"}  ${src.name.padEnd(28)} ${articles.length} items`);
-      return { src, articles };
+    jobs.map(async (job) => {
+      const { articles, fetched } = await job.run();
+      console.log(`  ${fetched ? "OK" : "FAIL"}  ${job.name.padEnd(28)} ${articles.length} items`);
+      return { name: job.name, articles, fetched };
     })
   );
 
   return {
     articles: results.flatMap((r) => r.articles),
-    stats: results.map((r) => ({ source: r.src.name, ok: r.articles.length > 0, count: r.articles.length })),
+    stats: results.map((r) => ({ source: r.name, ok: r.fetched, count: r.articles.length })),
   };
 }

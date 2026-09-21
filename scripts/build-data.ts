@@ -103,6 +103,33 @@ async function main() {
   await writeJsonMin(resolve(DATA_DIR, "headlines-preview.json"), preview);
   console.log(`Wrote headlines-preview.json`);
 
+  const searchSeen = new Set<string>();
+  const searchItems = [];
+  for (const bucket of categories) {
+    const pool = bucket.articlesAll.length > 0 ? bucket.articlesAll : bucket.articles;
+    for (const a of pool) {
+      if (searchSeen.has(a.url)) continue;
+      searchSeen.add(a.url);
+      searchItems.push({
+        id: a.id,
+        title: a.title,
+        url: a.url,
+        source: a.source,
+        category: a.category,
+        priority: a.priority,
+        publishedAt: a.publishedAt,
+        summary: a.summary,
+        vendor: a.vendor,
+        relatedSources: a.related.map((r) => r.source),
+      });
+    }
+  }
+  await writeJsonMin(resolve(DATA_DIR, "search-index.json"), {
+    generatedAt: payload.generatedAt,
+    items: searchItems,
+  });
+  console.log(`Wrote search-index.json — ${searchItems.length} rows.`);
+
   // Site Atom feed so readers can subscribe to the aggregator itself.
   const siteFeed = buildSiteFeed(trending, categories, payload.generatedAt);
   await writeFile(resolve(PUBLIC_DIR, "feed.xml"), siteFeed);

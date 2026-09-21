@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import type { Brief, HeadlinesPayload, StockQuote } from "../lib/types";
+import type { Brief, HeadlinesPayload, SearchIndex, SearchItem, StockQuote } from "../lib/types";
 
 // Single source of truth for data loading.
 //
@@ -15,6 +15,7 @@ const PREVIEW_URL   = `${import.meta.env.BASE_URL}data/headlines-preview.json`;
 const HEADLINES_URL = `${import.meta.env.BASE_URL}data/headlines.json`;
 const STOCKS_URL    = `${import.meta.env.BASE_URL}data/stocks.json`;
 const BRIEF_URL     = `${import.meta.env.BASE_URL}data/brief.json`;
+const SEARCH_URL    = `${import.meta.env.BASE_URL}data/search-index.json`;
 
 const HEADLINES_CACHE_KEY = "ria-ai-report:cache:headlines";
 const STOCKS_CACHE_KEY    = "ria-ai-report:cache:stocks";
@@ -62,8 +63,10 @@ export function useHeadlines() {
     readCache<Brief>(BRIEF_CACHE_KEY)
   );
   const [error, setError] = useState<string | null>(null);
+  const [searchItems, setSearchItems] = useState<SearchItem[] | null>(null);
 
   const fullPromise = useRef<Promise<HeadlinesPayload | null> | null>(null);
+  const searchPromise = useRef<Promise<SearchIndex | null> | null>(null);
 
   const applyFull = useCallback((h: HeadlinesPayload) => {
     setHeadlines(h);
@@ -80,6 +83,17 @@ export function useHeadlines() {
       return h;
     });
   }, [applyFull]);
+
+  const loadSearch = useCallback(() => {
+    if (!searchPromise.current) {
+      searchPromise.current = fetchJson<SearchIndex>(SEARCH_URL);
+    }
+    return searchPromise.current.then((data) => {
+      if (data?.items) setSearchItems(data.items);
+      else searchPromise.current = null;
+      return data;
+    });
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -119,5 +133,5 @@ export function useHeadlines() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return { headlines, stocks, brief, error, loadFull };
+  return { headlines, stocks, brief, error, loadFull, searchItems, loadSearch };
 }

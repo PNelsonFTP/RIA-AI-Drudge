@@ -1,4 +1,4 @@
-# RIA AI Report — Project History
+# CFP AI Report — Project History
 
 First-run build: **2026-09-18**. Sibling of AI Drudge; **separate git history,
 branding, sources, and localStorage.** Do not merge the two repos.
@@ -61,3 +61,42 @@ fallback daily brief. `vite.config.ts` `base` is `"/"` for localhost.
 - Repo: https://github.com/PNelsonFTP/RIA-AI-Drudge
 - Pages: https://pnelsonftp.github.io/RIA-AI-Drudge/
 - `vite.config.ts` `base` set to `/RIA-AI-Drudge/`
+- Hourly `refresh.yml` began committing `chore(data): refresh` snapshots
+
+## 2026-09-20 — Editorial polish
+
+The first public payload was a working aggregator that still opened on a
+TechCrunch lab story, wrapped Google News links, and let regulator and vendor
+feeds run too wide. The polish on `main` (`375cef7`, then `9a035f9`):
+
+- Google News unwrap cap raised to at least every unique wrapper, SEC/FINRA/RIA first
+- Lead and fallback brief prefer regulation, advisor tech, and wealthtech
+- SEC/NASAA use `SUPERVISION_FILTER`; Fed and Treasury stay on `AI_FILTER`
+- Kitces, Wealth Solutions Report, and Huebscher are AI-filtered
+- `requireAny` matches a leading “AI” / “LLM” / “GPT” and not “available”
+- AISI, Gray Swan, White House, NVIDIA newsroom, and Business Wire removed
+- Vendor badge; trade press beats a wire twin within about 10% score
+- Ticker order BLK SCHW MS JPM AMP LPLA; View All and mutes fixed on first paint
+
+A rebuild that day showed 0 displayed `news.google.com` links, an SEC speech
+as the lead, and Wealth Solutions Report’s Claude-for-advisors story as
+trending #1.
+
+## 2026-09-20 — First Trust chrome and rename
+
+Visual system copied from XPND Drudge / ftportfolios.com: navy masthead, gold
+rule, Arial, silver bars, striped page, light default (`dd99d00`).
+
+The public title changed from **RIA AI REPORT** to **CFP AI REPORT** in the
+masthead, document title, Atom feed, and brief fallback. The repo path,
+Pages URL, and `ria-ai-report:` storage prefix were left in place so existing
+bookmarks and the GitHub project site did not move.
+
+Pages deploy [35514241553](https://github.com/PNelsonFTP/RIA-AI-Drudge/actions/runs/35514241553)
+served `<title>CFP AI REPORT</title>`.
+
+## 2026-09-21 — Documentation
+
+README, handoff, design, SBOM, future improvements, and this history were
+rewritten to match the live site. Probe write-ups under `docs/FEED_PROBE_*.md`
+stay dated 2026-09-18.
