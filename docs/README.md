@@ -31,6 +31,11 @@ Last full documentation pass: **2026-09-21**.
 | [FEED_PROBE_CURATED.md](./FEED_PROBE_CURATED.md) | Editors | 2026-09-18 probe of `ai-news-sources-RIA.md` |
 | [FEED_PROBE_EXTRA.md](./FEED_PROBE_EXTRA.md) | Editors | Independent finance/AI feed expansion |
 | [FEED_PROBE_VENDORS.md](./FEED_PROBE_VENDORS.md) | Editors | Vendor / law / AM insight RSS |
+| [REVIEW_SUMMARY_2026-09-21.md](./REVIEW_SUMMARY_2026-09-21.md) | Everyone | Combined 21 Sep review: keep the source list, suggestions only |
+| [FEED_AUDIT_2026-09-21.md](./FEED_AUDIT_2026-09-21.md) | Editors | All 112 sources probed; 12 suggested removals |
+| [EDITORIAL_REVIEW_2026-09-21.md](./EDITORIAL_REVIEW_2026-09-21.md) | Editors | What the homepage actually showed |
+| [REVIEW_2026-09-21.md](./REVIEW_2026-09-21.md) | Engineers | Pipeline bugs and quality-gate gaps |
+| [FEED_CANDIDATES_2026-09-21.md](./FEED_CANDIDATES_2026-09-21.md) | Editors | 26 add-now feeds, not wired |
 | [../ai-news-sources-RIA.md](../ai-news-sources-RIA.md) | Editors | Curated tiers 1–9 |
 | [../CONSTRAINTS.md](../CONSTRAINTS.md) | New chat | Hard rules |
 | [../INITIAL_PROMPT.md](../INITIAL_PROMPT.md) | Archive | Original build prompt (still says “RIA AI Report”) |

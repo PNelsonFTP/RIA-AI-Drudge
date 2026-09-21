@@ -65,6 +65,7 @@ export const AI_FILTER = [
   "genai",
   "gen-ai",
   "ai",
+  "xai",
 ];
 
 /** SEC / NASAA: AI plus exam/enforcement — not every adviser-admin headline. */
@@ -72,14 +73,11 @@ export const SUPERVISION_FILTER = [
   ...AI_FILTER,
   "examination",
   "exam priority",
-  "exams",
-  "enforcement",
   "ai-washing",
   "ai washing",
   "form adv",
   "model risk",
   "supervision",
-  "finra",
 ];
 
 /** Noisy AI newsletters / FT AI: keep finance or enterprise-adjacent items. */
@@ -127,11 +125,11 @@ export const SOURCES: FeedSource[] = [
 
   // ── Wealthtech-specific (tier 2) ──────────────────────────────────────
   { name: "WealthTech Today", url: "https://wealthtechtoday.com/feed/", category: "wealthtech", priority: "high" },
-  { name: "T3 Technology Hub", url: "https://t3technologyhub.com/feed/", category: "wealthtech", priority: "high" },
+  { name: "T3 Technology Hub", url: "https://t3technologyhub.com/feed/", category: "wealthtech", priority: "high", requireAny: AI_FILTER },
   { name: "Abnormal Returns", url: "https://abnormalreturns.com/feed/", category: "practice", priority: "medium", requireAny: AI_FILTER },
   { name: "Diamond Consultants", url: "https://www.diamond-consultants.com/feed/", category: "practice", priority: "medium", requireAny: AI_FILTER },
   { name: "GN: advisor AI notetaker", url: "https://news.google.com/rss/search?q=advisor+AI+notetaker+OR+%22meeting+notes%22+RIA&hl=en-US&gl=US&ceid=US:en", category: "advisor_tech", priority: "high" },
-  { name: "GN: wealth copilot", url: "https://news.google.com/rss/search?q=%22wealth+management%22+copilot+OR+%22advisor+copilot%22&hl=en-US&gl=US&ceid=US:en", category: "wealthtech", priority: "medium" },
+  { name: "GN: wealth copilot", url: "https://news.google.com/rss/search?q=%22wealth+management%22+copilot+OR+%22advisor+copilot%22&hl=en-US&gl=US&ceid=US:en", category: "wealthtech", priority: "medium", requireAny: AI_FILTER },
 
   // ── Bank / fintech press (tier 3) ─────────────────────────────────────
   { name: "Finextra AI", url: "https://www.finextra.com/rss/channel.aspx?channel=ai", category: "banking_fintech", priority: "high" },
@@ -188,16 +186,16 @@ export const SOURCES: FeedSource[] = [
   { name: "Adams Street Insights", url: "https://www.adamsstreetpartners.com/insights/feed/", category: "research", priority: "low", requireAny: AI_FILTER },
 
   // ── General AI / what's coming (tier 7) ───────────────────────────────
-  { name: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", category: "industry", priority: "high" },
-  { name: "The Verge AI", url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", category: "industry", priority: "medium" },
-  { name: "MIT Tech Review AI", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", category: "industry", priority: "high" },
-  { name: "Ars Technica AI", url: "https://arstechnica.com/ai/feed/", category: "industry", priority: "medium" },
-  { name: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", category: "industry", priority: "medium" },
-  { name: "Wired AI", url: "https://www.wired.com/feed/tag/ai/latest/rss", category: "industry", priority: "medium" },
+  { name: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", category: "industry", priority: "high", requireAny: FINANCE_OR_ENTERPRISE },
+  { name: "The Verge AI", url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
+  { name: "MIT Tech Review AI", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", category: "industry", priority: "high", requireAny: FINANCE_OR_ENTERPRISE },
+  { name: "Ars Technica AI", url: "https://arstechnica.com/ai/feed/", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
+  { name: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
+  { name: "Wired AI", url: "https://www.wired.com/feed/tag/ai/latest/rss", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
   { name: "CNBC Tech", url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", category: "industry", priority: "medium", requireAny: AI_FILTER },
-  { name: "Reuters AI (GN)", url: "https://news.google.com/rss/search?q=site:reuters.com+(AI+OR+%22artificial+intelligence%22)+(%22wealth+management%22+OR+advisor+OR+RIA+OR+FINRA+OR+SEC+OR+banker)&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "high" },
-  { name: "Axios AI (GN)", url: "https://news.google.com/rss/search?q=site:axios.com+(AI+OR+%22artificial+intelligence%22)+(wealth+OR+advisor+OR+RIA+OR+FINRA+OR+SEC+OR+bank)&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "medium" },
-  { name: "GN: RIA AI", url: "https://news.google.com/rss/search?q=RIA+AI+OR+%22registered+investment+advisor%22+%22artificial+intelligence%22&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "high" },
+  { name: "Reuters AI (GN)", url: "https://news.google.com/rss/search?q=site:reuters.com+(AI+OR+%22artificial+intelligence%22)+(%22wealth+management%22+OR+advisor+OR+RIA+OR+FINRA+OR+SEC+OR+banker)&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "high", requireAny: AI_FILTER },
+  { name: "Axios AI (GN)", url: "https://news.google.com/rss/search?q=site:axios.com+(AI+OR+%22artificial+intelligence%22)+(wealth+OR+advisor+OR+RIA+OR+FINRA+OR+SEC+OR+bank)&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "medium", requireAny: AI_FILTER },
+  { name: "GN: RIA AI", url: "https://news.google.com/rss/search?q=RIA+AI+OR+%22registered+investment+advisor%22+%22artificial+intelligence%22&hl=en-US&gl=US&ceid=US:en", category: "industry", priority: "high", requireAny: AI_FILTER },
   { name: "Ben's Bites", url: "https://www.bensbites.com/feed", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
   { name: "Stratechery", url: "https://stratechery.com/feed/", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
   { name: "Exponential View", url: "https://www.exponentialview.co/feed", category: "industry", priority: "medium", requireAny: FINANCE_OR_ENTERPRISE },
@@ -216,12 +214,12 @@ export const SOURCES: FeedSource[] = [
   { name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", category: "markets", priority: "low", requireAny: AI_FILTER },
   { name: "WSJ Tech", url: "https://feeds.content.dowjones.io/public/rss/RSSWSJD", category: "markets", priority: "medium", requireAny: AI_FILTER },
   { name: "ETF Trends", url: "https://www.etftrends.com/feed/", category: "markets", priority: "medium", requireAny: AI_FILTER },
-  { name: "GN: wealthtech AI", url: "https://news.google.com/rss/search?q=wealthtech+OR+%22wealth+tech%22+OR+%22advisor+AI%22+OR+%22RIA+AI%22&hl=en-US&gl=US&ceid=US:en", category: "wealthtech", priority: "high" },
-  { name: "GN: AI capex / ETF", url: "https://news.google.com/rss/search?q=%22artificial+intelligence%22+(capex+OR+ETF+OR+NVIDIA+OR+%22AI+trade%22)+stock&hl=en-US&gl=US&ceid=US:en", category: "markets", priority: "medium" },
+  { name: "GN: wealthtech AI", url: "https://news.google.com/rss/search?q=wealthtech+OR+%22wealth+tech%22+OR+%22advisor+AI%22+OR+%22RIA+AI%22&hl=en-US&gl=US&ceid=US:en", category: "wealthtech", priority: "high", requireAny: AI_FILTER },
+  { name: "GN: AI capex / ETF", url: "https://news.google.com/rss/search?q=%22artificial+intelligence%22+(capex+OR+ETF+OR+NVIDIA+OR+%22AI+trade%22)+stock&hl=en-US&gl=US&ceid=US:en", category: "markets", priority: "medium", requireAny: AI_FILTER },
   { name: "Citrini Research", url: "https://www.citriniresearch.com/feed", category: "markets", priority: "medium" },
 
   // ── Vendor / PR (tier 9) ──────────────────────────────────────────────
-  { name: "WealthTech Strategy", url: "https://www.wealthtechstrategy.com/blog-feed.xml", category: "vendors", priority: "low", vendor: true },
+  { name: "WealthTech Strategy", url: "https://www.wealthtechstrategy.com/blog-feed.xml", category: "vendors", priority: "low", vendor: true, requireAny: AI_FILTER },
   { name: "Envestnet (vendor)", url: "https://www.envestnet.com/rss.xml", category: "vendors", priority: "medium", vendor: true, requireAny: AI_FILTER },
   { name: "Docupace (vendor)", url: "https://www.docupace.com/feed", category: "vendors", priority: "low", vendor: true, requireAny: AI_FILTER },
   { name: "Orion (vendor)", url: "https://www.orion.com/rss.xml", category: "vendors", priority: "medium", vendor: true, requireAny: AI_FILTER },
@@ -234,7 +232,36 @@ export const SOURCES: FeedSource[] = [
   { name: "Nitrogen (vendor)", url: "https://www.nitrogenwealth.com/feed", category: "vendors", priority: "low", vendor: true, requireAny: AI_FILTER },
   { name: "Practifi (vendor)", url: "https://www.practifi.com/blog/feed", category: "vendors", priority: "low", vendor: true, requireAny: AI_FILTER },
   { name: "SS&C (vendor)", url: "https://www.ssctech.com/blog/rss.xml", category: "vendors", priority: "low", vendor: true, requireAny: AI_FILTER },
-  { name: "GN: wealth AI vendors", url: "https://news.google.com/rss/search?q=(Envestnet+OR+Orion+OR+Altruist+OR+Jump+OR+Zocks+OR+TIFIN)+AI+(advisor+OR+RIA+OR+wealth)&hl=en-US&gl=US&ceid=US:en", category: "vendors", priority: "medium" },
+  { name: "GN: wealth AI vendors", url: "https://news.google.com/rss/search?q=(Envestnet+OR+Orion+OR+Altruist+OR+Jump+OR+Zocks+OR+TIFIN)+AI+(advisor+OR+RIA+OR+wealth)&hl=en-US&gl=US&ceid=US:en", category: "vendors", priority: "medium", requireAny: AI_FILTER },
+
+  // ── Added 2026-09-21 (candidates; suggested removals kept) ──
+  { name: "Barron's Advisor", url: "https://feeds.content.dowjones.io/public/rss/barronsadvisor", category: "practice", priority: "high", requireAny: AI_FILTER },
+  { name: "FT Wealth Management", url: "https://www.ft.com/wealth-management?format=rss", category: "wealthtech", priority: "high", requireAny: AI_FILTER },
+  { name: "Money Marketing", url: "https://www.moneymarketing.co.uk/feed/", category: "practice", priority: "high", requireAny: AI_FILTER },
+  { name: "Top1000funds.com", url: "https://www.top1000funds.com/feed/", category: "institutional", priority: "high", requireAny: AI_FILTER },
+  { name: "Investment Adviser Association", url: "https://www.investmentadviser.org/feed/", category: "regulation", priority: "high", requireAny: AI_FILTER },
+  { name: "OCC Bulletins", url: "https://www.occ.gov/rss/occ_bulletins.xml", category: "regulation", priority: "high", requireAny: AI_FILTER },
+  { name: "Ballard Consumer Finance Monitor", url: "https://www.consumerfinancemonitor.com/feed/", category: "compliance", priority: "high", requireAny: AI_FILTER },
+  { name: "The Diff", url: "https://www.thediff.co/archive/rss/", category: "markets", priority: "high", requireAny: AI_FILTER },
+  { name: "SemiAnalysis", url: "https://newsletter.semianalysis.com/feed", category: "markets", priority: "high" },
+  { name: "One Useful Thing", url: "https://www.oneusefulthing.org/feed", category: "industry", priority: "high" },
+  { name: "iCapital (vendor)", url: "https://icapital.com/feed/", category: "vendors", priority: "high", vendor: true, requireAny: AI_FILTER },
+  { name: "WSGR Data Advisor", url: "https://www.wsgrdataadvisor.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "Columbia Blue Sky", url: "https://clsbluesky.law.columbia.edu/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "The D&O Diary", url: "https://www.dandodiary.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "Compliance Week", url: "https://www.complianceweek.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "Corporate Compliance Insights", url: "https://www.corporatecomplianceinsights.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "Alston Privacy", url: "https://www.alstonprivacy.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "SEC3 Compliance", url: "https://sec3compliance.com/feed/", category: "compliance", priority: "medium", requireAny: AI_FILTER },
+  { name: "The Daily Upside", url: "https://www.thedailyupside.com/feed/", category: "markets", priority: "medium", requireAny: AI_FILTER },
+  { name: "FactSet Insight (vendor)", url: "https://insight.factset.com/rss.xml", category: "vendors", priority: "medium", vendor: true, requireAny: AI_FILTER },
+  { name: "Aiera (vendor)", url: "https://aiera.com/feed/", category: "vendors", priority: "medium", vendor: true, requireAny: AI_FILTER },
+  { name: "Theta Lake (vendor)", url: "https://thetalake.com/feed/", category: "vendors", priority: "medium", vendor: true, requireAny: AI_FILTER },
+  { name: "T3 Conferences", url: "https://t3conferences.com/feed/", category: "wealthtech", priority: "medium", requireAny: AI_FILTER },
+  { name: "AWS Industries", url: "https://aws.amazon.com/blogs/industries/feed/", category: "banking_fintech", priority: "medium", requireAny: AI_FILTER },
+  { name: "WatersTechnology", url: "https://www.waterstechnology.com/feeds/rss", category: "banking_fintech", priority: "medium", requireAny: AI_FILTER },
+  { name: "MIT Sloan Management Review", url: "https://sloanreview.mit.edu/feed/", category: "research", priority: "medium", requireAny: AI_FILTER },
+
 ];
 
 export interface AgeWindow {

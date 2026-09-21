@@ -34,7 +34,7 @@ const WIRE_SOURCE = /business\s*wire|pr\s*newswire|globenewswire/i;
 export function isAggregatorSource(name: string): boolean {
   if (KEYWORD_AGNOSTIC_SOURCES.has(name)) return true;
   if (name.startsWith("HN:") || name.startsWith("GN:")) return true;
-  if (name.includes("Google News") || name.includes("Subreddit")) return true;
+  if (name.includes("(GN)") || name.includes("Google News") || name.includes("Subreddit")) return true;
   return false;
 }
 
@@ -318,7 +318,7 @@ export function buildCategories(
     const ordered = diversified.map((d) => d.article);
 
     // Caps: short preview for the default view + longer list for "View all".
-    const displayCap = meta.id === "industry" ? 15 : 10;
+    const displayCap = 10;
     const viewAllCap = meta.id === "industry" ? 40 : meta.id === "vendors" ? 25 : 20;
 
     buckets.push({

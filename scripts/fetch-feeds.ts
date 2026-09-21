@@ -245,6 +245,29 @@ class HostPool {
 
 const HOST_POOL = new HostPool(2);
 
+// Cap total in-flight fetches. One socket per host otherwise aborts the tail
+// of a 130-feed run before the 8s timeout can succeed.
+class Gate {
+  private active = 0;
+  private waiters: Array<() => void> = [];
+  constructor(private max: number) {}
+  async run<T>(fn: () => Promise<T>): Promise<T> {
+    if (this.active >= this.max) {
+      await new Promise<void>((resolve) => this.waiters.push(resolve));
+    }
+    this.active++;
+    try {
+      return await fn();
+    } finally {
+      this.active--;
+      const next = this.waiters.shift();
+      if (next) next();
+    }
+  }
+}
+
+const FETCH_GATE = new Gate(12);
+
 function extractItems(json: any): ParsedItem[] {
   // RSS 2.0
   const rssChannel = json?.rss?.channel;
@@ -435,7 +458,14 @@ async function fetchOneFeed(src: FeedSource): Promise<{ articles: Article[]; ok:
       source: src.name,
       category: src.category,
       priority: src.priority,
-      publishedAt: extractDate(rawDate, now),
+      publishedAt: (() => {
+        const iso = extractDate(rawDate, now);
+        if (!iso) return null;
+        const t = new Date(iso).getTime();
+        // Publishers sometimes stamp items in the future; don't let those lead.
+        if (Number.isFinite(t) && t > now.getTime() + 36 * 3_600_000) return now.toISOString();
+        return iso;
+      })(),
       publishedRaw: rawDate,
       summary,
       collectedAt,
@@ -453,7 +483,7 @@ export async function fetchAllFeeds(): Promise<{
   console.log(`Fetching ${SOURCES.length} feeds (2 concurrent per host)…`);
   const results = await Promise.all(
     SOURCES.map(async (src) => {
-      const r = await HOST_POOL.run(rateLimitKey(src.url), () => fetchOneFeed(src));
+      const r = await FETCH_GATE.run(() => HOST_POOL.run(rateLimitKey(src.url), () => fetchOneFeed(src)));
       console.log(`  ${r.ok ? "OK" : "FAIL"}  ${src.name.padEnd(28)} ${r.articles.length} items`);
       return { src, ...r };
     })
@@ -492,15 +522,16 @@ export async function fetchAllFeeds(): Promise<{
     console.log(`  resolved ${hits}/${gnUrls.length} Google News URLs to publisher links`);
   }
 
-  // Dedup by normalized URL first, then by title (case-insensitive).
-  const seenUrl = new Set<string>();
-  const seenTitle = new Set<string>();
+  // Drop duplicates from the same source. Keep a publisher and a Google News
+  // twin so trending can count both outlets.
+  const seenUrlSource = new Set<string>();
+  const seenTitleSource = new Set<string>();
   articles = articles.filter((a) => {
-    const urlKey = normalizeArticleUrl(a.url);
-    const titleKey = a.title.toLowerCase();
-    if (seenUrl.has(urlKey) || seenTitle.has(titleKey)) return false;
-    seenUrl.add(urlKey);
-    seenTitle.add(titleKey);
+    const urlKey = `${normalizeArticleUrl(a.url)}\0${a.source}`;
+    const titleKey = `${a.title.toLowerCase()}\0${a.source}`;
+    if (seenUrlSource.has(urlKey) || seenTitleSource.has(titleKey)) return false;
+    seenUrlSource.add(urlKey);
+    seenTitleSource.add(titleKey);
     return true;
   });
 

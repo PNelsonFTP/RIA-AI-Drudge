@@ -7,7 +7,7 @@ function escapeRegExp(s: string): string {
 }
 
 function matchesGptFamily(hay: string): boolean {
-  return hay.includes("chatgpt") || /\bgpt\b/.test(hay) || /\bgpt-/.test(hay);
+  return hay.includes("chatgpt") || /\bgpt\b/.test(hay) || /\bgpt-/.test(hay) || /\bgpt\d/.test(hay);
 }
 
 function matchesLlmFamily(hay: string): boolean {
@@ -16,8 +16,10 @@ function matchesLlmFamily(hay: string): boolean {
 
 function matchesShortToken(hay: string, needle: string): boolean {
   if (needle === "ai") {
-    return /\bai\b/.test(hay) || /\bai-/.test(hay);
+    return /\bai\b/.test(hay) || /\bai-/.test(hay) || /\ba\.i\./.test(hay);
   }
+  if (needle === "ria") return /\brias?\b/.test(hay);
+  if (needle === "xai") return /\bxai\b/.test(hay);
   if (needle === "gpt") return matchesGptFamily(hay);
   if (needle === "llm") return matchesLlmFamily(hay);
   try {
@@ -39,6 +41,8 @@ export function matchesRequireAny(
     if (!needle) return false;
     if (needle === "chatgpt") return matchesGptFamily(hay);
     if (needle === "llms") return matchesLlmFamily(hay);
+    if (needle === "security") return /\bsecurity\b/.test(hay);
+    if (needle === "ria") return /\brias?\b/.test(hay);
     if (needle.length <= 3) return matchesShortToken(hay, needle);
     return hay.includes(needle);
   });

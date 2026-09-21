@@ -31,6 +31,18 @@ describe("matchesRequireAny", () => {
     assert.equal(matchesRequireAny("The AI revolution in wealth", "", ["ai"]), true);
   });
 
+  it("matches RIAs, A.I., GPT4, and xAI", () => {
+    assert.equal(matchesRequireAny("Tools for RIAs", "", ["ria"]), true);
+    assert.equal(matchesRequireAny("The A.I. exam", "", ["ai"]), true);
+    assert.equal(matchesRequireAny("Firms adopt GPT4", "", ["gpt"]), true);
+    assert.equal(matchesRequireAny("xAI opens a desk", "", ["xai"]), true);
+  });
+
+  it("does not treat cybersecurity as the word security", () => {
+    assert.equal(matchesRequireAny("cybersecurity drill", "", ["security"]), false);
+    assert.equal(matchesRequireAny("model security review", "", ["security"]), true);
+  });
+
   it("does not match 'said' as AI", () => {
     assert.equal(matchesRequireAny("said the chair", "", ["ai"]), false);
   });

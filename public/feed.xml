@@ -5,42 +5,69 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-21T17:46:57.964Z</updated>
+  <updated>2026-09-21T18:07:51.447Z</updated>
   <entry>
-    <title>Amazon Blocks Meta’s Muse AI Agent From Its Retail Site</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site</id>
-    <updated>2026-09-21T15:13:34.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Amazon.com Inc. has blocked Meta Platforms Inc.’s new artificial intelligence agent from its retail site after the social media company declined a request to remove the bot. — Also covered by: The Verge AI</summary>
-  </entry>
-  <entry>
-    <title>AI chatbots give wrong financial answers most of the time, study finds</title>
-    <link href="https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267"/>
-    <id>https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267</id>
-    <updated>2026-09-21T10:35:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things</title>
+    <link href="https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things"/>
+    <id>https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things</id>
+    <updated>2026-09-21T15:08:46.000Z</updated>
+    <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Major AI models failed to correctly answer financial questions in 57% of cases, new research shows, raising serious questions about consumer reliance on AI tools.</summary>
+    <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things wealthsolutionsreport.com</summary>
   </entry>
   <entry>
-    <title>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026"/>
-    <id>https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026</id>
-    <updated>2026-09-21T14:30:00.000Z</updated>
+    <title>Google confirms Gemini models hacked three companies in May 2026</title>
+    <link href="https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"/>
+    <id>https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026</id>
+    <updated>2026-09-21T16:57:26.000Z</updated>
+    <author><name>Ars Technica AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet. — Also covered by: The Verge AI</summary>
+  </entry>
+  <entry>
+    <title>OpenAI Urges Washington to Lead Global Effort to Create AI-Safety Standards</title>
+    <link href="https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96?mod=rss_Technology</id>
+    <updated>2026-09-21T17:49:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>President Trump said he wouldn’t stifle growth and that the Justice Department could “rein in things” if needed. — Also covered by: Bloomberg Tech</summary>
+  </entry>
+  <entry>
+    <title>AI in finance must be policed differently</title>
+    <link href="https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a"/>
+    <id>https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a</id>
+    <updated>2026-09-21T04:00:18.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help</summary>
+  </entry>
+  <entry>
+    <title>Jump Introduces AI-Assisted, Real-Time Account Opening with Schwab Advisor Services and Fidelity</title>
+    <link href="https://www.wealthtechstrategy.com/post/jump-introduces-ai-assisted-real-time-account-opening-with-schwab-advisor-services-and-fidelity"/>
+    <id>https://www.wealthtechstrategy.com/post/jump-introduces-ai-assisted-real-time-account-opening-with-schwab-advisor-services-and-fidelity</id>
+    <updated>2026-09-20T17:27:08.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Jump introduces AI-assisted, real-time account opening with Schwab Advisor Services and Fidelity. (2026, September 14). Business Wire. https://www.businesswire.com/news/home/20260914989068/en/Jump-Introduces-AI-Assisted-Real-Time-Account-Opening-with-Schwab-Advisor-Services-and-Fidelity Jump, an artificial intelligence — Also covered by: GN: wealth AI vendors, GN: wealth AI vendors</summary>
+  </entry>
+  <entry>
+    <title>Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini</title>
+    <link href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini"/>
+    <id>https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini</id>
+    <updated>2026-09-21T14:39:22.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.</summary>
+    <summary>Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.</summary>
   </entry>
   <entry>
-    <title>Remarks Before 12th Annual Government Enforcement Institute</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/woodcock-remarks-before-12th-annual-government-enforcement-institute-091826</id>
-    <updated>2026-09-18T14:40:06.000Z</updated>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>David Woodcock, Director, Division of Enforcement</summary>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
     <title>To Get a Piece of Anthropic, Retail Investors Are Open to Big Risks</title>
@@ -51,28 +78,28 @@
     <category term="WEALTHTECH"/>
   </entry>
   <entry>
-    <title>Papal envoy plans to visit Russia in late September, RIA says</title>
-    <link href="https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21"/>
-    <id>https://www.reuters.com/world/europe/papal-envoy-plans-visit-russia-late-september-ria-says-2026-09-21</id>
-    <updated>2026-09-21T13:54:31.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Market Strategist Julie Biel on the AI Craze. Plus, the Week’s Top Advisor News.</title>
+    <link href="https://www.barrons.com/advisor/articles/market-strategist-julie-biel-on-the-ai-craze-plus-the-weeks-top-advisor-news-33f18ea9"/>
+    <id>https://www.barrons.com/advisor/articles/market-strategist-julie-biel-on-the-ai-craze-plus-the-weeks-top-advisor-news-33f18ea9</id>
+    <updated>2026-09-21T16:58:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Papal envoy plans to visit Russia in late September, RIA says Reuters</summary>
+    <summary>In this weekly newsletter, we speak with Kayne Anderson Rudnick’s chief market strategist and review last week’s news.</summary>
   </entry>
   <entry>
-    <title>September 2026 Vendor Management News</title>
-    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
-    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
-    <updated>2026-09-17T06:00:00.000Z</updated>
-    <author><name>Ncontracts Nsight (vendor)</name></author>
+    <title>CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners</title>
+    <link href="https://www.consumerfinancemonitor.com/2026/09/18/csbs-releases-artificial-intelligence-supervisory-framework-for-state-examiners"/>
+    <id>https://www.consumerfinancemonitor.com/2026/09/18/csbs-releases-artificial-intelligence-supervisory-framework-for-state-examiners</id>
+    <updated>2026-09-18T14:47:26.000Z</updated>
+    <author><name>Ballard Consumer Finance Monitor</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
+    <summary>The Conference of State Bank Supervisors (CSBS) on September 16, 2026 released an Artificial Intelligence Supervisory Framework designed to help state financial examiners identify and understand how the bank and non-bank institutions they regulate are using artificial intelligence, assess the associated risks, and dete</summary>
   </entry>
   <entry>
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-11-05T15:00:00.000Z</updated>
+    <updated>2026-09-21T18:07:22.306Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
@@ -114,13 +141,22 @@
     <summary>Cleveland Clinic is a nonprofit academic medical center headquartered in Cleveland, Ohio, with operations in Florida, Las Vegas, Toronto, London, and Abu Dhabi. The health system employs 83,000 caregivers and operates 23 hospitals and 300 outpatient facilities.​ In 2025, Cleveland Clinic reported $18.3 billion in opera</summary>
   </entry>
   <entry>
-    <title>$, -</title>
-    <link href="https://www.wealthtechstrategy.com/post/crowwd-raises-260-000-in-pre-seed-round"/>
-    <id>https://www.wealthtechstrategy.com/post/crowwd-raises-260-000-in-pre-seed-round</id>
-    <updated>2026-09-21T15:33:05.000Z</updated>
+    <title>$</title>
+    <link href="https://www.wealthtechstrategy.com/post/pave-finance-raises-14-million-in-oversubscribed-seed-round-for-ai-portfolio-management-platform"/>
+    <id>https://www.wealthtechstrategy.com/post/pave-finance-raises-14-million-in-oversubscribed-seed-round-for-ai-portfolio-management-platform</id>
+    <updated>2026-09-21T15:21:09.000Z</updated>
     <author><name>WealthTech Strategy</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>Crowwd, a New Delhi based wealth-tech platform, has raised $260,000 in a pre-seed round from more than 30 investors at an approximate valuation of $5.2 million. Backers include Dr Ritesh Malik, founder of Innov8, Three Words Capital, Sachin Panwar, YogaCleanAir co-founders Deepak Raina and Gaurav Nagar, France based He</summary>
+    <summary>Pave Finance, Inc. has closed a $14 million seed financing round, exceeding its original $10 million target due to strong investor demand. The round was backed by former executives and board members of major financial services firms. Pave built an AI-powered platform that lets investment advisors customize, personalize</summary>
+  </entry>
+  <entry>
+    <title>AI chatbots give wrong financial answers most of the time, study finds</title>
+    <link href="https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267"/>
+    <id>https://www.investmentnews.com/fintech/ai-chatbots-give-wrong-financial-answers-most-of-the-time-study-finds/268267</id>
+    <updated>2026-09-21T10:35:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Major AI models failed to correctly answer financial questions in 57% of cases, new research shows, raising serious questions about consumer reliance on AI tools.</summary>
   </entry>
   <entry>
     <title>WealthTech Safari — Week of September 18, 2026</title>
@@ -132,58 +168,31 @@
     <summary>Charles Schwab and Anthropic bring Claude to 16,000 independent RIAs Schwab Advisor Services partnered with Anthropic to deliver Claude for Financial Advisors to more than 16,000 registered investment advisors, with authenticated access to Schwab Advisor Center inside Claude and integrations across CRM, custody, portfo</summary>
   </entry>
   <entry>
-    <title>Advisors want more client time. Is AI actually giving it to them?</title>
-    <link href="https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them"/>
-    <id>https://www.financial-planning.com/news/advisors-want-more-client-time-is-ai-actually-giving-it-to-them</id>
-    <updated>2026-09-17T16:28:02.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A new Vanguard and Escalent survey finds advisors are still using AI mostly for administrative tasks like meeting notes, even as firms plan to pour $1 trillion into the technology globally this year.</summary>
-  </entry>
-  <entry>
-    <title>How we made the first comprehensive map of deaths along the US border’s “virtual wall”</title>
-    <link href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology"/>
-    <id>https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology</id>
-    <updated>2026-09-21T12:00:00.000Z</updated>
-    <author><name>MIT Tech Review AI</name></author>
+    <title>UN says AI safeguards can’t wait for certainty</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle</id>
+    <updated>2026-09-21T10:18:06.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Die</summary>
+    <summary>Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as </summary>
   </entry>
   <entry>
-    <title>Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026"/>
-    <id>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026</id>
-    <updated>2026-09-21T15:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.</summary>
-  </entry>
-  <entry>
-    <title>NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection</title>
-    <link href="https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection"/>
-    <id>https://www.nasaa.org/comment-letters/nasaa-comment-letter-to-the-sec-regarding-file-no-sr-finra-2026-017-proposed-amendments-to-finra-rules-regarding-arbitrator-selection</id>
-    <updated>2026-09-18T13:49:52.000Z</updated>
-    <author><name>NASAA</name></author>
+    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
+    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
+    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
+    <updated>2026-09-18T21:20:12.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>The post NASAA Comment Letter to the SEC Regarding File No. SR-FINRA-2026-017, Proposed Amendments to FINRA Rules Regarding Arbitrator Selection appeared first on NASAA .</summary>
+    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
   </entry>
   <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
+    <title>EXAMS Accessible and Integrated</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626</id>
+    <updated>2026-09-16T19:37:47.000Z</updated>
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
-  </entry>
-  <entry>
-    <title>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things</title>
-    <link href="https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things"/>
-    <id>https://www.wealthsolutionsreport.com/ai-is-the-headline-but-ria-founders-should-be-watching-these-3-things</id>
-    <updated>2026-09-21T15:05:00.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>RIA Founders Should Look Beyond AI To Organic Growth, Talent Development And Technology-Enabled Scale As They Prepare For Future M&amp;A</summary>
+    <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
     <title>This Time It’s Different. Or Is It?</title>
@@ -195,37 +204,46 @@
     <summary>Four Wealthtech Executives Assess What Claude For Financial Advisors Means For Firms Already Serving Wealth Management</summary>
   </entry>
   <entry>
-    <title>Sunday links: the AI safety debate</title>
-    <link href="https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate"/>
-    <id>https://abnormalreturns.com/2026/09/20/sunday-links-the-ai-safety-debate</id>
-    <updated>2026-09-20T12:00:11.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>Market Strategist Julie Biel: The AI Craze Is Making These Quality Stocks More Affordable</title>
+    <link href="https://www.barrons.com/advisor/articles/ai-stocks-investing-software-saas-4e61c2c1"/>
+    <id>https://www.barrons.com/advisor/articles/ai-stocks-investing-software-saas-4e61c2c1</id>
+    <updated>2026-09-21T16:26:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets How bond math works with ~5% yields (awealthofcommonsense.com) How to structure a bond portfolio, especially if you don't know where interest rates are headed. (humbledollar.com) Bonds are now investable. (dampedspring101.substack.com) Berkshire Hathaway Howard Buffett is now the chairman of Berkshire Hathaway </summary>
+    <summary>Kayne Anderson Rudnick’s chief market strategist, Julie Biel, says investors’ rush to own big AI names has left some great industrial and financial stocks underpriced.</summary>
   </entry>
   <entry>
-    <title>How RIAs can build a practical AI compliance framework</title>
-    <link href="https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework"/>
-    <id>https://fintech.global/2026/09/14/how-rias-can-build-a-practical-ai-compliance-framework</id>
-    <updated>2026-09-14T17:43:09.000Z</updated>
-    <author><name>GN: RIA AI</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>How RIAs can build a practical AI compliance framework FinTech Global</summary>
+    <title>Is That a Prospective Client or an AI Deepfake? An Emerging Threat for Financial Advisors.</title>
+    <link href="https://www.barrons.com/advisor/articles/ai-deepfake-fraud-financial-advisors-7e111e1a"/>
+    <id>https://www.barrons.com/advisor/articles/ai-deepfake-fraud-financial-advisors-7e111e1a</id>
+    <updated>2026-09-21T15:09:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Financial advisors are facing a barrage of threats from swindlers looking to launder money or establish real credit histories for fake identities.</summary>
   </entry>
   <entry>
-    <title>AI in Finance and Banking, September 15, 2026</title>
-    <link href="https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026"/>
-    <id>https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-15-2026</id>
-    <updated>2026-09-15T16:12:57.000Z</updated>
-    <author><name>LLRX</name></author>
+    <title>Survey: AI Policies in Place, but They Are Often Short-Circuited</title>
+    <link href="https://www.corporatecomplianceinsights.com/news-roundup-september-18-2026"/>
+    <id>https://www.corporatecomplianceinsights.com/news-roundup-september-18-2026</id>
+    <updated>2026-09-18T14:26:44.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>This semi-monthly column by Sabrina I. Pacifici highlights news, government documents, NGO/IGO papers, books, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the</summary>
+    <summary>Plus: Two-thirds of auditors troubled by risk prediction; lower percentage of US businesses see AI returns The post Survey: AI Policies in Place, but They Are Often Short-Circuited appeared first on Corporate Compliance Insights .</summary>
+  </entry>
+  <entry>
+    <title>Experts welcome U.K.’s approach to AI supervision in financial services—but with provisos</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/experts-welcome-u-k-s-approach-to-ai-supervision-in-financial-services-but-with-provisos"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/experts-welcome-u-k-s-approach-to-ai-supervision-in-financial-services-but-with-provisos</id>
+    <updated>2026-09-18T14:00:00.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>The U.K.’s approach to regulating AI in financial services by focusing on outcomes and consumer protection, rather than introducing new rules, has been largely welcomed by experts—so long as the current regulatory framework is regularly reviewed. The post Experts welcome U.K.’s approach to AI supervision in financial s</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
     <link href="https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience"/>
     <id>https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience</id>
-    <updated>2026-11-03T15:00:00.000Z</updated>
+    <updated>2026-09-21T18:07:22.306Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>A roadmap towards engineering resilience into the technology estate from the outset.</summary>
@@ -234,7 +252,7 @@
     <title>AI in payments: Short-term gains, long-term transformation</title>
     <link href="https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation"/>
     <id>https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation</id>
-    <updated>2026-10-21T15:00:00.000Z</updated>
+    <updated>2026-09-21T18:07:22.306Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
@@ -256,23 +274,5 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>Legendary mining investor Robert Friedland joins Bloomberg Open Interest to explains why copper and rare earth metals have become the new front line in a US, China resource cold war. He breaks down how China quietly seized control of critical supply chains, why AI data centers are sending metal demand into overdrive an</summary>
-  </entry>
-  <entry>
-    <title>AI in finance must be policed differently</title>
-    <link href="https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a"/>
-    <id>https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a</id>
-    <updated>2026-09-21T04:00:18.000Z</updated>
-    <author><name>FT Asset Management</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help</summary>
-  </entry>
-  <entry>
-    <title>As LLMs spread, quants confront ‘lexical risk’</title>
-    <link href="https://www.risk.net/risk-management/7964116/as-llms-spread-quants-confront-%E2%80%98lexical-risk%E2%80%99"/>
-    <id>https://www.risk.net/risk-management/7964116/as-llms-spread-quants-confront-%E2%80%98lexical-risk%E2%80%99</id>
-    <updated>2026-09-21T03:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Users are finding the uncertainty in GenAI models is hard to measure</summary>
   </entry>
 </feed>
