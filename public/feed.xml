@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-22T04:39:25.741Z</updated>
-  <entry>
-    <title>Schwab's surprise unveiling of Anthropic deal at Future Proof shows it has an AI ace up its sleeve, but it may take five years or more to catch up with Altruist, if at all, say two analysts</title>
-    <link href="https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts"/>
-    <id>https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts</id>
-    <updated>2026-09-22T04:21:32.000Z</updated>
-    <author><name>RIABiz</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>RIAs are caught in the middle over data concerns, as the $6-trillion RIA custody giant blindsides the soon-to-be Vanguard-owned AI custodian.</summary>
-  </entry>
+  <updated>2026-09-22T09:50:21.302Z</updated>
   <entry>
     <title>Bill Harris Launches AI Financial Advice App</title>
     <link href="https://www.wealthmanagement.com/ria-news/bill-harris-launches-ai-financial-advice-app"/>
@@ -23,6 +14,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>The former PayPal and Intuit CEO’s new self-directed platform aims to democratize wealth management strategies for investors without requiring minimum balances. — Also covered by: FinTech Futures</summary>
+  </entry>
+  <entry>
+    <title>Schwab's surprise unveiling of Anthropic deal at Future Proof shows it has an AI ace up its sleeve, but it may take five years or more to catch up with Altruist, if at all, say two analysts</title>
+    <link href="https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts"/>
+    <id>https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts</id>
+    <updated>2026-09-22T04:21:32.000Z</updated>
+    <author><name>RIABiz</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>RIAs are caught in the middle over data concerns, as the $6-trillion RIA custody giant blindsides the soon-to-be Vanguard-owned AI custodian.</summary>
   </entry>
   <entry>
     <title>Claude has entered the chat. Will tens of thousands of RIAs reply?</title>
@@ -41,6 +41,15 @@
     <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
+  </entry>
+  <entry>
+    <title>GoCardless completes UK’s first agentic bank payment</title>
+    <link href="https://fintech.global/2026/09/22/gocardless-completes-uks-first-agentic-bank-payment"/>
+    <id>https://fintech.global/2026/09/22/gocardless-completes-uks-first-agentic-bank-payment</id>
+    <updated>2026-09-22T09:31:32.000Z</updated>
+    <author><name>FinTech Global</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>GoCardless has completed the UK’s first live agentic account-to-account payment, using an AI-guided checkout to process a recurring donation to anti-poverty charity Trussell. The transaction was completed within a conversation with an AI agent, which explained Trussell’s work, presented supporters with monthly donation — Also covered by: FinTech Futures</summary>
   </entry>
   <entry>
     <title>Google confirms Gemini models hacked three companies in May 2026</title>
@@ -88,31 +97,31 @@
     <summary>California Governor Gavin Newsom has issued an executive order to explore whether companies should develop a “kill switch” for any potentially harmful AI tech they develop. The post California presses ahead with executive order for AI safeguards, cites federal government “abject failure” appeared first on Compliance We</summary>
   </entry>
   <entry>
-    <title>The intelligent lending enterprise: AI, data and the new credit lifecycle</title>
-    <link href="https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle"/>
-    <id>https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle</id>
-    <updated>2026-09-23T15:00:00.000Z</updated>
+    <title>Alchemy integrates with Mastercard's Agent Pay</title>
+    <link href="https://www.finextra.com/pressarticle/110970/alchemy-integrates-with-mastercards-agent-pay"/>
+    <id>https://www.finextra.com/pressarticle/110970/alchemy-integrates-with-mastercards-agent-pay</id>
+    <updated>2026-09-22T10:43:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?</summary>
+    <summary>Alchemy, the leading AI developer and infrastructure platform for the onchain economy, today announced that AgentCard will support Mastercard payment credentials through an integration with Mastercard Agent Pay, giving developers a simple way to build AI agents that can safely complete purchases for users online.</summary>
   </entry>
   <entry>
-    <title>OpenAI sued by Canadian province over role in mass shooting</title>
-    <link href="https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1</id>
-    <updated>2026-09-22T01:28:52.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Saudi Boosts Hormuz Oil Exports; AI Trade Roars Back, $12B Maldives Property Deal</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-22/horizons-middle-east-africa-9-22-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-22/horizons-middle-east-africa-9-22-2026-video</id>
+    <updated>2026-09-22T06:37:29.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>British Columbia claims the ChatGPT maker failed to act after attacker’s account was flagged</summary>
+    <summary>Horizons Middle East &amp; Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or </summary>
   </entry>
   <entry>
-    <title>AI Product &amp; Service Launches – 9/21/2026</title>
-    <link href="https://www.planadviser.com/ai-product-service-launches-9-21-2026"/>
-    <id>https://www.planadviser.com/ai-product-service-launches-9-21-2026</id>
-    <updated>2026-09-21T21:14:36.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
+    <title>AI supercycle widens valuation divide across SaaS stocks</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-supercycle-widens-valuation-divide-across-saas-stocks"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-supercycle-widens-valuation-divide-across-saas-stocks</id>
+    <updated>2026-09-22T04:50:17.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Smarsh a dds agent, MCP s erver ; Trading Central l aunches MCP s erver ; and Evergreen Wealth CEO launches Evergreen.ai. — Also covered by: PlanAdviser AI</summary>
+    <summary>Software companies are seeing two different kinds of growth trajectories following the SaaSpocalypse earlier this year, with some firms trading at dizzying valuation multiples while others sit at a more subdued price when their business models are perceived as threatened by AI. FIS at Stanford University heard that the</summary>
   </entry>
   <entry>
     <title>AI staff complain of mental toll over fears of threat to society</title>
@@ -131,6 +140,15 @@
     <author><name>ABA Banking Journal AI</name></author>
     <category term="RESEARCH"/>
     <summary>Today’s young adults are beginning to build wealth years earlier than older generations did, but many of them still see homeownership as out of reach, according to a new survey by U.S. Bank. The post Survey finds younger generations more likely to start building wealth at early age appeared first on ABA Banking Journal</summary>
+  </entry>
+  <entry>
+    <title>Mark Zuckerberg's wealth jumps USD 25 billion in one day; Meta shares jump nearly 12% ahead of AI event</title>
+    <link href="https://www.india.com/business/mark-zuckerbergs-wealth-jumps-usd-25-billion-in-one-day-meta-shares-jump-nearly-12-ahead-of-ai-event-8528827"/>
+    <id>https://www.india.com/business/mark-zuckerbergs-wealth-jumps-usd-25-billion-in-one-day-meta-shares-jump-nearly-12-ahead-of-ai-event-8528827</id>
+    <updated>2026-09-22T09:07:33.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Mark Zuckerberg's wealth jumps USD 25 billion in one day; Meta shares jump nearly 12% ahead of AI event India.com</summary>
   </entry>
   <entry>
     <title>What advisors need to know as Trump and Xi meet this week</title>
@@ -160,15 +178,6 @@
     <summary>Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.</summary>
   </entry>
   <entry>
-    <title>CFTC Examines Agentic AI’s Growing Role in Finance</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance</id>
-    <updated>2026-09-21T19:43:33.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
-    <category term="REGULATION"/>
-    <summary>The Commodity Futures Trading Commission (CFTC) is hosting a series of roundtables devoted to new technologies in U.S. financial markets. The Frontier Forum series, hosted by the CFTC’s Innovation Task Force, will kick off next month with a discussion of artificial intelligence and agentic finance, the regulator announ</summary>
-  </entry>
-  <entry>
     <title>Information in the Age of AI</title>
     <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
     <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
@@ -176,6 +185,15 @@
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
     <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
+  </entry>
+  <entry>
+    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
+    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
+    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
+    <updated>2026-09-18T21:20:12.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
+    <category term="REGULATION"/>
+    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
   </entry>
   <entry>
     <title>To Get a Piece of Anthropic, Retail Investors Are Open to Big Risks</title>
@@ -196,13 +214,22 @@
     <summary>More than 60% of Americans now own stock, mostly through retirement plans, creating systemic risk if AI hopes fail.</summary>
   </entry>
   <entry>
-    <title>Monday links: personal agents</title>
-    <link href="https://abnormalreturns.com/2026/09/21/monday-links-personal-agents"/>
-    <id>https://abnormalreturns.com/2026/09/21/monday-links-personal-agents</id>
-    <updated>2026-09-21T23:56:11.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>The human advantage in an AI-powered asset management industry</title>
+    <link href="https://www.professionaladviser.com/opinion/4536047/human-advantage-ai-powered-asset-management-industry"/>
+    <id>https://www.professionaladviser.com/opinion/4536047/human-advantage-ai-powered-asset-management-industry</id>
+    <updated>2026-09-22T08:08:35.000Z</updated>
+    <author><name>Professional Adviser</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets Oil refiners are winning, while truckers are losing. (trendlabs.com) Demand for credit is real. (mrzepczynski.blogspot.com) Strategy What has to go right for your stock pick to work out. (obliviousinvestor.com) No single portfolio works for everyone. (tker.co) AI How to get to a $2 trillion valuation for Anthop</summary>
+    <summary>Future asset management distribution models will look very different. Successful investment firms will have humble leaders who effectively orchestrate internal talent, specialist external partners and AI-enabled workflows, argues Apiramy Jeyarajah</summary>
+  </entry>
+  <entry>
+    <title>AI Product &amp; Service Launches – 9/21/2026</title>
+    <link href="https://www.planadviser.com/ai-product-service-launches-9-21-2026"/>
+    <id>https://www.planadviser.com/ai-product-service-launches-9-21-2026</id>
+    <updated>2026-09-21T21:14:36.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Smarsh a dds agent, MCP s erver ; Trading Central l aunches MCP s erver ; and Evergreen Wealth CEO launches Evergreen.ai.</summary>
   </entry>
   <entry>
     <title>CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners</title>
@@ -214,66 +241,39 @@
     <summary>The Conference of State Bank Supervisors (CSBS) on September 16, 2026 released an Artificial Intelligence Supervisory Framework designed to help state financial examiners identify and understand how the bank and non-bank institutions they regulate are using artificial intelligence, assess the associated risks, and dete</summary>
   </entry>
   <entry>
-    <title>How acquirers are commercialising fraud intelligence</title>
-    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
-    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-22T04:39:01.230Z</updated>
+    <title>GoCardless processes first agentic account-to-account transaction in the UK</title>
+    <link href="https://www.finextra.com/pressarticle/110969/gocardless-processes-first-agentic-account-to-account-transaction-in-the-uk"/>
+    <id>https://www.finextra.com/pressarticle/110969/gocardless-processes-first-agentic-account-to-account-transaction-in-the-uk</id>
+    <updated>2026-09-22T10:03:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Turning fraud from a cost centre to a growth lever.</summary>
+    <summary>Bank payment company GoCardless has processed the first agentic account-to-account transaction in the UK, an AI-driven donation on its website for Trussell, the anti-poverty charity and community of food banks.</summary>
   </entry>
   <entry>
-    <title>Mind the gap: What’s missing from modern resilience?</title>
-    <link href="https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience"/>
-    <id>https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience</id>
-    <updated>2026-09-22T04:39:01.230Z</updated>
+    <title>The intelligent lending enterprise: AI, data and the new credit lifecycle</title>
+    <link href="https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle"/>
+    <id>https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle</id>
+    <updated>2026-09-23T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>A roadmap towards engineering resilience into the technology estate from the outset.</summary>
+    <summary>In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?</summary>
   </entry>
   <entry>
-    <title>Tencent Releases AI Image Model to Catch ByteDance, Alibaba</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba</id>
-    <updated>2026-09-22T03:13:10.000Z</updated>
+    <title>OpenAI sued by Canadian province over role in mass shooting</title>
+    <link href="https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1</id>
+    <updated>2026-09-22T01:28:52.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>British Columbia claims the ChatGPT maker failed to act after attacker’s account was flagged</summary>
+  </entry>
+  <entry>
+    <title>Rising Yields Pose Risk to Equity Valuations, RBC BlueBay Says</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-22/rising-yields-pose-risk-to-stock-valuations-rbc-bluebay-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-22/rising-yields-pose-risk-to-stock-valuations-rbc-bluebay-video</id>
+    <updated>2026-09-22T08:50:49.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba Group Holding Ltd. kicked off its AI conference, signaling intent to catch up to industry leaders like ByteDance Ltd.</summary>
-  </entry>
-  <entry>
-    <title>Why AI agents are like staff you can’t trust</title>
-    <link href="https://www.risk.net/our-take/7964154/why-ai-agents-are-like-staff-you-can%E2%80%99t-trust"/>
-    <id>https://www.risk.net/our-take/7964154/why-ai-agents-are-like-staff-you-can%E2%80%99t-trust</id>
-    <updated>2026-09-22T03:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Uncertainty implicit in GenAI systems means risk managers have to take a more adversarial approach</summary>
-  </entry>
-  <entry>
-    <title>Risk managers go softly-softly on AI adoption</title>
-    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964124/risk-managers-go-softly-softly-on-ai-adoption"/>
-    <id>https://www.risk.net/benchmarking/enterprise-risk/7964124/risk-managers-go-softly-softly-on-ai-adoption</id>
-    <updated>2026-09-21T03:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>ERM teams still in testing mode for most AI use cases, latest Risk Benchmarking study shows</summary>
-  </entry>
-  <entry>
-    <title>Building standards for the next phase of AI</title>
-    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
-    <id>https://openai.com/index/building-standards-next-phase-ai</id>
-    <updated>2026-09-21T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</summary>
-  </entry>
-  <entry>
-    <title>Artificial Intelligence at Cleveland Clinic</title>
-    <link href="https://emerj.com/artificial-intelligence-at-cleveland-clinic"/>
-    <id>https://emerj.com/artificial-intelligence-at-cleveland-clinic</id>
-    <updated>2026-09-21T10:00:00.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
-    <category term="RESEARCH"/>
-    <summary>Cleveland Clinic is a nonprofit academic medical center headquartered in Cleveland, Ohio, with operations in Florida, Las Vegas, Toronto, London, and Abu Dhabi. The health system employs 83,000 caregivers and operates 23 hospitals and 300 outpatient facilities.​ In 2025, Cleveland Clinic reported $18.3 billion in opera</summary>
+    <summary>Mike Bell, head of market strategy at RBC BlueBay Asset Management, discusses the outlook for bond yields, equity valuations and the artificial intelligence trade. &quot;The equity risk premium is very compressed,&quot; Bell says on Bloomberg Television. &quot;Any moves higher in bond yields are going to push that earnings yield up a</summary>
   </entry>
 </feed>
