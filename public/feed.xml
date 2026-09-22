@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-21T23:11:15.042Z</updated>
+  <updated>2026-09-22T04:39:25.741Z</updated>
+  <entry>
+    <title>Schwab's surprise unveiling of Anthropic deal at Future Proof shows it has an AI ace up its sleeve, but it may take five years or more to catch up with Altruist, if at all, say two analysts</title>
+    <link href="https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts"/>
+    <id>https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts</id>
+    <updated>2026-09-22T04:21:32.000Z</updated>
+    <author><name>RIABiz</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>RIAs are caught in the middle over data concerns, as the $6-trillion RIA custody giant blindsides the soon-to-be Vanguard-owned AI custodian.</summary>
+  </entry>
   <entry>
     <title>Bill Harris Launches AI Financial Advice App</title>
     <link href="https://www.wealthmanagement.com/ria-news/bill-harris-launches-ai-financial-advice-app"/>
@@ -34,15 +43,6 @@
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
   </entry>
   <entry>
-    <title>British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting</title>
-    <link href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_Technology</id>
-    <updated>2026-09-21T21:26:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
-    <category term="REGULATION"/>
-    <summary>The lawsuit alleges that the AI company failed to notify law enforcement and calls out product safety gaps. — Also covered by: Bloomberg Tech</summary>
-  </entry>
-  <entry>
     <title>Google confirms Gemini models hacked three companies in May 2026</title>
     <link href="https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"/>
     <id>https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026</id>
@@ -50,15 +50,6 @@
     <author><name>Ars Technica AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet. — Also covered by: The Verge AI</summary>
-  </entry>
-  <entry>
-    <title>AI in finance must be policed differently</title>
-    <link href="https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a"/>
-    <id>https://www.ft.com/content/fdb3a153-4b10-4ac0-987a-c4e0b02a5b3a</id>
-    <updated>2026-09-21T04:00:18.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Subjecting agentic AI to an equivalent of the FCA’s existing rule book could deprive millions of investors of valuable help</summary>
   </entry>
   <entry>
     <title>Anthropic barred from model training in Schwab’s Claude deal</title>
@@ -79,40 +70,58 @@
     <summary>Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.</summary>
   </entry>
   <entry>
+    <title>British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting</title>
+    <link href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_Technology</id>
+    <updated>2026-09-21T21:26:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="REGULATION"/>
+    <summary>The lawsuit alleges that the AI company failed to notify law enforcement and calls out product safety gaps.</summary>
+  </entry>
+  <entry>
+    <title>California presses ahead with executive order for AI safeguards, cites federal government “abject failure”</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/california-presses-ahead-with-executive-order-for-ai-safeguards-cites-federal-government-abject-failure"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/california-presses-ahead-with-executive-order-for-ai-safeguards-cites-federal-government-abject-failure</id>
+    <updated>2026-09-22T02:59:11.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>California Governor Gavin Newsom has issued an executive order to explore whether companies should develop a “kill switch” for any potentially harmful AI tech they develop. The post California presses ahead with executive order for AI safeguards, cites federal government “abject failure” appeared first on Compliance We</summary>
+  </entry>
+  <entry>
+    <title>The intelligent lending enterprise: AI, data and the new credit lifecycle</title>
+    <link href="https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle"/>
+    <id>https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle</id>
+    <updated>2026-09-23T15:00:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?</summary>
+  </entry>
+  <entry>
+    <title>OpenAI sued by Canadian province over role in mass shooting</title>
+    <link href="https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1</id>
+    <updated>2026-09-22T01:28:52.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>British Columbia claims the ChatGPT maker failed to act after attacker’s account was flagged</summary>
+  </entry>
+  <entry>
     <title>AI Product &amp; Service Launches – 9/21/2026</title>
     <link href="https://www.planadviser.com/ai-product-service-launches-9-21-2026"/>
     <id>https://www.planadviser.com/ai-product-service-launches-9-21-2026</id>
     <updated>2026-09-21T21:14:36.000Z</updated>
     <author><name>PlanAdviser AI</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Smarsh a dds agent, MCP s erver ; Trading Central l aunches MCP s erver ; and Evergreen Wealth CEO launches Evergreen.ai.</summary>
+    <category term="INSTITUTIONAL"/>
+    <summary>Smarsh a dds agent, MCP s erver ; Trading Central l aunches MCP s erver ; and Evergreen Wealth CEO launches Evergreen.ai. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>How acquirers are commercialising fraud intelligence</title>
-    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
-    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-21T23:11:04.989Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Turning fraud from a cost centre to a growth lever.</summary>
-  </entry>
-  <entry>
-    <title>KKR Bets on Korea AI Supply Chain After Record $3 Billion Deals</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-21/kkr-bets-on-korea-ai-supply-chain-after-record-3-billion-deals"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-21/kkr-bets-on-korea-ai-supply-chain-after-record-3-billion-deals</id>
-    <updated>2026-09-21T21:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>KKR &amp; Co. expects more dealmaking opportunities in South Korea after plowing around $3 billion into the country this year, betting its central role in the global artificial-intelligence supply chain will fuel demand for everything from data centers to power.</summary>
-  </entry>
-  <entry>
-    <title>Building standards for the next phase of AI</title>
-    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
-    <id>https://openai.com/index/building-standards-next-phase-ai</id>
-    <updated>2026-09-21T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>AI staff complain of mental toll over fears of threat to society</title>
+    <link href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1</id>
+    <updated>2026-09-22T04:00:02.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</summary>
+    <summary>Top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout and stress over developing powerful AI</summary>
   </entry>
   <entry>
     <title>Survey finds younger generations more likely to start building wealth at early age</title>
@@ -122,15 +131,6 @@
     <author><name>ABA Banking Journal AI</name></author>
     <category term="RESEARCH"/>
     <summary>Today’s young adults are beginning to build wealth years earlier than older generations did, but many of them still see homeownership as out of reach, according to a new survey by U.S. Bank. The post Survey finds younger generations more likely to start building wealth at early age appeared first on ABA Banking Journal</summary>
-  </entry>
-  <entry>
-    <title>Orion Digital Corp. (TSX:ORIO) Rises 3.52% as AI-Driven Wealth Strategy and Improving Earnings Lift Sentiment</title>
-    <link href="https://kalkine.ca/news/financial/orion-digital-corp-tsxorio-rises-352-as-ai-driven-wealth-strategy-and-improving-earnings-lift-sentiment"/>
-    <id>https://kalkine.ca/news/financial/orion-digital-corp-tsxorio-rises-352-as-ai-driven-wealth-strategy-and-improving-earnings-lift-sentiment</id>
-    <updated>2026-09-21T17:03:00.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Orion Digital Corp. (TSX:ORIO) Rises 3.52% as AI-Driven Wealth Strategy and Improving Earnings Lift Sentiment kalkine.ca</summary>
   </entry>
   <entry>
     <title>What advisors need to know as Trump and Xi meet this week</title>
@@ -196,22 +196,13 @@
     <summary>More than 60% of Americans now own stock, mostly through retirement plans, creating systemic risk if AI hopes fail.</summary>
   </entry>
   <entry>
-    <title>Market Strategist Julie Biel on the AI Craze. Plus, the Week’s Top Advisor News.</title>
-    <link href="https://www.barrons.com/advisor/articles/market-strategist-julie-biel-on-the-ai-craze-plus-the-weeks-top-advisor-news-33f18ea9"/>
-    <id>https://www.barrons.com/advisor/articles/market-strategist-julie-biel-on-the-ai-craze-plus-the-weeks-top-advisor-news-33f18ea9</id>
-    <updated>2026-09-21T16:58:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
+    <title>Monday links: personal agents</title>
+    <link href="https://abnormalreturns.com/2026/09/21/monday-links-personal-agents"/>
+    <id>https://abnormalreturns.com/2026/09/21/monday-links-personal-agents</id>
+    <updated>2026-09-21T23:56:11.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>In this weekly newsletter, we speak with Kayne Anderson Rudnick’s chief market strategist and review last week’s news.</summary>
-  </entry>
-  <entry>
-    <title>Market Strategist Julie Biel: The AI Craze Is Making These Quality Stocks More Affordable</title>
-    <link href="https://www.barrons.com/advisor/articles/ai-stocks-investing-software-saas-4e61c2c1"/>
-    <id>https://www.barrons.com/advisor/articles/ai-stocks-investing-software-saas-4e61c2c1</id>
-    <updated>2026-09-21T16:26:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Kayne Anderson Rudnick’s chief market strategist, Julie Biel, says investors’ rush to own big AI names has left some great industrial and financial stocks underpriced.</summary>
+    <summary>Markets Oil refiners are winning, while truckers are losing. (trendlabs.com) Demand for credit is real. (mrzepczynski.blogspot.com) Strategy What has to go right for your stock pick to work out. (obliviousinvestor.com) No single portfolio works for everyone. (tker.co) AI How to get to a $2 trillion valuation for Anthop</summary>
   </entry>
   <entry>
     <title>CSBS Releases Artificial Intelligence Supervisory Framework for State Examiners</title>
@@ -223,49 +214,40 @@
     <summary>The Conference of State Bank Supervisors (CSBS) on September 16, 2026 released an Artificial Intelligence Supervisory Framework designed to help state financial examiners identify and understand how the bank and non-bank institutions they regulate are using artificial intelligence, assess the associated risks, and dete</summary>
   </entry>
   <entry>
-    <title>Survey: AI Policies in Place, but They Are Often Short-Circuited</title>
-    <link href="https://www.corporatecomplianceinsights.com/news-roundup-september-18-2026"/>
-    <id>https://www.corporatecomplianceinsights.com/news-roundup-september-18-2026</id>
-    <updated>2026-09-18T14:26:44.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Plus: Two-thirds of auditors troubled by risk prediction; lower percentage of US businesses see AI returns The post Survey: AI Policies in Place, but They Are Often Short-Circuited appeared first on Corporate Compliance Insights .</summary>
+    <title>How acquirers are commercialising fraud intelligence</title>
+    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
+    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
+    <updated>2026-09-22T04:39:01.230Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
     <title>Mind the gap: What’s missing from modern resilience?</title>
     <link href="https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience"/>
     <id>https://www.finextra.com/event-info/639/mind-the-gap-whats-missing-from-modern-resilience</id>
-    <updated>2026-09-21T23:11:04.989Z</updated>
+    <updated>2026-09-22T04:39:01.230Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>A roadmap towards engineering resilience into the technology estate from the outset.</summary>
   </entry>
   <entry>
-    <title>AI in payments: Short-term gains, long-term transformation</title>
-    <link href="https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation"/>
-    <id>https://www.finextra.com/event-info/635/ai-in-payments-short-term-gains-long-term-transformation</id>
-    <updated>2026-09-21T23:11:04.989Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>In five years’ time, will AI make payments more efficient, or will it fundamentally change how money moves around the world?</summary>
+    <title>Tencent Releases AI Image Model to Catch ByteDance, Alibaba</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba</id>
+    <updated>2026-09-22T03:13:10.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba Group Holding Ltd. kicked off its AI conference, signaling intent to catch up to industry leaders like ByteDance Ltd.</summary>
   </entry>
   <entry>
-    <title>Computation and Data Movement for Inference</title>
-    <link href="https://newsletter.semianalysis.com/p/computation-and-data-movement-for"/>
-    <id>https://newsletter.semianalysis.com/p/computation-and-data-movement-for</id>
-    <updated>2026-09-21T18:14:15.000Z</updated>
-    <author><name>SemiAnalysis</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Mapping MoE models onto inference hardware: structure, flow, and efficient serving</summary>
-  </entry>
-  <entry>
-    <title>OpenAI joins call for US-led global AI standards</title>
-    <link href="https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1</id>
-    <updated>2026-09-21T17:24:34.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns</summary>
+    <title>Why AI agents are like staff you can’t trust</title>
+    <link href="https://www.risk.net/our-take/7964154/why-ai-agents-are-like-staff-you-can%E2%80%99t-trust"/>
+    <id>https://www.risk.net/our-take/7964154/why-ai-agents-are-like-staff-you-can%E2%80%99t-trust</id>
+    <updated>2026-09-22T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Uncertainty implicit in GenAI systems means risk managers have to take a more adversarial approach</summary>
   </entry>
   <entry>
     <title>Risk managers go softly-softly on AI adoption</title>
@@ -275,5 +257,23 @@
     <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>ERM teams still in testing mode for most AI use cases, latest Risk Benchmarking study shows</summary>
+  </entry>
+  <entry>
+    <title>Building standards for the next phase of AI</title>
+    <link href="https://openai.com/index/building-standards-next-phase-ai"/>
+    <id>https://openai.com/index/building-standards-next-phase-ai</id>
+    <updated>2026-09-21T10:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</summary>
+  </entry>
+  <entry>
+    <title>Artificial Intelligence at Cleveland Clinic</title>
+    <link href="https://emerj.com/artificial-intelligence-at-cleveland-clinic"/>
+    <id>https://emerj.com/artificial-intelligence-at-cleveland-clinic</id>
+    <updated>2026-09-21T10:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>Cleveland Clinic is a nonprofit academic medical center headquartered in Cleveland, Ohio, with operations in Florida, Las Vegas, Toronto, London, and Abu Dhabi. The health system employs 83,000 caregivers and operates 23 hospitals and 300 outpatient facilities.​ In 2025, Cleveland Clinic reported $18.3 billion in opera</summary>
   </entry>
 </feed>
