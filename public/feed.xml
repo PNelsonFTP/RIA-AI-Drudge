@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-23T16:45:19.587Z</updated>
-  <entry>
-    <title>Milemarker Launches Advisory Firm MCP AI Server</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/milemarker-launches-ai-server-for-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/milemarker-launches-ai-server-for-advisors</id>
-    <updated>2026-09-22T14:54:11.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>The Snowflake-native platform's new server connects advisory firms to more than 140 custodians, CRMs, portfolio systems and planning tools through a single governed interface. — Also covered by: WealthTech Strategy</summary>
-  </entry>
+  <updated>2026-09-23T20:10:14.782Z</updated>
   <entry>
     <title>Schwab's surprise unveiling of Anthropic deal at Future Proof shows it has an AI ace up its sleeve, but it may take five years or more to catch up with Altruist, if at all, say two analysts</title>
     <link href="https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts"/>
@@ -34,22 +25,22 @@
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
   </entry>
   <entry>
-    <title>Wavvest launches in-house RIA</title>
-    <link href="https://www.investmentnews.com/advisor-tech/wavvest-launches-in-house-ria/268305"/>
-    <id>https://www.investmentnews.com/advisor-tech/wavvest-launches-in-house-ria/268305</id>
-    <updated>2026-09-23T13:03:18.000Z</updated>
+    <title>Savvy Wealth opens its custodial platform to outside RIAs</title>
+    <link href="https://www.investmentnews.com/goria/custodian/savvy-wealth-opens-its-custodial-platform-to-outside-rias/268321"/>
+    <id>https://www.investmentnews.com/goria/custodian/savvy-wealth-opens-its-custodial-platform-to-outside-rias/268321</id>
+    <updated>2026-09-23T18:14:11.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>AI-native operating systems seek to monetize as platforms instead of SaaS</summary>
+    <summary>The AI-native RIA is pitching 90-second client onboarding to independent firms weeks after landing $100 million Series C.</summary>
   </entry>
   <entry>
-    <title>Ema raises $77M as AI starts eating into enterprise software and services</title>
-    <link href="https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services"/>
-    <id>https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services</id>
-    <updated>2026-09-23T12:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Anthropic’s biolab made a discovery it’s comparing to Crispr</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</id>
+    <updated>2026-09-23T18:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.</summary>
+    <summary>Anthropic says its AI Claude has &quot;autonomously discovered&quot; a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Clau</summary>
   </entry>
   <entry>
     <title>ZeroDrift Launches Anchor 3.0, the First Family of Models Built for Enforcement Runtime of AI Agent Communications</title>
@@ -61,49 +52,40 @@
     <summary>ZeroDrift Launches Anchor 3.0, the First Family of Models Built for Enforcement Runtime of AI Agent Communications markets.businessinsider.com</summary>
   </entry>
   <entry>
-    <title>Savvy Wealth Launches Custodial Platform for RIAs</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/savvy-wealth-launches-custodial-platform-for-rias"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/savvy-wealth-launches-custodial-platform-for-rias</id>
-    <updated>2026-09-23T10:00:00.000Z</updated>
+    <title>How Fiscal Sponsorship Can Streamline Philanthropic Giving</title>
+    <link href="https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving"/>
+    <id>https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving</id>
+    <updated>2026-09-23T20:01:17.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The AI-native RIA's new offering promises 90-second client onboarding through integrated technology, with NFS providing clearing and custody services.</summary>
+    <summary>By operating under an established nonprofit’s tax-exempt umbrella, charitable initiatives can accelerate fundraising, reduce administrative hurdles and focus on advancing their missions</summary>
   </entry>
   <entry>
-    <title>Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers</title>
-    <link href="https://www.advisorhub.com/morning-bell-wrapup-9-23-2026"/>
-    <id>https://www.advisorhub.com/morning-bell-wrapup-9-23-2026</id>
-    <updated>2026-09-23T14:18:27.000Z</updated>
-    <author><name>AdvisorHub</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers appeared first on AdvisorHub .</summary>
-  </entry>
-  <entry>
-    <title>Boards Say They Need More From Management on AI</title>
-    <link href="https://www.corporatecomplianceinsights.com/boards-say-they-need-more-from-management-ai"/>
-    <id>https://www.corporatecomplianceinsights.com/boards-say-they-need-more-from-management-ai</id>
-    <updated>2026-09-23T12:57:01.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>AI-Related Securities Suit Filings Continue to Surge</title>
+    <link href="https://www.dandodiary.com/2026/09/articles/securities-litigation/ai-related-securities-suit-filings-continue-to-surge"/>
+    <id>https://www.dandodiary.com/2026/09/articles/securities-litigation/ai-related-securities-suit-filings-continue-to-surge</id>
+    <updated>2026-09-23T19:39:10.000Z</updated>
+    <author><name>The D&amp;O Diary</name></author>
     <category term="COMPLIANCE"/>
-    <summary>PwC survey finds directors hesitant to use AI for oversight duties The post Boards Say They Need More From Management on AI appeared first on Corporate Compliance Insights .</summary>
+    <summary>In our recent round-up of the top D&amp;O stories so far this year, one of the top developments in 2026 we noted is the growing amount of AI-related D&amp;O litigation. The AI-related litigation trend has continued to develop, as new AI-related lawsuits continue to be filed. In recent days, plaintiffs’ lawyers have filed two f</summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-23T16:45:05.445Z</updated>
+    <updated>2026-09-23T20:10:01.008Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Anthropic Unveils Cheaper Claude Opus 5.5 Ahead of Expected IPO</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-23/anthropic-unveils-cheaper-claude-opus-5-5-ahead-of-ipo-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-23/anthropic-unveils-cheaper-claude-opus-5-5-ahead-of-ipo-video</id>
-    <updated>2026-09-23T16:19:12.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Arizona Senator Mark Kelly to Introduce New AI Workforce Bill</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-23/senator-mark-kelly-to-introduce-new-ai-workforce-bill-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-23/senator-mark-kelly-to-introduce-new-ai-workforce-bill-video</id>
+    <updated>2026-09-23T18:55:29.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Anthropic PBC is releasing a new artificial intelligence model called Claude Opus 5.5 that is similar to Fable 5.1. Anthropic says this model is faster and costs less to use. The Claude maker is expected to hold its initial public offering as soon as this fall. Bloomberg's Rachel Metz reports. (Source: Bloomberg)</summary>
+    <summary>Democrat Senator from Arizona Mark Kelly discussed his plans to unveil a new bill aimed at mitigating AI impact on the workforce and said that it is important to generate revenue from AI companies to 'give people options.' Kelly also weighed in on President Trump's summit with China's President Xi and said he does not </summary>
   </entry>
   <entry>
     <title>Scottish Mortgage's Tom Slater: AI build out likely to be 'volatile ride'</title>
@@ -115,49 +97,67 @@
     <summary>Scottish Mortgage investment trust (SMT) co-manager Tom Slater said the build out of AI infrastructure is likely to be “a volatile ride” but backed his strategy amid increasing demand for compute.</summary>
   </entry>
   <entry>
-    <title>Ringg’s AI agents resolve up to 65% of customer calls with OpenAI</title>
-    <link href="https://openai.com/index/ringg"/>
-    <id>https://openai.com/index/ringg</id>
-    <updated>2026-09-24T12:00:00.000Z</updated>
+    <title>Introducing MentalHealthBench</title>
+    <link href="https://openai.com/index/introducing-mentalhealthbench"/>
+    <id>https://openai.com/index/introducing-mentalhealthbench</id>
+    <updated>2026-09-23T10:00:00.000Z</updated>
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.</summary>
+    <summary>MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.</summary>
   </entry>
   <entry>
-    <title>Is Your Tech Stack AAA Ready? Understanding Auditable Agentic Autonomy for Advisory Firms</title>
-    <link href="https://www.practifi.com/blog/is-your-tech-stack-aaa-ready-understanding-auditable-agentic-autonomy-for-advisory-firms"/>
-    <id>https://www.practifi.com/blog/is-your-tech-stack-aaa-ready-understanding-auditable-agentic-autonomy-for-advisory-firms</id>
-    <updated>2026-09-23T15:05:48.000Z</updated>
-    <author><name>Practifi (vendor)</name></author>
+    <title>Boards Say They Need More From Management on AI</title>
+    <link href="https://www.corporatecomplianceinsights.com/boards-say-they-need-more-from-management-ai"/>
+    <id>https://www.corporatecomplianceinsights.com/boards-say-they-need-more-from-management-ai</id>
+    <updated>2026-09-23T12:57:01.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>PwC survey finds directors hesitant to use AI for oversight duties The post Boards Say They Need More From Management on AI appeared first on Corporate Compliance Insights .</summary>
+  </entry>
+  <entry>
+    <title>Coming Soon: Use AI to build a Balance Sheet in Vanilla</title>
+    <link href="https://www.justvanilla.com/blog/coming-soon-magic-balance-sheet"/>
+    <id>https://www.justvanilla.com/blog/coming-soon-magic-balance-sheet</id>
+    <updated>2026-09-23T17:13:29.000Z</updated>
+    <author><name>Vanilla (vendor)</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>For as long as I can remember, advisory firms have wanted their systems to talk to each other properly. That hope is old, it is reasonable, and AI has intensified it, perhaps further than it should have. I think that explains most of the reaction to Claude for Financial Advisors at Future Proof, which was […] The post </summary>
+    <summary>Data entry is one of the most time-consuming parts of getting a new client plan underway, and one of the least valuable places for you to spend your time. Every hour spent transcribing information is an hour not spent on strategy. We’re tackling this problem by introducing the Magic Balance Sheet, powered by VAI – … Co</summary>
   </entry>
   <entry>
-    <title>At Future Proof, wealth management industry weighs realities of the AI revolution</title>
-    <link href="https://www.investmentnews.com/practice-management/at-future-proof-wealth-management-industry-weighs-realities-of-the-ai-revolution/268308"/>
-    <id>https://www.investmentnews.com/practice-management/at-future-proof-wealth-management-industry-weighs-realities-of-the-ai-revolution/268308</id>
-    <updated>2026-09-22T22:19:46.000Z</updated>
+    <title>Wavvest launches in-house RIA</title>
+    <link href="https://www.investmentnews.com/advisor-tech/wavvest-launches-in-house-ria/268305"/>
+    <id>https://www.investmentnews.com/advisor-tech/wavvest-launches-in-house-ria/268305</id>
+    <updated>2026-09-23T13:03:18.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>“The true unlock is not just using AI,” said Eve Cout of Vanguard.</summary>
+    <summary>AI-native operating systems seek to monetize as platforms instead of SaaS</summary>
   </entry>
   <entry>
-    <title>YouTube will let you build your own algorithm with AI</title>
-    <link href="https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai"/>
-    <id>https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai</id>
-    <updated>2026-09-23T14:30:00.000Z</updated>
+    <title>Choreo taps Beemo AI agents to draft proposals, scale onboarding</title>
+    <link href="https://www.investmentnews.com/transformation/choreo-taps-beemo-ai-agents-to-draft-proposals-scale-onboarding/268322"/>
+    <id>https://www.investmentnews.com/transformation/choreo-taps-beemo-ai-agents-to-draft-proposals-scale-onboarding/268322</id>
+    <updated>2026-09-23T19:11:09.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Beemo's agents will draft client proposals and surface custodial data from Schwab for Choreo's 120-plus advisors across 21 states</summary>
+  </entry>
+  <entry>
+    <title>Ema raises $77M as AI starts eating into enterprise software and services</title>
+    <link href="https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services"/>
+    <id>https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services</id>
+    <updated>2026-09-23T12:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.</summary>
+    <summary>Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.</summary>
   </entry>
   <entry>
-    <title>Google faces UK push to put AI assistants on Android, Chrome choice screens</title>
-    <link href="https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23"/>
-    <id>https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23</id>
-    <updated>2026-09-23T10:15:53.000Z</updated>
+    <title>OECD expects AI boom to help offset Middle East energy shock for now</title>
+    <link href="https://www.reuters.com/world/china/oecd-expects-ai-boom-help-offset-middle-east-energy-shock-now-2026-09-23"/>
+    <id>https://www.reuters.com/world/china/oecd-expects-ai-boom-help-offset-middle-east-energy-shock-now-2026-09-23</id>
+    <updated>2026-09-23T17:09:57.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Google faces UK push to put AI assistants on Android, Chrome choice screens Reuters</summary>
+    <summary>OECD expects AI boom to help offset Middle East energy shock for now Reuters</summary>
   </entry>
   <entry>
     <title>Artificial Intelligence as a Tool to Reduce Racial Bias in Medicine: Challenges and Opportunities</title>
@@ -178,46 +178,55 @@
     <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
-    <title>There’s Much More To M&amp;A Than Just AUM Or AI</title>
-    <link href="https://www.wealthsolutionsreport.com/theres-much-more-to-m-a-than-just-aum-or-ai"/>
-    <id>https://www.wealthsolutionsreport.com/theres-much-more-to-m-a-than-just-aum-or-ai</id>
-    <updated>2026-09-23T13:19:22.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
+    <title>The Associate in the Server Closet: On-Premises AI</title>
+    <link href="https://www.wealthmanagement.com/estate-planning/the-associate-in-the-server-closet-on-premises-ai"/>
+    <id>https://www.wealthmanagement.com/estate-planning/the-associate-in-the-server-closet-on-premises-ai</id>
+    <updated>2026-09-23T17:16:42.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Plus Our Deals &amp; Recruiting Roundup, WSR Podcasts, Private Credit, Advisor Productivity, Claude For Financial Advisors, Apex Partners With FusionIQ, Sanctuary’s Hires, Apella’s Acquisitions And More</summary>
+    <summary>The authors explain the differences between on-premises artificial intelligence and AI off site</summary>
   </entry>
   <entry>
-    <title>Ben Goss: Where on the Mills spectrum is Claude for Financial Advisors?</title>
-    <link href="https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors"/>
-    <id>https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors</id>
-    <updated>2026-09-23T07:00:39.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
+    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
+    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
+    <updated>2026-09-23T11:01:28.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
+  </entry>
+  <entry>
+    <title>Meta’s Muse AI Agent Triggers Worries About Brokerage Stocks</title>
+    <link href="https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc"/>
+    <id>https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc</id>
+    <updated>2026-09-23T19:36:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>This week’s announcement by Anthropic, currently the world’s largest AI provider, launching Claude for Financial Advisors, has raised eyebrows and interest from advice firms on both sides of the pond. To use the FCA’s Mills Review AI automation spectrum, is this a land grab for… The post Ben Goss: Where on the Mills sp</summary>
+    <summary>Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta’s Muse AI agent became the latest catalyst.</summary>
   </entry>
   <entry>
-    <title>In the AI governance race, EY’s Dilek Çilingir explains how compliance can keep AI in step</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/in-the-ai-governance-race-eys-dilek-cilingir-explains-how-compliance-can-keep-ai-in-step"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/in-the-ai-governance-race-eys-dilek-cilingir-explains-how-compliance-can-keep-ai-in-step</id>
-    <updated>2026-09-23T14:57:36.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>AI has driven massive change in three years, but governance hasn’t kept up, creating integrity and compliance gaps. Risks from hallucinations, misunderstood outputs, and democratized use are now clearer, while some organizations are cutting soaring AI costs. The post In the AI governance race, EY’s Dilek Çilingir expla</summary>
+    <title>Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-9-23-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-9-23-2026</id>
+    <updated>2026-09-23T14:18:27.000Z</updated>
+    <author><name>AdvisorHub</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
-    <title>Congress Seems Stalled on AI Regulation. The States Aren’t.</title>
-    <link href="https://www.corporatecomplianceinsights.com/congress-seems-stalled-ai-regulation-states-arent"/>
-    <id>https://www.corporatecomplianceinsights.com/congress-seems-stalled-ai-regulation-states-arent</id>
-    <updated>2026-09-22T11:00:58.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>Why Autonomous Agents Cannot Be Given the Keys to Your Law Practice</title>
+    <link href="https://www.llrx.com/2026/09/why-autonomous-agents-cannot-be-given-the-keys-to-your-law-practice"/>
+    <id>https://www.llrx.com/2026/09/why-autonomous-agents-cannot-be-given-the-keys-to-your-law-practice</id>
+    <updated>2026-09-23T17:32:09.000Z</updated>
+    <author><name>LLRX</name></author>
     <category term="COMPLIANCE"/>
-    <summary>New Illinois law imposes some of the country’s toughest requirements on frontier AI developers, including audits &amp; incident reporting The post Congress Seems Stalled on AI Regulation. The States Aren’t. appeared first on Corporate Compliance Insights .</summary>
+    <summary>Artificial intelligence is moving beyond the chat window. The next generation of tools does not merely draft an email, summarize a document, or answer a question. It can browse the web, search connected systems, open files, follow links, use software tools, upload information, submit forms, and take multi-step action t</summary>
   </entry>
   <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-23T16:45:05.445Z</updated>
+    <updated>2026-09-23T20:10:01.008Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,28 +235,28 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-23T16:45:05.445Z</updated>
+    <updated>2026-09-23T20:10:01.008Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Data Center Debt Is Making Investors Choosier: Cisar</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-23/data-center-debt-is-making-investors-choosier-cisar-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-23/data-center-debt-is-making-investors-choosier-cisar-video</id>
-    <updated>2026-09-23T15:23:10.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements</title>
+    <link href="https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3"/>
+    <id>https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3</id>
+    <updated>2026-09-23T19:57:38.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Winnie Cisar, global head of strategy at CreditSights, says a surge in AI infrastructure financing is making high-yield investors more selective as billions of dollars of data center debt come to market. “People start to get a little bit choosier in terms of how are we going to allocate our capital,” Cisar says on “Blo</summary>
+    <summary>Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents</summary>
   </entry>
   <entry>
-    <title>Global Tensions Not Slowing Capital: Blackstone's Nides</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-23/global-tensions-not-slowing-capital-blackstone-s-nides-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-23/global-tensions-not-slowing-capital-blackstone-s-nides-video</id>
-    <updated>2026-09-23T16:13:27.000Z</updated>
+    <title>No Slowdown Expected Ahead of Midterms: Top Dealmakers</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-23/no-slowdown-expected-ahead-of-midterms-top-dealmakers-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-23/no-slowdown-expected-ahead-of-midterms-top-dealmakers-video</id>
+    <updated>2026-09-23T19:42:09.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Tom Nides, vice chairman of strategy and client relations at Blackstone, talks with Dani Burger on &quot;Bloomberg Deals.&quot; They discuss global dealmaking, China, Canada, AI and data center &quot;anxiety.&quot; (Source: Bloomberg)</summary>
+    <summary>JPMorgan Global Head of M&amp;A Charlie Bouckaert and Weil Partner Michael Aiello discuss global dealmaking trends, AI disruption, and the &quot;war for talent&quot; with Dani Burger and David Carnevali on &quot;Bloomberg Deals.&quot; (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Beyond the black box: interpretability of LLMs in finance</title>
@@ -266,14 +275,5 @@
     <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Risk Benchmarking: Mandates expanding to include new threats like AI and geopolitical risk, but majority report flat to down headcount</summary>
-  </entry>
-  <entry>
-    <title>Two years of OpenAI Academy</title>
-    <link href="https://openai.com/index/two-years-of-openai-academy"/>
-    <id>https://openai.com/index/two-years-of-openai-academy</id>
-    <updated>2026-09-23T16:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Marking two years of OpenAI Academy and bringing AI skills to even more communities.</summary>
   </entry>
 </feed>
