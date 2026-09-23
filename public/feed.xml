@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-22T21:58:49.935Z</updated>
+  <updated>2026-09-23T00:16:37.528Z</updated>
   <entry>
     <title>Bill Harris Launches AI Financial Advice App</title>
     <link href="https://www.wealthmanagement.com/ria-news/bill-harris-launches-ai-financial-advice-app"/>
@@ -50,6 +50,15 @@
     <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
+  </entry>
+  <entry>
+    <title>At Future Proof, wealth management industry weighs realities of the AI revolution</title>
+    <link href="https://www.investmentnews.com/practice-management/at-future-proof-wealth-management-industry-weighs-realities-of-the-ai-revolution/268308"/>
+    <id>https://www.investmentnews.com/practice-management/at-future-proof-wealth-management-industry-weighs-realities-of-the-ai-revolution/268308</id>
+    <updated>2026-09-22T22:19:46.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>“The true unlock is not just using AI,” said Eve Cout of Vanguard.</summary>
   </entry>
   <entry>
     <title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
@@ -97,13 +106,13 @@
     <summary>In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?</summary>
   </entry>
   <entry>
-    <title>Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut</id>
-    <updated>2026-09-22T18:53:33.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic and OpenAI release cheaper models as price war intensifies</title>
+    <link href="https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1</id>
+    <updated>2026-09-22T20:31:16.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>A pair of companies delayed their IPOs, sending a ripple of anxiety through the US market as investors wait for Anthropic PBC’s hotly anticipated debut to materialize.</summary>
+    <summary>New Claude and ChatGPT tools slash costs from earlier versions while promising better performance</summary>
   </entry>
   <entry>
     <title>AI supercycle widens valuation divide across SaaS stocks</title>
@@ -160,13 +169,13 @@
     <summary>Anthropic called it &quot;the strongest-performing model we've tested to date.&quot;</summary>
   </entry>
   <entry>
-    <title>Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity</id>
-    <updated>2026-09-22T16:30:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO</title>
+    <link href="https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22"/>
+    <id>https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22</id>
+    <updated>2026-09-22T17:00:42.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model releas</summary>
+    <summary>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO Reuters</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -235,7 +244,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-22T21:58:38.487Z</updated>
+    <updated>2026-09-23T00:16:22.303Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,36 +253,27 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-22T21:58:38.487Z</updated>
+    <updated>2026-09-23T00:16:22.303Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Quantum Marketing Season 2 Trailer</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-22/quantum-marketing-season-2-trailer-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-22/quantum-marketing-season-2-trailer-video</id>
-    <updated>2026-09-22T20:02:49.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Qualcomm CFO on Snapdragon and Two New Mobile Platforms</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-22/qualcomm-cfo-on-snapdragon-and-two-new-mobile-platforms-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-22/qualcomm-cfo-on-snapdragon-and-two-new-mobile-platforms-video</id>
+    <updated>2026-09-22T21:56:19.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>From social media to AI, advertising has changed dramatically in a short time. Host Raja Rajamannar sits down with marketing leaders to learn how they cut through the noise to reach consumers. (Source: Bloomberg)</summary>
+    <summary>Qualcomm shares rose 2% as the company opened its Snapdragon Summit and unveiled two new flagship mobile platforms. Akash Palkhiwala says the event is focused on bringing Qualcomm’s technology into hundreds of millions of devices over the next few years, with a major emphasis on “agentic AI.” He speaks with Romaine Bos</summary>
   </entry>
   <entry>
-    <title>Anthropic and OpenAI release cheaper models as price war intensifies</title>
-    <link href="https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1</id>
-    <updated>2026-09-22T20:31:16.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>AI Leaders Are Standing On a Liability Landmine</title>
+    <link href="https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060?mod=rss_Technology</id>
+    <updated>2026-09-22T16:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>New Claude and ChatGPT tools slash costs from earlier versions while promising better performance</summary>
-  </entry>
-  <entry>
-    <title>Identifying supply chain credit risk in China’s textile industry using an ensemble explainable artificial intelligence model</title>
-    <link href="https://www.risk.net/node/7964162"/>
-    <id>https://www.risk.net/node/7964162</id>
-    <updated>2026-09-22T11:32:49.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>The authors focus on data mining of financial credit risk information and knowledge in the supply chain from the perspective of explainable artificial intelligence to address credit risk identification in supply chain enterprises.</summary>
+    <summary>Plus, Anthropic delays its IPO, and AI agents have trust issues.</summary>
   </entry>
 </feed>
