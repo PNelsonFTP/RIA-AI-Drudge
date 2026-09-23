@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-23T05:49:23.678Z</updated>
+  <updated>2026-09-23T11:23:03.341Z</updated>
   <entry>
     <title>Milemarker Launches Advisory Firm MCP AI Server</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/milemarker-launches-ai-server-for-advisors"/>
@@ -23,24 +23,6 @@
     <author><name>RIABiz</name></author>
     <category term="WEALTHTECH"/>
     <summary>RIAs are caught in the middle over data concerns, as the $6-trillion RIA custody giant blindsides the soon-to-be Vanguard-owned AI custodian.</summary>
-  </entry>
-  <entry>
-    <title>Bill Harris Launches AI Financial Advice App</title>
-    <link href="https://www.wealthmanagement.com/ria-news/bill-harris-launches-ai-financial-advice-app"/>
-    <id>https://www.wealthmanagement.com/ria-news/bill-harris-launches-ai-financial-advice-app</id>
-    <updated>2026-09-21T18:47:23.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The former PayPal and Intuit CEO’s new self-directed platform aims to democratize wealth management strategies for investors without requiring minimum balances. — Also covered by: WealthTech Strategy</summary>
-  </entry>
-  <entry>
-    <title>Claude has entered the chat. Will tens of thousands of RIAs reply?</title>
-    <link href="https://www.financial-planning.com/news/claude-entered-the-chat-will-thousands-of-rias-reply"/>
-    <id>https://www.financial-planning.com/news/claude-entered-the-chat-will-thousands-of-rias-reply</id>
-    <updated>2026-09-21T20:56:01.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Anthropic lined up some of the biggest names in the industry for the rollout of Claude for Financial Advisors. But whether the tool is &quot;revolutionary&quot; or &quot;just another integration,&quot; the hard work is just beginning for the AI firm and for its sole custody partner, Schwab Advisor Services. — Also covered by: American Banker AI</summary>
   </entry>
   <entry>
     <title>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things</title>
@@ -61,31 +43,40 @@
     <summary>“The true unlock is not just using AI,” said Eve Cout of Vanguard.</summary>
   </entry>
   <entry>
-    <title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
-    <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"/>
-    <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna</id>
-    <updated>2026-09-22T18:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>OpenAI nabs key Patreon execs ahead of upcoming announcement</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam</id>
+    <updated>2026-09-23T11:02:39.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI is launching two new models, which it says are cut from the same cloth as Astra.</summary>
+    <summary>OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and</summary>
   </entry>
   <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
-    <author><name>SEC Speeches</name></author>
+    <title>Artificial Intelligence as a Tool to Reduce Racial Bias in Medicine: Challenges and Opportunities</title>
+    <link href="https://www.clinicaladvisor.com/features/can-ai-reduce-racial-bias-in-medicine"/>
+    <id>https://www.clinicaladvisor.com/features/can-ai-reduce-racial-bias-in-medicine</id>
+    <updated>2026-09-21T04:00:00.000Z</updated>
+    <author><name>GN: SEC AI</name></author>
     <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
+    <summary>Artificial Intelligence as a Tool to Reduce Racial Bias in Medicine: Challenges and Opportunities Clinical Advisor</summary>
   </entry>
   <entry>
-    <title>Market Brief: Bond Investors Are Getting Picky About the AI Debt Boom</title>
-    <link href="https://www.advisorhub.com/morning-bell-wrapup-9-22-2026"/>
-    <id>https://www.advisorhub.com/morning-bell-wrapup-9-22-2026</id>
-    <updated>2026-09-22T13:41:03.000Z</updated>
-    <author><name>AdvisorHub</name></author>
+    <title>Savvy Wealth Launches Custodial Platform for RIAs</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/savvy-wealth-launches-custodial-platform-for-rias"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/savvy-wealth-launches-custodial-platform-for-rias</id>
+    <updated>2026-09-23T10:00:00.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The AI-native RIA's new offering promises 90-second client onboarding through integrated technology, with NFS providing clearing and custody services.</summary>
+  </entry>
+  <entry>
+    <title>Ben Goss: Where on the Mills spectrum is Claude for Financial Advisors?</title>
+    <link href="https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors"/>
+    <id>https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors</id>
+    <updated>2026-09-23T07:00:39.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Bond Investors Are Getting Picky About the AI Debt Boom appeared first on AdvisorHub .</summary>
+    <summary>This week’s announcement by Anthropic, currently the world’s largest AI provider, launching Claude for Financial Advisors, has raised eyebrows and interest from advice firms on both sides of the pond. To use the FCA’s Mills Review AI automation spectrum, is this a land grab for… The post Ben Goss: Where on the Mills sp</summary>
   </entry>
   <entry>
     <title>Congress Seems Stalled on AI Regulation. The States Aren’t.</title>
@@ -106,22 +97,22 @@
     <summary>In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?</summary>
   </entry>
   <entry>
-    <title>Chinese AI Firms Fall on Report of DeepSeek, Moonshot Probe</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-23/chinese-ai-firms-fall-on-report-of-deepseek-moonshot-probe"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-23/chinese-ai-firms-fall-on-report-of-deepseek-moonshot-probe</id>
-    <updated>2026-09-23T05:00:44.000Z</updated>
+    <title>AI Agents Are Upending a Big Slice of the Stock Market</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-09-23/ai-agents-are-upending-a-big-slice-of-the-stock-market"/>
+    <id>https://www.bloomberg.com/news/newsletters/2026-09-23/ai-agents-are-upending-a-big-slice-of-the-stock-market</id>
+    <updated>2026-09-23T10:19:07.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Shares of Chinese AI model developers fell after a report that the country’s regulators have opened a probe into startups DeepSeek and Moonshot AI over data security concerns.</summary>
+    <summary>Banks, brokers, travel booking companies hit by threat to ‘consumer inertia.’</summary>
   </entry>
   <entry>
-    <title>ERM’s influence is growing as its ranks are shrinking</title>
-    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking"/>
-    <id>https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking</id>
-    <updated>2026-09-23T03:30:00.000Z</updated>
+    <title>Beyond the black box: interpretability of LLMs in finance</title>
+    <link href="https://www.risk.net/cutting-edge/7964165/beyond-the-black-box-interpretability-of-llms-in-finance"/>
+    <id>https://www.risk.net/cutting-edge/7964165/beyond-the-black-box-interpretability-of-llms-in-finance</id>
+    <updated>2026-09-23T10:02:07.000Z</updated>
     <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Risk Benchmarking: Mandates expanding to include new threats like AI and geopolitical risk, but majority report flat to down headcount</summary>
+    <summary>Mechanistic interpretability identifies and locates modifications in computational mechanisms, enabling targeted interventions in critical workflows</summary>
   </entry>
   <entry>
     <title>Introducing GPT-6 Sol and Luna</title>
@@ -151,13 +142,13 @@
     <summary>Milemarker. (2026, September 22). Milemarker launches Firm MCP, giving wealth management firms their own AI foundation across every system they use. EIN Presswire. https://www.einpresswire.com/article/942410070/milemarker-launches-firm-mcp-giving-wealth-management-firms-their-own-ai-foundation-across-every-system-they-</summary>
   </entry>
   <entry>
-    <title>AI financial advice sparks demand for human advisors among Gen Z</title>
-    <link href="https://www.investmentnews.com/transformation/ai-financial-advice-sparks-demand-for-human-advisors-among-gen-z/268283"/>
-    <id>https://www.investmentnews.com/transformation/ai-financial-advice-sparks-demand-for-human-advisors-among-gen-z/268283</id>
-    <updated>2026-09-22T10:43:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>New York Life research finds AI is pushing Gen Z toward financial professionals, not away from them.</summary>
+    <title>OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
+    <link href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"/>
+    <id>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna</id>
+    <updated>2026-09-22T18:00:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI is launching two new models, which it says are cut from the same cloth as Astra.</summary>
   </entry>
   <entry>
     <title>Anthropic releases Opus 5.5 with lower prices and Fable-level performance</title>
@@ -169,13 +160,13 @@
     <summary>Anthropic called it &quot;the strongest-performing model we've tested to date.&quot;</summary>
   </entry>
   <entry>
-    <title>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO</title>
-    <link href="https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22"/>
-    <id>https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22</id>
-    <updated>2026-09-22T17:00:42.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>AI infrastructure firm Accelevation targets up to $5.4 billion valuation in US IPO Reuters</summary>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
     <title>EXAMS Accessible and Integrated</title>
@@ -187,49 +178,22 @@
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
-    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
-    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
-    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
-    <updated>2026-09-18T21:20:12.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
-    <category term="REGULATION"/>
-    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
-  </entry>
-  <entry>
-    <title>Charitable Gift Annuities</title>
-    <link href="https://www.wealthmanagement.com/estate-planning/charitable-gift-annuities"/>
-    <id>https://www.wealthmanagement.com/estate-planning/charitable-gift-annuities</id>
-    <updated>2026-09-22T19:38:10.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
+    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
+    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
+    <updated>2026-09-23T11:01:28.000Z</updated>
+    <author><name>WealthTech Today</name></author>
     <category term="WEALTHTECH"/>
-    <summary>A multipurpose option for philanthropic clients</summary>
+    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
   </entry>
   <entry>
-    <title>Hightower Advisors Hires Vanguard Executive as New President</title>
-    <link href="https://www.wealthmanagement.com/ria-news/hightower-advisors-names-marco-de-freitas-president"/>
-    <id>https://www.wealthmanagement.com/ria-news/hightower-advisors-names-marco-de-freitas-president</id>
-    <updated>2026-09-22T17:29:24.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Marco De Freitas will oversee operations, technology and AI strategy. Jennifer Frazier becomes president of the firm's Signature Wealth division.</summary>
-  </entry>
-  <entry>
-    <title>4 questions to help advisors avoid AI tools with risky embedded flaws</title>
-    <link href="https://www.financial-planning.com/opinion/4-questions-to-help-advisors-avoid-ai-tools-with-risky-embedded-flaws"/>
-    <id>https://www.financial-planning.com/opinion/4-questions-to-help-advisors-avoid-ai-tools-with-risky-embedded-flaws</id>
-    <updated>2026-09-22T12:00:00.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Greece’s Richest Shipping Magnate Rides AI Boom With Nvidia</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-23/greece-s-richest-shipping-magnate-rides-ai-boom-with-nvidia-bet"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-23/greece-s-richest-shipping-magnate-rides-ai-boom-with-nvidia-bet</id>
+    <updated>2026-09-23T07:58:30.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>When AI providers use the increasingly vague catchphrase &quot;human in the loop&quot; as a verbal safety net, client outcomes and firm reputations are at risk.</summary>
-  </entry>
-  <entry>
-    <title>A Lawyer’s AI Bookshelf: What’s Worth Reading, What’s Not, And One Book From 1950</title>
-    <link href="https://www.llrx.com/2026/09/a-lawyers-ai-bookshelf-whats-worth-reading-whats-not-and-one-book-from-1950"/>
-    <id>https://www.llrx.com/2026/09/a-lawyers-ai-bookshelf-whats-worth-reading-whats-not-and-one-book-from-1950</id>
-    <updated>2026-09-22T14:48:13.000Z</updated>
-    <author><name>LLRX</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>There’s an obvious objection to recommending books about AI: timeliness. Any book about the tools themselves is out of date by the time it's printed. But that misses the point, as Jerry Lawson points out. Good books are still better than a vendor demo or a LinkedIn post at providing a framework for understanding what t</summary>
+    <summary>Maria Angelicoussis, the magnate behind Greece’s biggest shipping fortune, has scored big gains outside her maritime empire with a bet on technology giant Nvidia Corp. after her family office shifted away from private markets.</summary>
   </entry>
   <entry>
     <title>California presses ahead with executive order for AI safeguards, cites federal government “abject failure”</title>
@@ -241,39 +205,75 @@
     <summary>California Governor Gavin Newsom has issued an executive order to explore whether companies should develop a “kill switch” for any potentially harmful AI tech they develop. The post California presses ahead with executive order for AI safeguards, cites federal government “abject failure” appeared first on Compliance We</summary>
   </entry>
   <entry>
+    <title>A Lawyer’s AI Bookshelf: What’s Worth Reading, What’s Not, And One Book From 1950</title>
+    <link href="https://www.llrx.com/2026/09/a-lawyers-ai-bookshelf-whats-worth-reading-whats-not-and-one-book-from-1950"/>
+    <id>https://www.llrx.com/2026/09/a-lawyers-ai-bookshelf-whats-worth-reading-whats-not-and-one-book-from-1950</id>
+    <updated>2026-09-22T14:48:13.000Z</updated>
+    <author><name>LLRX</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>There’s an obvious objection to recommending books about AI: timeliness. Any book about the tools themselves is out of date by the time it's printed. But that misses the point, as Jerry Lawson points out. Good books are still better than a vendor demo or a LinkedIn post at providing a framework for understanding what t</summary>
+  </entry>
+  <entry>
+    <title>Sustainable Finance Live: How Investment Sceptics Can Be Convinced to Support Communities</title>
+    <link href="https://www.finextra.com/videoarticle/3598/sustainable-finance-live-how-investment-sceptics-can-be-convinced-to-support-communities"/>
+    <id>https://www.finextra.com/videoarticle/3598/sustainable-finance-live-how-investment-sceptics-can-be-convinced-to-support-communities</id>
+    <updated>2026-09-23T11:30:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>In this interview in the lead-up to Sustainable Finance Live 2026, we discuss impact investing within local communities.</summary>
+  </entry>
+  <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-23T05:49:11.843Z</updated>
+    <updated>2026-09-23T11:22:50.969Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
-    <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
-    <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-23T05:49:11.843Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Post-incident fraud management needs to adapt. But how?</summary>
+    <title>Bloomberg News Now</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-news-now-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-news-now-video</id>
+    <updated>2026-09-23T10:16:59.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Trump Hails Iran Talks Even as Tehran Sets ‘Firm Positions’ Trump &amp; Burnham Exchanged ‘Warm Words’ Xi &amp; Trump Seek Safe AI Without Tech Race Slowing Sen. Wicker Warns of Xi’s Visit Trump Plans Two Military Bases in Greenland AI Safety Top Agenda at UN General Assembly (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>Heidi CEO on AI in Healthcare, $900M valuation</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-23/heidi-ceo-on-ai-in-healthcare-900m-valuation-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-23/heidi-ceo-on-ai-in-healthcare-900m-valuation-video</id>
-    <updated>2026-09-23T03:56:09.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Trump Revives Iran Deal Hopes, Meta AI Rattles 'Consumer Inertia Trade'</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-23/the-pulse-9-23-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-23/the-pulse-9-23-2026-video</id>
+    <updated>2026-09-23T09:57:42.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Thomas Kelly, CEO and Co-founder of Melbourne-based AI Healthcare startup firm Heidi, discusses its latest $100M fundraising around that took the company to a $900M valuation. He also talks about the company's business strategies and plans to expand to more markets, using AI to help doctors streamline research, clinica</summary>
+    <summary>&quot;The Pulse With Francine Lacqua&quot; is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Holger Schmieding, Berenberg Chief Econ</summary>
   </entry>
   <entry>
-    <title>SoftBank Offers Record Yields on Jumbo Junk Bonds in AI Push</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push</id>
-    <updated>2026-09-23T02:42:10.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Billionaire Masayoshi Son’s SoftBank Group Corp. kicked off what’s set to be one of the largest corporate junk bond sales ever as the Japanese conglomerate offers record yields to entice investors into helping fund its unprecedented investments in artificial intelligence.</summary>
+    <title>ERM’s influence is growing as its ranks are shrinking</title>
+    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking"/>
+    <id>https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking</id>
+    <updated>2026-09-23T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Risk Benchmarking: Mandates expanding to include new threats like AI and geopolitical risk, but majority report flat to down headcount</summary>
+  </entry>
+  <entry>
+    <title>AI supercycle widens valuation divide across SaaS stocks</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-supercycle-widens-valuation-divide-across-saas-stocks"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-supercycle-widens-valuation-divide-across-saas-stocks</id>
+    <updated>2026-09-22T04:50:17.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Software companies are seeing two different kinds of growth trajectories following the SaaSpocalypse earlier this year, with some firms trading at dizzying valuation multiples while others sit at a more subdued price when their business models are perceived as threatened by AI. FIS at Stanford University heard that the</summary>
+  </entry>
+  <entry>
+    <title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
+    <link href="https://openai.com/index/grab-openai-ai-skills-southeast-asia"/>
+    <id>https://openai.com/index/grab-openai-ai-skills-southeast-asia</id>
+    <updated>2026-09-23T00:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.</summary>
   </entry>
 </feed>
