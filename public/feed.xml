@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-23T23:35:26.190Z</updated>
-  <entry>
-    <title>OpenAI ‘agent’ hacked an Australian health service website</title>
-    <link href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1</id>
-    <updated>2026-09-23T23:04:28.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’ — Also covered by: WSJ Tech, Bloomberg Tech</summary>
-  </entry>
+  <updated>2026-09-24T04:32:34.239Z</updated>
   <entry>
     <title>Savvy Wealth opens its custodial platform to outside RIAs</title>
     <link href="https://www.investmentnews.com/goria/custodian/savvy-wealth-opens-its-custodial-platform-to-outside-rias/268321"/>
@@ -41,6 +32,15 @@
     <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
+  </entry>
+  <entry>
+    <title>OpenAI ‘agent’ hacked an Australian health service website</title>
+    <link href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1</id>
+    <updated>2026-09-24T01:25:44.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>AI lab took months to spot the problem, which Prime Minister Anthony Albanese called ‘obviously unacceptable’ — Also covered by: WSJ Tech</summary>
   </entry>
   <entry>
     <title>Anthropic says its biology lab has already found something big</title>
@@ -88,22 +88,22 @@
     <summary>In our recent round-up of the top D&amp;O stories so far this year, one of the top developments in 2026 we noted is the growing amount of AI-related D&amp;O litigation. The AI-related litigation trend has continued to develop, as new AI-related lawsuits continue to be filed. In recent days, plaintiffs’ lawyers have filed two f</summary>
   </entry>
   <entry>
-    <title>MyComplianceOffice lands over $100m strategic investment</title>
-    <link href="https://www.finextra.com/newsarticle/48463/mycomplianceoffice-lands-over-100m-strategic-investment"/>
-    <id>https://www.finextra.com/newsarticle/48463/mycomplianceoffice-lands-over-100m-strategic-investment</id>
-    <updated>2026-09-24T00:01:00.000Z</updated>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-09-24T04:32:24.437Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>MyComplianceOffice (MCO), a provider of compliance management software for the financial services industry, has secured over $100 million in strategic growth financing from Accel-KKR Credit Partners.</summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Scottish Mortgage's Tom Slater: AI build out likely to be 'volatile ride'</title>
-    <link href="https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride"/>
-    <id>https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride</id>
-    <updated>2026-09-23T14:07:43.000Z</updated>
-    <author><name>Investment Week</name></author>
+    <title>What happens when AI gets good at your risk management job?</title>
+    <link href="https://www.risk.net/comment/7964144/what-happens-when-ai-gets-good-at-your-risk-management-job"/>
+    <id>https://www.risk.net/comment/7964144/what-happens-when-ai-gets-good-at-your-risk-management-job</id>
+    <updated>2026-09-24T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Scottish Mortgage investment trust (SMT) co-manager Tom Slater said the build out of AI infrastructure is likely to be “a volatile ride” but backed his strategy amid increasing demand for compute.</summary>
+    <summary>Risk executive Alex Golbin asks how to build a valuable career in risk as agentic AI takes on more analysis</summary>
   </entry>
   <entry>
     <title>Google Beam expands with new regions, partners, and customers</title>
@@ -142,31 +142,22 @@
     <summary>Beemo's agents will draft client proposals and surface custodial data from Schwab for Choreo's 120-plus advisors across 21 states</summary>
   </entry>
   <entry>
-    <title>Anthropic’s biolab made a discovery it’s comparing to Crispr</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr</id>
-    <updated>2026-09-23T18:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit</title>
+    <link href="https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23"/>
+    <id>https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23</id>
+    <updated>2026-09-23T16:46:39.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic says its AI Claude has &quot;autonomously discovered&quot; a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Clau</summary>
+    <summary>OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit Reuters</summary>
   </entry>
   <entry>
-    <title>Ema raises $77M as AI starts eating into enterprise software and services</title>
-    <link href="https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services"/>
-    <id>https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services</id>
-    <updated>2026-09-23T12:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Meta's Muse rekindles fears over winners and losers as personal AI agent emerges</title>
+    <link href="https://www.reuters.com/business/finance/metas-muse-rekindles-fears-over-winners-losers-personal-ai-agent-emerges-2026-09-23"/>
+    <id>https://www.reuters.com/business/finance/metas-muse-rekindles-fears-over-winners-losers-personal-ai-agent-emerges-2026-09-23</id>
+    <updated>2026-09-23T20:20:19.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.</summary>
-  </entry>
-  <entry>
-    <title>Artificial Intelligence as a Tool to Reduce Racial Bias in Medicine: Challenges and Opportunities</title>
-    <link href="https://www.clinicaladvisor.com/features/can-ai-reduce-racial-bias-in-medicine"/>
-    <id>https://www.clinicaladvisor.com/features/can-ai-reduce-racial-bias-in-medicine</id>
-    <updated>2026-09-21T04:00:00.000Z</updated>
-    <author><name>GN: SEC AI</name></author>
-    <category term="REGULATION"/>
-    <summary>Artificial Intelligence as a Tool to Reduce Racial Bias in Medicine: Challenges and Opportunities Clinical Advisor</summary>
+    <summary>Meta's Muse rekindles fears over winners and losers as personal AI agent emerges Reuters</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -187,22 +178,22 @@
     <summary>The authors explain the differences between on-premises artificial intelligence and AI off site</summary>
   </entry>
   <entry>
-    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
-    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
-    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
-    <updated>2026-09-23T11:01:28.000Z</updated>
-    <author><name>WealthTech Today</name></author>
+    <title>There’s Much More To M&amp;A Than Just AUM Or AI</title>
+    <link href="https://www.wealthsolutionsreport.com/theres-much-more-to-m-a-than-just-aum-or-ai"/>
+    <id>https://www.wealthsolutionsreport.com/theres-much-more-to-m-a-than-just-aum-or-ai</id>
+    <updated>2026-09-23T13:19:22.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
+    <summary>Plus Our Deals &amp; Recruiting Roundup, WSR Podcasts, Private Credit, Advisor Productivity, Claude For Financial Advisors, Apex Partners With FusionIQ, Sanctuary’s Hires, Apella’s Acquisitions And More</summary>
   </entry>
   <entry>
-    <title>Meta’s Muse AI Agent Triggers Worries About Brokerage Stocks</title>
-    <link href="https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc"/>
-    <id>https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc</id>
-    <updated>2026-09-23T19:36:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
+    <title>Ben Goss: Where on the Mills spectrum is Claude for Financial Advisors?</title>
+    <link href="https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors"/>
+    <id>https://www.moneymarketing.co.uk/ben-goss-where-on-the-mills-spectrum-is-claude-for-financial-advisors</id>
+    <updated>2026-09-23T07:00:39.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta’s Muse AI agent became the latest catalyst.</summary>
+    <summary>This week’s announcement by Anthropic, currently the world’s largest AI provider, launching Claude for Financial Advisors, has raised eyebrows and interest from advice firms on both sides of the pond. To use the FCA’s Mills Review AI automation spectrum, is this a land grab for… The post Ben Goss: Where on the Mills sp</summary>
   </entry>
   <entry>
     <title>Why Autonomous Agents Cannot Be Given the Keys to Your Law Practice</title>
@@ -214,40 +205,49 @@
     <summary>Artificial intelligence is moving beyond the chat window. The next generation of tools does not merely draft an email, summarize a document, or answer a question. It can browse the web, search connected systems, open files, follow links, use software tools, upload information, submit forms, and take multi-step action t</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-23T23:35:11.048Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
-  </entry>
-  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-23T23:35:11.048Z</updated>
+    <updated>2026-09-24T04:32:24.437Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>AI Rally, Weaker Yen Set the Stage for Japan’s Market Return</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-23/ai-rally-weaker-yen-set-the-stage-for-japan-s-market-return-mueoxi0c"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-23/ai-rally-weaker-yen-set-the-stage-for-japan-s-market-return-mueoxi0c</id>
-    <updated>2026-09-23T22:44:38.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Japanese stocks look poised to catch up with a global AI-led rally when trading resumes on Thursday, while a weaker yen keeps currency intervention risk in focus.</summary>
+    <title>How acquirers are commercialising fraud intelligence</title>
+    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
+    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
+    <updated>2026-09-24T04:32:24.437Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims</title>
-    <link href="https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6=1</id>
-    <updated>2026-09-23T21:32:53.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>New AI Tool Aims to Replace Advisors</title>
+    <link href="https://www.thedailyupside.com/advisor/industry-news/new-ai-tool-aims-to-replace-advisors"/>
+    <id>https://www.thedailyupside.com/advisor/industry-news/new-ai-tool-aims-to-replace-advisors</id>
+    <updated>2026-09-24T04:03:00.000Z</updated>
+    <author><name>The Daily Upside</name></author>
     <category term="AI MARKETS"/>
-    <summary>Court documents reveal how companies’ ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’</summary>
+    <summary>Former PayPal CEO Bill Harris says his direct-to-consumer AI advice app will eventually take advisors’ place. The post New AI Tool Aims to Replace Advisors appeared first on The Daily Upside .</summary>
+  </entry>
+  <entry>
+    <title>Meta Keeps Muse Momentum as Rivals Push New AI Models</title>
+    <link href="https://www.thedailyupside.com/technology/artificial-intelligence/meta-doesnt-lose-momentum-amid-rivals-new-model-releases"/>
+    <id>https://www.thedailyupside.com/technology/artificial-intelligence/meta-doesnt-lose-momentum-amid-rivals-new-model-releases</id>
+    <updated>2026-09-24T04:01:00.000Z</updated>
+    <author><name>The Daily Upside</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Muse’s app has racked up 2.5 million downloads since its September 8 debut, according to Sensor Tower data. The post Meta Keeps Muse Momentum as Rivals Push New AI Models appeared first on The Daily Upside .</summary>
+  </entry>
+  <entry>
+    <title>Scottish Mortgage's Tom Slater: AI build out likely to be 'volatile ride'</title>
+    <link href="https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride"/>
+    <id>https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride</id>
+    <updated>2026-09-23T14:07:43.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Scottish Mortgage investment trust (SMT) co-manager Tom Slater said the build out of AI infrastructure is likely to be “a volatile ride” but backed his strategy amid increasing demand for compute.</summary>
   </entry>
   <entry>
     <title>Beyond the black box: interpretability of LLMs in finance</title>
@@ -259,15 +259,6 @@
     <summary>Mechanistic interpretability identifies and locates modifications in computational mechanisms</summary>
   </entry>
   <entry>
-    <title>ERM’s influence is growing as its ranks are shrinking</title>
-    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking"/>
-    <id>https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking</id>
-    <updated>2026-09-23T03:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Risk Benchmarking: Mandates expanding to include new threats like AI and geopolitical risk, but majority report flat to down headcount</summary>
-  </entry>
-  <entry>
     <title>Advancing Private AI Compute with secure, server-side memory</title>
     <link href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"/>
     <id>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory</id>
@@ -275,5 +266,13 @@
     <author><name>Google DeepMind Blog</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Introducing private, server-side memory to Private AI Compute for personal AI.</summary>
+  </entry>
+  <entry>
+    <title>Gemini 3.8 text-to-speech says hello</title>
+    <link href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"/>
+    <id>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</id>
+    <updated>2026-09-23T15:25:14.000Z</updated>
+    <author><name>Google DeepMind Blog</name></author>
+    <category term="LABS &amp; MODELS"/>
   </entry>
 </feed>
