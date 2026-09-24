@@ -5,25 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-24T09:53:10.912Z</updated>
-  <entry>
-    <title>OpenAI Agent Hacked Australian Government Website</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video</id>
-    <updated>2026-09-24T09:08:58.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>An OpenAI model hacked an Australian government website earlier this year, marking one of the first known cyberattacks by AI on a government database. Paul Allen has more. (Source: Bloomberg) — Also covered by: FT Artificial Intelligence, WSJ Tech</summary>
-  </entry>
-  <entry>
-    <title>Savvy Wealth opens its custodial platform to outside RIAs</title>
-    <link href="https://www.investmentnews.com/goria/custodian/savvy-wealth-opens-its-custodial-platform-to-outside-rias/268321"/>
-    <id>https://www.investmentnews.com/goria/custodian/savvy-wealth-opens-its-custodial-platform-to-outside-rias/268321</id>
-    <updated>2026-09-23T18:14:11.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>The AI-native RIA is pitching 90-second client onboarding to independent firms weeks after landing $100 million Series C. — Also covered by: WealthTech Strategy</summary>
-  </entry>
+  <updated>2026-09-24T14:53:54.383Z</updated>
   <entry>
     <title>Schwab's surprise unveiling of Anthropic deal at Future Proof shows it has an AI ace up its sleeve, but it may take five years or more to catch up with Altruist, if at all, say two analysts</title>
     <link href="https://riabiz.com/a/2026/9/22/schwabs-surprise-unveiling-of-anthropic-deal-at-future-proof-shows-it-has-an-ai-ace-up-its-sleeve-but-it-may-take-five-years-or-more-to-catch-up-with-altruist-if-at-all-say-two-analysts"/>
@@ -43,40 +25,49 @@
     <summary>AI Is The Headline. But RIA Founders Should Be Watching These 3 Things Wealth Solutions Report</summary>
   </entry>
   <entry>
-    <title>AI Is Upending the Lives of People Who Do Social Media Professionally</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-24/ai-is-upending-the-lives-of-people-who-do-social-media-professionally"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-24/ai-is-upending-the-lives-of-people-who-do-social-media-professionally</id>
-    <updated>2026-09-24T08:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>OpenAI ‘agent’ hacked an Australian health service website</title>
+    <link href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1</id>
+    <updated>2026-09-24T01:25:44.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>A conversation with Taylor Lorenz and Rachel Karten. — Also covered by: Bloomberg Tech</summary>
+    <summary>AI lab took months to spot the problem, which Prime Minister Anthony Albanese called ‘obviously unacceptable’ — Also covered by: WSJ Tech</summary>
   </entry>
   <entry>
-    <title>China confirms first AI talks with U.S. have taken place, hints at trade truce extension</title>
-    <link href="https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"/>
-    <id>https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html</id>
-    <updated>2026-09-24T09:40:14.000Z</updated>
-    <author><name>CNBC Tech</name></author>
+    <title>Funding for alternative investment distribution continues to swamp SaaS solutions</title>
+    <link href="https://www.investmentnews.com/advisor-tech/funding-for-alternative-investment-distribution-continues-to-swamp-saas-solutions/268304"/>
+    <id>https://www.investmentnews.com/advisor-tech/funding-for-alternative-investment-distribution-continues-to-swamp-saas-solutions/268304</id>
+    <updated>2026-09-24T13:06:35.000Z</updated>
+    <author><name>GN: advisor AI notetaker</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
+  </entry>
+  <entry>
+    <title>Australia to investigate if OpenAI hack of government health website broke the law</title>
+    <link href="https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"/>
+    <id>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</id>
+    <updated>2026-09-24T12:54:19.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.</summary>
+    <summary>The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.</summary>
   </entry>
   <entry>
-    <title>How Greenboard is building the next generation of compliance</title>
-    <link href="https://fintech.global/2026/09/24/how-greenboard-is-building-the-next-generation-of-compliance"/>
-    <id>https://fintech.global/2026/09/24/how-greenboard-is-building-the-next-generation-of-compliance</id>
-    <updated>2026-09-24T09:47:17.000Z</updated>
-    <author><name>FinTech Global</name></author>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
+    <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>Founded in 2023, Greenboard sees itself as the AI-native ‘system of action’ for SEC and FINRA compliance. The company is replacing the fragmented point solutions that compliance teams at private fund managers use for a range of regulatory challenges, and is used by over 500 FIs globally to reduce manual compliance head</summary>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
-    <title>How Fiscal Sponsorship Can Streamline Philanthropic Giving</title>
-    <link href="https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving"/>
-    <id>https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving</id>
-    <updated>2026-09-23T20:01:17.000Z</updated>
+    <title>Ask Your Wealth Management Concierge</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/ask-your-wealth-management-concierge"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/ask-your-wealth-management-concierge</id>
+    <updated>2026-09-24T13:15:55.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>By operating under an established nonprofit’s tax-exempt umbrella, charitable initiatives can accelerate fundraising, reduce administrative hurdles and focus on advancing their missions</summary>
+    <summary>The new AI agent is built on proprietary technology and draws exclusively from a walled garden of Wealth Management's own content.</summary>
   </entry>
   <entry>
     <title>11 Dividend Stocks for a Rocky Market, From Investment Pros</title>
@@ -97,22 +88,22 @@
     <summary>Nearly a third of generative AI users bring their own GenAI tools to work and use them without their employer’s knowledge, raising important compliance concerns over issues such as cyber risks, copyright and audit trails. The post Deloitte survey exposes compliance gaps as a third of employees admit using shadow GenAI </summary>
   </entry>
   <entry>
-    <title>Financial crime compliance fintech Footprint raises $25 million</title>
-    <link href="https://www.finextra.com/pressarticle/111008/financial-crime-compliance-fintech-footprint-raises-25-million"/>
-    <id>https://www.finextra.com/pressarticle/111008/financial-crime-compliance-fintech-footprint-raises-25-million</id>
-    <updated>2026-09-24T10:00:00.000Z</updated>
+    <title>Narmi open AI marketplace for community banks</title>
+    <link href="https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks"/>
+    <id>https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks</id>
+    <updated>2026-09-24T15:14:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Footprint, the AI operating system for risk, today announced it has raised $25 million in Series B funding led by QED Investors, with participation from MUFG, Commerce Ventures, LightBank, and Alumni Ventures, and continued backing from existing investors Index Ventures, Lerer Hippeau, BoxGroup, Operator Partners, and </summary>
+    <summary>Narmi, a leading provider of digital banking technology, today announced the launch of the Narmi AI Marketplace, a centralized destination for practical and innovative AI capabilities built for community financial institutions.</summary>
   </entry>
   <entry>
-    <title>Cybersecurity Stocks Are So Hot Investors Question Staying Power</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-24/cybersecurity-stocks-are-so-hot-investors-question-staying-power"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-24/cybersecurity-stocks-are-so-hot-investors-question-staying-power</id>
-    <updated>2026-09-24T08:59:23.000Z</updated>
+    <title>AI Trade a Key Concern as Stock Investors Map Election Risks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-24/ai-trade-is-ground-zero-as-stock-investors-map-election-risks"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-24/ai-trade-is-ground-zero-as-stock-investors-map-election-risks</id>
+    <updated>2026-09-24T12:02:01.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge AI models will be a boon for their businesses. But some of the stocks have run up so much that investors are questioning whether they’ve gone too far.</summary>
+    <summary>The US midterm elections are turning into a key source of concern for a stock market that is riding high on the artificial intelligence trade.</summary>
   </entry>
   <entry>
     <title>What happens when AI gets good at your risk management job?</title>
@@ -124,76 +115,76 @@
     <summary>Risk executive Alex Golbin asks how to build a valuable career in risk as agentic AI takes on more analysis</summary>
   </entry>
   <entry>
-    <title>Google Beam expands with new regions, partners, and customers</title>
-    <link href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion"/>
-    <id>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion</id>
-    <updated>2026-09-23T18:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
+    <title>Gemini 4 is almost ready, says new Google DeepMind chief</title>
+    <link href="https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"/>
+    <id>https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu</id>
+    <updated>2026-09-24T09:04:18.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.</summary>
+    <summary>Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement sta</summary>
   </entry>
   <entry>
-    <title>Savvy Wealth Announces the Launch of Savvy Custodial Platform</title>
-    <link href="https://www.wealthtechstrategy.com/post/savvy-wealth-announces-the-launch-of-savvy-custodial-platform"/>
-    <id>https://www.wealthtechstrategy.com/post/savvy-wealth-announces-the-launch-of-savvy-custodial-platform</id>
-    <updated>2026-09-23T20:32:46.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
+    <title>Three Things AI Needs: Signals From Future Proof 2026</title>
+    <link href="https://www.advisor360.com/blog/three-things-ai-needs-signals-from-future-proof-2026"/>
+    <id>https://www.advisor360.com/blog/three-things-ai-needs-signals-from-future-proof-2026</id>
+    <updated>2026-09-24T13:02:44.000Z</updated>
+    <author><name>Advisor360 (vendor)</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>Savvy Wealth. (2026, September 23). Savvy Wealth announces the launch of Savvy Custodial Platform. Business Wire. https://www.businesswire.com/news/home/20260923656434/en/Savvy-Wealth-Announces-the-Launch-of-Savvy-Custodial-Platform Savvy Wealth, an AI-native wealth management platform for independent financial advisor</summary>
+    <summary>Anthropic’s launch of Claude for Financial Advisors was one of the defining announcements at Future Proof last week. Shirl Penney , founder of Dynasty Financial Partners, described it as one of the biggest moments he had seen in his career in the independent space. By Tuesday morning, it was a recurring topic of conver</summary>
   </entry>
   <entry>
-    <title>Choreo taps Beemo AI agents to draft proposals, scale onboarding</title>
-    <link href="https://www.investmentnews.com/transformation/choreo-taps-beemo-ai-agents-to-draft-proposals-scale-onboarding/268322"/>
-    <id>https://www.investmentnews.com/transformation/choreo-taps-beemo-ai-agents-to-draft-proposals-scale-onboarding/268322</id>
-    <updated>2026-09-23T19:11:09.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>Three Studies Examine Technology, Time And Advisor Productivity</title>
+    <link href="https://www.wealthsolutionsreport.com/three-studies-examine-technology-time-and-advisor-productivity"/>
+    <id>https://www.wealthsolutionsreport.com/three-studies-examine-technology-time-and-advisor-productivity</id>
+    <updated>2026-09-16T14:54:49.000Z</updated>
+    <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Beemo's agents will draft client proposals and surface custodial data from Schwab for Choreo's 120-plus advisors across 21 states</summary>
+    <summary>Three Studies Examine Technology, Time And Advisor Productivity Wealth Solutions Report</summary>
   </entry>
   <entry>
-    <title>Anthropic says its biology lab has already found something big</title>
-    <link href="https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big"/>
-    <id>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big</id>
-    <updated>2026-09-23T22:17:39.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>OpenAI agents hacked an Australian government website in search for data</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data</id>
+    <updated>2026-09-24T11:52:32.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.</summary>
+    <summary>OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safe</summary>
   </entry>
   <entry>
-    <title>OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit</title>
-    <link href="https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23"/>
-    <id>https://www.reuters.com/legal/government/openai-says-sec-disclosures-undermine-xais-antitrust-lawsuit-2026-09-23</id>
-    <updated>2026-09-23T16:46:39.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI says SEC disclosures undermine xAI’s antitrust lawsuit Reuters</summary>
+    <title>EXAMS Accessible and Integrated</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626</id>
+    <updated>2026-09-16T19:37:47.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
-    <title>ZeroDrift Launches Anchor 3.0, the First Family of Models Built for Enforcement Runtime of AI Agent Communications</title>
-    <link href="https://markets.businessinsider.com/news/stocks/zerodrift-launches-anchor-3-0-the-first-family-of-models-built-for-enforcement-runtime-of-ai-agent-communications-1036567369"/>
-    <id>https://markets.businessinsider.com/news/stocks/zerodrift-launches-anchor-3-0-the-first-family-of-models-built-for-enforcement-runtime-of-ai-agent-communications-1036567369</id>
-    <updated>2026-09-23T13:08:09.000Z</updated>
+    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
+    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
+    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
+    <updated>2026-09-18T21:20:12.000Z</updated>
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>ZeroDrift Launches Anchor 3.0, the First Family of Models Built for Enforcement Runtime of AI Agent Communications markets.businessinsider.com</summary>
+    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity ThinkAdvisor</summary>
   </entry>
   <entry>
-    <title>The Associate in the Server Closet: On-Premises AI</title>
-    <link href="https://www.wealthmanagement.com/estate-planning/the-associate-in-the-server-closet-on-premises-ai"/>
-    <id>https://www.wealthmanagement.com/estate-planning/the-associate-in-the-server-closet-on-premises-ai</id>
-    <updated>2026-09-23T17:16:42.000Z</updated>
+    <title>Regtech Surge: AI Will Be Controlled As Long As Humans Can Pull The Plug</title>
+    <link href="https://www.wealthsolutionsreport.com/regtech-surge-ai-will-be-controlled-as-long-as-humans-can-pull-the-plug"/>
+    <id>https://www.wealthsolutionsreport.com/regtech-surge-ai-will-be-controlled-as-long-as-humans-can-pull-the-plug</id>
+    <updated>2026-09-24T13:25:27.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Human Oversight Must Be Qualified, Documented And Repeatable For AI-Enabled Compliance</summary>
+  </entry>
+  <entry>
+    <title>How Fiscal Sponsorship Can Streamline Philanthropic Giving</title>
+    <link href="https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving"/>
+    <id>https://www.wealthmanagement.com/estate-planning/how-fiscal-sponsorship-can-streamline-philanthropic-giving</id>
+    <updated>2026-09-23T20:01:17.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The authors explain the differences between on-premises artificial intelligence and AI off site</summary>
-  </entry>
-  <entry>
-    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
-    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
-    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
-    <updated>2026-09-23T11:01:28.000Z</updated>
-    <author><name>WealthTech Today</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
+    <summary>By operating under an established nonprofit’s tax-exempt umbrella, charitable initiatives can accelerate fundraising, reduce administrative hurdles and focus on advancing their missions</summary>
   </entry>
   <entry>
     <title>Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers</title>
@@ -205,6 +196,24 @@
     <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Meta’s New AI Agent Sends a Warning to Wealth Managers appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
+    <title>Meta’s Muse AI Agent Triggers Worries About Brokerage Stocks</title>
+    <link href="https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc"/>
+    <id>https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc</id>
+    <updated>2026-09-23T19:36:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta’s Muse AI agent became the latest catalyst.</summary>
+  </entry>
+  <entry>
+    <title>September 2026 Vendor Management News</title>
+    <link href="https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news"/>
+    <id>https://www.ncontracts.com/nsight-blog/september-2026-vendor-management-news</id>
+    <updated>2026-09-24T08:00:00.000Z</updated>
+    <author><name>Ncontracts Nsight (vendor)</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Third-party risk doesn't take a month off. Here's what's shaping vendor management, breach response, and AI governance in financial services this September.</summary>
+  </entry>
+  <entry>
     <title>AI compliance platform Footprint bags $25m Series B</title>
     <link href="https://www.fintechfutures.com/venture-capital-funding/ai-compliance-platform-footprint-bags-25m-series-b"/>
     <id>https://www.fintechfutures.com/venture-capital-funding/ai-compliance-platform-footprint-bags-25m-series-b</id>
@@ -214,58 +223,49 @@
     <summary>The funds will be used to scale Percy, Footprint's proprietary AI operating system for risk and compliance, and support an engineering and sales hiring spree.</summary>
   </entry>
   <entry>
-    <title>AI-Related Securities Suit Filings Continue to Surge</title>
-    <link href="https://www.dandodiary.com/2026/09/articles/securities-litigation/ai-related-securities-suit-filings-continue-to-surge"/>
-    <id>https://www.dandodiary.com/2026/09/articles/securities-litigation/ai-related-securities-suit-filings-continue-to-surge</id>
-    <updated>2026-09-23T19:39:10.000Z</updated>
-    <author><name>The D&amp;O Diary</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>In our recent round-up of the top D&amp;O stories so far this year, one of the top developments in 2026 we noted is the growing amount of AI-related D&amp;O litigation. The AI-related litigation trend has continued to develop, as new AI-related lawsuits continue to be filed. In recent days, plaintiffs’ lawyers have filed two f</summary>
-  </entry>
-  <entry>
-    <title>CMC Markets arrives on ChatGPT</title>
-    <link href="https://www.finextra.com/pressarticle/111012/cmc-markets-arrives-on-chatgpt"/>
-    <id>https://www.finextra.com/pressarticle/111012/cmc-markets-arrives-on-chatgpt</id>
-    <updated>2026-09-24T10:10:00.000Z</updated>
+    <title>Are Banks Ready for The Next Generation of Fraud?</title>
+    <link href="https://www.finextra.com/videoarticle/3600/are-banks-ready-for-the-next-generation-of-fraud"/>
+    <id>https://www.finextra.com/videoarticle/3600/are-banks-ready-for-the-next-generation-of-fraud</id>
+    <updated>2026-09-24T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>CMC Markets (&quot;CMC&quot;), a FTSE 250 company and global multi-asset financial services firm, is launching a new ChatGPT integration, enabling UK CFD clients to access and explore supported account and market information through conversational prompts.</summary>
+    <summary>In this virtual interview in the lead-up to Sibos 2026, we explore how the next generation of fraud is evolving as different technologies grow, providing key considerations to stay prepared.</summary>
   </entry>
   <entry>
-    <title>Ripjar ramps up AI in customer screening to disrupt global economy of crime</title>
-    <link href="https://www.finextra.com/pressarticle/111016/ripjar-ramps-up-ai-in-customer-screening-to-disrupt-global-economy-of-crime"/>
-    <id>https://www.finextra.com/pressarticle/111016/ripjar-ramps-up-ai-in-customer-screening-to-disrupt-global-economy-of-crime</id>
-    <updated>2026-09-24T10:33:00.000Z</updated>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-09-24T14:53:32.077Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Ripjar, the provider of smarter screening and risk intelligence solutions, has introduced new AI innovations within ULTRA, the real intelligence engine that powers screening operations at financial institutions and enterprises, including 25% of the Global Systemically Important Banks and 35+ of the Global Fortune 500.</summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Odd Lots: AI Is Upending Social Media Professionals (Podcast)</title>
-    <link href="https://www.bloomberg.com/news/audio/2026-09-24/odd-lots-ai-is-upending-social-media-professionals-podcast"/>
-    <id>https://www.bloomberg.com/news/audio/2026-09-24/odd-lots-ai-is-upending-social-media-professionals-podcast</id>
-    <updated>2026-09-24T08:00:00.000Z</updated>
+    <title>US Stocks Extend Drop as Oil Rises, Stoking Rate-Hike Bets</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-drop-as-yields-climb-further-oil-rises"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-24/us-stock-futures-drop-as-yields-climb-further-oil-rises</id>
+    <updated>2026-09-24T11:45:04.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Social media is really strange these days: Increasingly, our feeds are starting to look uncanny, as AI slop proliferates all over the Internet. And for the professionals who are tasked with making content, whether it is social media managers or creators, it has been a head-spinning time of change. In this conversation,</summary>
+    <summary>Stocks extended their slide as oil prices climbed, fueling the inflation pressures that are dragging on the broader market and overshadowing renewed optimism about AI after Meta Platforms Inc.’s rollout of a popular new tool.</summary>
   </entry>
   <entry>
-    <title>New AI Tool Aims to Replace Advisors</title>
-    <link href="https://www.thedailyupside.com/advisor/industry-news/new-ai-tool-aims-to-replace-advisors"/>
-    <id>https://www.thedailyupside.com/advisor/industry-news/new-ai-tool-aims-to-replace-advisors</id>
-    <updated>2026-09-24T04:03:00.000Z</updated>
-    <author><name>The Daily Upside</name></author>
+    <title>Cybersecurity Stocks Are So Hot Investors Question Staying Power</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-24/cybersecurity-stocks-are-so-hot-investors-question-staying-power"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-24/cybersecurity-stocks-are-so-hot-investors-question-staying-power</id>
+    <updated>2026-09-24T08:59:23.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Former PayPal CEO Bill Harris says his direct-to-consumer AI advice app will eventually take advisors’ place. The post New AI Tool Aims to Replace Advisors appeared first on The Daily Upside .</summary>
+    <summary>Shares of cybersecurity companies have soared in recent months on bets that the threats posed by cutting-edge AI models will be a boon for their businesses. But some of the stocks have run up so much that investors are questioning whether they’ve gone too far.</summary>
   </entry>
   <entry>
-    <title>Scottish Mortgage's Tom Slater: AI build out likely to be 'volatile ride'</title>
-    <link href="https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride"/>
-    <id>https://www.investmentweek.co.uk/news/4536203/scottish-mortgage-tom-slater-ai-build-volatile-ride</id>
-    <updated>2026-09-23T14:07:43.000Z</updated>
-    <author><name>Investment Week</name></author>
+    <title>ERM’s influence is growing as its ranks are shrinking</title>
+    <link href="https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking"/>
+    <id>https://www.risk.net/benchmarking/enterprise-risk/7964110/erm%E2%80%99s-influence-is-growing-as-its-ranks-are-shrinking</id>
+    <updated>2026-09-23T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Scottish Mortgage investment trust (SMT) co-manager Tom Slater said the build out of AI infrastructure is likely to be “a volatile ride” but backed his strategy amid increasing demand for compute.</summary>
+    <summary>Risk Benchmarking: Mandates expanding to include new threats like AI and geopolitical risk, but majority report flat to down headcount</summary>
   </entry>
   <entry>
     <title>Beyond the black box: interpretability of LLMs in finance</title>
