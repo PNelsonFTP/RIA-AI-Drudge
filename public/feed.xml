@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-25T18:29:10.687Z</updated>
+  <updated>2026-09-25T22:12:36.420Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -13,7 +13,7 @@
     <updated>2026-09-25T14:25:05.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic. — Also covered by: GN: wealth AI vendors</summary>
+    <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic.</summary>
   </entry>
   <entry>
     <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
@@ -23,15 +23,6 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: Jump (vendor)</summary>
-  </entry>
-  <entry>
-    <title>Bill Gates warns AI could cause ‘a billion deaths’</title>
-    <link href="https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/1ade33b1-b5eb-43bb-9ee4-2272ec91fa5b?syn-25a6b1a6=1</id>
-    <updated>2026-09-25T14:24:11.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Microsoft billionaire calls for US government intervention after series of AI security incidents — Also covered by: Bloomberg Tech</summary>
   </entry>
   <entry>
     <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
@@ -52,31 +43,31 @@
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Anthropic’s founders seek voting control ahead of IPO</title>
-    <link href="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"/>
-    <id>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</id>
-    <updated>2026-09-25T15:40:03.000Z</updated>
+    <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
+    <link href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"/>
+    <id>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal</id>
+    <updated>2026-09-25T19:13:38.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.</summary>
+    <summary>Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</summary>
   </entry>
   <entry>
-    <title>AI Companies and World Leaders Race to Write Safety Rules</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ai-companies-world-leaders-race-write-safety-rules"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ai-companies-world-leaders-race-write-safety-rules</id>
-    <updated>2026-09-24T20:12:00.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
+    <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>A group of artificial intelligence developers is working toward an industry safety standards body just as world leaders press for international supervision of the most powerful models. The parallel efforts agree on the need for common tests and independent scrutiny. They diverge on who should set the rules and what aut</summary>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
-    <title>Weekend Essay: What happens when every client has a chatbot?</title>
-    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
-    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
-    <updated>2026-09-25T13:00:10.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
+    <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
+    <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
+    <updated>2026-09-25T20:34:37.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
+    <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
   </entry>
   <entry>
     <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
@@ -91,7 +82,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-25T18:28:40.360Z</updated>
+    <updated>2026-09-25T22:12:21.219Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -160,6 +151,15 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
+    <title>Anthropic’s founders seek voting control ahead of IPO</title>
+    <link href="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"/>
+    <id>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</id>
+    <updated>2026-09-25T15:40:03.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.</summary>
+  </entry>
+  <entry>
     <title>Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
     <link href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic"/>
     <id>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic</id>
@@ -169,24 +169,6 @@
     <summary>When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotli</summary>
   </entry>
   <entry>
-    <title>For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</title>
-    <link href="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"/>
-    <id>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts</id>
-    <updated>2026-09-25T15:48:14.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The latest unauthorized agent swarms were discovered by researchers.</summary>
-  </entry>
-  <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
-    <author><name>SEC Speeches</name></author>
-    <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
-  </entry>
-  <entry>
     <title>EXAMS Accessible and Integrated</title>
     <link href="https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626"/>
     <id>https://www.sec.gov/newsroom/speeches-statements/cassidy-exams-accessible-integrated-091626</id>
@@ -194,6 +176,15 @@
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
+  </entry>
+  <entry>
+    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
+    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
+    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
+    <updated>2026-09-18T21:20:12.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
+    <category term="REGULATION"/>
+    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity thinkadvisor.com</summary>
   </entry>
   <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
@@ -212,6 +203,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
+  </entry>
+  <entry>
+    <title>Weekend Essay: What happens when every client has a chatbot?</title>
+    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
+    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
+    <updated>2026-09-25T13:00:10.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
   </entry>
   <entry>
     <title>AI may increase demand for financial advice, study finds</title>
@@ -244,7 +244,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-25T18:28:40.360Z</updated>
+    <updated>2026-09-25T22:12:21.219Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -253,27 +253,27 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-25T18:28:40.360Z</updated>
+    <updated>2026-09-25T22:12:21.219Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Odd Lots: Hollywood Was Cooked Before AI. Now It’s Getting Worse</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-25/odd-lots-hollywood-was-cooked-before-ai-now-it-s-getting-worse"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-25/odd-lots-hollywood-was-cooked-before-ai-now-it-s-getting-worse</id>
-    <updated>2026-09-25T17:00:54.000Z</updated>
+    <title>Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video</id>
+    <updated>2026-09-25T21:27:56.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Is Hollywood just screwed? The American entertainment business has been on a steady decline since the pandemic and now AI has entered the picture. On this episode of the Odd Lots podcast, creative director of LA Material, Hayes Davenport, joins Tracy Alloway and Joe Weisenthal at a live recording at the Vermont Hollywo</summary>
+    <summary>Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models. (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>Why EM assets still have to earn their place in the portfolio</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio</id>
-    <updated>2026-09-24T23:57:50.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Allocators are once again paying serious attention to emerging markets as they seek diversification from concentrated US indices and alternative venues to dial into the artificial intelligence thematic, but this time, EM assets have to work a lot harder to earn their place in the portfolio.</summary>
+    <title>Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video</id>
+    <updated>2026-09-25T20:39:53.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might just be a fundamental shift. Myriad forces have combined to push the government’s borrowing costs higher — from $100-a-barrel oil and the AI sp</summary>
   </entry>
 </feed>
