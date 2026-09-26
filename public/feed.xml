@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-25T22:12:36.420Z</updated>
+  <updated>2026-09-26T01:26:33.133Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -13,7 +13,7 @@
     <updated>2026-09-25T14:25:05.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic.</summary>
+    <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic. — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
     <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
@@ -43,22 +43,22 @@
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
-    <link href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"/>
-    <id>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal</id>
-    <updated>2026-09-25T19:13:38.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>FTC chair suggests AI developers should be liable for conduct of agents</title>
+    <link href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25"/>
+    <id>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25</id>
+    <updated>2026-09-25T22:07:32.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</summary>
+    <summary>FTC chair suggests AI developers should be liable for conduct of agents reuters.com</summary>
   </entry>
   <entry>
-    <title>Information in the Age of AI</title>
-    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
-    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
-    <updated>2026-09-17T21:51:48.000Z</updated>
-    <author><name>SEC Speeches</name></author>
+    <title>OpenAI’s Models Accessed Public US Census, SEC Data</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites</id>
+    <updated>2026-09-25T20:34:28.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="REGULATION"/>
-    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
+    <summary>OpenAI’s artificial intelligence models accessed publicly available information from US government websites, including those of the Census Bureau and the Securities and Exchange Commission.</summary>
   </entry>
   <entry>
     <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
@@ -82,7 +82,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-25T22:12:21.219Z</updated>
+    <updated>2026-09-26T01:26:23.500Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -151,22 +151,31 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Anthropic’s founders seek voting control ahead of IPO</title>
-    <link href="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"/>
-    <id>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo</id>
-    <updated>2026-09-25T15:40:03.000Z</updated>
+    <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
+    <link href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"/>
+    <id>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal</id>
+    <updated>2026-09-25T19:13:38.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.</summary>
+    <summary>Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</summary>
   </entry>
   <entry>
-    <title>Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
-    <link href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic"/>
-    <id>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic</id>
-    <updated>2026-09-25T18:22:47.000Z</updated>
+    <title>Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
+    <link href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge"/>
+    <id>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge</id>
+    <updated>2026-09-25T22:20:47.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotli</summary>
+    <summary>AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.</summary>
+  </entry>
+  <entry>
+    <title>Information in the Age of AI</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/white-remarks-ici-compliance-091726</id>
+    <updated>2026-09-17T21:51:48.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Joshua White, Chief Economist and Director, Division of Economic and Risk Analysis</summary>
   </entry>
   <entry>
     <title>EXAMS Accessible and Integrated</title>
@@ -176,15 +185,6 @@
     <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
-  </entry>
-  <entry>
-    <title>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity</title>
-    <link href="https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity"/>
-    <id>https://www.thinkadvisor.com/2026/09/18/firms-cheer-finras-comms-plan-but-call-for-more-ai-clarity</id>
-    <updated>2026-09-18T21:20:12.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
-    <category term="REGULATION"/>
-    <summary>Firms Cheer FINRA's Comms Plan but Call for More AI Clarity thinkadvisor.com</summary>
   </entry>
   <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
@@ -244,7 +244,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-25T22:12:21.219Z</updated>
+    <updated>2026-09-26T01:26:23.500Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -253,7 +253,7 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-25T22:12:21.219Z</updated>
+    <updated>2026-09-26T01:26:23.500Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
@@ -268,12 +268,12 @@
     <summary>Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models. (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>Great Bond Shakeout Locks In a 5% World ‘Until Something Breaks’</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-25/great-bond-shakeout-locks-in-a-5-world-video</id>
-    <updated>2026-09-25T20:39:53.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>OpenAI says governments among ‘dozens’ of organisations hacked by its agents</title>
+    <link href="https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1</id>
+    <updated>2026-09-25T22:18:19.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>As yields on US Treasuries soar past one high after the next, a reality is sinking in deeper across Wall Street and Washington: More than merely a bond-market slump, this might just be a fundamental shift. Myriad forces have combined to push the government’s borrowing costs higher — from $100-a-barrel oil and the AI sp</summary>
+    <summary>Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears</summary>
   </entry>
 </feed>
