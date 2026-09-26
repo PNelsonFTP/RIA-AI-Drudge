@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-26T07:30:23.826Z</updated>
+  <updated>2026-09-26T12:58:53.187Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -25,15 +25,6 @@
     <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: Jump (vendor)</summary>
   </entry>
   <entry>
-    <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
-    <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
-    <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
-    <updated>2026-09-26T00:29:00.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters — Also covered by: Bloomberg Tech</summary>
-  </entry>
-  <entry>
     <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
     <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
     <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
@@ -50,6 +41,15 @@
     <author><name>Google DeepMind Blog</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Also covered by: The Verge AI</summary>
+  </entry>
+  <entry>
+    <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
+    <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
+    <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
+    <updated>2026-09-26T00:31:52.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
   </entry>
   <entry>
     <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
@@ -73,19 +73,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-26T07:30:12.363Z</updated>
+    <updated>2026-09-26T12:58:41.106Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Cyber security stocks are pumped up on P(doom)</title>
-    <link href="https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1</id>
-    <updated>2026-09-26T04:00:33.000Z</updated>
+    <title>Hackers hijack AI accounts and servers to fuel new cyber crime boom</title>
+    <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1</id>
+    <updated>2026-09-26T10:00:04.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Besieged by growing cyber threats, organisations are hurling money at the problem</summary>
+    <summary>Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources</summary>
   </entry>
   <entry>
     <title>AI data centre boom tests capital markets</title>
@@ -142,13 +142,13 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>FTC chair suggests AI developers should be liable for conduct of agents</title>
-    <link href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25"/>
-    <id>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25</id>
-    <updated>2026-09-25T22:07:32.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
+    <link href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"/>
+    <id>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal</id>
+    <updated>2026-09-25T19:13:38.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>FTC chair suggests AI developers should be liable for conduct of agents Reuters</summary>
+    <summary>Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</summary>
   </entry>
   <entry>
     <title>Australia steps up response to AI after OpenAI bot breaches health system database</title>
@@ -178,15 +178,6 @@
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
-    <title>The Best Conferences for Wealthtech CTOs</title>
-    <link href="https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos"/>
-    <id>https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos</id>
-    <updated>2026-09-25T14:04:39.000Z</updated>
-    <author><name>WealthTech Today</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The post The Best Conferences for Wealthtech CTOs appeared first on and was written by Craig Iskowitz . Executive Summary If I could put only three conferences on a wealthtech CTO’s calendar, my choices would be straightforward: T3, your custodian’s conference, and your portfolio management vendor’s conference. Togethe</summary>
-  </entry>
-  <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman"/>
     <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman</id>
@@ -196,13 +187,31 @@
     <summary>Arch's Ryan Eisenman explores how better data, automation and AI can modernize the private markets experience.</summary>
   </entry>
   <entry>
-    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
-    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
-    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
-    <updated>2026-09-23T11:01:28.000Z</updated>
-    <author><name>WealthTech Today</name></author>
+    <title>Betterment Advisor Solutions Launches AI Document Reader</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors</id>
+    <updated>2026-09-24T16:16:18.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
+  </entry>
+  <entry>
+    <title>Weekend Essay: What happens when every client has a chatbot?</title>
+    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
+    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
+    <updated>2026-09-25T13:00:10.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
+    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
+  </entry>
+  <entry>
+    <title>AI may increase demand for financial advice, study finds</title>
+    <link href="https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds"/>
+    <id>https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds</id>
+    <updated>2026-09-25T09:23:17.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Four in 10 financial advisers expect demand for advice to increase over the next five years as AI becomes more prevalent, a study by M&amp;G has found. A further 39% expect demand to remain unchanged, meaning eight in 10 advisers believe demand will either increase… The post AI may increase demand for financial advice, stu</summary>
   </entry>
   <entry>
     <title>Law Firm Raises $5.5M for AI Patent-Writing Software</title>
@@ -226,7 +235,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-26T07:30:12.363Z</updated>
+    <updated>2026-09-26T12:58:41.106Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -235,10 +244,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-26T07:30:12.363Z</updated>
+    <updated>2026-09-26T12:58:41.106Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Cyber security stocks are pumped up on P(doom)</title>
+    <link href="https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1</id>
+    <updated>2026-09-26T04:00:33.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Besieged by growing cyber threats, organisations are hurling money at the problem</summary>
   </entry>
   <entry>
     <title>The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model</title>
@@ -250,15 +268,6 @@
     <summary>1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 national capacity, 100MW in 12 months, Eastern Data Western Compute</summary>
   </entry>
   <entry>
-    <title>Jev, an AI Model That Can’t Chat, Takes On Bigger Rivals</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-25/jev-an-ai-model-that-can-t-chat-takes-on-bigger-rivals-video</id>
-    <updated>2026-09-25T21:27:56.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Jev, an AI model built by a former OpenAI researcher, went viral over the past week with the promise of a cheaper and faster alternative to large language models. (Source: Bloomberg)</summary>
-  </entry>
-  <entry>
     <title>Why EM assets still have to earn their place in the portfolio</title>
     <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio"/>
     <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio</id>
@@ -266,14 +275,5 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Allocators are once again paying serious attention to emerging markets as they seek diversification from concentrated US indices and alternative venues to dial into the artificial intelligence thematic, but this time, EM assets have to work a lot harder to earn their place in the portfolio.</summary>
-  </entry>
-  <entry>
-    <title>Anthropic co-founder: ‘Better than even chance’ AI builds itself by 2028</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/anthropic-co-founder-better-than-even-chance-ai-builds-itself-by-2028"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/anthropic-co-founder-better-than-even-chance-ai-builds-itself-by-2028</id>
-    <updated>2026-09-24T23:08:21.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Jack Clark, co-founder and head of public benefit at Anthropic, told the Top1000funds.com Fiduciary Investors Symposium at Stanford University that the ability of AI to build better versions of itself unaided by humans is getting close, and when it arrives it will pose “a giant question”, about what to do with it, and </summary>
   </entry>
 </feed>
