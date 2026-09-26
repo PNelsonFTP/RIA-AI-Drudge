@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-26T17:02:40.242Z</updated>
+  <updated>2026-09-26T19:43:40.851Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -70,19 +70,19 @@
     <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
   </entry>
   <entry>
-    <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
-    <link href="https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations"/>
-    <id>https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations</id>
-    <updated>2026-09-25T04:01:19.000Z</updated>
-    <author><name>Columbia Blue Sky</name></author>
+    <title>Law Firm Raises $5.5M for AI Patent-Writing Software</title>
+    <link href="https://www.corporatecomplianceinsights.com/law-firm-raises-5-5m-for-ai-patent-writing-software"/>
+    <id>https://www.corporatecomplianceinsights.com/law-firm-raises-5-5m-for-ai-patent-writing-software</id>
+    <updated>2026-09-24T17:46:55.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
+    <summary>Fearn, a new AI-driven patent law firm, announced $5.5 million in investments from Kindred Ventures, a16z Speedrun, Designer Fund and Essence VC. The investment will go into expanding the firm and FearnOS, its AI-driven, proprietary drafting and client management system, according to a press release. Fearn claims work </summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-26T17:02:26.934Z</updated>
+    <updated>2026-09-26T19:43:26.388Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -178,6 +178,15 @@
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
+    <title>The Best Conferences for Wealthtech CTOs</title>
+    <link href="https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos"/>
+    <id>https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos</id>
+    <updated>2026-09-25T14:04:39.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post The Best Conferences for Wealthtech CTOs appeared first on and was written by Craig Iskowitz . Executive Summary If I could put only three conferences on a wealthtech CTO’s calendar, my choices would be straightforward: T3, your custodian’s conference, and your portfolio management vendor’s conference. Togethe</summary>
+  </entry>
+  <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman"/>
     <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman</id>
@@ -187,40 +196,22 @@
     <summary>Arch's Ryan Eisenman explores how better data, automation and AI can modernize the private markets experience.</summary>
   </entry>
   <entry>
-    <title>Betterment Advisor Solutions Launches AI Document Reader</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors</id>
-    <updated>2026-09-24T16:16:18.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
-  </entry>
-  <entry>
-    <title>Weekend Essay: What happens when every client has a chatbot?</title>
-    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
-    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
-    <updated>2026-09-25T13:00:10.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI?</title>
+    <link href="https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi"/>
+    <id>https://wealthtechtoday.com/2026/09/23/future-proof-2026-conference-summary-everyone-brought-ai-but-what-about-roi</id>
+    <updated>2026-09-23T11:01:28.000Z</updated>
+    <author><name>WealthTech Today</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
+    <summary>The post Future Proof 2026 Conference Summary: Everyone Brought AI. But What About ROI? appeared first on and was written by Craig Iskowitz . This Future Proof 2026 conference summary covers the most important developments in wealth management technology, artificial intelligence, RIA growth, advisor marketing, operatio</summary>
   </entry>
   <entry>
-    <title>AI may increase demand for financial advice, study finds</title>
-    <link href="https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds"/>
-    <id>https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds</id>
-    <updated>2026-09-25T09:23:17.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Four in 10 financial advisers expect demand for advice to increase over the next five years as AI becomes more prevalent, a study by M&amp;G has found. A further 39% expect demand to remain unchanged, meaning eight in 10 advisers believe demand will either increase… The post AI may increase demand for financial advice, stu</summary>
-  </entry>
-  <entry>
-    <title>Law Firm Raises $5.5M for AI Patent-Writing Software</title>
-    <link href="https://www.corporatecomplianceinsights.com/law-firm-raises-5-5m-for-ai-patent-writing-software"/>
-    <id>https://www.corporatecomplianceinsights.com/law-firm-raises-5-5m-for-ai-patent-writing-software</id>
-    <updated>2026-09-24T17:46:55.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
+    <link href="https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations"/>
+    <id>https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations</id>
+    <updated>2026-09-25T04:01:19.000Z</updated>
+    <author><name>Columbia Blue Sky</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Fearn, a new AI-driven patent law firm, announced $5.5 million in investments from Kindred Ventures, a16z Speedrun, Designer Fund and Essence VC. The investment will go into expanding the firm and FearnOS, its AI-driven, proprietary drafting and client management system, according to a press release. Fearn claims work </summary>
+    <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
   </entry>
   <entry>
     <title>Podcast Release: AI in Debt Collection: Opportunities, Risks, and the Importance of Data Governance</title>
@@ -235,7 +226,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-26T17:02:26.934Z</updated>
+    <updated>2026-09-26T19:43:26.388Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -244,7 +235,7 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-26T17:02:26.934Z</updated>
+    <updated>2026-09-26T19:43:26.388Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
@@ -275,5 +266,14 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Allocators are once again paying serious attention to emerging markets as they seek diversification from concentrated US indices and alternative venues to dial into the artificial intelligence thematic, but this time, EM assets have to work a lot harder to earn their place in the portfolio.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic co-founder: ‘Better than even chance’ AI builds itself by 2028</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/anthropic-co-founder-better-than-even-chance-ai-builds-itself-by-2028"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/anthropic-co-founder-better-than-even-chance-ai-builds-itself-by-2028</id>
+    <updated>2026-09-24T23:08:21.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Jack Clark, co-founder and head of public benefit at Anthropic, told the Top1000funds.com Fiduciary Investors Symposium at Stanford University that the ability of AI to build better versions of itself unaided by humans is getting close, and when it arrives it will pose “a giant question”, about what to do with it, and </summary>
   </entry>
 </feed>
