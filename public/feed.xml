@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-26T12:58:53.187Z</updated>
+  <updated>2026-09-26T17:02:40.242Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -43,12 +43,21 @@
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
+    <title>The 10-year Treasury yield is at its highest in nearly two decades. How we got here</title>
+    <link href="https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html"/>
+    <id>https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html</id>
+    <updated>2026-09-26T13:30:06.000Z</updated>
+    <author><name>CNBC Tech</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.</summary>
+  </entry>
+  <entry>
     <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
     <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
     <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
-    <updated>2026-09-26T00:31:52.000Z</updated>
+    <updated>2026-09-26T00:29:00.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
+    <category term="REGULATION"/>
     <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
   </entry>
   <entry>
@@ -73,19 +82,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-26T12:58:41.106Z</updated>
+    <updated>2026-09-26T17:02:26.934Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Hackers hijack AI accounts and servers to fuel new cyber crime boom</title>
-    <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1</id>
-    <updated>2026-09-26T10:00:04.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>US and China Seek Common Ground on AI</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video</id>
+    <updated>2026-09-26T15:04:37.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources</summary>
+    <summary>Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping’s summit highlighted efforts to establish dialogue on AI while building trust between the two countries. Speaking w</summary>
   </entry>
   <entry>
     <title>AI data centre boom tests capital markets</title>
@@ -142,22 +151,13 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Anthropic to pay Akamai $11.6 billion over seven years in cloud deal</title>
-    <link href="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"/>
-    <id>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal</id>
-    <updated>2026-09-25T19:13:38.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>OpenAI pauses training of its ‘most capable models’</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</id>
+    <updated>2026-09-26T16:34:59.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.</summary>
-  </entry>
-  <entry>
-    <title>Australia steps up response to AI after OpenAI bot breaches health system database</title>
-    <link href="https://www.reuters.com/legal/litigation/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-2026-09-25"/>
-    <id>https://www.reuters.com/legal/litigation/australia-steps-up-response-ai-after-openai-bot-breaches-health-system-database-2026-09-25</id>
-    <updated>2026-09-25T20:52:28.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Australia steps up response to AI after OpenAI bot breaches health system database Reuters</summary>
+    <summary>As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident h</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -235,7 +235,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-26T12:58:41.106Z</updated>
+    <updated>2026-09-26T17:02:26.934Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -244,28 +244,28 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-26T12:58:41.106Z</updated>
+    <updated>2026-09-26T17:02:26.934Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Cyber security stocks are pumped up on P(doom)</title>
-    <link href="https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1</id>
-    <updated>2026-09-26T04:00:33.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Besieged by growing cyber threats, organisations are hurling money at the problem</summary>
-  </entry>
-  <entry>
-    <title>The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model</title>
-    <link href="https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom"/>
-    <id>https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom</id>
-    <updated>2026-09-25T15:58:22.000Z</updated>
+    <title>Intel Panther Lake Teardown</title>
+    <link href="https://newsletter.semianalysis.com/p/intel-panther-lake-teardown"/>
+    <id>https://newsletter.semianalysis.com/p/intel-panther-lake-teardown</id>
+    <updated>2026-09-26T13:36:32.000Z</updated>
     <author><name>SemiAnalysis</name></author>
     <category term="AI MARKETS"/>
-    <summary>1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 national capacity, 100MW in 12 months, Eastern Data Western Compute</summary>
+    <summary>Looking inside Intel 18A and Intel’s Panther Lake. A free SemiAnalysis STEEL teardown.</summary>
+  </entry>
+  <entry>
+    <title>Hackers hijack AI accounts and servers to fuel new cyber crime boom</title>
+    <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1</id>
+    <updated>2026-09-26T10:00:04.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources</summary>
   </entry>
   <entry>
     <title>Why EM assets still have to earn their place in the portfolio</title>
