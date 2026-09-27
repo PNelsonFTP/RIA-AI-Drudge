@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-27T18:16:03.169Z</updated>
+  <updated>2026-09-27T21:59:35.715Z</updated>
   <entry>
     <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
     <link href="https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362"/>
@@ -30,17 +30,17 @@
     <id>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</id>
     <updated>2026-09-24T16:20:39.000Z</updated>
     <author><name>Google DeepMind Blog</name></author>
-    <category term="INDUSTRY NEWS"/>
+    <category term="LABS &amp; MODELS"/>
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Bill Gates joins calls for AI safeguards, including legislation</title>
-    <link href="https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27"/>
-    <id>https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27</id>
-    <updated>2026-09-27T16:39:23.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Can Muse overcome Meta’s trust issues?</title>
+    <link href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues"/>
+    <id>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues</id>
+    <updated>2026-09-27T19:57:30.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Bill Gates joins calls for AI safeguards, including legislation Reuters</summary>
+    <summary>On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.</summary>
   </entry>
   <entry>
     <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
@@ -73,10 +73,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-27T18:15:49.832Z</updated>
+    <updated>2026-09-27T21:59:21.084Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+  </entry>
+  <entry>
+    <title>Corporate America embraces cheaper ‘open’ AI models</title>
+    <link href="https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1</id>
+    <updated>2026-09-27T17:00:04.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems</summary>
   </entry>
   <entry>
     <title>Highlights from the Fiduciary Investors Symposium at Stanford University 2026</title>
@@ -133,22 +142,22 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
-    <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment"/>
-    <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment</id>
-    <updated>2026-09-27T16:30:00.000Z</updated>
+    <title>Anthropic’s CEO is about to have dinner with President Trump</title>
+    <link href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump"/>
+    <id>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump</id>
+    <updated>2026-09-27T20:34:28.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>&quot;AI is the devil and I its maker.&quot;</summary>
+    <summary>This will be the first one-on-one meeting between Dario Amodei and Donald Trump</summary>
   </entry>
   <entry>
-    <title>OpenAI agents tried to ‘bruteforce’ a UN website</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</id>
-    <updated>2026-09-27T17:21:07.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Bill Gates joins calls for AI safeguards, including legislation</title>
+    <link href="https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27"/>
+    <id>https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27</id>
+    <updated>2026-09-27T19:37:51.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet anoth</summary>
+    <summary>Bill Gates joins calls for AI safeguards, including legislation Reuters</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -169,15 +178,6 @@
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
-    <title>The Best Conferences for Wealthtech CTOs</title>
-    <link href="https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos"/>
-    <id>https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos</id>
-    <updated>2026-09-25T14:04:39.000Z</updated>
-    <author><name>WealthTech Today</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The post The Best Conferences for Wealthtech CTOs appeared first on and was written by Craig Iskowitz . Executive Summary If I could put only three conferences on a wealthtech CTO’s calendar, my choices would be straightforward: T3, your custodian’s conference, and your portfolio management vendor’s conference. Togethe</summary>
-  </entry>
-  <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman"/>
     <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman</id>
@@ -185,6 +185,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Arch's Ryan Eisenman explores how better data, automation and AI can modernize the private markets experience.</summary>
+  </entry>
+  <entry>
+    <title>Betterment Advisor Solutions Launches AI Document Reader</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors</id>
+    <updated>2026-09-24T16:16:18.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
   </entry>
   <entry>
     <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
@@ -196,13 +205,13 @@
     <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
   </entry>
   <entry>
-    <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
-    <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
-    <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
-    <updated>2026-09-25T15:15:54.000Z</updated>
-    <author><name>FinTech Global</name></author>
+    <title>Weekend Essay: What happens when every client has a chatbot?</title>
+    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
+    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
+    <updated>2026-09-25T13:00:10.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Savvy Wealth, an AI-native wealth management platform serving independent financial advisors, has rolled out Savvy Custodial Platform, a new custody offering designed for registered investment advisor (RIA) owners and firms. The platform lets independent RIAs bring new clients on board in as little as 90 seconds and tr</summary>
+    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
   </entry>
   <entry>
     <title>Podcast Release: AI in Debt Collection: Opportunities, Risks, and the Importance of Data Governance</title>
@@ -217,7 +226,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-27T18:15:49.832Z</updated>
+    <updated>2026-09-27T21:59:21.084Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,7 +235,7 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-27T18:15:49.832Z</updated>
+    <updated>2026-09-27T21:59:21.084Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
@@ -239,15 +248,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>New York Times finance reporter Maureen Farrell tells Bloomberg This Weekend that Wall Street is growing more skeptical of the AI data center boom as rising interest rates, local opposition and permitting delays add uncertainty and costs to projects. Speaking with hosts David Gura and Christina Ruffini, Farrell says tr</summary>
-  </entry>
-  <entry>
-    <title>AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed</id>
-    <updated>2026-09-27T13:00:07.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Artificial intelligence could wipe us all out. Or it might just kill our unwanted subscriptions.</summary>
   </entry>
   <entry>
     <title>AI data centre boom tests capital markets</title>
