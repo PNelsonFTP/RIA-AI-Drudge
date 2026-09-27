@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-27T01:18:25.376Z</updated>
+  <updated>2026-09-27T07:59:48.093Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -25,15 +25,6 @@
     <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: Jump (vendor)</summary>
   </entry>
   <entry>
-    <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
-    <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
-    <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
-    <updated>2026-09-25T15:15:54.000Z</updated>
-    <author><name>FinTech Global</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Savvy Wealth, an AI-native wealth management platform serving independent financial advisors, has rolled out Savvy Custodial Platform, a new custody offering designed for registered investment advisor (RIA) owners and firms. The platform lets independent RIAs bring new clients on board in as little as 90 seconds and tr — Also covered by: WealthTech Strategy</summary>
-  </entry>
-  <entry>
     <title>Introducing Gemini 3.8 Live with Live Avatar</title>
     <link href="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"/>
     <id>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</id>
@@ -43,22 +34,31 @@
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>The 10-year Treasury yield is at its highest in nearly two decades. How we got here</title>
-    <link href="https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html"/>
-    <id>https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html</id>
-    <updated>2026-09-26T13:30:06.000Z</updated>
-    <author><name>CNBC Tech</name></author>
+    <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
+    <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
+    <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
+    <updated>2026-09-25T15:15:54.000Z</updated>
+    <author><name>FinTech Global</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Savvy Wealth, an AI-native wealth management platform serving independent financial advisors, has rolled out Savvy Custodial Platform, a new custody offering designed for registered investment advisor (RIA) owners and firms. The platform lets independent RIAs bring new clients on board in as little as 90 seconds and tr — Also covered by: WealthTech Strategy</summary>
+  </entry>
+  <entry>
+    <title>OpenAI, Anthropic CEOs called to appear at Australian AI probe</title>
+    <link href="https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27"/>
+    <id>https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27</id>
+    <updated>2026-09-27T04:27:43.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.</summary>
+    <summary>OpenAI, Anthropic CEOs called to appear at Australian AI probe reuters.com</summary>
   </entry>
   <entry>
     <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
     <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
     <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
-    <updated>2026-09-26T00:29:00.000Z</updated>
+    <updated>2026-09-26T00:31:52.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="REGULATION"/>
-    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
+    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports reuters.com</summary>
   </entry>
   <entry>
     <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
@@ -82,7 +82,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-27T01:18:10.276Z</updated>
+    <updated>2026-09-27T07:59:35.413Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -97,22 +97,22 @@
     <summary>Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.</summary>
   </entry>
   <entry>
-    <title>AI data centre boom tests capital markets</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-data-centre-boom-tests-capital-markets"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-data-centre-boom-tests-capital-markets</id>
-    <updated>2026-09-25T05:10:29.000Z</updated>
+    <title>Highlights from the Fiduciary Investors Symposium at Stanford University 2026</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/highlights-from-the-fiduciary-investors-symposium-at-stanford-university-2026"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/highlights-from-the-fiduciary-investors-symposium-at-stanford-university-2026</id>
+    <updated>2026-09-26T04:28:43.000Z</updated>
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>The explosive growth of AI data centres is pushing projects from real estate into infrastructure at unprecedented scale, but surging ticket sizes are forcing debt markets to reprice even high-quality borrowers, the Fiduciary Investors Symposium at Stanford University has heard.</summary>
   </entry>
   <entry>
-    <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
-    <link href="https://openai.com/index/proaction"/>
-    <id>https://openai.com/index/proaction</id>
-    <updated>2026-09-25T19:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
+    <link href="https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"/>
+    <id>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india</id>
+    <updated>2026-09-27T01:30:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.</summary>
+    <summary>The limited test covers select products and users, with a broader rollout planned for later in October.</summary>
   </entry>
   <entry>
     <title>Undeclared AI is insurance’s biggest blind spot</title>
@@ -151,13 +151,13 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>OpenAI pauses training of its ‘most capable models’</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause</id>
-    <updated>2026-09-26T16:34:59.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>🔮 The pros and cons of collective AI #603</title>
+    <link href="https://www.exponentialview.co/p/ev-603"/>
+    <id>https://www.exponentialview.co/p/ev-603</id>
+    <updated>2026-09-27T04:06:52.000Z</updated>
+    <author><name>Exponential View</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident h</summary>
+    <summary>AGI and new moral subjects; ChatGPT drives a car; energy and AI need each other++</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -235,7 +235,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-27T01:18:10.276Z</updated>
+    <updated>2026-09-27T07:59:35.413Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -244,36 +244,36 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-27T01:18:10.276Z</updated>
+    <updated>2026-09-27T07:59:35.413Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout</title>
-    <link href="https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?mod=rss_Technology</id>
-    <updated>2026-09-27T01:00:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>How AI Is Helping African Farmers Prepare for El Niño</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-27/how-ai-is-helping-african-farmers-prepare-for-el-nino-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-27/how-ai-is-helping-african-farmers-prepare-for-el-nino-video</id>
+    <updated>2026-09-27T05:00:25.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Effective altruism and its fears that AI could wipe out humanity have wielded big influence at Anthropic.</summary>
+    <summary>Opportunity International's Tim Strong explains how a WhatsApp-based AI tool gives smallholder farmers locally relevant advice on what and when to plant. The technology is designed to help farmers make better decisions and reduce the cost of uncertainty as weather patterns become increasingly unpredictable. (Source: Bl</summary>
   </entry>
   <entry>
-    <title>US and China Seek Common Ground on AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video</id>
-    <updated>2026-09-26T15:04:37.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Australia’s Deputy PM Defends Data Security After OpenAI Hack</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack</id>
+    <updated>2026-09-27T04:16:50.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping’s summit highlighted efforts to establish dialogue on AI while building trust between the two countries. Speaking w</summary>
+    <summary>Australia’s sensitive government data is kept in a “fortress,” Deputy Prime Minister Richard Marles said Sunday, seeking to reassure the public after revelations last week that an OpenAI model hacked a government website.</summary>
   </entry>
   <entry>
-    <title>Why EM assets still have to earn their place in the portfolio</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/why-em-assets-still-have-to-earn-their-place-in-the-portfolio</id>
-    <updated>2026-09-24T23:57:50.000Z</updated>
+    <title>AI data centre boom tests capital markets</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-data-centre-boom-tests-capital-markets"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/ai-data-centre-boom-tests-capital-markets</id>
+    <updated>2026-09-25T05:10:29.000Z</updated>
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Allocators are once again paying serious attention to emerging markets as they seek diversification from concentrated US indices and alternative venues to dial into the artificial intelligence thematic, but this time, EM assets have to work a lot harder to earn their place in the portfolio.</summary>
+    <summary>The explosive growth of AI data centres is pushing projects from real estate into infrastructure at unprecedented scale, but surging ticket sizes are forcing debt markets to reprice even high-quality borrowers, the Fiduciary Investors Symposium at Stanford University has heard.</summary>
   </entry>
 </feed>
