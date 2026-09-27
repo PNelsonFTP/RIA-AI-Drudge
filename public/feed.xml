@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-27T13:50:04.206Z</updated>
+  <updated>2026-09-27T18:16:03.169Z</updated>
+  <entry>
+    <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
+    <link href="https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362"/>
+    <id>https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362</id>
+    <updated>2026-09-25T16:02:02.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: WealthTech Strategy, Jump (vendor)</summary>
+  </entry>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -14,15 +23,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic.</summary>
-  </entry>
-  <entry>
-    <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
-    <link href="https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362"/>
-    <id>https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362</id>
-    <updated>2026-09-25T16:02:02.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: Jump (vendor)</summary>
   </entry>
   <entry>
     <title>Introducing Gemini 3.8 Live with Live Avatar</title>
@@ -34,22 +34,13 @@
     <summary>Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
-    <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
-    <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
-    <updated>2026-09-25T15:15:54.000Z</updated>
-    <author><name>FinTech Global</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Savvy Wealth, an AI-native wealth management platform serving independent financial advisors, has rolled out Savvy Custodial Platform, a new custody offering designed for registered investment advisor (RIA) owners and firms. The platform lets independent RIAs bring new clients on board in as little as 90 seconds and tr — Also covered by: WealthTech Strategy</summary>
-  </entry>
-  <entry>
-    <title>OpenAI, Anthropic CEOs called to appear at Australian AI probe</title>
-    <link href="https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27"/>
-    <id>https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27</id>
-    <updated>2026-09-27T04:27:00.000Z</updated>
+    <title>Bill Gates joins calls for AI safeguards, including legislation</title>
+    <link href="https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27"/>
+    <id>https://www.reuters.com/legal/litigation/bill-gates-joins-calls-ai-safeguards-including-legislation-2026-09-27</id>
+    <updated>2026-09-27T16:39:23.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI, Anthropic CEOs called to appear at Australian AI probe Reuters</summary>
+    <summary>Bill Gates joins calls for AI safeguards, including legislation Reuters</summary>
   </entry>
   <entry>
     <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
@@ -61,13 +52,13 @@
     <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
   </entry>
   <entry>
-    <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
-    <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
-    <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
-    <updated>2026-09-25T20:34:37.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Tremors From AI to Oil Boost Popular Hedge Fund Dispersion Trade</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-27/tremors-from-ai-to-oil-boost-popular-hedge-fund-dispersion-trade"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-27/tremors-from-ai-to-oil-boost-popular-hedge-fund-dispersion-trade</id>
+    <updated>2026-09-27T14:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
+    <summary>Wild gyrations in individual stocks on a punchy cocktail of AI euphoria and fear, a tumbling bond market and geopolitical drama bode well for a long-favored trade among hedge fund managers.</summary>
   </entry>
   <entry>
     <title>Law Firm Raises $5.5M for AI Patent-Writing Software</title>
@@ -82,19 +73,10 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-27T13:49:52.360Z</updated>
+    <updated>2026-09-27T18:15:49.832Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
-  </entry>
-  <entry>
-    <title>Data Center Boom Faces Wall Street Skepticism</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video</id>
-    <updated>2026-09-27T13:14:53.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>New York Times finance reporter Maureen Farrell tells Bloomberg This Weekend that Wall Street is growing more skeptical of the AI data center boom as rising interest rates, local opposition and permitting delays add uncertainty and costs to projects. Speaking with hosts David Gura and Christina Ruffini, Farrell says tr</summary>
   </entry>
   <entry>
     <title>Highlights from the Fiduciary Investors Symposium at Stanford University 2026</title>
@@ -124,13 +106,13 @@
     <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
   </entry>
   <entry>
-    <title>OneSeven Launches AdvisorGrowth IQ, an AI-Powered Financial Advisor Growth Engine</title>
-    <link href="https://www.wealthtechstrategy.com/post/oneseven-launches-advisorgrowth-iq-an-ai-powered-financial-advisor-growth-engine"/>
-    <id>https://www.wealthtechstrategy.com/post/oneseven-launches-advisorgrowth-iq-an-ai-powered-financial-advisor-growth-engine</id>
-    <updated>2026-09-25T14:32:04.000Z</updated>
+    <title>OneVest Launches Canada's First Agentic Account Opening Solution</title>
+    <link href="https://www.wealthtechstrategy.com/post/onevest-launches-canada-s-first-agentic-account-opening-solution"/>
+    <id>https://www.wealthtechstrategy.com/post/onevest-launches-canada-s-first-agentic-account-opening-solution</id>
+    <updated>2026-09-27T14:20:00.000Z</updated>
     <author><name>WealthTech Strategy</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>OneSeven. (2026, September 24). OneSeven launches AdvisorGrowth IQ, an AI-powered financial advisor growth engine. PR Newswire. https://www.prnewswire.com/news-releases/oneseven-launches-advisorgrowth-iq-an-ai-powered-financial-advisor-growth-engine-302887383.html OneSeven launched AdvisorGrowth IQ, an AI-powered growt</summary>
+    <summary>OneVest Technologies Inc. (2026, September 23). OneVest launches Canada's first agentic account opening solution for wealth management. Newswire.ca. https://www.newswire.ca/news-releases/onevest-launches-canada-s-first-agentic-account-opening-solution-for-wealth-management-806791597.html OneVest launched an AI agent it</summary>
   </entry>
   <entry>
     <title>AI-powered tools reshape wealth management tech stack for advisors</title>
@@ -151,13 +133,22 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Debt-hungry AI companies face increased risk as bond yields spike</title>
-    <link href="https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html"/>
-    <id>https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html</id>
-    <updated>2026-09-27T11:00:01.000Z</updated>
-    <author><name>CNBC Tech</name></author>
+    <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
+    <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment"/>
+    <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment</id>
+    <updated>2026-09-27T16:30:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.</summary>
+    <summary>&quot;AI is the devil and I its maker.&quot;</summary>
+  </entry>
+  <entry>
+    <title>OpenAI agents tried to ‘bruteforce’ a UN website</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website</id>
+    <updated>2026-09-27T17:21:07.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet anoth</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -196,22 +187,22 @@
     <summary>Arch's Ryan Eisenman explores how better data, automation and AI can modernize the private markets experience.</summary>
   </entry>
   <entry>
-    <title>Weekend Essay: What happens when every client has a chatbot?</title>
-    <link href="https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot"/>
-    <id>https://www.moneymarketing.co.uk/weekend-essay-what-happens-when-every-client-has-a-chatbot</id>
-    <updated>2026-09-25T13:00:10.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
+    <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
+    <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
+    <updated>2026-09-25T20:34:37.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
+    <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
   </entry>
   <entry>
-    <title>AI may increase demand for financial advice, study finds</title>
-    <link href="https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds"/>
-    <id>https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds</id>
-    <updated>2026-09-25T09:23:17.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
+    <link href="https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias"/>
+    <id>https://fintech.global/2026/09/25/savvy-wealth-unveils-custodial-platform-for-independent-rias</id>
+    <updated>2026-09-25T15:15:54.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Four in 10 financial advisers expect demand for advice to increase over the next five years as AI becomes more prevalent, a study by M&amp;G has found. A further 39% expect demand to remain unchanged, meaning eight in 10 advisers believe demand will either increase… The post AI may increase demand for financial advice, stu</summary>
+    <summary>Savvy Wealth, an AI-native wealth management platform serving independent financial advisors, has rolled out Savvy Custodial Platform, a new custody offering designed for registered investment advisor (RIA) owners and firms. The platform lets independent RIAs bring new clients on board in as little as 90 seconds and tr</summary>
   </entry>
   <entry>
     <title>Podcast Release: AI in Debt Collection: Opportunities, Risks, and the Importance of Data Governance</title>
@@ -226,7 +217,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-27T13:49:52.360Z</updated>
+    <updated>2026-09-27T18:15:49.832Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -235,10 +226,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-27T13:49:52.360Z</updated>
+    <updated>2026-09-27T18:15:49.832Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Data Center Boom Faces Wall Street Skepticism</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-27/data-center-boom-faces-wall-street-skepticism-video</id>
+    <updated>2026-09-27T13:14:53.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>New York Times finance reporter Maureen Farrell tells Bloomberg This Weekend that Wall Street is growing more skeptical of the AI data center boom as rising interest rates, local opposition and permitting delays add uncertainty and costs to projects. Speaking with hosts David Gura and Christina Ruffini, Farrell says tr</summary>
   </entry>
   <entry>
     <title>AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed</title>
@@ -248,15 +248,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>Artificial intelligence could wipe us all out. Or it might just kill our unwanted subscriptions.</summary>
-  </entry>
-  <entry>
-    <title>Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry"/>
-    <id>https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry</id>
-    <updated>2026-09-27T11:17:56.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The heads of artificial intelligence firms OpenAI and Anthropic PBC have been called on to appear before an Australian Senate inquiry to answer questions after the recent revelation of a hack of a government website.</summary>
   </entry>
   <entry>
     <title>AI data centre boom tests capital markets</title>
@@ -275,5 +266,14 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Allocators are once again paying serious attention to emerging markets as they seek diversification from concentrated US indices and alternative venues to dial into the artificial intelligence thematic, but this time, EM assets have to work a lot harder to earn their place in the portfolio.</summary>
+  </entry>
+  <entry>
+    <title>Introducing the new Copilot with Home, Code and Autopilot</title>
+    <link href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot"/>
+    <id>https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot</id>
+    <updated>2026-09-25T12:03:50.000Z</updated>
+    <author><name>Microsoft Blog</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, custo</summary>
   </entry>
 </feed>
