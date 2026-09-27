@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-26T22:39:32.987Z</updated>
+  <updated>2026-09-27T01:18:25.376Z</updated>
   <entry>
     <title>WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/northwestern-mutual-adopts-jumps-ai-suite"/>
@@ -23,15 +23,6 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>Plus, SEIA builds a governed data foundation for its in-house AI and Snappy Kraken debuts a read-only marketing coworker for advisors. — Also covered by: Jump (vendor)</summary>
-  </entry>
-  <entry>
-    <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
-    <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
-    <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
-    <updated>2026-09-26T00:29:00.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters — Also covered by: Bloomberg Tech</summary>
   </entry>
   <entry>
     <title>Savvy Wealth unveils custodial platform for independent RIAs</title>
@@ -61,6 +52,15 @@
     <summary>The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.</summary>
   </entry>
   <entry>
+    <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
+    <link href="https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26"/>
+    <id>https://www.reuters.com/business/openais-models-accessed-public-us-census-sec-data-bloomberg-news-reports-2026-09-26</id>
+    <updated>2026-09-26T00:29:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="REGULATION"/>
+    <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
+  </entry>
+  <entry>
     <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
     <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
     <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
@@ -82,19 +82,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-26T22:39:19.171Z</updated>
+    <updated>2026-09-27T01:18:10.276Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>US and China Seek Common Ground on AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video</id>
-    <updated>2026-09-26T15:04:37.000Z</updated>
+    <title>China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight</id>
+    <updated>2026-09-27T00:00:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping’s summit highlighted efforts to establish dialogue on AI while building trust between the two countries. Speaking w</summary>
+    <summary>Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.</summary>
   </entry>
   <entry>
     <title>AI data centre boom tests capital markets</title>
@@ -178,6 +178,15 @@
     <summary>Keith Cassidy, Director, Division of Examinations</summary>
   </entry>
   <entry>
+    <title>The Best Conferences for Wealthtech CTOs</title>
+    <link href="https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos"/>
+    <id>https://wealthtechtoday.com/2026/09/25/best-wealthtech-conferences-ctos</id>
+    <updated>2026-09-25T14:04:39.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post The Best Conferences for Wealthtech CTOs appeared first on and was written by Craig Iskowitz . Executive Summary If I could put only three conferences on a wealthtech CTO’s calendar, my choices would be straightforward: T3, your custodian’s conference, and your portfolio management vendor’s conference. Togethe</summary>
+  </entry>
+  <entry>
     <title>The WealthStack Podcast: How AI Is Modernizing Private Markets with Arch’s Ryan Eisenman</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman"/>
     <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-how-ai-is-modernizing-private-markets-with-arch-s-ryan-eisenman</id>
@@ -185,15 +194,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Arch's Ryan Eisenman explores how better data, automation and AI can modernize the private markets experience.</summary>
-  </entry>
-  <entry>
-    <title>Betterment Advisor Solutions Launches AI Document Reader</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors</id>
-    <updated>2026-09-24T16:16:18.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
   </entry>
   <entry>
     <title>Weekend Essay: What happens when every client has a chatbot?</title>
@@ -214,15 +214,6 @@
     <summary>Four in 10 financial advisers expect demand for advice to increase over the next five years as AI becomes more prevalent, a study by M&amp;G has found. A further 39% expect demand to remain unchanged, meaning eight in 10 advisers believe demand will either increase… The post AI may increase demand for financial advice, stu</summary>
   </entry>
   <entry>
-    <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
-    <link href="https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations"/>
-    <id>https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations</id>
-    <updated>2026-09-25T04:01:19.000Z</updated>
-    <author><name>Columbia Blue Sky</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
-  </entry>
-  <entry>
     <title>Podcast Release: AI in Debt Collection: Opportunities, Risks, and the Importance of Data Governance</title>
     <link href="https://www.consumerfinancemonitor.com/2026/09/24/podcast-release-ai-in-debt-collection-opportunities-risks-and-the-importance-of-data-governance"/>
     <id>https://www.consumerfinancemonitor.com/2026/09/24/podcast-release-ai-in-debt-collection-opportunities-risks-and-the-importance-of-data-governance</id>
@@ -232,10 +223,19 @@
     <summary>Artificial intelligence is rapidly transforming consumer financial services, and consumer debt collection is no exception. AI already is being used in a variety of first-party and third-party consumer debt collection activities, ranging from account scoring and communication strategies to payment-plan optimization and </summary>
   </entry>
   <entry>
+    <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
+    <link href="https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations"/>
+    <id>https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations</id>
+    <updated>2026-09-25T04:01:19.000Z</updated>
+    <author><name>Columbia Blue Sky</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
+  </entry>
+  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-26T22:39:19.171Z</updated>
+    <updated>2026-09-27T01:18:10.276Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -244,28 +244,28 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-26T22:39:19.171Z</updated>
+    <updated>2026-09-27T01:18:10.276Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Intel Panther Lake Teardown</title>
-    <link href="https://newsletter.semianalysis.com/p/intel-panther-lake-teardown"/>
-    <id>https://newsletter.semianalysis.com/p/intel-panther-lake-teardown</id>
-    <updated>2026-09-26T13:36:32.000Z</updated>
-    <author><name>SemiAnalysis</name></author>
+    <title>‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout</title>
+    <link href="https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?mod=rss_Technology</id>
+    <updated>2026-09-27T01:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Looking inside Intel 18A and Intel’s Panther Lake. A free SemiAnalysis STEEL teardown.</summary>
+    <summary>Effective altruism and its fears that AI could wipe out humanity have wielded big influence at Anthropic.</summary>
   </entry>
   <entry>
-    <title>Hackers hijack AI accounts and servers to fuel new cyber crime boom</title>
-    <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1</id>
-    <updated>2026-09-26T10:00:04.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>US and China Seek Common Ground on AI</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-26/us-and-china-seek-common-ground-on-ai-video</id>
+    <updated>2026-09-26T15:04:37.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources</summary>
+    <summary>Bloomberg News Chief North Asia Correspondent Stephen Engle and ABC News State Department reporter Shannon Kingston tell Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping’s summit highlighted efforts to establish dialogue on AI while building trust between the two countries. Speaking w</summary>
   </entry>
   <entry>
     <title>Why EM assets still have to earn their place in the portfolio</title>
