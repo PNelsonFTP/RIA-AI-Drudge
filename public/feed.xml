@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-28T06:38:37.653Z</updated>
+  <updated>2026-09-28T15:17:21.314Z</updated>
   <entry>
     <title>Fintech bytes: Northwestern Mutual picks Jump for enterprise AI</title>
     <link href="https://www.investmentnews.com/fintech/fintech-bytes-northwestern-mutual-picks-jump-for-enterprise-ai/268362"/>
@@ -25,22 +25,31 @@
     <summary>In other advisory tech news, Altruist expands alts marketplace, Snappy AI launches, another acquisition for F2 and InvestCloud launches Altic.</summary>
   </entry>
   <entry>
-    <title>Trump hosts Anthropic boss Dario Amodei at White House dinner</title>
-    <link href="https://www.ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1</id>
-    <updated>2026-09-28T03:25:12.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Dinner hints at rapprochement between US president and chief executive of leading AI lab — Also covered by: WSJ Tech</summary>
+    <title>OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government</title>
+    <link href="https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government"/>
+    <id>https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government</id>
+    <updated>2026-09-28T11:32:19.000Z</updated>
+    <author><name>Wired AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt. — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
-    <title>Can Muse overcome Meta’s trust issues?</title>
-    <link href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues"/>
-    <id>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues</id>
-    <updated>2026-09-27T19:57:30.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>AI tax breaks draw Warren probe of Meta, Google, Amazon, Microsoft</title>
+    <link href="https://www.investmentnews.com/regulation-legal-compliance/ai-tax-breaks-draw-warren-probe-of-meta-google-amazon-microsoft/268376"/>
+    <id>https://www.investmentnews.com/regulation-legal-compliance/ai-tax-breaks-draw-warren-probe-of-meta-google-amazon-microsoft/268376</id>
+    <updated>2026-09-28T13:30:05.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Senate Democrats seek data on data center deductions under the 2025 tax law as proposals to tax artificial intelligence multiply.</summary>
+  </entry>
+  <entry>
+    <title>Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System</title>
+    <link href="https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system"/>
+    <id>https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system</id>
+    <updated>2026-09-28T09:00:00.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.</summary>
+    <summary>In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.</summary>
   </entry>
   <entry>
     <title>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports</title>
@@ -52,31 +61,49 @@
     <summary>OpenAI's models accessed public US Census, SEC data, Bloomberg News reports Reuters</summary>
   </entry>
   <entry>
-    <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
-    <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
-    <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
-    <updated>2026-09-25T20:34:37.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
+    <title>WealthTech Week: AI Advisors and Tokenised Portfolios Arrive</title>
+    <link href="https://www.financexmagazine.com/post/wealthtech-s-two-speed-september-ai-copilots-on-one-track-tokenised-portfolios-on-the-other"/>
+    <id>https://www.financexmagazine.com/post/wealthtech-s-two-speed-september-ai-copilots-on-one-track-tokenised-portfolios-on-the-other</id>
+    <updated>2026-09-28T12:00:18.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>WealthTech Week: AI Advisors and Tokenised Portfolios Arrive FinanceX Magazine</summary>
   </entry>
   <entry>
-    <title>Sullivan &amp; Cromwell Discusses California Bill on Lawyers’ Use of Generative AI</title>
-    <link href="https://clsbluesky.law.columbia.edu/2026/09/28/sullivan-cromwell-discuss-california-bill-on-lawyers-use-of-generative-ai"/>
-    <id>https://clsbluesky.law.columbia.edu/2026/09/28/sullivan-cromwell-discuss-california-bill-on-lawyers-use-of-generative-ai</id>
-    <updated>2026-09-28T04:01:36.000Z</updated>
-    <author><name>Columbia Blue Sky</name></author>
+    <title>Forget calendar-bound catch ups - AI has turned advice into an ongoing conversation</title>
+    <link href="https://www.professionaladviser.com/opinion/4536044/forget-calendar-bound-catch-ups-ai-advice-ongoing-conversation"/>
+    <id>https://www.professionaladviser.com/opinion/4536044/forget-calendar-bound-catch-ups-ai-advice-ongoing-conversation</id>
+    <updated>2026-09-28T11:06:03.000Z</updated>
+    <author><name>Professional Adviser</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Chartered financial planner Alan Crook talks about his experience with AI in advice...</summary>
+  </entry>
+  <entry>
+    <title>Proxy Season 2026: Governance, AI Oversight, 14a-8, and the D&amp;O Implications</title>
+    <link href="https://www.dandodiary.com/2026/09/articles/proxy-statements/proxy-season-2026-governance-ai-oversight-14a-8-and-the-do-implications"/>
+    <id>https://www.dandodiary.com/2026/09/articles/proxy-statements/proxy-season-2026-governance-ai-oversight-14a-8-and-the-do-implications</id>
+    <updated>2026-09-28T13:08:42.000Z</updated>
+    <author><name>The D&amp;O Diary</name></author>
     <category term="COMPLIANCE"/>
-    <summary>On August 31, 2026, the California Legislature unanimously passed Senate Bill 574, a “first-in-the-nation” law that would establish statutory requirements governing the use of generative artificial intelligence by attorneys, arbitrators, judicial officers, and alternative dispute resolution providers. [1] The bill …</summary>
+    <summary>As the 2026 proxy season recedes into the rearview mirror, several clear themes have emerged. Perhaps the most notable is that, despite years of intense focus on environmental and social issues, shareholder attention has increasingly returned to traditional governance concerns. Governance proposals not only proved more</summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-28T06:38:20.436Z</updated>
+    <updated>2026-09-28T15:17:02.196Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+  </entry>
+  <entry>
+    <title>Nvidia Up on Share-Repurchase Program; Mining Stocks Slide | Stock Movers</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-28/nvidia-share-repurchase-program-mining-stocks-slide-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-28/nvidia-share-repurchase-program-mining-stocks-slide-video</id>
+    <updated>2026-09-28T14:52:13.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>On this episode of Stock Movers: - Nvidia (NVDA) shares are up after the board of the leader in AI chips authorized an additional $150 billion under the company’s existing share-repurchase program. The move increases the total remaining amount authorized to $235 billion. - Australia’s Northern Star Resources Ltd. rejec</summary>
   </entry>
   <entry>
     <title>AI capex boom requires adoption to scale: Bridgewater</title>
@@ -88,22 +115,22 @@
     <summary>Capital expenditure around data centre build-outs will likely reach $1.3 trillion this year, representing a greater share of economic activity than dot-com era capex on fibre and related infrastructure. But while AI’s macroeconomic impact so far has been primarily driven by the capex cycle around the sector, Adam Zimbl</summary>
   </entry>
   <entry>
-    <title>Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
-    <link href="https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"/>
-    <id>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india</id>
-    <updated>2026-09-27T01:30:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Launching Meta Enterprise Platform</title>
+    <link href="https://about.fb.com/news/2026/09/launching-meta-enterprise-platform"/>
+    <id>https://about.fb.com/news/2026/09/launching-meta-enterprise-platform</id>
+    <updated>2026-09-28T12:36:14.000Z</updated>
+    <author><name>Meta AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>The limited test covers select products and users, with a broader rollout planned for later in October.</summary>
+    <summary>Today we are starting Meta Enterprise Platform to help businesses use AI to grow, and Chirantan &quot;CJ&quot; Desai will join Meta as Chief Enterprise Platform Officer The post Launching Meta Enterprise Platform appeared first on Meta Newsroom .</summary>
   </entry>
   <entry>
-    <title>Gladstone Place Discusses Where AI Is Adding Value in Investor Relations</title>
-    <link href="https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations"/>
-    <id>https://clsbluesky.law.columbia.edu/2026/09/25/gladstone-place-discusses-where-ai-is-adding-value-in-investor-relations</id>
-    <updated>2026-09-25T04:01:19.000Z</updated>
-    <author><name>Columbia Blue Sky</name></author>
+    <title>What Mature Security Programs Need Before Deploying AI</title>
+    <link href="https://emerj.com/what-mature-security-programs-need-before-deploying-ai"/>
+    <id>https://emerj.com/what-mature-security-programs-need-before-deploying-ai</id>
+    <updated>2026-09-28T10:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
     <category term="RESEARCH"/>
-    <summary>AI is having a clear impact on investor relations as corporate issuers tap AI for stress-testing messaging and benchmarking shareholder proposals, while taking a gradual approach before handing over IR to HAL. This is according to a new survey by …</summary>
+    <summary>Enterprise CISOs are under pressure to buy AI-powered security tools, but with vendors increasingly marketing their products as AI, it is hard to tell which tools will reduce risk and which will add cost. And when AI is deployed atop weak access controls, poorly classified data, or limited network visibility, it can ex</summary>
   </entry>
   <entry>
     <title>OneVest Launches Canada's First Agentic Account Opening Solution</title>
@@ -115,15 +142,6 @@
     <summary>OneVest Technologies Inc. (2026, September 23). OneVest launches Canada's first agentic account opening solution for wealth management. Newswire.ca. https://www.newswire.ca/news-releases/onevest-launches-canada-s-first-agentic-account-opening-solution-for-wealth-management-806791597.html OneVest launched an AI agent it</summary>
   </entry>
   <entry>
-    <title>AI-powered tools reshape wealth management tech stack for advisors</title>
-    <link href="https://www.investmentnews.com/transformation/ai-powered-tools-reshape-wealth-management-tech-stack-for-advisors/268356"/>
-    <id>https://www.investmentnews.com/transformation/ai-powered-tools-reshape-wealth-management-tech-stack-for-advisors/268356</id>
-    <updated>2026-09-25T10:40:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Betterment, F2 Strategy and WealthReach push AI deeper into advisory firm operations with three deals this week.</summary>
-  </entry>
-  <entry>
     <title>Funding for alternative investment distribution continues to swamp SaaS solutions</title>
     <link href="https://www.investmentnews.com/advisor-tech/funding-for-alternative-investment-distribution-continues-to-swamp-saas-solutions/268304"/>
     <id>https://www.investmentnews.com/advisor-tech/funding-for-alternative-investment-distribution-continues-to-swamp-saas-solutions/268304</id>
@@ -133,22 +151,13 @@
     <summary>Funding for alternative investment distribution continues to swamp SaaS solutions InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Anthropic’s CEO is about to have dinner with President Trump</title>
-    <link href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump"/>
-    <id>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump</id>
-    <updated>2026-09-27T20:34:28.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Who’s liable when AI agents go rogue?</title>
+    <link href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue"/>
+    <id>https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue</id>
+    <updated>2026-09-28T08:06:22.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>This will be the first one-on-one meeting between Dario Amodei and Donald Trump</summary>
-  </entry>
-  <entry>
-    <title>Anthropic’s Dario Amodei gets the SNL treatment</title>
-    <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment"/>
-    <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment</id>
-    <updated>2026-09-27T16:30:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>&quot;AI is the devil and I its maker.&quot;</summary>
+    <summary>MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…</summary>
   </entry>
   <entry>
     <title>Information in the Age of AI</title>
@@ -178,13 +187,13 @@
     <summary>The post The Best Conferences for Wealthtech CTOs appeared first on and was written by Craig Iskowitz . Executive Summary If I could put only three conferences on a wealthtech CTO’s calendar, my choices would be straightforward: T3, your custodian’s conference, and your portfolio management vendor’s conference. Togethe</summary>
   </entry>
   <entry>
-    <title>Betterment Advisor Solutions Launches AI Document Reader</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/betterment-launches-ai-document-reader-for-advisors</id>
-    <updated>2026-09-24T16:16:18.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The new tool automates brokerage statement uploads and transfer requests, meant to cut account opening time.</summary>
+    <title>RIAs working with Schwab get higher-yielding option for clients' cash</title>
+    <link href="https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash"/>
+    <id>https://www.financial-planning.com/news/rias-working-with-schwab-get-higher-yielding-option-for-clients-cash</id>
+    <updated>2026-09-25T20:34:37.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>As AI threatens firms' lucrative business managing uninvested cash, Schwab gives its RIA partners a new way to keep clients' cash holdings sticky.</summary>
   </entry>
   <entry>
     <title>Weekend Essay: What happens when every client has a chatbot?</title>
@@ -196,13 +205,13 @@
     <summary>Over the past year, I have spoken to plenty of advisers about AI. Few seem worried about being replaced. More are beginning to wonder how it is changing their conversations with clients. A recent comment about AI from an adviser on the MM website stuck… The post Weekend Essay: What happens when every client has a chatb</summary>
   </entry>
   <entry>
-    <title>AI may increase demand for financial advice, study finds</title>
-    <link href="https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds"/>
-    <id>https://www.moneymarketing.co.uk/ai-may-increase-demand-for-financial-advice-study-finds</id>
-    <updated>2026-09-25T09:23:17.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Four in 10 financial advisers expect demand for advice to increase over the next five years as AI becomes more prevalent, a study by M&amp;G has found. A further 39% expect demand to remain unchanged, meaning eight in 10 advisers believe demand will either increase… The post AI may increase demand for financial advice, stu</summary>
+    <title>Sullivan &amp; Cromwell Discusses California Bill on Lawyers’ Use of Generative AI</title>
+    <link href="https://clsbluesky.law.columbia.edu/2026/09/28/sullivan-cromwell-discuss-california-bill-on-lawyers-use-of-generative-ai"/>
+    <id>https://clsbluesky.law.columbia.edu/2026/09/28/sullivan-cromwell-discuss-california-bill-on-lawyers-use-of-generative-ai</id>
+    <updated>2026-09-28T04:01:36.000Z</updated>
+    <author><name>Columbia Blue Sky</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>On August 31, 2026, the California Legislature unanimously passed Senate Bill 574, a “first-in-the-nation” law that would establish statutory requirements governing the use of generative artificial intelligence by attorneys, arbitrators, judicial officers, and alternative dispute resolution providers. [1] The bill …</summary>
   </entry>
   <entry>
     <title>Law Firm Raises $5.5M for AI Patent-Writing Software</title>
@@ -214,19 +223,10 @@
     <summary>Fearn, a new AI-driven patent law firm, announced $5.5 million in investments from Kindred Ventures, a16z Speedrun, Designer Fund and Essence VC. The investment will go into expanding the firm and FearnOS, its AI-driven, proprietary drafting and client management system, according to a press release. Fearn claims work </summary>
   </entry>
   <entry>
-    <title>Podcast Release: AI in Debt Collection: Opportunities, Risks, and the Importance of Data Governance</title>
-    <link href="https://www.consumerfinancemonitor.com/2026/09/24/podcast-release-ai-in-debt-collection-opportunities-risks-and-the-importance-of-data-governance"/>
-    <id>https://www.consumerfinancemonitor.com/2026/09/24/podcast-release-ai-in-debt-collection-opportunities-risks-and-the-importance-of-data-governance</id>
-    <updated>2026-09-24T18:11:35.000Z</updated>
-    <author><name>Ballard Consumer Finance Monitor</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Artificial intelligence is rapidly transforming consumer financial services, and consumer debt collection is no exception. AI already is being used in a variety of first-party and third-party consumer debt collection activities, ranging from account scoring and communication strategies to payment-plan optimization and </summary>
-  </entry>
-  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-28T06:38:20.436Z</updated>
+    <updated>2026-09-28T15:17:02.196Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -235,19 +235,28 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-28T06:38:20.436Z</updated>
+    <updated>2026-09-28T15:17:02.196Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>ETF Bets on an AI ‘Doomsday’</title>
-    <link href="https://www.thedailyupside.com/etf/thematics-sectors/etf-bets-on-an-ai-doomsday"/>
-    <id>https://www.thedailyupside.com/etf/thematics-sectors/etf-bets-on-an-ai-doomsday</id>
-    <updated>2026-09-28T04:02:00.000Z</updated>
-    <author><name>The Daily Upside</name></author>
+    <title>Kuaishou’s AI Video Spinoff Unveils New Model in ByteDance Chase</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-28/kuaishou-s-ai-video-spinoff-unveils-new-model-in-bytedance-chase"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-28/kuaishou-s-ai-video-spinoff-unveils-new-model-in-bytedance-chase</id>
+    <updated>2026-09-28T15:00:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Direxion is hoping to expand its funds into the prediction-markets category, prepping ETFs that bet on AI, weather patterns and key performance indicators. The post ETF Bets on an AI ‘Doomsday’ appeared first on The Daily Upside .</summary>
+    <summary>Kuaishou Technology’s AI spinoff announced its latest video-generation model ahead of a potential Hong Kong listing, stepping up efforts to close the gap on industry leader ByteDance Ltd.</summary>
+  </entry>
+  <entry>
+    <title>AI Agent Startup Instinct Raises $1 Billion at $10 Billion Value</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-28/ai-agent-startup-instinct-raises-1-billion-at-10-billion-value"/>
+    <id>https://www.bloomberg.com/news/articles/2026-09-28/ai-agent-startup-instinct-raises-1-billion-at-10-billion-value</id>
+    <updated>2026-09-28T14:28:38.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Instinct, the startup behind a viral artificial intelligence agent, has raised $1 billion in funding at a $10 billion valuation, a sign of investor demand for a new crop of AI products that carry out everyday tasks for users.</summary>
   </entry>
   <entry>
     <title>From hydrogen to nuclear: Investors put energy investments to the test</title>
@@ -259,21 +268,12 @@
     <summary>While global investors marvel at the productivity and economic gains from AI, they should remember that it is underpinned by energy, according to Chris Leslie, Macquarie Asset Management’s executive chair of real assets Americas, who said the sector’s “importance cannot be underestimated”. At the Top1000funds.com Fiduc</summary>
   </entry>
   <entry>
-    <title>Asian dealers may be more exposed than US in AI selloff scenario</title>
-    <link href="https://www.risk.net/risk-management/7964173/asian-dealers-may-be-more-exposed-than-us-in-ai-selloff-scenario"/>
-    <id>https://www.risk.net/risk-management/7964173/asian-dealers-may-be-more-exposed-than-us-in-ai-selloff-scenario</id>
-    <updated>2026-09-28T00:10:00.000Z</updated>
+    <title>Agentic risk management could arrive ‘sooner than we think’</title>
+    <link href="https://www.risk.net/risk-management/7964192/agentic-risk-management-could-arrive-%E2%80%98sooner-than-we-think%E2%80%99"/>
+    <id>https://www.risk.net/risk-management/7964192/agentic-risk-management-could-arrive-%E2%80%98sooner-than-we-think%E2%80%99</id>
+    <updated>2026-09-28T10:18:19.000Z</updated>
     <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Prime brokers face regional counterparty risk from huge flows in leveraged ETFs, say risk managers</summary>
-  </entry>
-  <entry>
-    <title>Introducing the new Copilot with Home, Code and Autopilot</title>
-    <link href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot"/>
-    <id>https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot</id>
-    <updated>2026-09-25T12:03:50.000Z</updated>
-    <author><name>Microsoft Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, custo</summary>
+    <summary>Risk Live: Models are capable, but banks lack platform and governance to safely run agentic systems</summary>
   </entry>
 </feed>
