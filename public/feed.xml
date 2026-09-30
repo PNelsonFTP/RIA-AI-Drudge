@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-30T19:04:51.639Z</updated>
+  <updated>2026-09-30T22:58:52.397Z</updated>
   <entry>
     <title>Altman says OpenAI will delay its IPO until it overcomes safety concerns</title>
     <link href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1"/>
@@ -14,6 +14,15 @@
     <author><name>FT Artificial Intelligence</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>ChatGPT maker launches new AI personal assistant as it faces challenge from Meta’s Muse — Also covered by: Ars Technica AI, Wired AI</summary>
+  </entry>
+  <entry>
+    <title>Zocks debuts Claude plugin with seven skills for financial advisors</title>
+    <link href="https://www.investmentnews.com/fintech/zocks-debuts-claude-plugin-with-seven-skills-for-financial-advisors/268425"/>
+    <id>https://www.investmentnews.com/fintech/zocks-debuts-claude-plugin-with-seven-skills-for-financial-advisors/268425</id>
+    <updated>2026-09-30T20:21:34.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>The AI meeting assistant's Advisor Intelligence plugin turns client conversation data into annual reviews, tax scans and attrition alerts. — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
     <title>CSBS releases Artificial Intelligence Supervisory Framework</title>
@@ -25,33 +34,6 @@
     <summary>CSBS releases Artificial Intelligence Supervisory Framework White &amp; Case LLP — Also covered by: Ballard Consumer Finance Monitor</summary>
   </entry>
   <entry>
-    <title>Robinhood to Provide Easier Access to AI Agents. Plus, Weekend Trading Is Coming.</title>
-    <link href="https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21"/>
-    <id>https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21</id>
-    <updated>2026-09-30T13:57:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>The brokerage firm is seeking to win more business from customers via an expanded suite of products and tools, including an easier interface for using artificial intelligence to execute trading strategies. — Also covered by: PYMNTS AI</summary>
-  </entry>
-  <entry>
-    <title>XYPN Partners With Jump to Bring AI Tools to Its Advisors</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/xypn-partners-with-jump-to-bring-ai-tools-to-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/xypn-partners-with-jump-to-bring-ai-tools-to-advisors</id>
-    <updated>2026-09-30T00:00:00.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>The fiduciary advisor network will offer members discounted access to the platform's meeting prep, note-taking, follow-up communications and CRM capabilities.</summary>
-  </entry>
-  <entry>
-    <title>FTC opens probe into AI giants including Anthropic and OpenAI</title>
-    <link href="https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30"/>
-    <id>https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30</id>
-    <updated>2026-09-30T18:17:19.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>FTC opens probe into AI giants including Anthropic and OpenAI Reuters — Also covered by: WSJ Tech</summary>
-  </entry>
-  <entry>
     <title>&quot;An AI did it&quot; is no defense, says nonprofit suing OpenAI over Hugging Face hack</title>
     <link href="https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack"/>
     <id>https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack</id>
@@ -59,15 +41,6 @@
     <author><name>Ars Technica AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>OpenAI makes others suffer &quot;the harms of its unsafe decision-making,&quot; nonprofit says. — Also covered by: Wired AI</summary>
-  </entry>
-  <entry>
-    <title>Arch extends AI platform into pre-investment diligence</title>
-    <link href="https://fintech.global/2026/09/30/arch-extends-ai-platform-into-pre-investment-diligence"/>
-    <id>https://fintech.global/2026/09/30/arch-extends-ai-platform-into-pre-investment-diligence</id>
-    <updated>2026-09-30T15:33:19.000Z</updated>
-    <author><name>FinTech Global</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Arch, a company positioning itself as the infrastructure layer for private markets, has unveiled a new offering called Arch Investment Research, taking its technology beyond portfolio monitoring and into the due diligence stage that comes before an investment is made. The new tool is aimed at investment teams working w — Also covered by: InvestmentNews</summary>
   </entry>
   <entry>
     <title>XYPN Partners with Jump to Help Advisors Harness the Next Generation of Compliant AI-Powered Growth</title>
@@ -79,13 +52,13 @@
     <summary>XYPN. (2026, September 29). XYPN partners with Jump to help advisors harness the next generation of compliant AI-powered growth. GlobeNewswire. https://www.globenewswire.com/news-release/2026/09/30/3371472/0/en/xypn-partners-with-jump-to-help-advisors-harness-the-next-generation-of-compliant-ai-powered-growth.html XYPN — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
-    <title>Single-country ETFs surge as investors target AI, reform plays</title>
-    <link href="https://www.investmentnews.com/etfs/single-country-etfs-surge-as-investors-target-ai-reform-plays/268410"/>
-    <id>https://www.investmentnews.com/etfs/single-country-etfs-surge-as-investors-target-ai-reform-plays/268410</id>
-    <updated>2026-09-30T10:41:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>US-listed single-country ETFs have pulled in over $26 billion year-to-date, more than four times their full-year 2025 haul, TD Securities data shows.</summary>
+    <title>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</title>
+    <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
+    <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
+    <updated>2026-09-30T20:41:41.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers &quot;frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,&quot; according to chief AI architect and Google DeepMind</summary>
   </entry>
   <entry>
     <title>The Other AI: Remarks at the Open Commission Meeting on Accredited Investor Notices under Rule 501(a)(10) of Regulation D</title>
@@ -97,13 +70,13 @@
     <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
-    <title>Building Podcasts, Claude For Advisors And Controlling AI</title>
-    <link href="https://www.wealthsolutionsreport.com/building-podcasts-claude-for-advisors-and-controlling-ai"/>
-    <id>https://www.wealthsolutionsreport.com/building-podcasts-claude-for-advisors-and-controlling-ai</id>
-    <updated>2026-09-30T14:21:18.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
+    <title>The False Positive Problem Wealth Managers Can’t Afford to Ignore</title>
+    <link href="https://www.wealthmanagement.com/financial-cybersecurity/the-false-positive-problem-wealth-managers-can-t-afford-to-ignore"/>
+    <id>https://www.wealthmanagement.com/financial-cybersecurity/the-false-positive-problem-wealth-managers-can-t-afford-to-ignore</id>
+    <updated>2026-09-30T20:30:59.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Plus Our Deals &amp; Recruiting Roundup, Women Advisors Going Independent, A Story Of Endurance, M&amp;A Slumps, Preparing For UHNW Clients, ERISA, Invest In Others’ Awards, The OSJ Structure, Composition’s Hires, Savvy’s Custodial Launch And More</summary>
+    <summary>AI fraud detection now hinges on data quality, not model sophistication, because fragmented data drives false positives that erode client trust.</summary>
   </entry>
   <entry>
     <title>Talk to ‘Charley’? Charles Schwab Unveils New AI Assistant for Investors</title>
@@ -124,22 +97,22 @@
     <summary>This semi-monthly column by highlights news, government documents, NGO/IGO papers, conferences, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the primary sourc</summary>
   </entry>
   <entry>
-    <title>The Missing Layer that Unlocks AI’s ROI for Banks</title>
-    <link href="https://fintechtakes.com/articles/2026-09-30/the-missing-layer-that-unlocks-ais-roi-for-banks"/>
-    <id>https://fintechtakes.com/articles/2026-09-30/the-missing-layer-that-unlocks-ais-roi-for-banks</id>
-    <updated>2026-09-30T15:35:00.000Z</updated>
-    <author><name>Fintech Takes</name></author>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-09-30T22:58:38.376Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Sponsored deep dive essays are opportunities for me to work with specific companies on topics and issues important to them, me and bank readers. The sponsor provides input and information, but each piece is researched and written by me, and are my honest thoughts. Thanks to Taktile for partnering with me on this piece </summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>AI 'Will Get Us Closer To Curing Cancer', Says Sen. Budd</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-30/ai-will-get-us-closer-to-curing-cancer-says-sen-budd-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-30/ai-will-get-us-closer-to-curing-cancer-says-sen-budd-video</id>
-    <updated>2026-09-30T18:12:34.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Google releases most advanced Gemini AI model</title>
+    <link href="https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1</id>
+    <updated>2026-09-30T21:21:48.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Senator Ted Budd, Republican from North Carolina, joined Balance of Power to discuss the Senate's last day in session before midterms. He also discussed recent news from the Fed and how the US must stay ahead of China when it comes to AI. (Source: Bloomberg)</summary>
+    <summary>Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence</summary>
   </entry>
   <entry>
     <title>Candidly Launches ‘Benefits-Aware’ Financial Guidance for Employees</title>
@@ -149,15 +122,6 @@
     <author><name>PlanSponsor AI</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>The offering through Candidly’s artificial intelligence assistant expands the firm’s employer-sponsored benefits suite beyond student debt and college planning products.</summary>
-  </entry>
-  <entry>
-    <title>Introducing SynthID Bio</title>
-    <link href="https://deepmind.google/blog/introducing-synthid-bio"/>
-    <id>https://deepmind.google/blog/introducing-synthid-bio</id>
-    <updated>2026-09-30T15:03:07.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Proof of concept for watermarking AI-generated proteins while preserving biological function.</summary>
   </entry>
   <entry>
     <title>Asset managers expect AI models to usher in a new era of alpha returns</title>
@@ -178,13 +142,22 @@
     <summary>Zocks Launches Advisor Intelligence Plugin with Seven Skills for Claude Business Wire</summary>
   </entry>
   <entry>
-    <title>Arch pushes AI portfolio monitoring into pre-investment due diligence</title>
-    <link href="https://www.investmentnews.com/alternatives/arch-pushes-ai-portfolio-monitoring-into-pre-investment-due-diligence/268407"/>
-    <id>https://www.investmentnews.com/alternatives/arch-pushes-ai-portfolio-monitoring-into-pre-investment-due-diligence/268407</id>
-    <updated>2026-09-29T20:23:18.000Z</updated>
+    <title>Single-country ETFs surge as investors target AI, reform plays</title>
+    <link href="https://www.investmentnews.com/etfs/single-country-etfs-surge-as-investors-target-ai-reform-plays/268410"/>
+    <id>https://www.investmentnews.com/etfs/single-country-etfs-surge-as-investors-target-ai-reform-plays/268410</id>
+    <updated>2026-09-30T10:41:00.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>New tool gives RIAs and family offices AI help vetting private market deals, with some users reportedly halving review time.</summary>
+    <summary>US-listed single-country ETFs have pulled in over $26 billion year-to-date, more than four times their full-year 2025 haul, TD Securities data shows.</summary>
+  </entry>
+  <entry>
+    <title>Good AI Systems Let Advisors Focus On The Human</title>
+    <link href="https://www.wealthsolutionsreport.com/good-ai-systems-let-advisors-focus-on-the-human"/>
+    <id>https://www.wealthsolutionsreport.com/good-ai-systems-let-advisors-focus-on-the-human</id>
+    <updated>2026-09-29T13:43:39.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Building AI Around Advisor Workflows Instead Of Bolting Features Onto Existing CRM Processes</summary>
   </entry>
   <entry>
     <title>OpenAI’s Jev clone could help the frontier lab stop its swarming agents</title>
@@ -196,13 +169,13 @@
     <summary>OpenAI's &quot;Decisions API&quot; is a Jev clone that confirms the importance of fast, cheap intelligence.</summary>
   </entry>
   <entry>
-    <title>BMW bets on cuts, new models and AI to revive its fortunes</title>
-    <link href="https://www.reuters.com/business/bmw-eyes-auto-division-margin-3-5-2028-bernstein-analysts-say-2026-09-30"/>
-    <id>https://www.reuters.com/business/bmw-eyes-auto-division-margin-3-5-2028-bernstein-analysts-say-2026-09-30</id>
-    <updated>2026-09-30T14:04:02.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Google announces Gemini 4 Argon AI model, but you can't use it yet</title>
+    <link href="https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet"/>
+    <id>https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet</id>
+    <updated>2026-09-30T20:11:08.000Z</updated>
+    <author><name>Ars Technica AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>BMW bets on cuts, new models and AI to revive its fortunes Reuters</summary>
+    <summary>So much for Gemini 3.5 Pro.</summary>
   </entry>
   <entry>
     <title>&quot;Real-Time Consultations with AI&quot;...Inside LG Uplus Customer Center Powered by AI</title>
@@ -211,25 +184,43 @@
     <updated>2026-09-30T02:17:34.000Z</updated>
     <author><name>GN: SEC AI</name></author>
     <category term="REGULATION"/>
-    <summary>&quot;Real-Time Consultations with AI&quot;...Inside LG Uplus Customer Center Powered by AI asiae.co.kr</summary>
+    <summary>&quot;Real-Time Consultations with AI&quot;...Inside LG Uplus Customer Center Powered by AI 아시아경제</summary>
   </entry>
   <entry>
-    <title>SEC Charges Firms With $15M WhatsApp, Crypto Frauds</title>
-    <link href="https://www.wealthmanagement.com/regulation-compliance/sec-charges-two-firms-with-15m-crypto-fraud-scheme"/>
-    <id>https://www.wealthmanagement.com/regulation-compliance/sec-charges-two-firms-with-15m-crypto-fraud-scheme</id>
-    <updated>2026-09-29T19:18:02.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Building Podcasts, Claude For Advisors And Controlling AI</title>
+    <link href="https://www.wealthsolutionsreport.com/building-podcasts-claude-for-advisors-and-controlling-ai"/>
+    <id>https://www.wealthsolutionsreport.com/building-podcasts-claude-for-advisors-and-controlling-ai</id>
+    <updated>2026-09-30T14:21:18.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The commission alleges Cryptoaiml and TSAI were based overseas. In one case, fraudsters allegedly used WhatsApp to lure investors into a crypto scheme, while another falsely claimed it'd used client funds to buy AI-powered trading bots.</summary>
+    <summary>Plus Our Deals &amp; Recruiting Roundup, Women Advisors Going Independent, A Story Of Endurance, M&amp;A Slumps, Preparing For UHNW Clients, ERISA, Invest In Others’ Awards, The OSJ Structure, Composition’s Hires, Savvy’s Custodial Launch And More</summary>
   </entry>
   <entry>
-    <title>SJP’s former head of AI joins W1M</title>
-    <link href="https://www.moneymarketing.co.uk/sjps-former-head-of-ai-joins-w1m"/>
-    <id>https://www.moneymarketing.co.uk/sjps-former-head-of-ai-joins-w1m</id>
-    <updated>2026-09-30T10:53:22.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Nucleus Financial Platforms Appoints Quilter’s Dave Reynolds as CTO to Lead Wealthtech Transformation</title>
+    <link href="https://ffnews.com/news/nucleus-appoints-dave-reynolds-3cee8463"/>
+    <id>https://ffnews.com/news/nucleus-appoints-dave-reynolds-3cee8463</id>
+    <updated>2026-09-29T16:06:52.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Nucleus Financial Platforms Appoints Quilter’s Dave Reynolds as CTO to Lead Wealthtech Transformation FF News</summary>
+  </entry>
+  <entry>
+    <title>From AI infrastructure to GLP-1 Drugs, Here Are Investment Pros’ Favorite Niche ETFs Now</title>
+    <link href="https://www.barrons.com/advisor/articles/from-ai-infrastructure-to-glp-1-drugs-here-are-investment-pros-favorite-niche-etfs-now-819e0d7f"/>
+    <id>https://www.barrons.com/advisor/articles/from-ai-infrastructure-to-glp-1-drugs-here-are-investment-pros-favorite-niche-etfs-now-819e0d7f</id>
+    <updated>2026-09-30T19:38:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The fomer head of AI at St James's Place (SJP) has joined W1M in the same role. Wenyu Bai, who has more than 18 years of experience across wealth management, pension investment consultancy, and AI and automation leadership, took up the newly created position earlier… The post SJP’s former head of AI joins W1M appeared </summary>
+    <summary>Investment advisors are using ETFs to target some of the most exciting parts of the market.</summary>
+  </entry>
+  <entry>
+    <title>Robinhood to Provide Easier Access to AI Agents. Plus, Weekend Trading Is Coming.</title>
+    <link href="https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21"/>
+    <id>https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21</id>
+    <updated>2026-09-30T13:57:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>The brokerage firm is seeking to win more business from customers via an expanded suite of products and tools, including an easier interface for using artificial intelligence to execute trading strategies.</summary>
   </entry>
   <entry>
     <title>That AI-Drafted Termination Memo Could Become Evidence</title>
@@ -250,30 +241,39 @@
     <summary>NASHVILLE, Tenn., September 29, 2026 – Ncontracts, the leading provider of integrated risk, compliance, and vendor management solutions to the financial services industry, announced today that America’s Credit Unions is endorsing Nquiry, Ncontracts’ purpose-built regulatory research and compliance agent for financial i</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-30T19:04:40.062Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
-  </entry>
-  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-30T19:04:40.062Z</updated>
+    <updated>2026-09-30T22:58:38.376Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
+    <title>How acquirers are commercialising fraud intelligence</title>
+    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
+    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
+    <updated>2026-09-30T22:58:38.376Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
     <title>US competition watchdog expands investigation of Anthropic and OpenAI</title>
     <link href="https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1"/>
     <id>https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1</id>
-    <updated>2026-09-30T17:07:39.000Z</updated>
+    <updated>2026-09-30T21:39:02.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies</summary>
+    <summary>The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies</summary>
+  </entry>
+  <entry>
+    <title>HPE Boosts Forecast on Positive Networking Outlook</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video</id>
+    <updated>2026-09-30T21:17:20.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Hewlett Packard Enterprise Co. boosted its networking revenue forecast and announced a $1.2 billion order from cloud company Vultr, giving fresh signals that it’s benefiting from the AI build-out. The company, which expanded its networking business by acquiring Juniper Networks last year, now expects that segment to ra</summary>
   </entry>
 </feed>
