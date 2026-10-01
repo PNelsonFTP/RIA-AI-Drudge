@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-09-30T22:58:52.397Z</updated>
+  <updated>2026-10-01T02:00:43.726Z</updated>
+  <entry>
+    <title>Google releases Gemini 4 Argon, called its most powerful model yet</title>
+    <link href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet"/>
+    <id>https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet</id>
+    <updated>2026-09-30T23:43:07.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. — Also covered by: Ars Technica AI, FT Artificial Intelligence</summary>
+  </entry>
   <entry>
     <title>Altman says OpenAI will delay its IPO until it overcomes safety concerns</title>
     <link href="https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1"/>
@@ -52,15 +61,6 @@
     <summary>XYPN. (2026, September 29). XYPN partners with Jump to help advisors harness the next generation of compliant AI-powered growth. GlobeNewswire. https://www.globenewswire.com/news-release/2026/09/30/3371472/0/en/xypn-partners-with-jump-to-help-advisors-harness-the-next-generation-of-compliant-ai-powered-growth.html XYPN — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
-    <title>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</title>
-    <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
-    <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
-    <updated>2026-09-30T20:41:41.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers &quot;frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,&quot; according to chief AI architect and Google DeepMind</summary>
-  </entry>
-  <entry>
     <title>The Other AI: Remarks at the Open Commission Meeting on Accredited Investor Notices under Rule 501(a)(10) of Regulation D</title>
     <link href="https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026"/>
     <id>https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026</id>
@@ -79,28 +79,28 @@
     <summary>AI fraud detection now hinges on data quality, not model sophistication, because fragmented data drives false positives that erode client trust.</summary>
   </entry>
   <entry>
-    <title>Talk to ‘Charley’? Charles Schwab Unveils New AI Assistant for Investors</title>
-    <link href="https://www.barrons.com/advisor/articles/charles-schwab-charley-ai-assistant-b7d7cadd"/>
-    <id>https://www.barrons.com/advisor/articles/charles-schwab-charley-ai-assistant-b7d7cadd</id>
-    <updated>2026-09-30T18:12:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
+    <title>Pontera 'reframes' itself from 401(k) workaround agent to trusted gatekeeper of AI agents -- possibly solving impasse with Fidelity -- as Schwab unleashes 'Charley,' its new AI agent 'foundation' for millions of clients</title>
+    <link href="https://riabiz.com/a/2026/10/1/pontera-reframes-itself-from-401k-workaround-agent-to-trusted-gatekeeper-of-ai-agents-possibly-solving-impasse-with-fidelity-as-schwab-unleashes-charley-its-new-ai-agent-foundation-for-millions-of-clients"/>
+    <id>https://riabiz.com/a/2026/10/1/pontera-reframes-itself-from-401k-workaround-agent-to-trusted-gatekeeper-of-ai-agents-possibly-solving-impasse-with-fidelity-as-schwab-unleashes-charley-its-new-ai-agent-foundation-for-millions-of-clients</id>
+    <updated>2026-10-01T01:26:08.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Customers can use the artificial intelligence-powered assistant to get information and complete certain tasks, but not trading, the brokerage firm says.</summary>
+    <summary>Pontera Public Policy Director describes onslaught of demand for 'trust overlay' in a world where AI agents need perpetual rapid vetting where his firm lives.</summary>
   </entry>
   <entry>
-    <title>AI in Finance and Banking – September 30, 2026</title>
-    <link href="https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-30-2026"/>
-    <id>https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-30-2026</id>
-    <updated>2026-09-30T12:10:15.000Z</updated>
-    <author><name>LLRX</name></author>
+    <title>EU’s financial regulator prioritizes AI, tokenization as key risks for 2027</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/eus-financial-regulator-prioritizes-ai-tokenization-as-key-risks-for-2027"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/eus-financial-regulator-prioritizes-ai-tokenization-as-key-risks-for-2027</id>
+    <updated>2026-09-30T23:12:06.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>This semi-monthly column by highlights news, government documents, NGO/IGO papers, conferences, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the primary sourc</summary>
+    <summary>The EU’s main financial regulator has made AI and tokenization—where assets are traded on blockchains rather than through traditional financial markets—key priorities for banking regulators in EU member states to focus on for 2027. The post EU’s financial regulator prioritizes AI, tokenization as key risks for 2027 app</summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-09-30T22:58:38.376Z</updated>
+    <updated>2026-10-01T02:00:10.551Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -160,6 +160,15 @@
     <summary>Building AI Around Advisor Workflows Instead Of Bolting Features Onto Existing CRM Processes</summary>
   </entry>
   <entry>
+    <title>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</title>
+    <link href="https://www.theverge.com/tech/1002980/google-gemini-4-argon"/>
+    <id>https://www.theverge.com/tech/1002980/google-gemini-4-argon</id>
+    <updated>2026-09-30T20:41:41.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers &quot;frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,&quot; according to chief AI architect and Google DeepMind</summary>
+  </entry>
+  <entry>
     <title>OpenAI’s Jev clone could help the frontier lab stop its swarming agents</title>
     <link href="https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents"/>
     <id>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents</id>
@@ -169,22 +178,13 @@
     <summary>OpenAI's &quot;Decisions API&quot; is a Jev clone that confirms the importance of fast, cheap intelligence.</summary>
   </entry>
   <entry>
-    <title>Google announces Gemini 4 Argon AI model, but you can't use it yet</title>
-    <link href="https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet"/>
-    <id>https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet</id>
-    <updated>2026-09-30T20:11:08.000Z</updated>
-    <author><name>Ars Technica AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>So much for Gemini 3.5 Pro.</summary>
-  </entry>
-  <entry>
-    <title>&quot;Real-Time Consultations with AI&quot;...Inside LG Uplus Customer Center Powered by AI</title>
-    <link href="https://www.asiae.co.kr/en/article/2026093009100396640"/>
-    <id>https://www.asiae.co.kr/en/article/2026093009100396640</id>
-    <updated>2026-09-30T02:17:34.000Z</updated>
-    <author><name>GN: SEC AI</name></author>
+    <title>Waller, Payments in the Age of AI Agents</title>
+    <link href="https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm"/>
+    <id>https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm</id>
+    <updated>2026-09-29T19:00:00.000Z</updated>
+    <author><name>Federal Reserve Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>&quot;Real-Time Consultations with AI&quot;...Inside LG Uplus Customer Center Powered by AI 아시아경제</summary>
+    <summary>Speech At Sibos 2026, Miami, Florida</summary>
   </entry>
   <entry>
     <title>Building Podcasts, Claude For Advisors And Controlling AI</title>
@@ -205,6 +205,15 @@
     <summary>Nucleus Financial Platforms Appoints Quilter’s Dave Reynolds as CTO to Lead Wealthtech Transformation FF News</summary>
   </entry>
   <entry>
+    <title>Talk to ‘Charley’? Charles Schwab Unveils New AI Assistant for Investors</title>
+    <link href="https://www.barrons.com/advisor/articles/charles-schwab-charley-ai-assistant-b7d7cadd"/>
+    <id>https://www.barrons.com/advisor/articles/charles-schwab-charley-ai-assistant-b7d7cadd</id>
+    <updated>2026-09-30T18:12:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Customers can use the artificial intelligence-powered assistant to get information and complete certain tasks, but not trading, the brokerage firm says.</summary>
+  </entry>
+  <entry>
     <title>From AI infrastructure to GLP-1 Drugs, Here Are Investment Pros’ Favorite Niche ETFs Now</title>
     <link href="https://www.barrons.com/advisor/articles/from-ai-infrastructure-to-glp-1-drugs-here-are-investment-pros-favorite-niche-etfs-now-819e0d7f"/>
     <id>https://www.barrons.com/advisor/articles/from-ai-infrastructure-to-glp-1-drugs-here-are-investment-pros-favorite-niche-etfs-now-819e0d7f</id>
@@ -214,13 +223,13 @@
     <summary>Investment advisors are using ETFs to target some of the most exciting parts of the market.</summary>
   </entry>
   <entry>
-    <title>Robinhood to Provide Easier Access to AI Agents. Plus, Weekend Trading Is Coming.</title>
-    <link href="https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21"/>
-    <id>https://www.barrons.com/advisor/articles/robinhood-to-expand-ai-trading-for-customers-4efcca21</id>
-    <updated>2026-09-30T13:57:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>The brokerage firm is seeking to win more business from customers via an expanded suite of products and tools, including an easier interface for using artificial intelligence to execute trading strategies.</summary>
+    <title>AI in Finance and Banking – September 30, 2026</title>
+    <link href="https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-30-2026"/>
+    <id>https://www.llrx.com/2026/09/ai-in-finance-and-banking-september-30-2026</id>
+    <updated>2026-09-30T12:10:15.000Z</updated>
+    <author><name>LLRX</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>This semi-monthly column by highlights news, government documents, NGO/IGO papers, conferences, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are to the primary sourc</summary>
   </entry>
   <entry>
     <title>That AI-Drafted Termination Memo Could Become Evidence</title>
@@ -232,19 +241,10 @@
     <summary>AI reproduces subjective phrasing across files, so language that looks neutral in one record can reveal a pattern across a whole workforce The post That AI-Drafted Termination Memo Could Become Evidence appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>America’s Credit Unions Endorses Nquiry, Ncontracts’ Compliance AI Agent</title>
-    <link href="https://www.ncontracts.com/nsight-blog/americas-credit-unions-endorses-nquiry"/>
-    <id>https://www.ncontracts.com/nsight-blog/americas-credit-unions-endorses-nquiry</id>
-    <updated>2026-09-29T14:00:02.000Z</updated>
-    <author><name>Ncontracts Nsight (vendor)</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>NASHVILLE, Tenn., September 29, 2026 – Ncontracts, the leading provider of integrated risk, compliance, and vendor management solutions to the financial services industry, announced today that America’s Credit Unions is endorsing Nquiry, Ncontracts’ purpose-built regulatory research and compliance agent for financial i</summary>
-  </entry>
-  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-09-30T22:58:38.376Z</updated>
+    <updated>2026-10-01T02:00:10.551Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -253,7 +253,7 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-09-30T22:58:38.376Z</updated>
+    <updated>2026-10-01T02:00:10.551Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
@@ -268,12 +268,12 @@
     <summary>The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies</summary>
   </entry>
   <entry>
-    <title>HPE Boosts Forecast on Positive Networking Outlook</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video</id>
-    <updated>2026-09-30T21:17:20.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Opinion | AI Risk Is a Human Problem</title>
+    <link href="https://www.wsj.com/opinion/ai-risk-is-a-human-problem-8b5f1ba9?mod=rss_Technology"/>
+    <id>https://www.wsj.com/opinion/ai-risk-is-a-human-problem-8b5f1ba9?mod=rss_Technology</id>
+    <updated>2026-09-30T21:36:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Hewlett Packard Enterprise Co. boosted its networking revenue forecast and announced a $1.2 billion order from cloud company Vultr, giving fresh signals that it’s benefiting from the AI build-out. The company, which expanded its networking business by acquiring Juniper Networks last year, now expects that segment to ra</summary>
+    <summary>If it poses the extraordinary risks its developers describe, the solution may be in the boardroom, not Congress.</summary>
   </entry>
 </feed>
