@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-03T17:10:53.759Z</updated>
+  <updated>2026-10-03T21:06:08.844Z</updated>
   <entry>
     <title>The latest AI news we announced in September 2026</title>
     <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"/>
@@ -22,7 +22,7 @@
     <updated>2026-10-01T21:00:00.000Z</updated>
     <author><name>GN: wealth AI vendors</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation 01net.it — Also covered by: Orion (vendor)</summary>
+    <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation 01net — Also covered by: Orion (vendor)</summary>
   </entry>
   <entry>
     <title>SEC accuses fund advisor of defrauding SpaceX, OpenAI investors</title>
@@ -70,19 +70,19 @@
     <summary>In addition, Voya’s CIO is to depart in November, industry vet Larry Roth joins the board of AI-driven advisor intelligence firm Wealthstream, and Alaris hires a buyer strategist from SageView.</summary>
   </entry>
   <entry>
-    <title>Tax Compliance Company Sovos Acquires Finance Orchestration Platform</title>
-    <link href="https://www.corporatecomplianceinsights.com/tax-compliance-company-sovos-acquires-finance-orchestration-platform"/>
-    <id>https://www.corporatecomplianceinsights.com/tax-compliance-company-sovos-acquires-finance-orchestration-platform</id>
-    <updated>2026-10-02T14:05:30.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>FCA warns AI may reveal more cyber vulnerabilities firms can cope with</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/fca-warns-ai-may-reveal-more-cyber-vulnerabilities-firms-can-cope-with"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/fca-warns-ai-may-reveal-more-cyber-vulnerabilities-firms-can-cope-with</id>
+    <updated>2026-10-03T18:22:31.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Sovos, an invoicing and tax compliance solutions provider, announced that it acquired Flowie, an agentic AI finance platform. Financial terms were not disclosed. Sovos will feed its tax compliance regulatory data into Flowie to create a more robust and compliant transaction process, according to a press release. The co</summary>
+    <summary>The UK’s financial regulator has warned that the rapid pace of AI development is revealing vulnerabilities in firms’ cybersecurity arrangements because their existing controls cannot keep up with the risks new technology can either create or exploit. The post FCA warns AI may reveal more cyber vulnerabilities firms can</summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-03T17:10:23.846Z</updated>
+    <updated>2026-10-03T21:05:55.897Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -196,6 +196,15 @@
     <summary>Pontera blogger describes onslaught of demand for 'trust overlay' in a world where agents need perpetual rapid vetting where his firm lives</summary>
   </entry>
   <entry>
+    <title>Tax Compliance Company Sovos Acquires Finance Orchestration Platform</title>
+    <link href="https://www.corporatecomplianceinsights.com/tax-compliance-company-sovos-acquires-finance-orchestration-platform"/>
+    <id>https://www.corporatecomplianceinsights.com/tax-compliance-company-sovos-acquires-finance-orchestration-platform</id>
+    <updated>2026-10-02T14:05:30.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Sovos, an invoicing and tax compliance solutions provider, announced that it acquired Flowie, an agentic AI finance platform. Financial terms were not disclosed. Sovos will feed its tax compliance regulatory data into Flowie to create a more robust and compliant transaction process, according to a press release. The co</summary>
+  </entry>
+  <entry>
     <title>GRC Business Roundup: OnBoard, Descartes, Wolters Kluwer, LogicGate, Eventus &amp; More</title>
     <link href="https://www.corporatecomplianceinsights.com/grc-business-roundup-onboard-descartes-wolters-kluwer-logicgate-eventus-more"/>
     <id>https://www.corporatecomplianceinsights.com/grc-business-roundup-onboard-descartes-wolters-kluwer-logicgate-eventus-more</id>
@@ -205,19 +214,10 @@
     <summary>The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products &amp; platforms OnBoard, a board management platform, unveiled AI Assist to allow directors, administ</summary>
   </entry>
   <entry>
-    <title>Company Leaders Wary Over AI-Related Labor Issues</title>
-    <link href="https://www.corporatecomplianceinsights.com/news-roundup-october-1-2026"/>
-    <id>https://www.corporatecomplianceinsights.com/news-roundup-october-1-2026</id>
-    <updated>2026-10-01T15:09:13.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Plus: Most companies experienced a cyberattack recently; C-suite rift revealed on business disruption The post Company Leaders Wary Over AI-Related Labor Issues appeared first on Corporate Compliance Insights .</summary>
-  </entry>
-  <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-03T17:10:23.846Z</updated>
+    <updated>2026-10-03T21:05:55.897Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,7 +226,7 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-03T17:10:23.846Z</updated>
+    <updated>2026-10-03T21:05:55.897Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
