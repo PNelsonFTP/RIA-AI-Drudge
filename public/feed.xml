@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-04T13:07:59.942Z</updated>
+  <updated>2026-10-04T18:05:21.713Z</updated>
   <entry>
     <title>The Diamond Podcast for Financial Advisors: Cresset CEO, Head of AI on Building the Modern Family Office</title>
     <link href="https://www.wealthmanagement.com/growth-strategies/the-diamond-podcast-for-financial-advisors-cresset-s-ceo-head-of-ai-on-the-modern-family-office"/>
@@ -26,12 +26,12 @@
   </entry>
   <entry>
     <title>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation</title>
-    <link href="https://www.01net.it/orion-launches-the-next-evolution-of-its-flexible-ecosystem-to-expand-secure-connectivity-and-ai-innovation"/>
-    <id>https://www.01net.it/orion-launches-the-next-evolution-of-its-flexible-ecosystem-to-expand-secure-connectivity-and-ai-innovation</id>
-    <updated>2026-10-01T21:00:00.000Z</updated>
+    <link href="https://www.businesswire.com/news/home/20261001544077/en/Orion-Launches-the-Next-Evolution-of-Its-Flexible-Ecosystem-to-Expand-Secure-Connectivity-and-AI-Innovation"/>
+    <id>https://www.businesswire.com/news/home/20261001544077/en/Orion-Launches-the-Next-Evolution-of-Its-Flexible-Ecosystem-to-Expand-Secure-Connectivity-and-AI-Innovation</id>
+    <updated>2026-10-01T18:00:00.000Z</updated>
     <author><name>GN: wealth AI vendors</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation 01net — Also covered by: Orion (vendor)</summary>
+    <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation Business Wire — Also covered by: Orion (vendor)</summary>
   </entry>
   <entry>
     <title>SEC accuses fund advisor of defrauding SpaceX, OpenAI investors</title>
@@ -43,13 +43,13 @@
     <summary>Investor money allegedly went to strip clubs, exotic cars, and landscaping</summary>
   </entry>
   <entry>
-    <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
-    <link href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"/>
-    <id>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken</id>
-    <updated>2026-10-03T16:30:01.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</id>
+    <updated>2026-10-04T15:21:59.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</summary>
+    <summary>StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the</summary>
   </entry>
   <entry>
     <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
@@ -91,7 +91,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-04T13:07:49.166Z</updated>
+    <updated>2026-10-04T18:04:56.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -151,6 +151,15 @@
     <summary>DeepVest, Vanilla and Libretto roll out tools to help financial advisors launch firms, close estate plans and sharpen planning skills</summary>
   </entry>
   <entry>
+    <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
+    <link href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"/>
+    <id>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken</id>
+    <updated>2026-10-03T16:30:01.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</summary>
+  </entry>
+  <entry>
     <title>🔮 The transition is hiding in plain sight #604</title>
     <link href="https://www.exponentialview.co/p/ev-604"/>
     <id>https://www.exponentialview.co/p/ev-604</id>
@@ -158,15 +167,6 @@
     <author><name>Exponential View</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>AI consciousness, electrification’s hidden progress, and the coming agentic bank run++</summary>
-  </entry>
-  <entry>
-    <title>An OpenAI safety employee has quit and is sounding the alarm</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</id>
-    <updated>2026-10-03T14:31:56.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how</summary>
   </entry>
   <entry>
     <title>The Other AI: Remarks at the Open Commission Meeting on Accredited Investor Notices under Rule 501(a)(10) of Regulation D</title>
@@ -178,22 +178,13 @@
     <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
-    <title>Wove Unravels: BNY Pershing’s Retreat and Lessons for Broker-Dealers</title>
-    <link href="https://wealthtechtoday.com/2026/10/01/bny-pershing-wove-broker-dealer-lessons"/>
-    <id>https://wealthtechtoday.com/2026/10/01/bny-pershing-wove-broker-dealer-lessons</id>
-    <updated>2026-10-01T14:47:13.000Z</updated>
-    <author><name>WealthTech Today</name></author>
+    <title>Compliance Experts Caution Regulators After AI Agents Probe SEC</title>
+    <link href="https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm"/>
+    <id>https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm</id>
+    <updated>2026-10-01T14:27:55.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The post Wove Unravels: BNY Pershing’s Retreat and Lessons for Broker-Dealers appeared first on and was written by Craig Iskowitz . Wove is dead. Long live Wove. After a very short life of only three years, the BNY brand is on its way out but pieces of the technology will live on. And the firms that committed people, m</summary>
-  </entry>
-  <entry>
-    <title>Friday links: access to retail investors</title>
-    <link href="https://abnormalreturns.com/2026/10/02/friday-links-access-to-retail-investors"/>
-    <id>https://abnormalreturns.com/2026/10/02/friday-links-access-to-retail-investors</id>
-    <updated>2026-10-02T17:17:15.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Rates The rate move has been rapid. (mrzepczynski.blogspot.com) Bond market volatility has ticked up quickly. (axios.com) We aren't going back to a low interest rate world any time soon. (trendlabs.com) AI On AI pricing: not all tokens are created alike. (giftarticle.ft.com) Why it's not simple to hold AI companies lia</summary>
+    <summary>The news that OpenAI agents posted publicly available SEC information on an online forum is prompting compliance experts to stress the need to close regulatory gaps.</summary>
   </entry>
   <entry>
     <title>Pontera 'reframes' itself from 401(k) workaround agent to trusted gatekeeper of AI agents -- possibly solving impasse with Fidelity -- as Schwab unleashes 'Charley,' its new AI agent 'foundation' for millions of clients</title>
@@ -203,6 +194,15 @@
     <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Pontera blogger describes onslaught of demand for 'trust overlay' in a world where agents need perpetual rapid vetting where his firm lives</summary>
+  </entry>
+  <entry>
+    <title>Friday links: access to retail investors</title>
+    <link href="https://abnormalreturns.com/2026/10/02/friday-links-access-to-retail-investors"/>
+    <id>https://abnormalreturns.com/2026/10/02/friday-links-access-to-retail-investors</id>
+    <updated>2026-10-02T17:17:15.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Rates The rate move has been rapid. (mrzepczynski.blogspot.com) Bond market volatility has ticked up quickly. (axios.com) We aren't going back to a low interest rate world any time soon. (trendlabs.com) AI On AI pricing: not all tokens are created alike. (giftarticle.ft.com) Why it's not simple to hold AI companies lia</summary>
   </entry>
   <entry>
     <title>Tax Compliance Company Sovos Acquires Finance Orchestration Platform</title>
@@ -226,7 +226,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-04T13:07:49.166Z</updated>
+    <updated>2026-10-04T18:04:56.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -235,10 +235,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-04T13:07:49.166Z</updated>
+    <updated>2026-10-04T18:04:56.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks</id>
+    <updated>2026-10-04T13:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology stocks and push equity indexes toward record highs.</summary>
   </entry>
   <entry>
     <title>White House Moves to Assess Growing AI Risks</title>
@@ -248,15 +257,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to prioritize growth over safety. Speaking with hosts David Gura and Christina Ruffini, Mukunda discusses the White House’</summary>
-  </entry>
-  <entry>
-    <title>New AI Czar Unveils Goals, Members of White House Task Force</title>
-    <link href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology</id>
-    <updated>2026-10-04T02:14:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</summary>
   </entry>
   <entry>
     <title>Climate Week NYC: Resilience takes centre stage as AI raises climate concerns</title>
