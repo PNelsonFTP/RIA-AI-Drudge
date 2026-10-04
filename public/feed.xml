@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-04T18:05:21.713Z</updated>
-  <entry>
-    <title>The Diamond Podcast for Financial Advisors: Cresset CEO, Head of AI on Building the Modern Family Office</title>
-    <link href="https://www.wealthmanagement.com/growth-strategies/the-diamond-podcast-for-financial-advisors-cresset-s-ceo-head-of-ai-on-the-modern-family-office"/>
-    <id>https://www.wealthmanagement.com/growth-strategies/the-diamond-podcast-for-financial-advisors-cresset-s-ceo-head-of-ai-on-the-modern-family-office</id>
-    <updated>2026-10-01T13:22:59.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Cresset CEO Susie Cranston and Head of AI Strategy Kelly Wagman explore AI as a scale enabler, human-led advice, equity, culture and what Cresset is building next. — Also covered by: Diamond Consultants</summary>
-  </entry>
+  <updated>2026-10-04T21:17:04.350Z</updated>
   <entry>
     <title>The latest AI news we announced in September 2026</title>
     <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"/>
@@ -61,13 +52,13 @@
     <summary>The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…</summary>
   </entry>
   <entry>
-    <title>How Far Can AI Overlays Really Go?</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/how-far-can-ai-overlays-really-go-"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/how-far-can-ai-overlays-really-go-</id>
-    <updated>2026-10-02T16:48:16.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Wealth-tech firm merges with software company to expand AI for advice firms</title>
+    <link href="https://www.moneymanagement.com.au/wealth-tech-firm-merges-with-software-company-to-expand-ai-for-advice-firms"/>
+    <id>https://www.moneymanagement.com.au/wealth-tech-firm-merges-with-software-company-to-expand-ai-for-advice-firms</id>
+    <updated>2026-10-04T19:01:35.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>If you're not careful about the technology you bring into the firm today, you may find yourself living with the consequences for a very long time.</summary>
+    <summary>Wealth-tech firm merges with software company to expand AI for advice firms Money Management</summary>
   </entry>
   <entry>
     <title>People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA</title>
@@ -91,7 +82,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-04T18:04:56.543Z</updated>
+    <updated>2026-10-04T21:16:52.787Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -178,13 +169,13 @@
     <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
-    <title>Compliance Experts Caution Regulators After AI Agents Probe SEC</title>
-    <link href="https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm"/>
-    <id>https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm</id>
-    <updated>2026-10-01T14:27:55.000Z</updated>
+    <title>How Far Can AI Overlays Really Go?</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/how-far-can-ai-overlays-really-go-"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/how-far-can-ai-overlays-really-go-</id>
+    <updated>2026-10-02T16:48:16.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The news that OpenAI agents posted publicly available SEC information on an online forum is prompting compliance experts to stress the need to close regulatory gaps.</summary>
+    <summary>If you're not careful about the technology you bring into the firm today, you may find yourself living with the consequences for a very long time.</summary>
   </entry>
   <entry>
     <title>Pontera 'reframes' itself from 401(k) workaround agent to trusted gatekeeper of AI agents -- possibly solving impasse with Fidelity -- as Schwab unleashes 'Charley,' its new AI agent 'foundation' for millions of clients</title>
@@ -226,7 +217,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-04T18:04:56.543Z</updated>
+    <updated>2026-10-04T21:16:52.787Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -235,10 +226,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-04T18:04:56.543Z</updated>
+    <updated>2026-10-04T21:16:52.787Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>US Lead in AI Over China Narrows After DeepSeek Gains, BI Says</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says</id>
+    <updated>2026-10-04T21:03:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.</summary>
   </entry>
   <entry>
     <title>Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks</title>
@@ -248,15 +248,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology stocks and push equity indexes toward record highs.</summary>
-  </entry>
-  <entry>
-    <title>White House Moves to Assess Growing AI Risks</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video</id>
-    <updated>2026-10-04T12:40:30.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to prioritize growth over safety. Speaking with hosts David Gura and Christina Ruffini, Mukunda discusses the White House’</summary>
   </entry>
   <entry>
     <title>Climate Week NYC: Resilience takes centre stage as AI raises climate concerns</title>
@@ -275,5 +266,14 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>In this live recording from the Fiduciary Investors Symposium at Stanford University in September 2026, co-founder and head of public benefit at Anthropic Jack Clark explores the rapid evolution of AI, agentic systems, safety and alignment, and what could come next as the technology becomes increasingly capable. Listen</summary>
+  </entry>
+  <entry>
+    <title>A model guide for the GPT-6 family</title>
+    <link href="https://openai.com/index/practical-guide-building-gpt-6"/>
+    <id>https://openai.com/index/practical-guide-building-gpt-6</id>
+    <updated>2026-10-02T16:15:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</summary>
   </entry>
 </feed>
