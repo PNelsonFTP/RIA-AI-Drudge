@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-04T00:28:56.895Z</updated>
+  <updated>2026-10-04T06:44:18.266Z</updated>
+  <entry>
+    <title>The Diamond Podcast for Financial Advisors: Cresset CEO, Head of AI on Building the Modern Family Office</title>
+    <link href="https://www.wealthmanagement.com/growth-strategies/the-diamond-podcast-for-financial-advisors-cresset-s-ceo-head-of-ai-on-the-modern-family-office"/>
+    <id>https://www.wealthmanagement.com/growth-strategies/the-diamond-podcast-for-financial-advisors-cresset-s-ceo-head-of-ai-on-the-modern-family-office</id>
+    <updated>2026-10-01T13:22:59.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Cresset CEO Susie Cranston and Head of AI Strategy Kelly Wagman explore AI as a scale enabler, human-led advice, equity, culture and what Cresset is building next. — Also covered by: Diamond Consultants</summary>
+  </entry>
   <entry>
     <title>The latest AI news we announced in September 2026</title>
     <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"/>
@@ -82,7 +91,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-04T00:28:43.877Z</updated>
+    <updated>2026-10-04T06:44:01.463Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -91,7 +100,7 @@
     <title>New AI Czar Unveils Goals, Members of White House Task Force</title>
     <link href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology"/>
     <id>https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology</id>
-    <updated>2026-10-03T23:19:00.000Z</updated>
+    <updated>2026-10-04T02:14:00.000Z</updated>
     <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
     <summary>The group will examine the technology’s risks and opportunities—and focus on making sure the U.S. is first in the field.</summary>
@@ -142,13 +151,13 @@
     <summary>DeepVest, Vanilla and Libretto roll out tools to help financial advisors launch firms, close estate plans and sharpen planning skills</summary>
   </entry>
   <entry>
-    <title>An OpenAI safety employee has quit and is sounding the alarm</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</id>
-    <updated>2026-10-03T14:31:56.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>🔮 The transition is hiding in plain sight #604</title>
+    <link href="https://www.exponentialview.co/p/ev-604"/>
+    <id>https://www.exponentialview.co/p/ev-604</id>
+    <updated>2026-10-04T04:07:11.000Z</updated>
+    <author><name>Exponential View</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how</summary>
+    <summary>AI consciousness, electrification’s hidden progress, and the coming agentic bank run++</summary>
   </entry>
   <entry>
     <title>Call it AI, call it Super Intelligence, only 2% of consumers are buying it</title>
@@ -169,13 +178,13 @@
     <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
-    <title>Compliance Experts Caution Regulators After AI Agents Probe SEC</title>
-    <link href="https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm"/>
-    <id>https://www.wealthmanagement.com/regulation-compliance/openai-agents-probe-sec-site-raising-alarm</id>
-    <updated>2026-10-01T14:27:55.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Wove Unravels: BNY Pershing’s Retreat and Lessons for Broker-Dealers</title>
+    <link href="https://wealthtechtoday.com/2026/10/01/bny-pershing-wove-broker-dealer-lessons"/>
+    <id>https://wealthtechtoday.com/2026/10/01/bny-pershing-wove-broker-dealer-lessons</id>
+    <updated>2026-10-01T14:47:13.000Z</updated>
+    <author><name>WealthTech Today</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The news that OpenAI agents posted publicly available SEC information on an online forum is prompting compliance experts to stress the need to close regulatory gaps.</summary>
+    <summary>The post Wove Unravels: BNY Pershing’s Retreat and Lessons for Broker-Dealers appeared first on and was written by Craig Iskowitz . Wove is dead. Long live Wove. After a very short life of only three years, the BNY brand is on its way out but pieces of the technology will live on. And the firms that committed people, m</summary>
   </entry>
   <entry>
     <title>Friday links: access to retail investors</title>
@@ -217,7 +226,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-04T00:28:43.877Z</updated>
+    <updated>2026-10-04T06:44:01.463Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,10 +235,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-04T00:28:43.877Z</updated>
+    <updated>2026-10-04T06:44:01.463Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-04/ai-deal-frenzy-powers-hong-kong-fundraising-to-record-summer</id>
+    <updated>2026-10-04T00:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Bankers in Hong Kong skipped the summer break as an artificial intelligence-fueled rush for capital sent share sales to a record, defying a bruising selloff in the city’s stocks.</summary>
   </entry>
   <entry>
     <title>By The Way: Headlines You May Have Missed</title>
@@ -239,15 +257,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>People starting to speak like AI chatbots, AI anxiety spilling into therapists' offices, NYC's AI office boom a bust for young job hunters and Tinder rolls out group dating for younger users. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomb</summary>
-  </entry>
-  <entry>
-    <title>Longreads + Open Thread</title>
-    <link href="https://www.thediff.co/archive/longreads-open-thread-203"/>
-    <id>https://www.thediff.co/archive/longreads-open-thread-203</id>
-    <updated>2026-10-03T16:00:16.000Z</updated>
-    <author><name>The Diff</name></author>
-    <category term="AI MARKETS"/>
-    <summary>AI Consciousness, Wealth, Ellison, Blue Collar, Names, Abstractions, AI Economics</summary>
   </entry>
   <entry>
     <title>Inside Anthropic: Jack Clark on AI, power, and the Pentagon</title>
@@ -266,14 +275,5 @@
     <author><name>FT Artificial Intelligence</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Accruing income at home from land and power abroad has an old name: empire</summary>
-  </entry>
-  <entry>
-    <title>A model guide for the GPT-6 family</title>
-    <link href="https://openai.com/index/practical-guide-building-gpt-6"/>
-    <id>https://openai.com/index/practical-guide-building-gpt-6</id>
-    <updated>2026-10-02T16:15:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</summary>
   </entry>
 </feed>
