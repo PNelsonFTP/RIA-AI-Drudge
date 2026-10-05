@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-04T21:17:04.350Z</updated>
+  <updated>2026-10-05T00:43:46.471Z</updated>
   <entry>
     <title>The latest AI news we announced in September 2026</title>
     <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"/>
@@ -82,7 +82,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-04T21:16:52.787Z</updated>
+    <updated>2026-10-05T00:43:33.975Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -217,7 +217,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-04T21:16:52.787Z</updated>
+    <updated>2026-10-05T00:43:33.975Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,10 +226,19 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-04T21:16:52.787Z</updated>
+    <updated>2026-10-05T00:43:33.975Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Spending on AI Is Becoming Almost Impossible for Businesses to Budget</title>
+    <link href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?mod=rss_Technology</id>
+    <updated>2026-10-05T00:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>AI use is measured in tokens, but the models’ use of tokens at any given task can be unpredictable.</summary>
   </entry>
   <entry>
     <title>US Lead in AI Over China Narrows After DeepSeek Gains, BI Says</title>
@@ -241,13 +250,13 @@
     <summary>American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.</summary>
   </entry>
   <entry>
-    <title>Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks</id>
-    <updated>2026-10-04T13:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology stocks and push equity indexes toward record highs.</summary>
+    <title>Inside Anthropic: Jack Clark on AI, power, and the Pentagon</title>
+    <link href="https://www.top1000funds.com/podcasts/inside-anthropic-jack-clark-on-ai-power-and-the-pentagon"/>
+    <id>https://www.top1000funds.com/podcasts/inside-anthropic-jack-clark-on-ai-power-and-the-pentagon</id>
+    <updated>2026-10-01T05:16:08.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>In this live recording from the Fiduciary Investors Symposium at Stanford University in September 2026, co-founder and head of public benefit at Anthropic Jack Clark explores the rapid evolution of AI, agentic systems, safety and alignment, and what could come next as the technology becomes increasingly capable. Listen</summary>
   </entry>
   <entry>
     <title>Climate Week NYC: Resilience takes centre stage as AI raises climate concerns</title>
@@ -257,15 +266,6 @@
     <author><name>IPE</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Investors focused on adaptation, resilience, energy security and AI’s growing environmental footprint at Climate Week NYC</summary>
-  </entry>
-  <entry>
-    <title>Inside Anthropic: Jack Clark on AI, power, and the Pentagon</title>
-    <link href="https://www.top1000funds.com/podcasts/inside-anthropic-jack-clark-on-ai-power-and-the-pentagon"/>
-    <id>https://www.top1000funds.com/podcasts/inside-anthropic-jack-clark-on-ai-power-and-the-pentagon</id>
-    <updated>2026-10-01T05:16:08.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>In this live recording from the Fiduciary Investors Symposium at Stanford University in September 2026, co-founder and head of public benefit at Anthropic Jack Clark explores the rapid evolution of AI, agentic systems, safety and alignment, and what could come next as the technology becomes increasingly capable. Listen</summary>
   </entry>
   <entry>
     <title>A model guide for the GPT-6 family</title>
