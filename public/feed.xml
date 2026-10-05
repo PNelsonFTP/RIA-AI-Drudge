@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-05T15:52:02.407Z</updated>
+  <updated>2026-10-05T22:31:33.810Z</updated>
+  <entry>
+    <title>Cowbell launches Risk Advisor AI agent for cyber policyholders</title>
+    <link href="https://beinsure.com/news/cowbell-launches-risk-advisor-ai-agent-for-cyber-policyholders"/>
+    <id>https://beinsure.com/news/cowbell-launches-risk-advisor-ai-agent-for-cyber-policyholders</id>
+    <updated>2026-10-05T19:15:50.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Cowbell launches Risk Advisor AI agent for cyber policyholders Beinsure — Also covered by: FinTech Global</summary>
+  </entry>
   <entry>
     <title>Advisor AI use hits 80%, but client time still falls short</title>
     <link href="https://www.investmentnews.com/alternatives/advisor-ai-use-hits-80-but-client-time-still-falls-short/268465"/>
@@ -16,22 +25,13 @@
     <summary>Morningstar advisor survey finds admin work, rising client demands are offsetting efficiency gains from greater technology adoption.</summary>
   </entry>
   <entry>
-    <title>The latest AI news we announced in September 2026</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"/>
-    <id>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026</id>
-    <updated>2026-10-02T15:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Here are Google’s latest AI updates from September 2026 — Also covered by: Ncontracts Nsight (vendor)</summary>
-  </entry>
-  <entry>
-    <title>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation</title>
-    <link href="https://www.businesswire.com/news/home/20261001544077/en/Orion-Launches-the-Next-Evolution-of-Its-Flexible-Ecosystem-to-Expand-Secure-Connectivity-and-AI-Innovation"/>
-    <id>https://www.businesswire.com/news/home/20261001544077/en/Orion-Launches-the-Next-Evolution-of-Its-Flexible-Ecosystem-to-Expand-Secure-Connectivity-and-AI-Innovation</id>
-    <updated>2026-10-01T18:00:00.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation Business Wire — Also covered by: Orion (vendor)</summary>
+    <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
+    <link href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"/>
+    <id>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu</id>
+    <updated>2026-10-05T20:36:48.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says. — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
     <title>Claude For Financial Advisors Debuts To Tie Together The Advisor Tech Stack – But Will Tech Providers Play Along? (And More Of The Latest In Financial #AdvisorTech – October 2026)</title>
@@ -49,7 +49,7 @@
     <updated>2026-10-05T15:14:24.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.</summary>
+    <summary>The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.</summary>
   </entry>
   <entry>
     <title>A New Competitive Advantage: The AI Operating Layer</title>
@@ -88,22 +88,22 @@
     <summary>How can organisations innovate with AI while meeting growing governance and regulatory expectations?</summary>
   </entry>
   <entry>
-    <title>A Chinese billionaire reckons with the limits of building AI across borders</title>
-    <link href="https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</id>
-    <updated>2026-10-05T10:00:05.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>JPMorgan Dangles 11% Yield on Volta’s $5 Billion AI Loan Sale</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-dangles-11-yield-on-volta-s-5-billion-ai-loan-sale"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-dangles-11-yield-on-volta-s-5-billion-ai-loan-sale</id>
+    <updated>2026-10-05T20:05:22.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions</summary>
+    <summary>JPMorgan Chase &amp; Co. is pitching a yield of about 11% on a $5 billion leveraged-loan sale on behalf of Volta Infrastructure Holdings Ltd., one of the highest borrowing costs seen in the market for risky debt that’s become popular for financing the AI boom.</summary>
   </entry>
   <entry>
-    <title>Tokenization, RWAs, and the Future of Finance</title>
-    <link href="https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance"/>
-    <id>https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance</id>
-    <updated>2026-10-05T00:10:00.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
+    <title>AI Product &amp; Service Launches – 10/5/2026</title>
+    <link href="https://www.planadviser.com/ai-product-service-launches-10-5-2026"/>
+    <id>https://www.planadviser.com/ai-product-service-launches-10-5-2026</id>
+    <updated>2026-10-05T20:41:44.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Explore what tokenization and real-world assets mean for investors, the convergence of DeFi and traditional finance, and how blockchain, AI, and Web3 shape the future of investing.</summary>
+    <summary>Vanilla launches mobile notary service; Vida partners with AVANT on AI agent platform; and Zocks releases Claude plug-in. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
     <title>Our approach to EU text provenance rules</title>
@@ -133,21 +133,13 @@
     <summary>A federal court has allowed wiretap and privacy claims against an AI notetaker to proceed The post AI Meeting Assistants Raise Eavesdropping Concerns &amp; Discovery Headaches appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>OpenAI is sticking more ads in ChatGPT</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads</id>
-    <updated>2026-10-05T13:09:48.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
+    <link href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost"/>
+    <id>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost</id>
+    <updated>2026-10-05T19:33:53.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will &quot;initially&quot; appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. U</summary>
-  </entry>
-  <entry>
-    <title>Prime Inference 📈, agent population 📈, Claude academy 🎓</title>
-    <link href="https://tldr.tech/ai/2026-10-05"/>
-    <id>https://tldr.tech/ai/2026-10-05</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <author><name>TLDR AI</name></author>
-    <category term="INDUSTRY NEWS"/>
+    <summary>Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.</summary>
   </entry>
   <entry>
     <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
@@ -159,22 +151,22 @@
     <summary>The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…</summary>
   </entry>
   <entry>
-    <title>SEC accuses fund advisor of defrauding SpaceX, OpenAI investors</title>
-    <link href="https://www.investmentnews.com/regulation-legal-compliance/sec-accuses-fund-adviser-of-defrauding-spacex-openai-investors/268452"/>
-    <id>https://www.investmentnews.com/regulation-legal-compliance/sec-accuses-fund-adviser-of-defrauding-spacex-openai-investors/268452</id>
-    <updated>2026-10-02T14:51:39.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>The Other AI: Remarks at the Open Commission Meeting on Accredited Investor Notices under Rule 501(a)(10) of Regulation D</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026</id>
+    <updated>2026-09-30T18:10:25.000Z</updated>
+    <author><name>SEC Speeches</name></author>
     <category term="REGULATION"/>
-    <summary>Investor money allegedly went to strip clubs, exotic cars, and landscaping</summary>
+    <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
-    <title>WealthTech's Cautious Autumn: FNZ, Flourish and Tokenised PE</title>
-    <link href="https://www.financexmagazine.com/post/wealthtech-s-cautious-autumn-fnz-doubles-down-on-ai-flourish-finds-a-new-backer-and-private-equit"/>
-    <id>https://www.financexmagazine.com/post/wealthtech-s-cautious-autumn-fnz-doubles-down-on-ai-flourish-finds-a-new-backer-and-private-equit</id>
-    <updated>2026-10-05T12:00:30.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>WealthTech's Cautious Autumn: FNZ, Flourish and Tokenised PE FinanceX Magazine</summary>
+    <title>Monday links: an eye for trouble</title>
+    <link href="https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble"/>
+    <id>https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble</id>
+    <updated>2026-10-05T19:02:19.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Markets The scale of the AI boom is hard to grasp. (awealthofcommonsense.com) TIPS increasingly look like competition to equities. (larrykotlikoff.substack.com) High beta is crushing low vol, YTD. (capitalspectator.com) Prediction markets Newer trading firms are now targeting prediction markets. (wsj.com) Prediction ma</summary>
   </entry>
   <entry>
     <title>AI 'circular financing' raises dot-com bubble concerns</title>
@@ -184,15 +176,6 @@
     <author><name>Professional Adviser</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Quilter chief investment officer Marcus Brookes offers an overview of global market valuations, the risks of AI-driven concentration, and the importance of diversification at PA360 North.</summary>
-  </entry>
-  <entry>
-    <title>People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA</title>
-    <link href="https://www.wealthmanagement.com/career-moves/people-moves-tradepmr-tech-executive-jon-patullo-jumps-to-hybrid-ria"/>
-    <id>https://www.wealthmanagement.com/career-moves/people-moves-tradepmr-tech-executive-jon-patullo-jumps-to-hybrid-ria</id>
-    <updated>2026-10-02T13:20:55.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>In addition, Voya’s CIO is to depart in November, industry vet Larry Roth joins the board of AI-driven advisor intelligence firm Wealthstream, and Alaris hires a buyer strategist from SageView.</summary>
   </entry>
   <entry>
     <title>Can Frontier AI Labs Lawfully Agree to Slow Down to Save Humanity?</title>
@@ -207,7 +190,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-05T15:51:48.467Z</updated>
+    <updated>2026-10-05T22:31:20.986Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -216,28 +199,37 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-05T15:51:48.467Z</updated>
+    <updated>2026-10-05T22:31:20.986Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>The dangerous myth behind AI agent hacks</title>
-    <link href="https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4"/>
-    <id>https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4</id>
-    <updated>2026-10-05T14:34:32.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>GPU Financing Filters Into ABS With Stonebriar, Wingspire Deals</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals</id>
+    <updated>2026-10-05T21:44:28.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>These are not simply cyber security flaws but problems with the way that models are trained</summary>
+    <summary>The growing demand for capital to fund artificial intelligence investment is filtering into a little-watched corner of the asset-backed securities market: bonds secured by equipment loans and leases.</summary>
   </entry>
   <entry>
-    <title>What people in AI really think about regulation</title>
-    <link href="https://www.ft.com/content/c8cf8739-837e-4bb3-9fd9-bb54c02b7289?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/c8cf8739-837e-4bb3-9fd9-bb54c02b7289?syn-25a6b1a6=1</id>
-    <updated>2026-10-05T13:00:01.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
+    <link href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"/>
+    <id>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</id>
+    <updated>2026-10-05T20:01:09.000Z</updated>
+    <author><name>SemiAnalysis</name></author>
     <category term="AI MARKETS"/>
-    <summary>The tribalism and fragmentation we are seeing in politics may be coming for business too</summary>
+    <summary>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</summary>
+  </entry>
+  <entry>
+    <title>How AI is reshaping enterprise risk</title>
+    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964226/how-ai-is-reshaping-enterprise-risk"/>
+    <id>https://www.risk.net/insight/ai-and-machine-learning/7964226/how-ai-is-reshaping-enterprise-risk</id>
+    <updated>2026-10-05T16:10:57.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>A more connected and timely view of risk is becoming increasingly important to ERM, while agentic AI is reshaping how firms approach risk</summary>
   </entry>
   <entry>
     <title>Global pension funds cut US equities over AI concentration risk</title>
@@ -249,15 +241,6 @@
     <summary>Push for diversification as concerns mount over ‘stretched’ valuations</summary>
   </entry>
   <entry>
-    <title>Investors look to shelter portfolios from rising AI concentration risks</title>
-    <link href="https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1</id>
-    <updated>2026-10-04T12:00:08.000Z</updated>
-    <author><name>FT Asset Management</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence</summary>
-  </entry>
-  <entry>
     <title>Building advertising for the way people use AI</title>
     <link href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"/>
     <id>https://openai.com/index/new-chatgpt-ads-format-and-measurement</id>
@@ -267,6 +250,15 @@
     <summary>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</summary>
   </entry>
   <entry>
+    <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
+    <link href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become"/>
+    <id>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become</id>
+    <updated>2026-10-05T16:43:35.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.</summary>
+  </entry>
+  <entry>
     <title>Accelerating Evidence to Action in Pharma with Practical AI Adoption</title>
     <link href="https://emerj.com/accelerating-evidence-to-action-in-pharma-with-practical-ai-adoption"/>
     <id>https://emerj.com/accelerating-evidence-to-action-in-pharma-with-practical-ai-adoption</id>
@@ -274,5 +266,14 @@
     <author><name>Emerj AI Research</name></author>
     <category term="RESEARCH"/>
     <summary>The pharmaceutical industry is producing more clinical evidence than ever before, but the ability to turn that evidence into timely strategic decisions is struggling to keep pace. PubMed added more than 1.5 million citations in fiscal year 2023, roughly 4,300 a day, according to the National Library of Medicine. On top</summary>
+  </entry>
+  <entry>
+    <title>AI is changing work. Now it has to change the organization</title>
+    <link href="https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization"/>
+    <id>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</id>
+    <updated>2026-10-05T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.</summary>
   </entry>
 </feed>
