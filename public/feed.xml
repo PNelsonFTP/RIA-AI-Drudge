@@ -5,12 +5,12 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-05T22:31:33.810Z</updated>
+  <updated>2026-10-06T02:52:49.859Z</updated>
   <entry>
     <title>Cowbell launches Risk Advisor AI agent for cyber policyholders</title>
     <link href="https://beinsure.com/news/cowbell-launches-risk-advisor-ai-agent-for-cyber-policyholders"/>
     <id>https://beinsure.com/news/cowbell-launches-risk-advisor-ai-agent-for-cyber-policyholders</id>
-    <updated>2026-10-05T19:15:50.000Z</updated>
+    <updated>2026-10-05T22:49:35.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>Cowbell launches Risk Advisor AI agent for cyber policyholders Beinsure — Also covered by: FinTech Global</summary>
@@ -61,13 +61,13 @@
     <summary>A New Competitive Advantage: The AI Operating Layer Forbes</summary>
   </entry>
   <entry>
-    <title>At the Helm: Are CVs still relevant when you’re recruiting?</title>
-    <link href="https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting"/>
-    <id>https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting</id>
-    <updated>2026-10-05T10:00:44.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>BofA Sees the End of ‘Easy Money’ Made From the AI-Spending Trade</title>
+    <link href="https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade"/>
+    <id>https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade</id>
+    <updated>2026-10-05T22:57:36.000Z</updated>
+    <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Artificial intelligence (AI) seems to be both a help and a hindrance for businesses trying to recruit the right people. If job applicants use AI to write CVs and covering letters, this speeds up the process and enables them to apply for more jobs, thereby… The post At the Helm: Are CVs still relevant when you’re recrui</summary>
+    <summary>Investors are likely to find it increasingly hard to make “easy money” by betting on outsized returns from artificial intelligence-linked capital expenditures compared with consumer-driven spending, according to strategists at Bank of America Corp. The post BofA Sees the End of ‘Easy Money’ Made From the AI-Spending Tr</summary>
   </entry>
   <entry>
     <title>Exploring California’s Generative AI Training Data Transparency Act</title>
@@ -88,13 +88,13 @@
     <summary>How can organisations innovate with AI while meeting growing governance and regulatory expectations?</summary>
   </entry>
   <entry>
-    <title>JPMorgan Dangles 11% Yield on Volta’s $5 Billion AI Loan Sale</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-dangles-11-yield-on-volta-s-5-billion-ai-loan-sale"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-05/jpmorgan-dangles-11-yield-on-volta-s-5-billion-ai-loan-sale</id>
-    <updated>2026-10-05T20:05:22.000Z</updated>
+    <title>Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion</id>
+    <updated>2026-10-06T02:32:25.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>JPMorgan Chase &amp; Co. is pitching a yield of about 11% on a $5 billion leveraged-loan sale on behalf of Volta Infrastructure Holdings Ltd., one of the highest borrowing costs seen in the market for risky debt that’s become popular for financing the AI boom.</summary>
+    <summary>Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an initial public offering in Hong Kong in the first quarter of next year, according to people familiar with the matter.</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 10/5/2026</title>
@@ -106,13 +106,13 @@
     <summary>Vanilla launches mobile notary service; Vida partners with AVANT on AI agent platform; and Zocks releases Claude plug-in. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>Our approach to EU text provenance rules</title>
-    <link href="https://openai.com/index/eu-text-provenance"/>
-    <id>https://openai.com/index/eu-text-provenance</id>
-    <updated>2026-10-05T15:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>Gemini Call for Me might tell your mom you’re running late</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</id>
+    <updated>2026-10-05T23:09:55.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</summary>
+    <summary>Google may be expanding its &quot;Call for Me&quot; AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a &quot;Gemini Calling&quot; introductory screen in an APK teardown with examples that include &quot;Call Mom and tell her I will be 15 minutes late&quot; and &quot;Call […]</summary>
   </entry>
   <entry>
     <title>Zocks Launches Advisor Intelligence Plugin with Seven Skills for Claude</title>
@@ -133,15 +133,6 @@
     <summary>A federal court has allowed wiretap and privacy claims against an AI notetaker to proceed The post AI Meeting Assistants Raise Eavesdropping Concerns &amp; Discovery Headaches appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
-    <link href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost"/>
-    <id>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost</id>
-    <updated>2026-10-05T19:33:53.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.</summary>
-  </entry>
-  <entry>
     <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
     <link href="https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"/>
     <id>https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook</id>
@@ -160,6 +151,15 @@
     <summary>Commissioner Hester M. Peirce</summary>
   </entry>
   <entry>
+    <title>At the Helm: Are CVs still relevant when you’re recruiting?</title>
+    <link href="https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting"/>
+    <id>https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting</id>
+    <updated>2026-10-05T10:00:44.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Artificial intelligence (AI) seems to be both a help and a hindrance for businesses trying to recruit the right people. If job applicants use AI to write CVs and covering letters, this speeds up the process and enables them to apply for more jobs, thereby… The post At the Helm: Are CVs still relevant when you’re recrui</summary>
+  </entry>
+  <entry>
     <title>Monday links: an eye for trouble</title>
     <link href="https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble"/>
     <id>https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble</id>
@@ -167,15 +167,6 @@
     <author><name>Abnormal Returns</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Markets The scale of the AI boom is hard to grasp. (awealthofcommonsense.com) TIPS increasingly look like competition to equities. (larrykotlikoff.substack.com) High beta is crushing low vol, YTD. (capitalspectator.com) Prediction markets Newer trading firms are now targeting prediction markets. (wsj.com) Prediction ma</summary>
-  </entry>
-  <entry>
-    <title>AI 'circular financing' raises dot-com bubble concerns</title>
-    <link href="https://www.professionaladviser.com/news/4536769/ai-circular-financing-raises-dot-com-bubble-concerns"/>
-    <id>https://www.professionaladviser.com/news/4536769/ai-circular-financing-raises-dot-com-bubble-concerns</id>
-    <updated>2026-10-05T11:05:14.000Z</updated>
-    <author><name>Professional Adviser</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Quilter chief investment officer Marcus Brookes offers an overview of global market valuations, the risks of AI-driven concentration, and the importance of diversification at PA360 North.</summary>
   </entry>
   <entry>
     <title>Can Frontier AI Labs Lawfully Agree to Slow Down to Save Humanity?</title>
@@ -190,7 +181,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-05T22:31:20.986Z</updated>
+    <updated>2026-10-06T02:52:32.593Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -199,28 +190,28 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-05T22:31:20.986Z</updated>
+    <updated>2026-10-06T02:52:32.593Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>GPU Financing Filters Into ABS With Stonebriar, Wingspire Deals</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-05/gpu-financing-filters-into-abs-with-stonebriar-wingspire-deals</id>
-    <updated>2026-10-05T21:44:28.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Higgsfield CEO on Growth, $1B Run-rate</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-06/higgsfield-ceo-on-growth-1b-run-rate-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-06/higgsfield-ceo-on-growth-1b-run-rate-video</id>
+    <updated>2026-10-06T02:13:03.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The growing demand for capital to fund artificial intelligence investment is filtering into a little-watched corner of the asset-backed securities market: bonds secured by equipment loans and leases.</summary>
+    <summary>Alex Mashrabov, CEO of Video AI Start up Higgsfield, discusses the company's path to achieving generate annualised revenue of more than $1 billion, based on current performance. He also discusses the company's growth and business strategies for APAC markets. He speaks exclusively with Shery Ahn on &quot;Bloomberg: The Asia </summary>
   </entry>
   <entry>
-    <title>Anthropic Subscriptions Offer 5x+ More Value Than OpenAI</title>
-    <link href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"/>
-    <id>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</id>
-    <updated>2026-10-05T20:01:09.000Z</updated>
-    <author><name>SemiAnalysis</name></author>
+    <title>AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo</id>
+    <updated>2026-10-06T01:52:08.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXSI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition</summary>
+    <summary>Kuaishou Technology’s Kling AI has picked banks for a Hong Kong initial public offering that could raise at least $1 billion, according to people familiar with the matter.</summary>
   </entry>
   <entry>
     <title>How AI is reshaping enterprise risk</title>
@@ -232,13 +223,13 @@
     <summary>A more connected and timely view of risk is becoming increasingly important to ERM, while agentic AI is reshaping how firms approach risk</summary>
   </entry>
   <entry>
-    <title>Global pension funds cut US equities over AI concentration risk</title>
-    <link href="https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1</id>
-    <updated>2026-10-05T04:00:12.000Z</updated>
-    <author><name>FT Asset Management</name></author>
+    <title>Tokenization, RWAs, and the Future of Finance</title>
+    <link href="https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance"/>
+    <id>https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance</id>
+    <updated>2026-10-05T00:10:00.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Push for diversification as concerns mount over ‘stretched’ valuations</summary>
+    <summary>Explore what tokenization and real-world assets mean for investors, the convergence of DeFi and traditional finance, and how blockchain, AI, and Web3 shape the future of investing.</summary>
   </entry>
   <entry>
     <title>Building advertising for the way people use AI</title>
@@ -250,13 +241,13 @@
     <summary>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</summary>
   </entry>
   <entry>
-    <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
-    <link href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become"/>
-    <id>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become</id>
-    <updated>2026-10-05T16:43:35.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Our approach to EU text provenance rules</title>
+    <link href="https://openai.com/index/eu-text-provenance"/>
+    <id>https://openai.com/index/eu-text-provenance</id>
+    <updated>2026-10-05T15:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.</summary>
+    <summary>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</summary>
   </entry>
   <entry>
     <title>Accelerating Evidence to Action in Pharma with Practical AI Adoption</title>
@@ -275,5 +266,14 @@
     <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
     <summary>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.</summary>
+  </entry>
+  <entry>
+    <title>Pravar AI Launches Wealth OS to Bring White-Glove Service to Every Client</title>
+    <link href="https://www.wealthtechstrategy.com/post/pravar-ai-launches-wealth-os-to-bring-white-glove-service-to-every-client"/>
+    <id>https://www.wealthtechstrategy.com/post/pravar-ai-launches-wealth-os-to-bring-white-glove-service-to-every-client</id>
+    <updated>2026-10-04T12:43:45.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Pravar AI. (2026, September 30). Pravar AI launches Wealth OS to bring white-glove service to every client. https://www.pravarai.com/company/news/pravar-ai-launches-wealth-os Pravar AI launched the Pravar Wealth OS and its first product, Pravar for Advisors, which is designed to give every client on an advisor's book t</summary>
   </entry>
 </feed>
