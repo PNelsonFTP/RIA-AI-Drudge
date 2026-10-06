@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-06T10:04:50.021Z</updated>
-  <entry>
-    <title>Advisor AI use hits 80%, but client time still falls short</title>
-    <link href="https://www.investmentnews.com/alternatives/advisor-ai-use-hits-80-but-client-time-still-falls-short/268465"/>
-    <id>https://www.investmentnews.com/alternatives/advisor-ai-use-hits-80-but-client-time-still-falls-short/268465</id>
-    <updated>2026-10-06T01:47:33.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Advisor AI use hits 80%, but client time still falls short InvestmentNews</summary>
-  </entry>
+  <updated>2026-10-06T16:43:38.506Z</updated>
   <entry>
     <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
     <link href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"/>
@@ -23,6 +14,15 @@
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says. — Also covered by: The Verge AI</summary>
+  </entry>
+  <entry>
+    <title>Altruist Adds Donor-Advised Funds via Endaoment</title>
+    <link href="https://www.wealthtechstrategy.com/post/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform"/>
+    <id>https://www.wealthtechstrategy.com/post/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform</id>
+    <updated>2026-10-06T13:01:19.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="REGULATION"/>
+    <summary>Altruist. (2026, October 6). Altruist adds donor-advised funds so advisors can manage charitable giving in-platform. Business Wire. https://www.businesswire.com/news/home/20261005103748/en/Altruist-Adds-Donor-Advised-Funds-so-Advisors-Can-Manage-Charitable-Giving-In-Platform Altruist, an AI-forward wealth technology an — Also covered by: Altruist (vendor)</summary>
   </entry>
   <entry>
     <title>The latest AI news we announced in September 2026</title>
@@ -43,22 +43,22 @@
     <summary>Orion Launches the Next Evolution of Its Flexible Ecosystem to Expand Secure Connectivity and AI Innovation Yahoo Finance — Also covered by: Orion (vendor)</summary>
   </entry>
   <entry>
-    <title>Claude For Financial Advisors Debuts To Tie Together The Advisor Tech Stack – But Will Tech Providers Play Along? (And More Of The Latest In Financial #AdvisorTech – October 2026)</title>
-    <link href="https://feeds.feedblitz.com/~/971004545/_/kitcesnerdseyeview~Claude-For-Financial-Advisors-Debuts-To-Tie-Together-The-Advisor-Tech-Stack-%e2%80%93-But-Will-Tech-Providers-Play-Along-And-More-Of-The-Latest-In-Financial"/>
-    <id>https://feeds.feedblitz.com/~/971004545/_/kitcesnerdseyeview~Claude-For-Financial-Advisors-Debuts-To-Tie-Together-The-Advisor-Tech-Stack-%e2%80%93-But-Will-Tech-Providers-Play-Along-And-More-Of-The-Latest-In-Financial</id>
-    <updated>2026-10-05T11:03:02.000Z</updated>
-    <author><name>Kitces — Advisor FinTech</name></author>
+    <title>Strategy before technology: Establishing the foundation for measurable AI value</title>
+    <link href="https://www.investmentnews.com/opinion/strategy-before-technology-establishing-the-foundation-for-measurable-ai-value/268456"/>
+    <id>https://www.investmentnews.com/opinion/strategy-before-technology-establishing-the-foundation-for-measurable-ai-value/268456</id>
+    <updated>2026-10-06T13:00:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
+    <summary>The quality of AI ROI measurement depends on pre-deployment decisions around business outcomes, leadership alignment, and establishing trusted information, among other factors.</summary>
   </entry>
   <entry>
-    <title>OpenAI launches visual ads that appear alongside image generation results</title>
-    <link href="https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results"/>
-    <id>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results</id>
-    <updated>2026-10-05T15:14:24.000Z</updated>
+    <title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</title>
+    <link href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"/>
+    <id>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits</id>
+    <updated>2026-10-06T16:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.</summary>
+    <summary>&quot;We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.&quot;</summary>
   </entry>
   <entry>
     <title>A New Competitive Advantage: The AI Operating Layer</title>
@@ -79,40 +79,40 @@
     <summary>Cowbell launches Risk Advisor AI agent for cyber policyholders Beinsure</summary>
   </entry>
   <entry>
-    <title>BofA Sees the End of ‘Easy Money’ Made From the AI-Spending Trade</title>
-    <link href="https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade"/>
-    <id>https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade</id>
-    <updated>2026-10-05T22:57:36.000Z</updated>
+    <title>Market Brief: Wall Street Banks Launch Record $60 Billion AI Chip Financing</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-10-6-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-10-6-2026</id>
+    <updated>2026-10-06T14:09:36.000Z</updated>
     <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Investors are likely to find it increasingly hard to make “easy money” by betting on outsized returns from artificial intelligence-linked capital expenditures compared with consumer-driven spending, according to strategists at Bank of America Corp. The post BofA Sees the End of ‘Easy Money’ Made From the AI-Spending Tr</summary>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Wall Street Banks Launch Record $60 Billion AI Chip Financing appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
-    <title>Altruist adds donor-advised funds so advisors can manage charitable giving in-platform</title>
-    <link href="https://altruist.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform"/>
-    <id>https://altruist.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform</id>
-    <updated>2026-10-06T04:01:42.000Z</updated>
-    <author><name>Altruist (vendor)</name></author>
+    <title>ECI Compliance Week Monthly Membership Spotlight: Effective AI Governance</title>
+    <link href="https://www.complianceweek.com/webcast/eci-compliance-week-monthly-membership-spotlight-effective-ai-governance"/>
+    <id>https://www.complianceweek.com/webcast/eci-compliance-week-monthly-membership-spotlight-effective-ai-governance</id>
+    <updated>2026-10-06T14:05:39.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Advisors can now open, invest, and manage donor-advised funds (DAFs) for clients inside Altruist with no account-opening, balance, or grant minimums. Introducing Donor-Advised Funds LOS ANGELES, CA — October 6, 2026 — Altruist, an AI-forward wealth technology and custody platform for advisors, today added donor-advised</summary>
+    <summary>AI has produced no shortage of demos, claims, and new terminology. But after the initial wave of experimentation, TPRM teams need a more useful conversation: What is actually working? The post ECI Compliance Week Monthly Membership Spotlight: Effective AI Governance appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>AI without the hype: What AML transformation means</title>
-    <link href="https://www.finextra.com/event-info/627/ai-without-the-hype-what-aml-transformation-means"/>
-    <id>https://www.finextra.com/event-info/627/ai-without-the-hype-what-aml-transformation-means</id>
-    <updated>2026-10-06T15:00:00.000Z</updated>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-10-06T16:43:21.947Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can organisations innovate with AI while meeting growing governance and regulatory expectations?</summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Insurance claims to test Altman and Amodei liability for ‘rogue’ AI</title>
-    <link href="https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?syn-25a6b1a6=1</id>
-    <updated>2026-10-06T04:00:08.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>S&amp;P 500 Sets First Record Since August as Bulls Downplay Risk</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk</id>
+    <updated>2026-10-06T12:14:59.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Insurers and lawyers weigh the cost of potential massive lawsuits and damages against the leaders of OpenAI and Anthropic</summary>
+    <summary>The S&amp;P 500 rose 0.9%, reaching its first record high since August, buoyed by resilient corporate profits, the outlook for artificial intelligence-related spending and a pullback in oil prices.</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 10/5/2026</title>
@@ -124,31 +124,67 @@
     <summary>Vanilla launches mobile notary service; Vida partners with AVANT on AI agent platform; and Zocks releases Claude plug-in. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>Building advertising for the way people use AI</title>
-    <link href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"/>
-    <id>https://openai.com/index/new-chatgpt-ads-format-and-measurement</id>
-    <updated>2026-10-05T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</summary>
-  </entry>
-  <entry>
-    <title>AI Meeting Assistants Raise Eavesdropping Concerns &amp; Discovery Headaches</title>
-    <link href="https://www.corporatecomplianceinsights.com/ai-meeting-assistants-raise-eavesdropping-concerns-discovery-headaches"/>
-    <id>https://www.corporatecomplianceinsights.com/ai-meeting-assistants-raise-eavesdropping-concerns-discovery-headaches</id>
-    <updated>2026-10-05T11:00:33.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A federal court has allowed wiretap and privacy claims against an AI notetaker to proceed The post AI Meeting Assistants Raise Eavesdropping Concerns &amp; Discovery Headaches appeared first on Corporate Compliance Insights .</summary>
-  </entry>
-  <entry>
-    <title>Gemini Call for Me might tell your mom you’re running late</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</id>
-    <updated>2026-10-05T23:09:55.000Z</updated>
+    <title>Google is about to remove free access to Gemini Flash and Pro</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only</id>
+    <updated>2026-10-06T13:19:01.000Z</updated>
     <author><name>The Verge AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting</summary>
+  </entry>
+  <entry>
+    <title>Building the Finance Data Foundation for the AI Era</title>
+    <link href="https://emerj.com/building-the-finance-data-foundation-for-the-ai-era"/>
+    <id>https://emerj.com/building-the-finance-data-foundation-for-the-ai-era</id>
+    <updated>2026-10-06T11:10:44.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>This article is sponsored by Fynapse by Aptitude and was written, edited, and published in alignment with our Emerj sponsored content guidelines. Learn more about our thought leadership and content creation services on our Emerj Media Services page. Finance functions are being asked to provide forward-looking guidance </summary>
+  </entry>
+  <entry>
+    <title>AI investing takes hold far beyond Wall Street, new data shows</title>
+    <link href="https://www.investmentnews.com/fintech/ai-investing-takes-hold-far-beyond-wall-street-new-data-shows/268478"/>
+    <id>https://www.investmentnews.com/fintech/ai-investing-takes-hold-far-beyond-wall-street-new-data-shows/268478</id>
+    <updated>2026-10-06T10:38:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>A state-by-state analysis of retail investor behavior reveals AI-powered research tools are reshaping how clients approach investment decisions.</summary>
+  </entry>
+  <entry>
+    <title>Claude For Financial Advisors Debuts To Tie Together The Advisor Tech Stack – But Will Tech Providers Play Along? (And More Of The Latest In Financial #AdvisorTech – October 2026)</title>
+    <link href="https://feeds.feedblitz.com/~/971004545/_/kitcesnerdseyeview~Claude-For-Financial-Advisors-Debuts-To-Tie-Together-The-Advisor-Tech-Stack-%e2%80%93-But-Will-Tech-Providers-Play-Along-And-More-Of-The-Latest-In-Financial"/>
+    <id>https://feeds.feedblitz.com/~/971004545/_/kitcesnerdseyeview~Claude-For-Financial-Advisors-Debuts-To-Tie-Together-The-Advisor-Tech-Stack-%e2%80%93-But-Will-Tech-Providers-Play-Along-And-More-Of-The-Latest-In-Financial</id>
+    <updated>2026-10-05T11:03:02.000Z</updated>
+    <author><name>Kitces — Advisor FinTech</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
+  </entry>
+  <entry>
+    <title>US software stocks scale fresh 2026 highs as AI disruption worries fade</title>
+    <link href="https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06"/>
+    <id>https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06</id>
+    <updated>2026-10-06T14:17:40.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Google may be expanding its &quot;Call for Me&quot; AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a &quot;Gemini Calling&quot; introductory screen in an APK teardown with examples that include &quot;Call Mom and tell her I will be 15 minutes late&quot; and &quot;Call […]</summary>
+    <summary>US software stocks scale fresh 2026 highs as AI disruption worries fade Reuters</summary>
+  </entry>
+  <entry>
+    <title>EXCLUSIVE: Anthropic's Amodei made $18 million last year, middle of the tech CEO pack</title>
+    <link href="https://www.reuters.com/technology/anthropics-amodei-made-18-million-last-year-middle-tech-ceo-pack-2026-10-06"/>
+    <id>https://www.reuters.com/technology/anthropics-amodei-made-18-million-last-year-middle-tech-ceo-pack-2026-10-06</id>
+    <updated>2026-10-06T13:46:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>EXCLUSIVE: Anthropic's Amodei made $18 million last year, middle of the tech CEO pack Reuters</summary>
+  </entry>
+  <entry>
+    <title>Altruist adds donor-advised funds so advisors can manage charitable giving in-platform</title>
+    <link href="https://altruist.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform"/>
+    <id>https://altruist.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-platform</id>
+    <updated>2026-10-06T04:01:42.000Z</updated>
+    <author><name>Altruist (vendor)</name></author>
+    <category term="REGULATION"/>
+    <summary>Advisors can now open, invest, and manage donor-advised funds (DAFs) for clients inside Altruist with no account-opening, balance, or grant minimums. Introducing Donor-Advised Funds LOS ANGELES, CA — October 6, 2026 — Altruist, an AI-forward wealth technology and custody platform for advisors, today added donor-advised</summary>
   </entry>
   <entry>
     <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
@@ -160,120 +196,84 @@
     <summary>The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…</summary>
   </entry>
   <entry>
-    <title>At the Helm: Are CVs still relevant when you’re recruiting?</title>
-    <link href="https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting"/>
-    <id>https://www.moneymarketing.co.uk/at-the-helm-are-cvs-still-relevant-when-youre-recruiting</id>
-    <updated>2026-10-05T10:00:44.000Z</updated>
+    <title>Advisor AI use hits 80%, but client time still falls short</title>
+    <link href="https://www.investmentnews.com/alternatives/advisor-ai-use-hits-80-but-client-time-still-falls-short/268465"/>
+    <id>https://www.investmentnews.com/alternatives/advisor-ai-use-hits-80-but-client-time-still-falls-short/268465</id>
+    <updated>2026-10-06T01:47:33.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Advisor AI use hits 80%, but client time still falls short InvestmentNews</summary>
+  </entry>
+  <entry>
+    <title>Finfluencers should be ‘rounded up and sent to Abu Dhabi’, says adviser</title>
+    <link href="https://www.moneymarketing.co.uk/finfluencers-should-be-rounded-up-and-sent-to-abu-dhabi-says-adviser"/>
+    <id>https://www.moneymarketing.co.uk/finfluencers-should-be-rounded-up-and-sent-to-abu-dhabi-says-adviser</id>
+    <updated>2026-10-06T11:06:33.000Z</updated>
     <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Artificial intelligence (AI) seems to be both a help and a hindrance for businesses trying to recruit the right people. If job applicants use AI to write CVs and covering letters, this speeds up the process and enables them to apply for more jobs, thereby… The post At the Helm: Are CVs still relevant when you’re recrui</summary>
+    <summary>Financial advisers need to do more to counter the influence of unregulated social-media finfluencers as consumers increasingly turn to TikTok and artificial intelligence for financial guidance. Speaking at MMI London 2026 today (6 October), Hoxton Wealth certified financial planner Michael Yuille said the number of… Th</summary>
   </entry>
   <entry>
-    <title>Monday links: an eye for trouble</title>
-    <link href="https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble"/>
-    <id>https://abnormalreturns.com/2026/10/05/monday-links-an-eye-for-trouble</id>
-    <updated>2026-10-05T19:02:19.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>Anna Butcher: Why advisers need to understand neurodivergence</title>
+    <link href="https://www.moneymarketing.co.uk/anna-butcher-why-advisers-need-to-understand-neurodivergence"/>
+    <id>https://www.moneymarketing.co.uk/anna-butcher-why-advisers-need-to-understand-neurodivergence</id>
+    <updated>2026-10-06T10:00:41.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets The scale of the AI boom is hard to grasp. (awealthofcommonsense.com) TIPS increasingly look like competition to equities. (larrykotlikoff.substack.com) High beta is crushing low vol, YTD. (capitalspectator.com) Prediction markets Newer trading firms are now targeting prediction markets. (wsj.com) Prediction ma</summary>
+    <summary>The world of financial services is changing, but we're looking in the wrong direction. Open LinkedIn on any given morning and you'd be forgiven for thinking the profession has become obsessed with AI. It's in every conference, webinar and post promising that ChatGPT has transformed… The post Anna Butcher: Why advisers </summary>
   </entry>
   <entry>
-    <title>Exploring California’s Generative AI Training Data Transparency Act</title>
-    <link href="https://www.corporatecomplianceinsights.com/exploring-californias-generative-ai-training-data-transparency-act"/>
-    <id>https://www.corporatecomplianceinsights.com/exploring-californias-generative-ai-training-data-transparency-act</id>
-    <updated>2026-10-05T11:02:48.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>California Enacts Over Two Dozen Key Privacy and AI Bills into Law in 2026 Legislative Session</title>
+    <link href="https://www.wsgrdataadvisor.com/2026/10/california-enacts-over-two-dozen-key-privacy-and-ai-bills-into-law-in-2026-legislative-session"/>
+    <id>https://www.wsgrdataadvisor.com/2026/10/california-enacts-over-two-dozen-key-privacy-and-ai-bills-into-law-in-2026-legislative-session</id>
+    <updated>2026-10-06T15:51:38.000Z</updated>
+    <author><name>WSGR Data Advisor</name></author>
     <category term="COMPLIANCE"/>
-    <summary>AB 2013 obligations are live now, and the practical question is not whether to comply but how much to disclose The post Exploring California’s Generative AI Training Data Transparency Act appeared first on Corporate Compliance Insights .</summary>
-  </entry>
-  <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-06T10:04:40.174Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+    <summary>As the 2026 legislative session came to a close, California passed a wide-ranging assortment of privacy and artificial intelligence (AI)-related bills. In total, Governor Gavin Newsom signed over two dozen privacy and AI bills into law. The measures fall into six themes: Protecting Minors Online . California further ce</summary>
   </entry>
   <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-06T10:04:40.174Z</updated>
+    <updated>2026-10-06T16:43:21.947Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>AI Firms Face Scrutiny in Australia</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-06/ai-firms-face-scrutiny-in-australia-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-06/ai-firms-face-scrutiny-in-australia-video</id>
-    <updated>2026-10-06T08:00:28.000Z</updated>
+    <title>How acquirers are commercialising fraud intelligence</title>
+    <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
+    <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
+    <updated>2026-10-06T16:43:21.947Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Turning fraud from a cost centre to a growth lever.</summary>
+  </entry>
+  <entry>
+    <title>Johnson &amp; Johnson CEO Says AI Has to Be Embraced</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-06/j-j-ceo-says-ai-has-to-be-embraced-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-06/j-j-ceo-says-ai-has-to-be-embraced-video</id>
+    <updated>2026-10-06T16:27:15.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Johnson &amp; Johnson Chairman &amp; CEO Joaquin Duato says artificial intelligence is a force multiplier and has to be embraced. He's on this week's episode of The David Rubenstein Show: Peer to Peer Conversations. This interview was recorded on June 16 in Washington. (Source: Bloomberg)</summary>
+  </entry>
+  <entry>
+    <title>AI Startup Hark Debuts 'Proactive' Hark Pro App Ahead of 2027 Hardware Launch</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/ai-startup-hark-debuts-proactive-hark-pro-app-ahead-of-2027-hardware-launch</id>
+    <updated>2026-10-06T16:15:12.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Australia is stepping up scrutiny of artificial intelligence, with representatives from OpenAI, Anthropic, Microsoft and Google facing questions from a parliamentary inquiry. The hearing comes after OpenAI revealed their technology breached Australian government agencies earlier this year. Director of the AI Institute </summary>
+    <summary>Entrepreneur Brett Adcock’s artificial intelligence-focused hardware startup, Hark, introduced a new “proactive” AI app ahead of launching its first devices next year.</summary>
   </entry>
   <entry>
-    <title>OpenAI Apologizes for Australia Hack, Pledges Faster Disclosure</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure</id>
-    <updated>2026-10-06T06:20:17.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>OpenAI on Tuesday reiterated its apology for its artificial intelligence models breaching Australian government websites, pledging to work to prevent similar incidents and to respond faster if they do occur.</summary>
-  </entry>
-  <entry>
-    <title>How AI is reshaping enterprise risk</title>
-    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964226/how-ai-is-reshaping-enterprise-risk"/>
-    <id>https://www.risk.net/insight/ai-and-machine-learning/7964226/how-ai-is-reshaping-enterprise-risk</id>
-    <updated>2026-10-05T16:10:57.000Z</updated>
-    <author><name>Risk.net</name></author>
+    <title>Market Movers blog: S&amp;P 500 and Nasdaq hit record highs as AI stocks ignore debt fears</title>
+    <link href="https://www.investmentweek.co.uk/blog/4080428/market-movers-blog"/>
+    <id>https://www.investmentweek.co.uk/blog/4080428/market-movers-blog</id>
+    <updated>2026-10-06T08:01:00.000Z</updated>
+    <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>A more connected and timely view of risk is becoming increasingly important to ERM, while agentic AI is reshaping how firms approach risk</summary>
-  </entry>
-  <entry>
-    <title>Tokenization, RWAs, and the Future of Finance</title>
-    <link href="https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance"/>
-    <id>https://www.top1000funds.com/franklin-templeton-animoca/tokenization-rwas-and-the-future-of-finance</id>
-    <updated>2026-10-05T00:10:00.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Explore what tokenization and real-world assets mean for investors, the convergence of DeFi and traditional finance, and how blockchain, AI, and Web3 shape the future of investing.</summary>
-  </entry>
-  <entry>
-    <title>Our approach to EU text provenance rules</title>
-    <link href="https://openai.com/index/eu-text-provenance"/>
-    <id>https://openai.com/index/eu-text-provenance</id>
-    <updated>2026-10-05T15:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</summary>
-  </entry>
-  <entry>
-    <title>Accelerating Evidence to Action in Pharma with Practical AI Adoption</title>
-    <link href="https://emerj.com/accelerating-evidence-to-action-in-pharma-with-practical-ai-adoption"/>
-    <id>https://emerj.com/accelerating-evidence-to-action-in-pharma-with-practical-ai-adoption</id>
-    <updated>2026-10-05T11:54:53.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
-    <category term="RESEARCH"/>
-    <summary>The pharmaceutical industry is producing more clinical evidence than ever before, but the ability to turn that evidence into timely strategic decisions is struggling to keep pace. PubMed added more than 1.5 million citations in fiscal year 2023, roughly 4,300 a day, according to the National Library of Medicine. On top</summary>
-  </entry>
-  <entry>
-    <title>AI is changing work. Now it has to change the organization</title>
-    <link href="https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization"/>
-    <id>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</id>
-    <updated>2026-10-05T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.</summary>
-  </entry>
-  <entry>
-    <title>Zocks Launches Advisor Intelligence Plugin with Seven Skills for Claude</title>
-    <link href="https://www.wealthtechstrategy.com/post/zocks-launches-advisor-intelligence-plugin-with-seven-skills-for-claude"/>
-    <id>https://www.wealthtechstrategy.com/post/zocks-launches-advisor-intelligence-plugin-with-seven-skills-for-claude</id>
-    <updated>2026-10-05T10:45:08.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Zocks. (2026, September 30). Zocks launches Advisor Intelligence plugin with seven skills for Claude. https://www.zocks.io/press/zocks-launches-advisor-intelligence-plugin-with-seven-skills-for-claude Zocks announced an Advisor Intelligence plugin that packages seven Claude skills developed specifically for financial s</summary>
+    <summary>In this live blog, Investment Week collates all the breaking market news, analysis and opinion on equity, bond and currencies, as well as the impact of regulation, economics and key market figures.</summary>
   </entry>
 </feed>
