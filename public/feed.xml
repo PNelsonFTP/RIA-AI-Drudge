@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-06T21:34:19.218Z</updated>
+  <updated>2026-10-07T01:24:12.314Z</updated>
   <entry>
     <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
     <link href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"/>
@@ -43,13 +43,13 @@
     <summary>The quality of AI ROI measurement depends on pre-deployment decisions around business outcomes, leadership alignment, and establishing trusted information, among other factors.</summary>
   </entry>
   <entry>
-    <title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</title>
-    <link href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"/>
-    <id>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits</id>
-    <updated>2026-10-06T16:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Marvell raises 2028 revenue forecast on strong AI data center demand</title>
+    <link href="https://www.reuters.com/business/marvell-raises-2028-revenue-forecast-strong-ai-data-center-demand-2026-10-06"/>
+    <id>https://www.reuters.com/business/marvell-raises-2028-revenue-forecast-strong-ai-data-center-demand-2026-10-06</id>
+    <updated>2026-10-06T20:56:39.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>&quot;We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.&quot;</summary>
+    <summary>Marvell raises 2028 revenue forecast on strong AI data center demand Reuters</summary>
   </entry>
   <entry>
     <title>A New Competitive Advantage: The AI Operating Layer</title>
@@ -91,19 +91,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-06T21:34:05.078Z</updated>
+    <updated>2026-10-07T01:23:57.342Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Billions Pour Into OpenAI, DeepSeek Ahead of IPOs</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-06/bloomberg-tech-10-6-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-06/bloomberg-tech-10-6-2026-video</id>
-    <updated>2026-10-06T18:55:23.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Taiwan Dethrones Korea Atop Global Markets</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-07/taiwan-dethrones-korea-atop-global-markets-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-07/taiwan-dethrones-korea-atop-global-markets-video</id>
+    <updated>2026-10-07T01:02:51.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Bloomberg’s Ed Ludlow breaks down OpenAI's talks with multiple investors to raise at least $30 billion at a valuation of about $1.4 trillion. Plus, DeepSeek is also close to securing at least $12 billion in funding ahead of its own IPO next year, and JPMorganChase CEO Jamie Dimon weighs in on data centers and AI risks </summary>
+    <summary>Taiwan is emerging as the stronger bet for equity investors due to its deeper linkages across the AI supply chain and a more upbeat earnings outlook. Bloomberg's Winnie Hsu breaks down the news. (Source: Bloomberg) — Also covered by: Bloomberg Markets</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 10/5/2026</title>
@@ -115,21 +115,22 @@
     <summary>Vanilla launches mobile notary service; Vida partners with AVANT on AI agent platform; and Zocks releases Claude plug-in. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
-    <link href="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"/>
-    <id>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model</id>
-    <updated>2026-10-06T19:57:04.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <title>Sharing AI progress in mathematics</title>
+    <link href="https://openai.com/index/sharing-ai-progress-in-mathematics"/>
+    <id>https://openai.com/index/sharing-ai-progress-in-mathematics</id>
+    <updated>2026-10-06T12:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</summary>
   </entry>
   <entry>
-    <title>Building the Finance Data Foundation for the AI Era</title>
-    <link href="https://emerj.com/building-the-finance-data-foundation-for-the-ai-era"/>
-    <id>https://emerj.com/building-the-finance-data-foundation-for-the-ai-era</id>
-    <updated>2026-10-06T11:10:44.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
+    <title>Nassim Taleb Calls Stocks a 'Trap,' Sees 'Naive' AI Investors</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-06/taleb-calls-stocks-a-trap-sees-naive-ai-investors-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-06/taleb-calls-stocks-a-trap-sees-naive-ai-investors-video</id>
+    <updated>2026-10-06T21:36:03.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="RESEARCH"/>
-    <summary>This article is sponsored by Fynapse by Aptitude and was written, edited, and published in alignment with our Emerj sponsored content guidelines. Learn more about our thought leadership and content creation services on our Emerj Media Services page. Finance functions are being asked to provide forward-looking guidance </summary>
+    <summary>Nassim Taleb, author of “The Black Swan” and distinguished scientist at Universa Investments, calls the stock market a &quot;trap&quot; and sees a class of &quot;naive&quot; investors who will invest in firms linked to AI during an interview with Bloomberg's Natalia Kniazhevich at the Greenwich Economic Forum. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Convincing Is Not the Same as Accurate: What Financial Institutions Must Demand from AI</title>
@@ -159,22 +160,22 @@
     <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
-    <title>US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says</title>
-    <link href="https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-10-06"/>
-    <id>https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-10-06</id>
-    <updated>2026-10-06T17:32:39.000Z</updated>
+    <title>Italy regulator probes AI music startup Suno over terms of service</title>
+    <link href="https://www.reuters.com/legal/litigation/italy-regulator-probes-ai-music-startup-suno-over-terms-service-2026-10-06"/>
+    <id>https://www.reuters.com/legal/litigation/italy-regulator-probes-ai-music-startup-suno-over-terms-service-2026-10-06</id>
+    <updated>2026-10-06T20:54:01.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says Reuters</summary>
+    <summary>Italy regulator probes AI music startup Suno over terms of service Reuters</summary>
   </entry>
   <entry>
-    <title>US software stocks scale fresh 2026 highs as AI disruption worries fade</title>
-    <link href="https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06"/>
-    <id>https://www.reuters.com/business/us-software-stocks-scale-fresh-2026-highs-ai-disruption-worries-fade-2026-10-06</id>
-    <updated>2026-10-06T14:17:40.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Anthropic is giving startups a free year of Claude Team and $1,000 in credits</title>
+    <link href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"/>
+    <id>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits</id>
+    <updated>2026-10-06T16:00:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>US software stocks scale fresh 2026 highs as AI disruption worries fade Reuters</summary>
+    <summary>&quot;We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.&quot;</summary>
   </entry>
   <entry>
     <title>Altruist adds donor-advised funds so advisors can manage charitable giving in-platform</title>
@@ -252,7 +253,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-06T21:34:05.078Z</updated>
+    <updated>2026-10-07T01:23:57.342Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -261,18 +262,18 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-06T21:34:05.078Z</updated>
+    <updated>2026-10-07T01:23:57.342Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>S&amp;P 500 Hits First Record Since August as AI Bulls Take the Lead</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-06/s-p-500-set-for-first-record-since-august-as-bulls-downplay-risk</id>
-    <updated>2026-10-06T12:14:59.000Z</updated>
+    <title>Surging Yields Hit Asian Bond Sales as AI Fundraising Trails US</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/surging-yields-hit-asian-bond-sales-as-ai-fundraising-trails-us"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/surging-yields-hit-asian-bond-sales-as-ai-fundraising-trails-us</id>
+    <updated>2026-10-06T23:00:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The S&amp;P 500 closed at a record for the first time since August, buoyed by resilient corporate profits and the outlook for artificial intelligence-related spending.</summary>
+    <summary>Borrowers in the Asia Pacific are slowing deals in the dollar bond market, with the highest yields in more than two years sapping deal momentum.</summary>
   </entry>
 </feed>
