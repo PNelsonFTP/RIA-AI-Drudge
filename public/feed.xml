@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-09T20:49:37.843Z</updated>
+  <updated>2026-10-10T00:41:35.843Z</updated>
   <entry>
     <title>Wealthtech Vendors Scramble as Orion Introduces Data Access Fees</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees"/>
@@ -14,6 +14,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>The monthly Connected Ecosystem Support Fee has sparked debate over transparency, pricing models and who ultimately bears the cost in an AI-driven advisory landscape.</summary>
+  </entry>
+  <entry>
+    <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+    <link href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"/>
+    <id>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</id>
+    <updated>2026-10-09T19:36:56.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic did not discover this behavior until over two months after its AI submitted the false tip. — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
     <title>Altruist adds donor-advised funds so advisors can manage charitable giving in-platform</title>
@@ -34,49 +43,49 @@
     <summary>Deloitte’s latest fair valuation survey finds AI adoption surging among fund groups, even as governance frameworks and SEC exams intensify pressure.</summary>
   </entry>
   <entry>
-    <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
-    <link href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police"/>
-    <id>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</id>
-    <updated>2026-10-09T19:36:56.000Z</updated>
+    <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
+    <link href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead"/>
+    <id>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead</id>
+    <updated>2026-10-10T00:18:32.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic did not discover this behavior until over two months after its AI submitted the false tip.</summary>
+    <summary>Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.</summary>
   </entry>
   <entry>
-    <title>Market Brief: AI Companies Expected to Drive Most Third-Quarter Earnings Growth</title>
-    <link href="https://www.advisorhub.com/morning-bell-wrapup-10-9-2026"/>
-    <id>https://www.advisorhub.com/morning-bell-wrapup-10-9-2026</id>
-    <updated>2026-10-09T13:00:08.000Z</updated>
-    <author><name>AdvisorHub</name></author>
+    <title>Weekend Essay: Why I’ve learned to love AI (in moderation)</title>
+    <link href="https://www.moneymarketing.co.uk/weekend-essay-why-ive-learned-to-love-ai-in-moderation"/>
+    <id>https://www.moneymarketing.co.uk/weekend-essay-why-ive-learned-to-love-ai-in-moderation</id>
+    <updated>2026-10-09T13:00:18.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: AI Companies Expected to Drive Most Third-Quarter Earnings Growth appeared first on AdvisorHub .</summary>
+    <summary>I wasn’t impressed when I first used AI. It must have been a couple of years ago and I just wanted to see what all the fuss was about. I can’t remember what I asked ChatGPT, though I’m sure it was something trivial. But I… The post Weekend Essay: Why I’ve learned to love AI (in moderation) appeared first on Money Marke</summary>
   </entry>
   <entry>
-    <title>Can Boards Rely on AI-Assisted Management Reports?</title>
-    <link href="https://clsbluesky.law.columbia.edu/2026/10/09/can-boards-rely-on-ai-assisted-management-reports"/>
-    <id>https://clsbluesky.law.columbia.edu/2026/10/09/can-boards-rely-on-ai-assisted-management-reports</id>
-    <updated>2026-10-09T04:05:46.000Z</updated>
-    <author><name>Columbia Blue Sky</name></author>
+    <title>Companies responsible for decisions made by ‘autonomous’ AI, says ICO</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/companies-responsible-for-decisions-made-by-autonomous-ai-says-ico"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/companies-responsible-for-decisions-made-by-autonomous-ai-says-ico</id>
+    <updated>2026-10-09T23:53:15.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Under corporate law, boards of directors have long had the right to rely on reports and other information supplied by management. This “right of reliance” derives from the board’s power to delegate day-to-day operational responsibility to management. However, it is …</summary>
+    <summary>The UK’s data regulator has issued a strong warning that companies remain responsible for protecting personal data when they use AI systems, even when the technology acts autonomously. The post Companies responsible for decisions made by ‘autonomous’ AI, says ICO appeared first on Compliance Week .</summary>
   </entry>
   <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-09T20:49:23.594Z</updated>
+    <updated>2026-10-10T00:41:23.065Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-09/wall-street-s-rate-shock-spreads-beneath-ai-fueled-market-rally</id>
-    <updated>2026-10-09T20:34:41.000Z</updated>
+    <title>Wall Street Week | Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video</id>
+    <updated>2026-10-09T23:13:28.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The AI-fueled resilience of the world’s most-watched stock indexes is masking a widening retreat across financial markets, as elevated oil prices and borrowing costs take their toll.</summary>
+    <summary>This week, Ford, JPMorgan and the state of Michigan team up to help domestic manufacturers turn new technology into factories and supply chains. And, hyperscalers and data centers are borrowing hundreds of billions of dollars to finance AI infrastructure, transforming the corporate bond market. Plus, can baby bonds act</summary>
   </entry>
   <entry>
     <title>AI bond deluge tests credit market’s appetite</title>
@@ -133,15 +142,6 @@
     <summary>AI-centered US stock bull market nears four-year anniversary Reuters</summary>
   </entry>
   <entry>
-    <title>‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</id>
-    <updated>2026-10-09T19:09:44.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>&quot;Staggering.&quot; &quot;Overwhelming.&quot; &quot;Unprecedented.&quot; &quot;Surreal.&quot; &quot;Pure insanity.&quot; Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, exc</summary>
-  </entry>
-  <entry>
     <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
     <link href="https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"/>
     <id>https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook</id>
@@ -178,6 +178,15 @@
     <summary>Plus Our Deals &amp; Recruiting And WSRIA Roundups, Surviving The Deal, Our Latest Podcasts, A Human Focus For Advisors, Family Office Research, Diversification, Direct Indexing For Digital Assets, Trilogy’s Launch And More</summary>
   </entry>
   <entry>
+    <title>Market Brief: AI Companies Expected to Drive Most Third-Quarter Earnings Growth</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-10-9-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-10-9-2026</id>
+    <updated>2026-10-09T13:00:08.000Z</updated>
+    <author><name>AdvisorHub</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: AI Companies Expected to Drive Most Third-Quarter Earnings Growth appeared first on AdvisorHub .</summary>
+  </entry>
+  <entry>
     <title>Warnings that most adviser AI startups will disappear</title>
     <link href="https://www.professionaladviser.com/news/4537046/warnings-most-adviser-ai-startups-disappear"/>
     <id>https://www.professionaladviser.com/news/4537046/warnings-most-adviser-ai-startups-disappear</id>
@@ -187,37 +196,28 @@
     <summary>Financial Technology Research Centre founder Ian Mckenna discusses that while advisers remain safe from AI, due diligence is still important, and urges advisers to get ahead of open financing.</summary>
   </entry>
   <entry>
-    <title>Beyond the meeting note: Five stages of AI maturity in financial advice</title>
-    <link href="https://www.professionaladviser.com/opinion/4536558/meeting-note-stages-ai-maturity-financial-advice"/>
-    <id>https://www.professionaladviser.com/opinion/4536558/meeting-note-stages-ai-maturity-financial-advice</id>
-    <updated>2026-10-08T13:58:43.000Z</updated>
-    <author><name>Professional Adviser</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Shoomon Perry runs through the five stages of AI maturity in financial advice...</summary>
+    <title>Cleo AI paid $17M to settle allegations it deceived customers</title>
+    <link href="https://www.complianceweek.com/regulatory-enforcement/cleo-ai-paid-17m-to-settle-allegations-it-deceived-customers"/>
+    <id>https://www.complianceweek.com/regulatory-enforcement/cleo-ai-paid-17m-to-settle-allegations-it-deceived-customers</id>
+    <updated>2026-10-09T23:25:56.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Cash advance app Cleo AI agreed to meet compliance obligations for 10 years and to pay $17 million to settle allegations that it deceived millions of customers. The post Cleo AI paid $17M to settle allegations it deceived customers appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>New AI Rules for Lawyers? California Codifies Attorney Obligations for the Use of Generative AI</title>
-    <link href="https://www.alstonprivacy.com/new-ai-rules-for-lawyers-california-codifies-attorney-obligations-for-the-use-of-generative-ai"/>
-    <id>https://www.alstonprivacy.com/new-ai-rules-for-lawyers-california-codifies-attorney-obligations-for-the-use-of-generative-ai</id>
-    <updated>2026-10-07T15:28:58.000Z</updated>
-    <author><name>Alston Privacy</name></author>
+    <title>Can Boards Rely on AI-Assisted Management Reports?</title>
+    <link href="https://clsbluesky.law.columbia.edu/2026/10/09/can-boards-rely-on-ai-assisted-management-reports"/>
+    <id>https://clsbluesky.law.columbia.edu/2026/10/09/can-boards-rely-on-ai-assisted-management-reports</id>
+    <updated>2026-10-09T04:05:46.000Z</updated>
+    <author><name>Columbia Blue Sky</name></author>
     <category term="COMPLIANCE"/>
-    <summary>On September 30, 2026, California Governor Gavin Newsom signed Senate Bill 574, authored by Senator Thomas Umberg, which regulates the use of generative artificial intelligence (“GenAI”) by attorneys, arbitrators, judicial officers, and alternative dispute resolution providers. The California Legislature had passed the</summary>
-  </entry>
-  <entry>
-    <title>Datavault AI Hit with Market-Manipulation-Related Securities Suit</title>
-    <link href="https://www.dandodiary.com/2026/10/articles/artificial-intelligence/datavault-ai-hit-with-market-manipulation-related-securities-suit"/>
-    <id>https://www.dandodiary.com/2026/10/articles/artificial-intelligence/datavault-ai-hit-with-market-manipulation-related-securities-suit</id>
-    <updated>2026-10-07T12:56:36.000Z</updated>
-    <author><name>The D&amp;O Diary</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>The D&amp;O Diary has been closely following the rise in securities class actions filed in 2026 stemming from alleged market manipulation. A recently filed securities class action lawsuit against Datavault AI Inc. arises from what plaintiffs characterize as a stock-promotion campaign built around artificial intelligence, b</summary>
+    <summary>Under corporate law, boards of directors have long had the right to rely on reports and other information supplied by management. This “right of reliance” derives from the board’s power to delegate day-to-day operational responsibility to management. However, it is …</summary>
   </entry>
   <entry>
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-09T20:49:23.594Z</updated>
+    <updated>2026-10-10T00:41:23.065Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -226,28 +226,28 @@
     <title>How acquirers are commercialising fraud intelligence</title>
     <link href="https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence"/>
     <id>https://www.finextra.com/event-info/640/how-acquirers-are-commercialising-fraud-intelligence</id>
-    <updated>2026-10-09T20:49:23.594Z</updated>
+    <updated>2026-10-10T00:41:23.065Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Turning fraud from a cost centre to a growth lever.</summary>
   </entry>
   <entry>
-    <title>Bond Vigilantes Are Coming Back: Peter Orszag</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-09/bond-vigilantes-are-coming-back-peter-orszag-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-09/bond-vigilantes-are-coming-back-peter-orszag-video</id>
-    <updated>2026-10-09T19:11:30.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Why OpenAI’s revenue numbers really matter</title>
+    <link href="https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1</id>
+    <updated>2026-10-09T21:48:14.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Peter Orszag, chairman and CEO of Lazard joins Scarlet Fu and Tom Keene on &quot;Bloomberg Money.&quot; They discuss AI, retirement reform, Trump Accounts, and the next generation of investment bankers. (Source: Bloomberg)</summary>
+    <summary>Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public</summary>
   </entry>
   <entry>
-    <title>You Probably Can't Build Your Own Hedge Fund/Prop Trading Firm With AI (But Incumbents Would Love it if You Tried)</title>
-    <link href="https://www.thediff.co/archive/you-probably-cant-build-your-own-hedge-fund-prop-trading-firm-with-ai-but-incumbents-would-love-it-if-you-tried"/>
-    <id>https://www.thediff.co/archive/you-probably-cant-build-your-own-hedge-fund-prop-trading-firm-with-ai-but-incumbents-would-love-it-if-you-tried</id>
-    <updated>2026-10-09T16:29:10.000Z</updated>
-    <author><name>The Diff</name></author>
+    <title>Flexport CEO on Oil Tanker Costs, Diesel Prices</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-09/flexport-ceo-on-oil-tanker-costs-diesel-prices-video</id>
+    <updated>2026-10-09T23:05:20.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Plus! Super-Carry; Leaks and Vetos; Competition; IP; Math!</summary>
+    <summary>Flexport CEO, Chairman, and Founder, discusses oil tanker costs, diesel prices and AI in an interview with Romaine Bostick on &quot;The Close.&quot; (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Morningstar's Tom Whitelaw: AI unlocks the investment research questions worth asking</title>
