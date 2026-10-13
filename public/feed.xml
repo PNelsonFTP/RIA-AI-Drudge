@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-13T07:37:05.933Z</updated>
+  <updated>2026-10-13T15:51:33.324Z</updated>
+  <entry>
+    <title>Wealthtech Roundup: Anthropic, Envestnet, Orion, Bento And More</title>
+    <link href="https://www.wealthsolutionsreport.com/wealthtech-roundup-anthropic-envestnet-orion-bento-and-more"/>
+    <id>https://www.wealthsolutionsreport.com/wealthtech-roundup-anthropic-envestnet-orion-bento-and-more</id>
+    <updated>2026-10-13T14:53:53.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>News Featuring Anthropic, Envestnet, Orion, Jump, Ritholtz, Hadrius, Feathery, Robinhood, Betterment, Bento Engine, Cerulli, Vanilla And Amplify</summary>
+  </entry>
   <entry>
     <title>RIA, M&amp;A and AI: Acronyms with Something in Common</title>
     <link href="https://www.thedailyupside.com/advisor/practice-management/ria-ma-and-ai-acronyms-with-something-in-common"/>
@@ -25,13 +34,22 @@
     <summary>Altruist Launches AI-Powered Donor-Advised Funds to Simplify Charitable Giving for Advisors FF News — Also covered by: Altruist (vendor)</summary>
   </entry>
   <entry>
-    <title>Private market valuation practices under pressure as AI use surges</title>
-    <link href="https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551"/>
-    <id>https://www.investmentnews.com/alternatives/private-market-valuation-practices-under-pressure-as-ai-use-surges/268551</id>
-    <updated>2026-10-09T10:44:00.000Z</updated>
+    <title>Jobs report hides an investment signal advisors shouldn't ignore</title>
+    <link href="https://www.investmentnews.com/equities/jobs-number-and-advisors/268476"/>
+    <id>https://www.investmentnews.com/equities/jobs-number-and-advisors/268476</id>
+    <updated>2026-10-13T11:03:35.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Deloitte’s latest fair valuation survey finds AI adoption surging among fund groups, even as governance frameworks and SEC exams intensify pressure.</summary>
+    <summary>Strategists at Global X, Empower and Guardian say hiring trends, capex and earnings together show where AI infrastructure momentum is real</summary>
+  </entry>
+  <entry>
+    <title>Epic shifts to ‘AI-accelerated development’ for upcoming Disney game</title>
+    <link href="https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"/>
+    <id>https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</id>
+    <updated>2026-10-13T15:12:59.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an &quot;AI-first&quot; mandate directing them to use tools like Anthropic's Claude more to finish the gam</summary>
   </entry>
   <entry>
     <title>FSB Chair sets out FSB work on AI and stablecoins</title>
@@ -41,6 +59,123 @@
     <author><name>FSB News</name></author>
     <category term="REGULATION"/>
     <summary>Andrew Bailey delivers note on vulnerabilities and monitoring of global stablecoins and finalised sound practices on AI adoption.</summary>
+  </entry>
+  <entry>
+    <title>AI boom risks ‘huge capital destruction’, warns Rathbones’ Coombs</title>
+    <link href="https://www.moneymarketing.co.uk/ai-boom-risks-huge-capital-destruction-warns-rathbones-coombs"/>
+    <id>https://www.moneymarketing.co.uk/ai-boom-risks-huge-capital-destruction-warns-rathbones-coombs</id>
+    <updated>2026-10-13T12:44:28.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>There could be &quot;huge capital destruction&quot; over the next five years as money pours into artificial intelligence (AI), according to Rathbones' head of multi-asset investments. Speaking at the TFAS Financial Advice Summit in London today (13 October), David Coombs drew parallels between today’s technology boom… The post A</summary>
+  </entry>
+  <entry>
+    <title>How AI agents help FIs tackle regulatory change</title>
+    <link href="https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change"/>
+    <id>https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change</id>
+    <updated>2026-10-14T15:00:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>How can FIs effectively integrate agents to create a more connected response to regulatory change?</summary>
+  </entry>
+  <entry>
+    <title>Tesla, Xpeng Showcase Autonomous Cars in Paris</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-13/tesla-xpeng-showcase-autonomous-cars-in-paris-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-13/tesla-xpeng-showcase-autonomous-cars-in-paris-video</id>
+    <updated>2026-10-13T15:39:47.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Tesla and Xpeng are competing beyond EVs and into AI, as Bloomberg's Caroline Connan explores the Cybercab and takes Xpeng's autonomous tech for a spin in Paris. (Source: Bloomberg)</summary>
+  </entry>
+  <entry>
+    <title>21shares launches Anthropic pre-IPO ETP in collaboration with Falcon X</title>
+    <link href="https://www.investmentweek.co.uk/news/4537203/21shares-launches-anthropic-pre-ipo-etp-collaboration-falcon"/>
+    <id>https://www.investmentweek.co.uk/news/4537203/21shares-launches-anthropic-pre-ipo-etp-collaboration-falcon</id>
+    <updated>2026-10-13T10:40:12.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Crypto-native asset manager 21shares has launched Europe’s first exchange-traded product (ETP) offering synthetic exposure to Anthropic ahead of its IPO.</summary>
+  </entry>
+  <entry>
+    <title>Moderna, Google DeepMind, Biocon on AI in Science</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video</id>
+    <updated>2026-10-13T10:31:41.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Noubar Afeyan, Co-Founder &amp; Chairman, Moderna and Founder &amp; CEO, Flagship Pioneering; Lila Ibrahim, Chief AI Readiness Officer, Google DeepMind; and Kiran Mazumdar-Shaw, Founder &amp; Executive Chairperson, Biocon discuss how AI is reshaping scientific discovery with Bloomberg's Francine Lacqua at the 2026 Bloomberg New Ec</summary>
+  </entry>
+  <entry>
+    <title>The New Rules of Brand Visibility in AI Search</title>
+    <link href="https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search"/>
+    <id>https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search</id>
+    <updated>2026-10-13T11:00:34.000Z</updated>
+    <author><name>MIT Sloan Management Review</name></author>
+    <category term="RESEARCH"/>
+    <summary>Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how organizations are adapting SEO practices for AI-mediated discovery. </summary>
+  </entry>
+  <entry>
+    <title>IMF warns bond yields face disorderly spike on debt and AI risks</title>
+    <link href="https://www.investmentnews.com/alternatives/imf-warns-bond-yields-face-disorderly-spike-on-debt-and-ai-risks/268570"/>
+    <id>https://www.investmentnews.com/alternatives/imf-warns-bond-yields-face-disorderly-spike-on-debt-and-ai-risks/268570</id>
+    <updated>2026-10-13T10:31:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Surging sovereign debt, AI capital competition, and leveraged hedge fund Treasury exposure combine into a convergent threat.</summary>
+  </entry>
+  <entry>
+    <title>7 Charts For Client Conversations In Q4 2026: Interest Rates, The Fed, AI, And More</title>
+    <link href="https://feeds.feedblitz.com/~/971093972/_/kitcesnerdseyeview~Charts-For-Client-Conversations-In-Q-Interest-Rates-The-Fed-AI-And-More"/>
+    <id>https://feeds.feedblitz.com/~/971093972/_/kitcesnerdseyeview~Charts-For-Client-Conversations-In-Q-Interest-Rates-The-Fed-AI-And-More</id>
+    <updated>2026-10-07T11:04:34.000Z</updated>
+    <author><name>Kitces — Advisor FinTech</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
+  </entry>
+  <entry>
+    <title>Open models have real benefits. Do they outweigh the risks?</title>
+    <link href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"/>
+    <id>https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks</id>
+    <updated>2026-10-13T10:00:00.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core con</summary>
+  </entry>
+  <entry>
+    <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
+    <link href="https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"/>
+    <id>https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook</id>
+    <updated>2026-10-01T15:03:35.000Z</updated>
+    <author><name>SEC Press</name></author>
+    <category term="REGULATION"/>
+    <summary>The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…</summary>
+  </entry>
+  <entry>
+    <title>The Other AI: Remarks at the Open Commission Meeting on Accredited Investor Notices under Rule 501(a)(10) of Regulation D</title>
+    <link href="https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026"/>
+    <id>https://www.sec.gov/newsroom/speeches-statements/peirce-the-other-ai-remarks-ocm-on-accredited-investor-notices-under-rule-501a10-of-regd-093026</id>
+    <updated>2026-09-30T18:10:25.000Z</updated>
+    <author><name>SEC Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Commissioner Hester M. Peirce</summary>
+  </entry>
+  <entry>
+    <title>Wealthtech Vendors Scramble as Orion Introduces Data Access Fees</title>
+    <link href="https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees"/>
+    <id>https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees</id>
+    <updated>2026-10-08T20:38:46.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The monthly Connected Ecosystem Support Fee has sparked debate over transparency, pricing models and who ultimately bears the cost in an AI-driven advisory landscape.</summary>
+  </entry>
+  <entry>
+    <title>Steven Levin: AI is changing financial advice but not its value</title>
+    <link href="https://www.moneymarketing.co.uk/steven-levin-ai-is-changing-financial-advice-but-not-its-value"/>
+    <id>https://www.moneymarketing.co.uk/steven-levin-ai-is-changing-financial-advice-but-not-its-value</id>
+    <updated>2026-10-13T07:00:37.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>The arrival of generative AI has fundamentally changed our relationship with information. Consumers are increasingly comfortable using AI tools to answer questions that once required an expert. People use it to translate languages, research holidays, troubleshoot household problems, understand health concerns and, incr</summary>
   </entry>
   <entry>
     <title>Market Brief: AI Companies Expected to Drive Most Third-Quarter Earnings Growth</title>
@@ -61,22 +196,58 @@
     <summary>Companies risk wasting their AI investments because boards don’t rate the information underpinning the strategy and directors don’t understand how the technology works or creates value. The post Boards put AI investments at risk due to lack of knowledge and skills, PwC survey finds appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>How AI agents help FIs tackle regulatory change</title>
-    <link href="https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change"/>
-    <id>https://www.finextra.com/event-info/632/how-ai-agents-help-fis-tackle-regulatory-change</id>
-    <updated>2026-10-14T15:00:00.000Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How can FIs effectively integrate agents to create a more connected response to regulatory change?</summary>
+    <title>Treat the Release Note as a Third-Party Risk Event</title>
+    <link href="https://www.corporatecomplianceinsights.com/treat-release-note-as-third-party-risk-event"/>
+    <id>https://www.corporatecomplianceinsights.com/treat-release-note-as-third-party-risk-event</id>
+    <updated>2026-10-12T11:00:27.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Your standard diligence process is unlikely to be triggered by a vendor flipping on a new feature, which is how AI often ends up running amok The post Treat the Release Note as a Third-Party Risk Event appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>Nandan Nilekani: India Will Lead in Scaling AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-india-will-lead-in-scaling-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-13/nandan-nilekani-india-will-lead-in-scaling-ai-video</id>
-    <updated>2026-10-13T06:27:14.000Z</updated>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-10-13T15:51:21.501Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+  </entry>
+  <entry>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-10-13T15:51:21.501Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+  </entry>
+  <entry>
+    <title>Can Infrastructure Keep Pace With AI?</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-13/can-infrastructure-keep-pace-with-ai-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-13/can-infrastructure-keep-pace-with-ai-video</id>
+    <updated>2026-10-13T14:47:37.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Nandan Nilekani, Chairman &amp; Co-Founder, Infosys speaks with Bloomberg's John Fraher at the 2026 Bloomberg New Economy Forum in New Delhi. (Source: Bloomberg)</summary>
+    <summary>Sanjiv Ahuja, Chairman &amp; CEO, Tillman Global Holdings; Abhijit Dubey, President &amp; CEO, NTT DATA, Inc.; Salil Parekh, CEO &amp; Managing Director, Infosys; and Connor Teskey, CEO, Brookfield Asset Management discuss the physical constraints of scaling AI with Bloomberg's Shery Ahn at the 2026 Bloomberg New Economy Forum in </summary>
+  </entry>
+  <entry>
+    <title>Moderna Founder Calls for Urgent Regulation of AI Agents</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents</id>
+    <updated>2026-10-13T13:23:02.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Billionaire biotech mogul Noubar Afeyan has called for urgent regulation of artificial intelligence agents that tech firms are selling, warning that waiting for a disaster risks repeating the past mistakes of the drug industry.</summary>
+  </entry>
+  <entry>
+    <title>Washington State: Pension funds must decide how much AI risk is enough</title>
+    <link href="https://www.top1000funds.com/investor-profile/washington-state-pension-funds-must-decide-how-much-ai-risk-is-enough"/>
+    <id>https://www.top1000funds.com/investor-profile/washington-state-pension-funds-must-decide-how-much-ai-risk-is-enough</id>
+    <updated>2026-10-13T01:35:32.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>As Washington State readies its AI governance framework, CEO Allyson Tucker explains why the ability to run the governance may constrain how transformative AI will actually be. She also argues the case for SAA at a time when long-term decision making is under pressure.</summary>
   </entry>
   <entry>
     <title>An agentic bank? Not so fast</title>
@@ -97,182 +268,11 @@
     <summary>Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks. The post Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents appeared first on Meta Newsroom .</summary>
   </entry>
   <entry>
-    <title>Pre-IPO investing: When should advisors buy into Anthropic or SpaceX?</title>
-    <link href="https://www.investmentnews.com/equities/pre-ipo-investing-like-anthropic/268540"/>
-    <id>https://www.investmentnews.com/equities/pre-ipo-investing-like-anthropic/268540</id>
-    <updated>2026-10-09T14:46:25.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>As companies stay private longer, advisors weigh valuation, liquidity and access when clients ask about late-stage private companies</summary>
-  </entry>
-  <entry>
-    <title>7 Charts For Client Conversations In Q4 2026: Interest Rates, The Fed, AI, And More</title>
-    <link href="https://feeds.feedblitz.com/~/971093972/_/kitcesnerdseyeview~Charts-For-Client-Conversations-In-Q-Interest-Rates-The-Fed-AI-And-More"/>
-    <id>https://feeds.feedblitz.com/~/971093972/_/kitcesnerdseyeview~Charts-For-Client-Conversations-In-Q-Interest-Rates-The-Fed-AI-And-More</id>
-    <updated>2026-10-07T11:04:34.000Z</updated>
-    <author><name>Kitces — Advisor FinTech</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
-  </entry>
-  <entry>
-    <title>Microsoft president says UK is best placed to drive AI regulation</title>
-    <link href="https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"/>
-    <id>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation</id>
-    <updated>2026-10-12T15:31:19.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.</summary>
-  </entry>
-  <entry>
-    <title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
-    <link href="https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"/>
-    <id>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</id>
-    <updated>2026-10-12T18:21:36.000Z</updated>
-    <author><name>Ars Technica AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>“I may have information regarding this case,&quot; Claude AI told Philly police.</summary>
-  </entry>
-  <entry>
-    <title>SEC’s Division of Examinations Announces New Exam Handbook</title>
-    <link href="https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"/>
-    <id>https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook</id>
-    <updated>2026-10-01T15:03:35.000Z</updated>
-    <author><name>SEC Press</name></author>
-    <category term="REGULATION"/>
-    <summary>The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…</summary>
-  </entry>
-  <entry>
-    <title>Wealthtech Vendors Scramble as Orion Introduces Data Access Fees</title>
-    <link href="https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees"/>
-    <id>https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees</id>
-    <updated>2026-10-08T20:38:46.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The monthly Connected Ecosystem Support Fee has sparked debate over transparency, pricing models and who ultimately bears the cost in an AI-driven advisory landscape.</summary>
-  </entry>
-  <entry>
-    <title>US WealthTech funding hit five-quarter high as investors loosened purse strings in Q3</title>
-    <link href="https://fintech.global/2026/10/08/us-wealthtech-funding-hit-five-quarter-high-as-investors-loosened-purse-strings-in-q3"/>
-    <id>https://fintech.global/2026/10/08/us-wealthtech-funding-hit-five-quarter-high-as-investors-loosened-purse-strings-in-q3</id>
-    <updated>2026-10-08T09:04:53.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>US WealthTech funding hit five-quarter high as investors loosened purse strings in Q3 FinTech Global</summary>
-  </entry>
-  <entry>
-    <title>AI could take advisors back 3 decades. That's a good thing</title>
-    <link href="https://www.financial-planning.com/news/ai-could-take-advisors-back-3-decades-thats-a-good-thing"/>
-    <id>https://www.financial-planning.com/news/ai-could-take-advisors-back-3-decades-thats-a-good-thing</id>
-    <updated>2026-10-07T21:13:50.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>As AI speeds up client communication, an advisor's own voice is what keeps relationships personal.</summary>
-  </entry>
-  <entry>
-    <title>Consolidation And G2, AI-Native Operations And A Valuation Gap</title>
-    <link href="https://www.wealthsolutionsreport.com/consolidation-and-g2-ai-native-operations-and-a-valuation-gap"/>
-    <id>https://www.wealthsolutionsreport.com/consolidation-and-g2-ai-native-operations-and-a-valuation-gap</id>
-    <updated>2026-10-07T13:09:42.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Plus Our Deals &amp; Recruiting And WSRIA Roundups, Surviving The Deal, Our Latest Podcasts, A Human Focus For Advisors, Family Office Research, Diversification, Direct Indexing For Digital Assets, Trilogy’s Launch And More</summary>
-  </entry>
-  <entry>
-    <title>Treat the Release Note as a Third-Party Risk Event</title>
-    <link href="https://www.corporatecomplianceinsights.com/treat-release-note-as-third-party-risk-event"/>
-    <id>https://www.corporatecomplianceinsights.com/treat-release-note-as-third-party-risk-event</id>
-    <updated>2026-10-12T11:00:27.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Your standard diligence process is unlikely to be triggered by a vendor flipping on a new feature, which is how AI often ends up running amok The post Treat the Release Note as a Third-Party Risk Event appeared first on Corporate Compliance Insights .</summary>
-  </entry>
-  <entry>
-    <title>The Future of Legal AI – Lessons from Gutenberg’s Printing Press</title>
-    <link href="https://www.debevoisedatablog.com/2026/10/12/the-future-of-legal-ai-lessons-from-gutenbergs-printing-press"/>
-    <id>https://www.debevoisedatablog.com/2026/10/12/the-future-of-legal-ai-lessons-from-gutenbergs-printing-press</id>
-    <updated>2026-10-12T16:16:20.000Z</updated>
-    <author><name>Debevoise Data Blog</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>The Gutenberg Bible was a significant achievement of mass production; notably, however, the copies were not identical. Although most of the text was printed mechanically, purchasers would still commission artisans to customize each volume with elaborate illustrations, decorative lettering, and custom bindings. In the M</summary>
-  </entry>
-  <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-13T07:36:32.240Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
-  </entry>
-  <entry>
-    <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
-    <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
-    <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-13T07:36:32.240Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Post-incident fraud management needs to adapt. But how?</summary>
-  </entry>
-  <entry>
-    <title>Who’s really hiring you — HR or cyber security?</title>
-    <link href="https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1</id>
-    <updated>2026-10-13T04:00:19.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter</summary>
-  </entry>
-  <entry>
-    <title>CFOs Add AI Fact-Checking to Duty List</title>
-    <link href="https://www.thedailyupside.com/cfo/fpa/cfo-add-ai-fact-checking-to-duty-list-new-datarails-report"/>
-    <id>https://www.thedailyupside.com/cfo/fpa/cfo-add-ai-fact-checking-to-duty-list-new-datarails-report</id>
-    <updated>2026-10-13T04:02:00.000Z</updated>
-    <author><name>The Daily Upside</name></author>
-    <category term="AI MARKETS"/>
-    <summary>A new Datarails report suggests many finance leaders are spending substantial time checking AI outputs as pressure to expand adoption grows. The post CFOs Add AI Fact-Checking to Duty List appeared first on The Daily Upside .</summary>
-  </entry>
-  <entry>
-    <title>How Quoniam boosted its sentiment strategy by adding an LLM</title>
-    <link href="https://www.risk.net/markets/7964244/how-quoniam-boosted-its-sentiment-strategy-by-adding-an-llm"/>
-    <id>https://www.risk.net/markets/7964244/how-quoniam-boosted-its-sentiment-strategy-by-adding-an-llm</id>
-    <updated>2026-10-13T03:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Upgraded system creates scores from more-informative forward-looking parts of news</summary>
-  </entry>
-  <entry>
-    <title>AI bond deluge tests credit market’s appetite</title>
-    <link href="https://www.risk.net/markets/7964257/ai-bond-deluge-tests-credit-market%E2%80%99s-appetite"/>
-    <id>https://www.risk.net/markets/7964257/ai-bond-deluge-tests-credit-market%E2%80%99s-appetite</id>
-    <updated>2026-10-09T12:40:32.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Credit strategists say multi-year, poorly telegraphed AI issuance strains investor portfolios</summary>
-  </entry>
-  <entry>
     <title>Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖</title>
     <link href="https://tldr.tech/ai/2026-10-12"/>
     <id>https://tldr.tech/ai/2026-10-12</id>
     <updated>2026-10-12T00:00:00.000Z</updated>
     <author><name>TLDR AI</name></author>
     <category term="LABS &amp; MODELS"/>
-  </entry>
-  <entry>
-    <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-    <link href="https://openai.com/index/sophos"/>
-    <id>https://openai.com/index/sophos</id>
-    <updated>2026-10-09T07:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</summary>
-  </entry>
-  <entry>
-    <title>Artificial Intelligence at AMD</title>
-    <link href="https://emerj.com/artificial-intelligence-at-amd"/>
-    <id>https://emerj.com/artificial-intelligence-at-amd</id>
-    <updated>2026-10-12T10:00:00.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
-    <category term="RESEARCH"/>
-    <summary>Advanced Micro Devices (AMD) designs processors and other semiconductor products used in data centers, personal computers, gaming systems and embedded devices. Its products also support the computing demands of AI applications. Its 2025 annual filing reported $34.6 billion in revenue, including $16.6 billion from its D</summary>
   </entry>
 </feed>
