@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-14T06:05:03.914Z</updated>
+  <updated>2026-10-14T11:43:51.260Z</updated>
   <entry>
     <title>Wealthtech Roundup: Anthropic, Envestnet, Orion, Bento And More</title>
     <link href="https://www.wealthsolutionsreport.com/wealthtech-roundup-anthropic-envestnet-orion-bento-and-more"/>
@@ -14,6 +14,15 @@
     <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
     <summary>News Featuring Anthropic, Envestnet, Orion, Jump, Ritholtz, Hadrius, Feathery, Robinhood, Betterment, Bento Engine, Cerulli, Vanilla And Amplify</summary>
+  </entry>
+  <entry>
+    <title>India's proxy AI trade shines in a bleak year for stocks</title>
+    <link href="https://www.reuters.com/world/india/indias-proxy-ai-trade-shines-bleak-year-stocks-2026-10-14"/>
+    <id>https://www.reuters.com/world/india/indias-proxy-ai-trade-shines-bleak-year-stocks-2026-10-14</id>
+    <updated>2026-10-14T06:56:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>India's proxy AI trade shines in a bleak year for stocks Reuters</summary>
   </entry>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -25,15 +34,6 @@
     <summary>Also covered by: Google AI Blog</summary>
   </entry>
   <entry>
-    <title>RIA, M&amp;A and AI: Acronyms with Something in Common</title>
-    <link href="https://www.thedailyupside.com/advisor/practice-management/ria-ma-and-ai-acronyms-with-something-in-common"/>
-    <id>https://www.thedailyupside.com/advisor/practice-management/ria-ma-and-ai-acronyms-with-something-in-common</id>
-    <updated>2026-10-13T04:02:00.000Z</updated>
-    <author><name>The Daily Upside</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>When it comes to dealmaking, AI implementation and other factors could eventually replace assets under management as a primary arbiter of value. The post RIA, M&amp;A and AI: Acronyms with Something in Common appeared first on The Daily Upside .</summary>
-  </entry>
-  <entry>
     <title>Altruist Launches AI-Powered Donor-Advised Funds to Simplify Charitable Giving for Advisors</title>
     <link href="https://ffnews.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-pl-ebf8c483"/>
     <id>https://ffnews.com/news/altruist-adds-donor-advised-funds-so-advisors-can-manage-charitable-giving-in-pl-ebf8c483</id>
@@ -43,22 +43,13 @@
     <summary>Altruist Launches AI-Powered Donor-Advised Funds to Simplify Charitable Giving for Advisors FF News — Also covered by: Altruist (vendor)</summary>
   </entry>
   <entry>
-    <title>Wealth Enhancement strategist warns AI risk hides in 'diversified' alts portfolios</title>
-    <link href="https://www.investmentnews.com/alternatives/wealth-enhancement-strategist-warns-ai-risk-hides-in-diversified-alts-portfolios/268578"/>
-    <id>https://www.investmentnews.com/alternatives/wealth-enhancement-strategist-warns-ai-risk-hides-in-diversified-alts-portfolios/268578</id>
-    <updated>2026-10-13T19:24:29.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>Connecticut Wealth Management Hires Subatomic to Build AI Operating System</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/connecticut-wealth-management-hires-subatomic-to-build-ai-operating-system"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/connecticut-wealth-management-hires-subatomic-to-build-ai-operating-system</id>
+    <updated>2026-10-14T10:00:07.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>As AI spreads across public and private markets, Ayako Yoshioka of the $160 billion mega-RIA Wealth Enhancement says investors face a &quot;false sense of diversification.&quot;</summary>
-  </entry>
-  <entry>
-    <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
-    <link href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"/>
-    <id>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache</id>
-    <updated>2026-10-13T17:18:25.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</summary>
+    <summary>The AI Operating System will sit across the firm's custodian, portfolio management system, CRM, planning and tax software, meeting notes, phone system, email and documents.</summary>
   </entry>
   <entry>
     <title>FINRA Outlines Q4 Regulatory Priorities</title>
@@ -68,15 +59,6 @@
     <author><name>PlanAdviser AI</name></author>
     <category term="REGULATION"/>
     <summary>The regulator’s latest policy agenda highlights upcoming guidance and rulemaking on artificial intelligence and electronic delivery, which could affect financial advisers.</summary>
-  </entry>
-  <entry>
-    <title>14 Investment Must Reads for This Week (Oct. 13, 2026)</title>
-    <link href="https://www.wealthmanagement.com/equities/14-investment-must-reads-for-this-week-oct-13-2026-"/>
-    <id>https://www.wealthmanagement.com/equities/14-investment-must-reads-for-this-week-oct-13-2026-</id>
-    <updated>2026-10-13T16:05:45.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Investment news for financial advisors, including how asset managers are grappling with massive AI token bills, individual investor options trading has reached meme-stock levels, and other must reads.</summary>
   </entry>
   <entry>
     <title>Wells CEO Says Wealth Unit Realizing Its Potential, Downplays AI Threat</title>
@@ -106,13 +88,13 @@
     <summary>How can FIs effectively integrate agents to create a more connected response to regulatory change?</summary>
   </entry>
   <entry>
-    <title>What China's 'Extraordinary' Trade Surplus Means</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-14/what-china-s-extraordinary-trade-surplus-means-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-14/what-china-s-extraordinary-trade-surplus-means-video</id>
-    <updated>2026-10-14T04:44:15.000Z</updated>
+    <title>Aramco Headquarters Attacked, ASML Struggles to Keep Up with Demand</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-14/the-opening-trade-10-14-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-14/the-opening-trade-10-14-2026-video</id>
+    <updated>2026-10-14T10:52:20.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>China posted a trade surplus of $133 billion in September, fueled by a 36% export surge and a near-doubling in AI chip shipments despite sluggish domestic demand. Here's what it means for trading partners. (Source: Bloomberg)</summary>
+    <summary>Iran-backed Houthis launched missile and drone attacks across Saudi Arabia, targeting several cities, as oil giant Saudi Aramco’s headquarters in the east of the kingdom was hit. ASML shares rose after the Dutch company said soaring artificial intelligence spending means it’s searching for ways to produce more chip-mak</summary>
   </entry>
   <entry>
     <title>21shares launches Anthropic pre-IPO ETP in collaboration with Falcon X</title>
@@ -133,22 +115,22 @@
     <summary>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.</summary>
   </entry>
   <entry>
-    <title>Bank survey: Consumers want humans to verify AI financial decisions</title>
-    <link href="https://bankingjournal.aba.com/2026/10/bank-survey-consumers-want-humans-to-verify-ai-financial-decisions"/>
-    <id>https://bankingjournal.aba.com/2026/10/bank-survey-consumers-want-humans-to-verify-ai-financial-decisions</id>
-    <updated>2026-10-13T18:41:25.000Z</updated>
-    <author><name>ABA Banking Journal AI</name></author>
+    <title>To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First</title>
+    <link href="https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=rss_Technology"/>
+    <id>https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=rss_Technology</id>
+    <updated>2026-10-14T10:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="RESEARCH"/>
-    <summary>Forty-nine percent of survey respondents said they used an AI assistant to make a personal financial decision. Among those, however, 83% verified the information with another source or professional. The post Bank survey: Consumers want humans to verify AI financial decisions appeared first on ABA Banking Journal .</summary>
+    <summary>The elite consulting firm is rolling out a new avatar that plays the part of a client in some consulting interviews.</summary>
   </entry>
   <entry>
-    <title>Jobs report hides an investment signal advisors shouldn't ignore</title>
-    <link href="https://www.investmentnews.com/equities/jobs-number-and-advisors/268476"/>
-    <id>https://www.investmentnews.com/equities/jobs-number-and-advisors/268476</id>
-    <updated>2026-10-13T11:03:35.000Z</updated>
+    <title>Wealth Enhancement strategist warns AI risk hides in 'diversified' alts portfolios</title>
+    <link href="https://www.investmentnews.com/alternatives/wealth-enhancement-strategist-warns-ai-risk-hides-in-diversified-alts-portfolios/268578"/>
+    <id>https://www.investmentnews.com/alternatives/wealth-enhancement-strategist-warns-ai-risk-hides-in-diversified-alts-portfolios/268578</id>
+    <updated>2026-10-13T19:24:29.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Strategists at Global X, Empower and Guardian say hiring trends, capex and earnings together show where AI infrastructure momentum is real</summary>
+    <summary>As AI spreads across public and private markets, Ayako Yoshioka of the $160 billion mega-RIA Wealth Enhancement says investors face a &quot;false sense of diversification.&quot;</summary>
   </entry>
   <entry>
     <title>7 Charts For Client Conversations In Q4 2026: Interest Rates, The Fed, AI, And More</title>
@@ -160,22 +142,22 @@
     <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
-    <title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</title>
-    <link href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"/>
-    <id>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case</id>
-    <updated>2026-10-13T20:36:44.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say</title>
+    <link href="https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"/>
+    <id>https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say</id>
+    <updated>2026-10-14T11:00:30.000Z</updated>
+    <author><name>Ars Technica AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.</summary>
+    <summary>Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.</summary>
   </entry>
   <entry>
-    <title>Shopify opens its catalog up to more AI agents</title>
-    <link href="https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"/>
-    <id>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</id>
-    <updated>2026-10-13T19:42:42.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
+    <link href="https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"/>
+    <id>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache</id>
+    <updated>2026-10-13T17:18:25.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify'</summary>
+    <summary>The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.</summary>
   </entry>
   <entry>
     <title>FSB Chair sets out FSB work on AI and stablecoins</title>
@@ -187,13 +169,22 @@
     <summary>Andrew Bailey delivers note on vulnerabilities and monitoring of global stablecoins and finalised sound practices on AI adoption.</summary>
   </entry>
   <entry>
-    <title>Consolidation And G2, AI-Native Operations And A Valuation Gap</title>
-    <link href="https://www.wealthsolutionsreport.com/consolidation-and-g2-ai-native-operations-and-a-valuation-gap"/>
-    <id>https://www.wealthsolutionsreport.com/consolidation-and-g2-ai-native-operations-and-a-valuation-gap</id>
-    <updated>2026-10-07T13:09:42.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
+    <title>14 Investment Must Reads for This Week (Oct. 13, 2026)</title>
+    <link href="https://www.wealthmanagement.com/equities/14-investment-must-reads-for-this-week-oct-13-2026-"/>
+    <id>https://www.wealthmanagement.com/equities/14-investment-must-reads-for-this-week-oct-13-2026-</id>
+    <updated>2026-10-13T16:05:45.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Investment news for financial advisors, including how asset managers are grappling with massive AI token bills, individual investor options trading has reached meme-stock levels, and other must reads.</summary>
+  </entry>
+  <entry>
+    <title>Advisers urged to steer clear of 'hyperscale' AI models</title>
+    <link href="https://www.professionaladviser.com/news/4537238/advisers-urged-steer-hyperscale-ai-models"/>
+    <id>https://www.professionaladviser.com/news/4537238/advisers-urged-steer-hyperscale-ai-models</id>
+    <updated>2026-10-14T07:13:06.000Z</updated>
+    <author><name>Professional Adviser</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Plus Our Deals &amp; Recruiting And WSRIA Roundups, Surviving The Deal, Our Latest Podcasts, A Human Focus For Advisors, Family Office Research, Diversification, Direct Indexing For Digital Assets, Trilogy’s Launch And More</summary>
+    <summary>Aveni chief product officer Ben Cave has warned advisers against using hyperscale artificial intelligence (AI) models during a panel discussion at The Financial Advice Summit 2026.</summary>
   </entry>
   <entry>
     <title>Boards put AI investments at risk due to lack of knowledge and skills, PwC survey finds</title>
@@ -208,7 +199,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-14T06:04:53.603Z</updated>
+    <updated>2026-10-14T11:43:35.961Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -217,28 +208,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-14T06:04:53.603Z</updated>
+    <updated>2026-10-14T11:43:35.961Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>The battle over the AI-led future of banking has begun</title>
-    <link href="https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459"/>
-    <id>https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459</id>
-    <updated>2026-10-14T04:00:12.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight</id>
+    <updated>2026-10-14T10:30:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology</summary>
+    <summary>Apple Inc. and OpenAI are heading to court for the first high-stakes hearing in the iPhone maker’s lawsuit accusing the artificial intelligence company of scheming to steal proprietary information about upcoming products.</summary>
   </entry>
   <entry>
-    <title>US arrests Saudi employee of OpenAI for allegedly bugging its offices</title>
-    <link href="https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1</id>
-    <updated>2026-10-14T01:59:24.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Tycoons Amplify Calls for Stronger AI Rules as Risks Mount</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount</id>
+    <updated>2026-10-14T10:22:34.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>AI lab discovered a recording device concealed behind a television in a conference room</summary>
+    <summary>Billionaires including telecoms mogul Sunil Bharti Mittal and biotech tycoon Noubar Afeyan have joined prominent corporate leaders in calling for tighter control of artificial intelligence, reflecting mounting concerns over the threat of renegade AI.</summary>
   </entry>
   <entry>
     <title>Washington State: Pension funds must decide how much AI risk is enough</title>
@@ -266,12 +257,21 @@
     <category term="LABS &amp; MODELS"/>
   </entry>
   <entry>
-    <title>The New Rules of Brand Visibility in AI Search</title>
-    <link href="https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search"/>
-    <id>https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search</id>
-    <updated>2026-10-13T11:00:34.000Z</updated>
-    <author><name>MIT Sloan Management Review</name></author>
+    <title>Voices on Planning: The AI-powered future of supply chain</title>
+    <link href="https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain"/>
+    <id>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</id>
+    <updated>2026-10-14T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how organizations are adapting SEO practices for AI-mediated discovery. </summary>
+    <summary>The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right governance, expertise, and operating model.</summary>
+  </entry>
+  <entry>
+    <title>Bank survey: Consumers want humans to verify AI financial decisions</title>
+    <link href="https://bankingjournal.aba.com/2026/10/bank-survey-consumers-want-humans-to-verify-ai-financial-decisions"/>
+    <id>https://bankingjournal.aba.com/2026/10/bank-survey-consumers-want-humans-to-verify-ai-financial-decisions</id>
+    <updated>2026-10-13T18:41:25.000Z</updated>
+    <author><name>ABA Banking Journal AI</name></author>
+    <category term="RESEARCH"/>
+    <summary>Forty-nine percent of survey respondents said they used an AI assistant to make a personal financial decision. Among those, however, 83% verified the information with another source or professional. The post Bank survey: Consumers want humans to verify AI financial decisions appeared first on ABA Banking Journal .</summary>
   </entry>
 </feed>
