@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-14T20:35:18.635Z</updated>
+  <updated>2026-10-14T23:51:07.968Z</updated>
+  <entry>
+    <title>JPMorgan Chase blocks outside AI agents from directly accessing customer accounts</title>
+    <link href="https://www.finextra.com/newsarticle/48585/jpmorgan-chase-blocks-outside-ai-agents-from-directly-accessing-customer-accounts"/>
+    <id>https://www.finextra.com/newsarticle/48585/jpmorgan-chase-blocks-outside-ai-agents-from-directly-accessing-customer-accounts</id>
+    <updated>2026-10-15T00:01:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Weeks after the launch of Meta's Muse AI assistant, Jamie Dimon says JPMorgan Chase is not going to allow outside agents to directly access accounts on behalf of retail customers. — Also covered by: CNBC Tech</summary>
+  </entry>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"/>
@@ -25,31 +34,31 @@
     <summary>Altruist Launches AI-Powered Donor-Advised Funds to Simplify Charitable Giving for Advisors FF News — Also covered by: Altruist (vendor)</summary>
   </entry>
   <entry>
-    <title>BlackRock books Q3 earnings beat as AI rally offsets rate hike jitters</title>
-    <link href="https://www.investmentnews.com/alternatives/blackrock-books-q3-earnings-beat-as-ai-rally-offsets-rate-hike-jitters/268598"/>
-    <id>https://www.investmentnews.com/alternatives/blackrock-books-q3-earnings-beat-as-ai-rally-offsets-rate-hike-jitters/268598</id>
-    <updated>2026-10-14T13:14:20.000Z</updated>
+    <title>AI surveillance tool brings prediction markets under compliance watch</title>
+    <link href="https://www.investmentnews.com/transformation/ai-surveillance-tool-brings-prediction-markets-under-compliance-watch/268606"/>
+    <id>https://www.investmentnews.com/transformation/ai-surveillance-tool-brings-prediction-markets-under-compliance-watch/268606</id>
+    <updated>2026-10-14T20:58:52.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Asset manager draws $205 billion in net inflows as private credit redemption pressure eases at its HPS Corporate Lending Fund</summary>
+    <summary>MyComplianceOffice's AI-assisted surveillance links employee chats on Slack and Telegram with prediction market trades as Wall Street tightens rules</summary>
   </entry>
   <entry>
-    <title>The AI race is back on</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</id>
-    <updated>2026-10-14T19:06:03.000Z</updated>
+    <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</id>
+    <updated>2026-10-14T21:11:28.000Z</updated>
     <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious </summary>
+    <summary>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unl</summary>
   </entry>
   <entry>
-    <title>AI Becomes Part of the Machinery of UK Financial Supervision</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ai-becomes-part-united-kingdom-financial-supervision"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ai-becomes-part-united-kingdom-financial-supervision</id>
-    <updated>2026-10-14T15:59:13.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
+    <link href="https://www.finra.org/rules-guidance/notices/26-18"/>
+    <id>https://www.finra.org/rules-guidance/notices/26-18</id>
+    <updated>2026-10-14T00:00:00.000Z</updated>
+    <author><name>FINRA Notices</name></author>
     <category term="REGULATION"/>
-    <summary>Artificial intelligence is becoming part of the machinery of financial supervision in the United Kingdom as the Financial Conduct Authority deploys tools to review firms’ documents, accelerate routine casework and help investigators identify financial crime threats across disparate datasets. The shift could expand the </summary>
+    <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
   </entry>
   <entry>
     <title>Manulife launches new Advisor AI Assistant, expanding AI-enabled underwriting support for advisors</title>
@@ -79,22 +88,13 @@
     <summary>Artificial intelligence is increasingly changing single‑plaintiff consumer litigation, particularly by enabling pro se plaintiffs to file longer, more citation‑dense complaints more quickly, while simultaneously giving defense counsel tools to assess cases, identify weaknesses, and pursue early resolution or dismissal </summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-14T20:35:05.206Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
-  </entry>
-  <entry>
-    <title>OpenAI claims employee sent secret device information to Apple</title>
-    <link href="https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1</id>
-    <updated>2026-10-14T20:07:06.000Z</updated>
+    <title>Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO</title>
+    <link href="https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1</id>
+    <updated>2026-10-14T22:47:45.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive</summary>
+    <summary>AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing</summary>
   </entry>
   <entry>
     <title>FINRA Outlines Q4 Regulatory Priorities</title>
@@ -115,13 +115,13 @@
     <summary>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.</summary>
   </entry>
   <entry>
-    <title>To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First</title>
-    <link href="https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=rss_Technology"/>
-    <id>https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=rss_Technology</id>
-    <updated>2026-10-14T10:00:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>Voices on Planning: The AI-powered future of supply chain</title>
+    <link href="https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain"/>
+    <id>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</id>
+    <updated>2026-10-14T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>The elite consulting firm is rolling out a new avatar that plays the part of a client in some consulting interviews.</summary>
+    <summary>The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right governance, expertise, and operating model.</summary>
   </entry>
   <entry>
     <title>6 Questions Firm Leaders Should Ask About AI Maturity</title>
@@ -132,13 +132,22 @@
     <category term="VENDOR WATCH"/>
   </entry>
   <entry>
-    <title>Choreo taps ex-LPL tech leader as chief technology officer</title>
-    <link href="https://www.investmentnews.com/ria-news/choreo-taps-ex-lpl-tech-leader-as-chief-technology-officer/268601"/>
-    <id>https://www.investmentnews.com/ria-news/choreo-taps-ex-lpl-tech-leader-as-chief-technology-officer/268601</id>
-    <updated>2026-10-14T15:00:07.000Z</updated>
+    <title>BlackRock books Q3 earnings beat as AI rally offsets rate hike jitters</title>
+    <link href="https://www.investmentnews.com/alternatives/blackrock-books-q3-earnings-beat-as-ai-rally-offsets-rate-hike-jitters/268598"/>
+    <id>https://www.investmentnews.com/alternatives/blackrock-books-q3-earnings-beat-as-ai-rally-offsets-rate-hike-jitters/268598</id>
+    <updated>2026-10-14T13:14:20.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Gabriel Rodriguez, whose professional record also includes time at Vanguard and Bain Capital, will lead AI and platform integration at the Parthenon-backed RIA</summary>
+    <summary>Asset manager draws $205 billion in net inflows as private credit redemption pressure eases at its HPS Corporate Lending Fund</summary>
+  </entry>
+  <entry>
+    <title>The AI race is back on</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</id>
+    <updated>2026-10-14T19:06:03.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious </summary>
   </entry>
   <entry>
     <title>Square’s new kiosk lets you talk to AI for help with your order</title>
@@ -150,28 +159,19 @@
     <summary>Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &quot;agentic, conversational voice layer&quot; that &quot;fully understands a seller's menu and listens and responds in real […</summary>
   </entry>
   <entry>
-    <title>Russia cracks down on AI bears as real attacks spread fear</title>
-    <link href="https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14"/>
-    <id>https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14</id>
-    <updated>2026-10-14T15:04:40.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Russia cracks down on AI bears as real attacks spread fear Reuters</summary>
-  </entry>
-  <entry>
-    <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
-    <link href="https://www.finra.org/rules-guidance/notices/26-18"/>
-    <id>https://www.finra.org/rules-guidance/notices/26-18</id>
-    <updated>2026-10-14T00:00:00.000Z</updated>
-    <author><name>FINRA Notices</name></author>
+    <title>AI Becomes Part of the Machinery of UK Financial Supervision</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ai-becomes-part-united-kingdom-financial-supervision"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ai-becomes-part-united-kingdom-financial-supervision</id>
+    <updated>2026-10-14T15:59:13.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
     <category term="REGULATION"/>
-    <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
+    <summary>Artificial intelligence is becoming part of the machinery of financial supervision in the United Kingdom as the Financial Conduct Authority deploys tools to review firms’ documents, accelerate routine casework and help investigators identify financial crime threats across disparate datasets. The shift could expand the </summary>
   </entry>
   <entry>
     <title>Modernize or Fossilize: Why AI Can’t Save Legacy Wealth Tech</title>
     <link href="https://www.connectmoney.com/stories/modernize-or-fossilize-why-ai-cant-save-legacy-wealth-tech"/>
     <id>https://www.connectmoney.com/stories/modernize-or-fossilize-why-ai-cant-save-legacy-wealth-tech</id>
-    <updated>2026-10-14T15:15:57.000Z</updated>
+    <updated>2026-10-14T17:29:55.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>Modernize or Fossilize: Why AI Can’t Save Legacy Wealth Tech https://www.connectmoney.com/</summary>
@@ -222,40 +222,40 @@
     <summary>Fall is shaping up to be a busy season for regulators. The OCC, FDIC, Fed, and NCUA joined forces, proposing new TPRM guidance. State examiners are laying down AI inventory expectations, and the IRS wants VIN and original-use data behind every vehicle loan interest return. Charter-specific news is in the mix too: feder</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-14T20:35:05.206Z</updated>
+    <title>NatWest enlists Nvidia to help its AI spending tool understand regional accents</title>
+    <link href="https://www.finextra.com/newsarticle/48586/natwest-enlists-nvidia-to-help-its-ai-spending-tool-understand-regional-accents"/>
+    <id>https://www.finextra.com/newsarticle/48586/natwest-enlists-nvidia-to-help-its-ai-spending-tool-understand-regional-accents</id>
+    <updated>2026-10-15T00:01:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+    <summary>NatWest has harnessed AI speech recognition technology from Nvidia to help its new audio-visual spending insights tool understand customers' accents and pronunciations.</summary>
   </entry>
   <entry>
-    <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
-    <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
-    <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-14T20:35:05.206Z</updated>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-10-14T23:50:54.740Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Post-incident fraud management needs to adapt. But how?</summary>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper</title>
-    <link href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1</id>
-    <updated>2026-10-14T14:40:47.000Z</updated>
+    <title>OpenAI claims employee sent secret device information to Apple</title>
+    <link href="https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1</id>
+    <updated>2026-10-14T21:08:58.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected</summary>
+    <summary>Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive</summary>
   </entry>
   <entry>
-    <title>Apple Prepares to Debut First AI Features in China in December</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december</id>
-    <updated>2026-10-14T19:50:37.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>S&amp;P 500 Ends Longest Streak of Calm Since 2020 as AI Trade Sinks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/s-p-500-ends-longest-streak-of-calm-since-2020-as-ai-trade-sinks</id>
+    <updated>2026-10-14T20:36:21.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.</summary>
+    <summary>The US stock market’s longest streak of tranquility since before the Covid-19 pandemic is over.</summary>
   </entry>
   <entry>
     <title>Washington State: Pension funds must decide how much AI risk is enough</title>
