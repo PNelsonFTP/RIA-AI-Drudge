@@ -5,24 +5,15 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-14T17:01:47.898Z</updated>
-  <entry>
-    <title>India's proxy AI trade shines in a bleak year for stocks</title>
-    <link href="https://www.reuters.com/world/india/indias-proxy-ai-trade-shines-bleak-year-stocks-2026-10-14"/>
-    <id>https://www.reuters.com/world/india/indias-proxy-ai-trade-shines-bleak-year-stocks-2026-10-14</id>
-    <updated>2026-10-14T06:56:00.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>India's proxy AI trade shines in a bleak year for stocks Reuters</summary>
-  </entry>
+  <updated>2026-10-14T20:35:18.635Z</updated>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-    <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
-    <id>https://deepmind.google/blog/introducing-gemini-4-argon</id>
-    <updated>2026-10-13T16:01:52.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"/>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</id>
+    <updated>2026-10-13T16:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Also covered by: Google AI Blog</summary>
+    <summary>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Also covered by: Google DeepMind Blog</summary>
   </entry>
   <entry>
     <title>Altruist Launches AI-Powered Donor-Advised Funds to Simplify Charitable Giving for Advisors</title>
@@ -43,13 +34,13 @@
     <summary>Asset manager draws $205 billion in net inflows as private credit redemption pressure eases at its HPS Corporate Lending Fund</summary>
   </entry>
   <entry>
-    <title>Russia cracks down on AI bears as real attacks spread fear</title>
-    <link href="https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14"/>
-    <id>https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14</id>
-    <updated>2026-10-14T15:04:40.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>The AI race is back on</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</id>
+    <updated>2026-10-14T19:06:03.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Russia cracks down on AI bears as real attacks spread fear Reuters</summary>
+    <summary>Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious </summary>
   </entry>
   <entry>
     <title>AI Becomes Part of the Machinery of UK Financial Supervision</title>
@@ -62,48 +53,48 @@
   </entry>
   <entry>
     <title>Manulife launches new Advisor AI Assistant, expanding AI-enabled underwriting support for advisors</title>
-    <link href="https://ca.finance.yahoo.com/news/manulife-launches-advisor-ai-assistant-120000144.html"/>
-    <id>https://ca.finance.yahoo.com/news/manulife-launches-advisor-ai-assistant-120000144.html</id>
+    <link href="https://finance.yahoo.com/technology/ai/articles/manulife-launches-advisor-ai-assistant-120000922.html"/>
+    <id>https://finance.yahoo.com/technology/ai/articles/manulife-launches-advisor-ai-assistant-120000922.html</id>
     <updated>2026-10-14T12:00:00.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Manulife launches new Advisor AI Assistant, expanding AI-enabled underwriting support for advisors Yahoo! Finance Canada</summary>
+    <summary>Manulife launches new Advisor AI Assistant, expanding AI-enabled underwriting support for advisors Yahoo Finance</summary>
   </entry>
   <entry>
-    <title>Why senior advisors abandon AI tools — and how to fix it</title>
-    <link href="https://www.financial-planning.com/opinion/why-senior-advisors-abandon-ai-tools-and-how-to-fix-it"/>
-    <id>https://www.financial-planning.com/opinion/why-senior-advisors-abandon-ai-tools-and-how-to-fix-it</id>
-    <updated>2026-10-14T12:00:00.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Alternatives and AI in focus for advisors at wirehouses in Q3</title>
+    <link href="https://www.investmentnews.com/alternatives/alternatives-and-ai-in-focus-for-advisors-at-wirehouses-in-q3/268602"/>
+    <id>https://www.investmentnews.com/alternatives/alternatives-and-ai-in-focus-for-advisors-at-wirehouses-in-q3/268602</id>
+    <updated>2026-10-14T18:55:26.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Don't blame sputtering AI rollouts on tech; the real culprit is the &quot;caveman&quot; part of the human brain, says an executive coach.</summary>
+    <summary>“The next wave of alternative investments being offering by wirehouses is centered around private equity and infrastructure,” said a senior executive.</summary>
   </entry>
   <entry>
-    <title>New Complaints Highlight AI Platforms and Data Center Infrastructure D&amp;O Risk</title>
-    <link href="https://www.dandodiary.com/2026/10/articles/uncategorized/new-complaints-highlight-ai-platforms-and-data-center-infrastructure-do-risk"/>
-    <id>https://www.dandodiary.com/2026/10/articles/uncategorized/new-complaints-highlight-ai-platforms-and-data-center-infrastructure-do-risk</id>
-    <updated>2026-10-14T12:17:07.000Z</updated>
-    <author><name>The D&amp;O Diary</name></author>
+    <title>Podcast Release: Consumer Financial Services Litigation Series – Episode 1: Pro Se Plaintiffs</title>
+    <link href="https://www.consumerfinancemonitor.com/2026/10/14/podcast-release-consumer-financial-services-litigation-series-episode-1-pro-se-plaintiffs"/>
+    <id>https://www.consumerfinancemonitor.com/2026/10/14/podcast-release-consumer-financial-services-litigation-series-episode-1-pro-se-plaintiffs</id>
+    <updated>2026-10-14T19:42:19.000Z</updated>
+    <author><name>Ballard Consumer Finance Monitor</name></author>
     <category term="COMPLIANCE"/>
-    <summary>On September 28, 2026, a securities class action lawsuit was filed against Qfin Holdings, Inc. (Qfin), a China-based company that describes itself as operating an AI-driven credit technology platform used for credit assessment, borrower acquisition, and related financial services. The plaintiffs allege that the company</summary>
+    <summary>Artificial intelligence is increasingly changing single‑plaintiff consumer litigation, particularly by enabling pro se plaintiffs to file longer, more citation‑dense complaints more quickly, while simultaneously giving defense counsel tools to assess cases, identify weaknesses, and pursue early resolution or dismissal </summary>
   </entry>
   <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-14T17:01:34.543Z</updated>
+    <updated>2026-10-14T20:35:05.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper</title>
-    <link href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1</id>
-    <updated>2026-10-14T14:40:47.000Z</updated>
+    <title>OpenAI claims employee sent secret device information to Apple</title>
+    <link href="https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1</id>
+    <updated>2026-10-14T20:07:06.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected</summary>
+    <summary>Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive</summary>
   </entry>
   <entry>
     <title>FINRA Outlines Q4 Regulatory Priorities</title>
@@ -150,22 +141,22 @@
     <summary>Gabriel Rodriguez, whose professional record also includes time at Vanguard and Bain Capital, will lead AI and platform integration at the Parthenon-backed RIA</summary>
   </entry>
   <entry>
-    <title>Connecticut Wealth Management Hires Subatomic to Build AI Operating System</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/connecticut-wealth-management-hires-subatomic-to-build-ai-operating-system"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/connecticut-wealth-management-hires-subatomic-to-build-ai-operating-system</id>
-    <updated>2026-10-14T10:00:07.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>The AI Operating System will sit across the firm's custodian, portfolio management system, CRM, planning and tax software, meeting notes, phone system, email and documents.</summary>
+    <title>Square’s new kiosk lets you talk to AI for help with your order</title>
+    <link href="https://www.theverge.com/tech/1009086/square-kiosk"/>
+    <id>https://www.theverge.com/tech/1009086/square-kiosk</id>
+    <updated>2026-10-14T16:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an &quot;agentic, conversational voice layer&quot; that &quot;fully understands a seller's menu and listens and responds in real […</summary>
   </entry>
   <entry>
-    <title>Ukrainian drones hit Russia's top data centre in attack on AI ambitions</title>
-    <link href="https://www.reuters.com/business/finance/ukrainian-drones-hit-russias-biggest-data-centre-2026-10-14"/>
-    <id>https://www.reuters.com/business/finance/ukrainian-drones-hit-russias-biggest-data-centre-2026-10-14</id>
-    <updated>2026-10-14T14:03:24.000Z</updated>
+    <title>Russia cracks down on AI bears as real attacks spread fear</title>
+    <link href="https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14"/>
+    <id>https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14</id>
+    <updated>2026-10-14T15:04:40.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Ukrainian drones hit Russia's top data centre in attack on AI ambitions Reuters</summary>
+    <summary>Russia cracks down on AI bears as real attacks spread fear Reuters</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -183,7 +174,7 @@
     <updated>2026-10-14T15:15:57.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Modernize or Fossilize: Why AI Can’t Save Legacy Wealth Tech www.connectmoney.com</summary>
+    <summary>Modernize or Fossilize: Why AI Can’t Save Legacy Wealth Tech https://www.connectmoney.com/</summary>
   </entry>
   <entry>
     <title>Convergence, AI Top Broker/Dealers’ Biggest Concerns</title>
@@ -195,6 +186,15 @@
     <summary>What keeps them up at night?</summary>
   </entry>
   <entry>
+    <title>Why senior advisors abandon AI tools — and how to fix it</title>
+    <link href="https://www.financial-planning.com/opinion/why-senior-advisors-abandon-ai-tools-and-how-to-fix-it"/>
+    <id>https://www.financial-planning.com/opinion/why-senior-advisors-abandon-ai-tools-and-how-to-fix-it</id>
+    <updated>2026-10-14T12:00:00.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Don't blame sputtering AI rollouts on tech; the real culprit is the &quot;caveman&quot; part of the human brain, says an executive coach.</summary>
+  </entry>
+  <entry>
     <title>Top Recruiters, Multi-Generational Wealth And RIA Equity Programs</title>
     <link href="https://www.wealthsolutionsreport.com/top-recruiters-multi-generational-wealth-and-ria-equity-programs"/>
     <id>https://www.wealthsolutionsreport.com/top-recruiters-multi-generational-wealth-and-ria-equity-programs</id>
@@ -204,13 +204,13 @@
     <summary>Plus Our Deals &amp; Recruiting And Wealthtech Roundups, Preparing For M&amp;A, Managing Life Alongside Work, Supporting The ‘Middle’ Advisors, Ascentix’s Partnership With PureFacts, LPL’s And Ascentis’ Recruits, AlphaCore’s Acquisition, Wealthspire’s Sports Launch And Diamond’s Research</summary>
   </entry>
   <entry>
-    <title>Could AI turn investors into herds of 'turbo sheep'?</title>
-    <link href="https://www.professionaladviser.com/opinion/4537015/ai-turn-investors-herds-turbo-sheep"/>
-    <id>https://www.professionaladviser.com/opinion/4537015/ai-turn-investors-herds-turbo-sheep</id>
-    <updated>2026-10-14T13:26:15.000Z</updated>
-    <author><name>Professional Adviser</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>More data, faster analysis and greater computing power have transformed investing over the decades. Yet investors remain susceptible to herding, panic and euphoria. Simon Skinner asks: Will AI finally make markets rational or amplify old habits?</summary>
+    <title>New Complaints Highlight AI Platforms and Data Center Infrastructure D&amp;O Risk</title>
+    <link href="https://www.dandodiary.com/2026/10/articles/uncategorized/new-complaints-highlight-ai-platforms-and-data-center-infrastructure-do-risk"/>
+    <id>https://www.dandodiary.com/2026/10/articles/uncategorized/new-complaints-highlight-ai-platforms-and-data-center-infrastructure-do-risk</id>
+    <updated>2026-10-14T12:17:07.000Z</updated>
+    <author><name>The D&amp;O Diary</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>On September 28, 2026, a securities class action lawsuit was filed against Qfin Holdings, Inc. (Qfin), a China-based company that describes itself as operating an AI-driven credit technology platform used for credit assessment, borrower acquisition, and related financial services. The plaintiffs allege that the company</summary>
   </entry>
   <entry>
     <title>October 2026 Regulatory Update: TPRM Proposal, State AI Framework &amp; More</title>
@@ -222,19 +222,10 @@
     <summary>Fall is shaping up to be a busy season for regulators. The OCC, FDIC, Fed, and NCUA joined forces, proposing new TPRM guidance. State examiners are laying down AI inventory expectations, and the IRS wants VIN and original-use data behind every vehicle loan interest return. Charter-specific news is in the mix too: feder</summary>
   </entry>
   <entry>
-    <title>Boards put AI investments at risk due to lack of knowledge and skills, PwC survey finds</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/boards-put-ai-investments-at-risk-due-to-lack-of-knowledge-and-skills-pwc-survey-finds"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/boards-put-ai-investments-at-risk-due-to-lack-of-knowledge-and-skills-pwc-survey-finds</id>
-    <updated>2026-10-13T04:25:31.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Companies risk wasting their AI investments because boards don’t rate the information underpinning the strategy and directors don’t understand how the technology works or creates value. The post Boards put AI investments at risk due to lack of knowledge and skills, PwC survey finds appeared first on Compliance Week .</summary>
-  </entry>
-  <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-14T17:01:34.543Z</updated>
+    <updated>2026-10-14T20:35:05.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -243,28 +234,28 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-14T17:01:34.543Z</updated>
+    <updated>2026-10-14T20:35:05.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Bank Stocks Brace for Higher Rates</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-14/bank-stocks-brace-for-higher-rates"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-14/bank-stocks-brace-for-higher-rates</id>
-    <updated>2026-10-14T14:23:10.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper</title>
+    <link href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1</id>
+    <updated>2026-10-14T14:40:47.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>RBC Capital Markets Large Cap US Bank Analyst Gerard Cassidy joins Bloomberg Open Interest to explain why Bank of America’s regulatory settlement wasn’t a complete surprise and how rising rates could affect bank margins. He also discusses AI investment, credit risks, and State Street’s selloff as investors reassess exp</summary>
+    <summary>Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected</summary>
   </entry>
   <entry>
-    <title>AI Financing Will Need To Tap Global Markets: August</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-14/ai-financing-will-need-to-tap-global-markets-august"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-14/ai-financing-will-need-to-tap-global-markets-august</id>
-    <updated>2026-10-14T16:16:14.000Z</updated>
+    <title>Apple Prepares to Debut First AI Features in China in December</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december</id>
+    <updated>2026-10-14T19:50:37.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Glenn August, founder &amp; CEO at Oak Hill Advisors, joins Dani Burger on &quot;Bloomberg Deals.&quot; They speak at the CAIS Summit in Beverly Hills, California. (Source: Bloomberg)</summary>
+    <summary>Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.</summary>
   </entry>
   <entry>
     <title>Washington State: Pension funds must decide how much AI risk is enough</title>
@@ -274,5 +265,14 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>As Washington State readies its AI governance framework, CEO Allyson Tucker explains why the ability to run the governance may constrain how transformative AI will actually be. She also argues the case for SAA at a time when long-term decision making is under pressure.</summary>
+  </entry>
+  <entry>
+    <title>An agentic bank? Not so fast</title>
+    <link href="https://www.risk.net/risk-management/7964251/an-agentic-bank-not-so-fast"/>
+    <id>https://www.risk.net/risk-management/7964251/an-agentic-bank-not-so-fast</id>
+    <updated>2026-10-13T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>With no clear definition or way to gauge ROI, claims of AI adoption should be taken with a pinch of salt</summary>
   </entry>
 </feed>
