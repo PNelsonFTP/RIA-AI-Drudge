@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-15T22:08:29.941Z</updated>
+  <updated>2026-10-16T01:09:51.953Z</updated>
   <entry>
     <title>Schwab blocks unauthorized AI agents, points clients to 'Charley'</title>
     <link href="https://www.financial-planning.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley"/>
@@ -14,15 +14,6 @@
     <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Schwab executives are worried outside AI agents like Meta's Muse could compromise client data. But some see an effort to protect the firm's lucrative cash business. — Also covered by: American Banker AI</summary>
-  </entry>
-  <entry>
-    <title>Google’s Universal Cart shopping tool launches in the US</title>
-    <link href="https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us"/>
-    <id>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us</id>
-    <updated>2026-10-15T14:29:33.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The new shopping tool is available in the U.S. across Google Search and the Gemini app. — Also covered by: The Verge AI</summary>
   </entry>
   <entry>
     <title>How Quoniam boosted its sentiment strategy by adding an LLM</title>
@@ -35,12 +26,12 @@
   </entry>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-    <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
-    <id>https://deepmind.google/blog/introducing-gemini-4-argon</id>
-    <updated>2026-10-13T16:01:52.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"/>
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon</id>
+    <updated>2026-10-13T16:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Also covered by: Google AI Blog</summary>
+    <summary>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Also covered by: Google DeepMind Blog</summary>
   </entry>
   <entry>
     <title>Schwab’s RIA business keeps growing even as it reins in long-short strategies</title>
@@ -50,6 +41,15 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>Advisor Services drew $120 billion in new assets as Schwab plugged into Claude and applied safeguards blocking unauthorized AI agents.</summary>
+  </entry>
+  <entry>
+    <title>Google’s Universal Cart shopping tool launches in the US</title>
+    <link href="https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us"/>
+    <id>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us</id>
+    <updated>2026-10-15T14:29:33.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The new shopping tool is available in the U.S. across Google Search and the Gemini app.</summary>
   </entry>
   <entry>
     <title>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses</title>
@@ -70,6 +70,15 @@
     <summary>Manulife launches Advisor AI Assistant as Manulife stock trades at EUR 38.56 ad-hoc-news.de</summary>
   </entry>
   <entry>
+    <title>TD Bank's RIA unit poaches Schwab's 'head of firmwide AI' and makes him its 'head of U.S. Wealth' with an eye on national franchise</title>
+    <link href="https://riabiz.com/a/2026/10/15/td-banks-ria-unit-poaches-schwabs-head-of-firmwide-ai-and-makes-him-its-head-of-us-wealth-with-an-eye-on-national-franchise"/>
+    <id>https://riabiz.com/a/2026/10/15/td-banks-ria-unit-poaches-schwabs-head-of-firmwide-ai-and-makes-him-its-head-of-us-wealth-with-an-eye-on-national-franchise</id>
+    <updated>2026-10-16T00:46:39.000Z</updated>
+    <author><name>RIABiz</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>After hitting $8-billion plus of AUM and $16 bilion of AUA, the Mt. Laurel, N.J., bank wealth unit nabbed Hardeep Walia to replace Alan Chabot who started in May of 2025</summary>
+  </entry>
+  <entry>
     <title>Podcast Release: Consumer Financial Services Litigation Series – Episode 1: Pro Se Plaintiffs</title>
     <link href="https://www.consumerfinancemonitor.com/2026/10/14/podcast-release-consumer-financial-services-litigation-series-episode-1-pro-se-plaintiffs"/>
     <id>https://www.consumerfinancemonitor.com/2026/10/14/podcast-release-consumer-financial-services-litigation-series-episode-1-pro-se-plaintiffs</id>
@@ -82,7 +91,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-15T22:08:19.359Z</updated>
+    <updated>2026-10-16T01:09:41.758Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -142,6 +151,15 @@
     <summary>Docupace also rebuilt its wealth operations platform around a single client record, while Focus Financial picks Nevis to bring AI to its advisors.</summary>
   </entry>
   <entry>
+    <title>Market selloff, rising rates test AI data centre deal boom</title>
+    <link href="https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15"/>
+    <id>https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15</id>
+    <updated>2026-10-15T23:48:17.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Market selloff, rising rates test AI data centre deal boom Reuters</summary>
+  </entry>
+  <entry>
     <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
     <link href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access"/>
     <id>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access</id>
@@ -149,15 +167,6 @@
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</summary>
-  </entry>
-  <entry>
-    <title>Market selloff, rising rates test AI data centre deal boom</title>
-    <link href="https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15"/>
-    <id>https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15</id>
-    <updated>2026-10-15T16:12:49.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Market selloff, rising rates test AI data centre deal boom Reuters</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -187,22 +196,13 @@
     <summary>Having a tool available and a firm being ready are two different things.</summary>
   </entry>
   <entry>
-    <title>Global WealthTech funding surged 3x YoY in Q3 driven by growth in deals over $100m</title>
-    <link href="https://fintech.global/2026/10/15/global-wealthtech-funding-surged-3x-yoy-in-q3-driven-by-growth-in-deals-over-100m"/>
-    <id>https://fintech.global/2026/10/15/global-wealthtech-funding-surged-3x-yoy-in-q3-driven-by-growth-in-deals-over-100m</id>
-    <updated>2026-10-15T05:02:27.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>Harbourfront Wealth Advances Advisor Technology Support with Zocks AI Assistant Platform</title>
+    <link href="https://www.natlawreview.com/press-releases/harbourfront-wealth-advances-advisor-technology-support-zocks-ai-assistant"/>
+    <id>https://www.natlawreview.com/press-releases/harbourfront-wealth-advances-advisor-technology-support-zocks-ai-assistant</id>
+    <updated>2026-10-15T22:18:50.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Global WealthTech funding surged 3x YoY in Q3 driven by growth in deals over $100m FinTech Global</summary>
-  </entry>
-  <entry>
-    <title>JPMorgan, Schwab Block Unauthorized AI Agents. Why That Matters to Customer Cash.</title>
-    <link href="https://www.barrons.com/advisor/articles/jpmorgan-schwab-block-unauthorized-ai-agents-why-that-matters-to-customer-cash-82cd8535"/>
-    <id>https://www.barrons.com/advisor/articles/jpmorgan-schwab-block-unauthorized-ai-agents-why-that-matters-to-customer-cash-82cd8535</id>
-    <updated>2026-10-15T20:09:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Investors have been concerned that artificial intelligence-powered tools could help customers optimize their uninvested cash—and pressure net interest income at financial institutions.</summary>
+    <summary>Harbourfront Wealth Advances Advisor Technology Support with Zocks AI Assistant Platform The National Law Review</summary>
   </entry>
   <entry>
     <title>New Complaints Highlight AI Platforms and Data Center Infrastructure D&amp;O Risk</title>
@@ -226,7 +226,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-15T22:08:19.359Z</updated>
+    <updated>2026-10-16T01:09:41.758Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -235,28 +235,28 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-15T22:08:19.359Z</updated>
+    <updated>2026-10-16T01:09:41.758Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Still In Early Innings of AI Issuance: Doyle</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-15/still-in-early-innings-of-ai-issuance-doyle-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-15/still-in-early-innings-of-ai-issuance-doyle-video</id>
-    <updated>2026-10-15T20:21:16.000Z</updated>
+    <title>Asian Stocks Rise as Chip Selloff Eases, Oil Slips: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates</id>
+    <updated>2026-10-15T22:04:06.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Neha Khoda, head of US credit strategy at BofA Securities, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Investment Management, join Scarlet Fu on &quot;Bloomberg Real Yield.&quot; (Source: Bloomberg)</summary>
+    <summary>Asian equities rose as dip buyers stepped in following a chip-stock selloff fueled by concerns about the artificial intelligence trade. Crude oil edged lower.</summary>
   </entry>
   <entry>
-    <title>Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-15/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-15/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns</id>
-    <updated>2026-10-15T20:14:05.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>AI Runs Into Its Next Big Obstacle: Insurance</title>
+    <link href="https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?mod=rss_Technology</id>
+    <updated>2026-10-16T01:00:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The dollar fell the most in more than a month, erasing gains fueled by hotter-than-expected inflation data.</summary>
+    <summary>Safety incidents risk exposing AI developers to multibillion-dollar liabilities, with other businesses vulnerable for using the tech.</summary>
   </entry>
   <entry>
     <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
