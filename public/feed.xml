@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-17T19:11:56.288Z</updated>
+  <updated>2026-10-17T22:11:17.812Z</updated>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
     <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
@@ -25,7 +25,7 @@
     <summary>Fed chair links AI-driven investment surge to inflation pressure in Bangkok, leaving investors to watch pundits and markets for December hike odds</summary>
   </entry>
   <entry>
-    <title>Replit is no longer working with Anthropic, CEO says</title>
+    <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
     <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says"/>
     <id>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says</id>
     <updated>2026-10-17T18:48:08.000Z</updated>
@@ -34,13 +34,13 @@
     <summary>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</summary>
   </entry>
   <entry>
-    <title>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses</title>
-    <link href="https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses"/>
-    <id>https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses</id>
-    <updated>2026-10-15T04:00:01.000Z</updated>
-    <author><name>FSB News</name></author>
+    <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
+    <link href="https://www.finra.org/rules-guidance/notices/26-18"/>
+    <id>https://www.finra.org/rules-guidance/notices/26-18</id>
+    <updated>2026-10-14T00:00:00.000Z</updated>
+    <author><name>FINRA Notices</name></author>
     <category term="REGULATION"/>
-    <summary>This document summarises the responses to the June 2026 public consultation on the Sound Practices for financial institutions’ responsible AI adoption. — Also covered by: FSB News, FSB News</summary>
+    <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
   </entry>
   <entry>
     <title>WealthStack Roundup: Docupace Launches Next, an Agentic AI Foundation</title>
@@ -73,7 +73,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-17T19:11:44.022Z</updated>
+    <updated>2026-10-17T22:11:04.047Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -142,6 +142,15 @@
     <summary>FINTRX data shows 342 company transactions in the quarter, with wealth management consolidation driving nearly one in seven deals.</summary>
   </entry>
   <entry>
+    <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
+    <link href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"/>
+    <id>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings</id>
+    <updated>2026-10-17T20:21:19.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</summary>
+  </entry>
+  <entry>
     <title>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says</title>
     <link href="https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17"/>
     <id>https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17</id>
@@ -151,13 +160,13 @@
     <summary>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says Reuters</summary>
   </entry>
   <entry>
-    <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
-    <link href="https://www.finra.org/rules-guidance/notices/26-18"/>
-    <id>https://www.finra.org/rules-guidance/notices/26-18</id>
-    <updated>2026-10-14T00:00:00.000Z</updated>
-    <author><name>FINRA Notices</name></author>
+    <title>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses</title>
+    <link href="https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses"/>
+    <id>https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-overview-of-consultation-responses</id>
+    <updated>2026-10-15T04:00:01.000Z</updated>
+    <author><name>FSB News</name></author>
     <category term="REGULATION"/>
-    <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
+    <summary>This document summarises the responses to the June 2026 public consultation on the Sound Practices for financial institutions’ responsible AI adoption. — Also covered by: FSB News, FSB News</summary>
   </entry>
   <entry>
     <title>FINRA Outlines Q4 Regulatory Priorities</title>
@@ -226,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-17T19:11:44.022Z</updated>
+    <updated>2026-10-17T22:11:04.047Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -235,7 +244,7 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-17T19:11:44.022Z</updated>
+    <updated>2026-10-17T22:11:04.047Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
@@ -266,14 +275,5 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
-  </entry>
-  <entry>
-    <title>Managing risk to accelerate agentic AI value creation</title>
-    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation"/>
-    <id>https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation</id>
-    <updated>2026-10-15T13:29:21.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Banks can accelerate agentic AI adoption by aligning each use case’s risks, controls and capabilities, enabling safe, accountable and value-driven deployment</summary>
   </entry>
 </feed>
