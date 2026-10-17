@@ -5,24 +5,15 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-17T09:10:35.464Z</updated>
+  <updated>2026-10-17T13:36:29.503Z</updated>
   <entry>
-    <title>Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles</id>
-    <updated>2026-10-17T00:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy. — Also covered by: GN: AI capex / ETF</summary>
-  </entry>
-  <entry>
-    <title>CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet</title>
-    <link href="https://www.reuters.com/business/coreweave-shares-bonds-headed-steep-weekly-losses-ai-borrowing-concerns-mount-2026-10-16"/>
-    <id>https://www.reuters.com/business/coreweave-shares-bonds-headed-steep-weekly-losses-ai-borrowing-concerns-mount-2026-10-16</id>
-    <updated>2026-10-16T16:57:25.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet Reuters — Also covered by: GN: AI capex / ETF</summary>
+    <title>Schwab blocks unauthorized AI agents, points clients to 'Charley'</title>
+    <link href="https://www.financial-planning.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley"/>
+    <id>https://www.financial-planning.com/news/schwab-blocks-unauthorized-ai-agents-points-clients-to-charley</id>
+    <updated>2026-10-15T21:51:22.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Schwab executives are worried outside AI agents like Meta's Muse could compromise client data. But some see an effort to protect the firm's lucrative cash business. — Also covered by: American Banker AI</summary>
   </entry>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -52,13 +43,13 @@
     <summary>Fed chair links AI-driven investment surge to inflation pressure in Bangkok, leaving investors to watch pundits and markets for December hike odds</summary>
   </entry>
   <entry>
-    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-    <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them"/>
-    <id>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them</id>
-    <updated>2026-10-16T16:01:37.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say</title>
+    <link href="https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15"/>
+    <id>https://www.reuters.com/business/finance/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-2026-10-15</id>
+    <updated>2026-10-17T10:10:22.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</summary>
+    <summary>Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say Reuters</summary>
   </entry>
   <entry>
     <title>Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses</title>
@@ -100,19 +91,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-17T09:10:24.998Z</updated>
+    <updated>2026-10-17T13:36:17.113Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>SoftBank in talks to buy US security group Allied Universal</title>
-    <link href="https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1</id>
-    <updated>2026-10-17T02:07:07.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>By The Way: Headlines You May Have Missed</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video</id>
+    <updated>2026-10-17T12:51:57.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Masayoshi Son looks to increase pace of his bets on robotics and AI</summary>
+    <summary>Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>News editor's view: Four big stories and a few hard truths</title>
@@ -124,6 +115,15 @@
     <summary>From the future of advice firms to pension reform and the growing influence of AI, this week has been a reminder that the biggest questions facing the profession are rarely straightforward.</summary>
   </entry>
   <entry>
+    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
+    <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them"/>
+    <id>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them</id>
+    <updated>2026-10-16T16:01:37.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</summary>
+  </entry>
+  <entry>
     <title>Clients Are Cheating on Their Financial Advisors. With AI.</title>
     <link href="https://www.barrons.com/advisor/articles/ai-financial-advice-285ba91d"/>
     <id>https://www.barrons.com/advisor/articles/ai-financial-advice-285ba91d</id>
@@ -133,13 +133,13 @@
     <summary>A recent survey found that far more people who have an advisor are consulting with artificial intelligence about money than those who don’t.</summary>
   </entry>
   <entry>
-    <title>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice</title>
-    <link href="https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice"/>
-    <id>https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice</id>
-    <updated>2026-10-16T20:53:49.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
+    <title>DeepVest Launches PlanLab, Expanding Its Agentic Platform Into Financial Planning</title>
+    <link href="https://www.wealthtechstrategy.com/post/deepvest-launches-planlab-expanding-its-agentic-platform-into-financial-planning"/>
+    <id>https://www.wealthtechstrategy.com/post/deepvest-launches-planlab-expanding-its-agentic-platform-into-financial-planning</id>
+    <updated>2026-10-17T12:16:54.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice AdvisorHub</summary>
+    <summary>DeepVest. (2026, October 15). DeepVest launches PlanLab, expanding its agentic platform into financial planning. Business Wire. https://www.businesswire.com/news/home/20261015573142/en/DeepVest-Launches-PlanLab-Expanding-Its-Agentic-Platform-Into-Financial-Planning DeepVest, the agentic front office for financial advis</summary>
   </entry>
   <entry>
     <title>Clients with advisors more likely to act on unchecked AI answers</title>
@@ -160,22 +160,13 @@
     <summary>FINTRX data shows 342 company transactions in the quarter, with wealth management consolidation driving nearly one in seven deals.</summary>
   </entry>
   <entry>
-    <title>Replit is no longer working with Anthropic, CEO says</title>
-    <link href="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says"/>
-    <id>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says</id>
-    <updated>2026-10-16T21:22:28.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</summary>
-  </entry>
-  <entry>
-    <title>Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings</title>
-    <link href="https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16"/>
-    <id>https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16</id>
-    <updated>2026-10-16T21:23:05.000Z</updated>
+    <title>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says</title>
+    <link href="https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17"/>
+    <id>https://www.reuters.com/business/finance/china-ai-supply-chain-ipos-hold-firm-despite-valuation-pullback-citi-says-2026-10-17</id>
+    <updated>2026-10-17T08:19:38.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings Reuters</summary>
+    <summary>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says Reuters</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -203,6 +194,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Redacted by IDIQ’s Ken Eiden talks about cybersecurity, AI and how advisors can take a more proactive approach to protecting clients and their families.</summary>
+  </entry>
+  <entry>
+    <title>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice</title>
+    <link href="https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice"/>
+    <id>https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice</id>
+    <updated>2026-10-16T20:53:49.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice AdvisorHub</summary>
   </entry>
   <entry>
     <title>TD Bank's RIA unit poaches Schwab's 'head of firmwide AI' and makes him its 'head of U.S. Wealth' with an eye on national franchise</title>
@@ -235,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-17T09:10:24.998Z</updated>
+    <updated>2026-10-17T13:36:17.113Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,19 +244,28 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-17T09:10:24.998Z</updated>
+    <updated>2026-10-17T13:36:17.113Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Anthropic offers Blackstone double-digit yield in latest chip financing</title>
-    <link href="https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1</id>
-    <updated>2026-10-17T00:47:25.000Z</updated>
+    <title>AI Selloff Tests Investor Confidence</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video</id>
+    <updated>2026-10-17T13:05:53.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Ritholtz Wealth Management Chairman and Chief Investment Officer Barry Ritholtz tells Bloomberg This Weekend that AI remains a transformational technology, but investors face a difficult task determining which companies will ultimately emerge as winners and losers. Speaking with hosts David Gura and Christina Ruffini, </summary>
+  </entry>
+  <entry>
+    <title>SoftBank in talks to buy US security group Allied Universal</title>
+    <link href="https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1</id>
+    <updated>2026-10-17T02:07:07.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>High borrowing costs complicate AI lab’s goal of achieving investment-grade status</summary>
+    <summary>Masayoshi Son looks to increase pace of his bets on robotics and AI</summary>
   </entry>
   <entry>
     <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
@@ -266,14 +275,5 @@
     <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
-  </entry>
-  <entry>
-    <title>Managing risk to accelerate agentic AI value creation</title>
-    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation"/>
-    <id>https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation</id>
-    <updated>2026-10-15T13:29:21.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Banks can accelerate agentic AI adoption by aligning each use case’s risks, controls and capabilities, enabling safe, accountable and value-driven deployment</summary>
   </entry>
 </feed>
