@@ -5,7 +5,25 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-16T23:26:51.983Z</updated>
+  <updated>2026-10-17T04:09:49.376Z</updated>
+  <entry>
+    <title>Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles</id>
+    <updated>2026-10-17T00:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy. — Also covered by: GN: AI capex / ETF</summary>
+  </entry>
+  <entry>
+    <title>Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass</id>
+    <updated>2026-10-16T20:33:15.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Nvidia Corp. Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon outweigh the concerns of investors. — Also covered by: GN: AI capex / ETF</summary>
+  </entry>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
     <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
@@ -82,19 +100,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-16T23:26:38.438Z</updated>
+    <updated>2026-10-17T04:09:36.603Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock</id>
-    <updated>2026-10-16T20:31:45.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>SoftBank in talks to buy US security group Allied Universal</title>
+    <link href="https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1</id>
+    <updated>2026-10-17T02:07:07.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Wall Street has spent the year betting on staggering AI growth while worrying about stubborn inflation. This week, investors got a fresh taste of both risks: a deepening rout in the AI complex that reached into its debt financing, and oil at $110 a barrel threatening to make inflation harder to contain.</summary>
+    <summary>Masayoshi Son looks to increase pace of his bets on robotics and AI</summary>
   </entry>
   <entry>
     <title>News editor's view: Four big stories and a few hard truths</title>
@@ -115,13 +133,13 @@
     <summary>A recent survey found that far more people who have an advisor are consulting with artificial intelligence about money than those who don’t.</summary>
   </entry>
   <entry>
-    <title>Capturing the Growth and Retention Left Behind in Tax &amp; Estate Strategy</title>
-    <link href="https://www.wealth.com/resources/webinars/the-modern-advisors-blindspot"/>
-    <id>https://www.wealth.com/resources/webinars/the-modern-advisors-blindspot</id>
-    <updated>2026-10-16T21:16:33.000Z</updated>
-    <author><name>Wealth.com (vendor)</name></author>
+    <title>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice</title>
+    <link href="https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice"/>
+    <id>https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice</id>
+    <updated>2026-10-16T20:53:49.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>Wealth.com now connects to Claude. Once you link your account, you can ask Claude questions about your own client book in plain language and get answers built from the client files, estate documents, and tax data already in Wealth.com. The post Capturing the Growth and Retention Left Behind in Tax &amp; Estate Strategy app</summary>
+    <summary>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice AdvisorHub</summary>
   </entry>
   <entry>
     <title>Clients with advisors more likely to act on unchecked AI answers</title>
@@ -151,13 +169,13 @@
     <summary>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</summary>
   </entry>
   <entry>
-    <title>Wall Street tumbles as worries about AI trade and high oil prices weigh</title>
-    <link href="https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16"/>
-    <id>https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16</id>
-    <updated>2026-10-16T21:45:22.000Z</updated>
+    <title>Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings</title>
+    <link href="https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16"/>
+    <id>https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16</id>
+    <updated>2026-10-16T21:23:05.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Wall Street tumbles as worries about AI trade and high oil prices weigh Reuters</summary>
+    <summary>Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings Reuters</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -185,15 +203,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Redacted by IDIQ’s Ken Eiden talks about cybersecurity, AI and how advisors can take a more proactive approach to protecting clients and their families.</summary>
-  </entry>
-  <entry>
-    <title>WealthTech Safari — Week of October 16, 2026</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-16-2026"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-16-2026</id>
-    <updated>2026-10-16T19:13:44.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Cerulli finds 401(k) retirement income needs advice, not just products Cerulli Associates’ U.S. Defined Contribution Distribution 2026 report found 46% of pre-retirees want to withdraw money when needed, 39% want guaranteed monthly income, and nearly 40% want a personalized, actionable retirement plan. With DC consulta</summary>
   </entry>
   <entry>
     <title>TD Bank's RIA unit poaches Schwab's 'head of firmwide AI' and makes him its 'head of U.S. Wealth' with an eye on national franchise</title>
@@ -226,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-16T23:26:38.438Z</updated>
+    <updated>2026-10-17T04:09:36.603Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -235,28 +244,19 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-16T23:26:38.438Z</updated>
+    <updated>2026-10-17T04:09:36.603Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video</id>
-    <updated>2026-10-16T20:27:01.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Kristine Aquino, Carol Massar and Tim Stenovec. (Source: Bloomberg)</summary>
-  </entry>
-  <entry>
-    <title>Can consultants reinvent themselves once again?</title>
-    <link href="https://www.ft.com/content/ff9756a6-6339-47ca-ae9b-efd00e019fe3?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/ff9756a6-6339-47ca-ae9b-efd00e019fe3?syn-25a6b1a6=1</id>
-    <updated>2026-10-16T16:11:58.000Z</updated>
+    <title>Anthropic offers Blackstone double-digit yield in latest chip financing</title>
+    <link href="https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1</id>
+    <updated>2026-10-17T00:47:25.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>As AI becomes more capable, human advisers must find new ways to prove their worth</summary>
+    <summary>High borrowing costs complicate AI lab’s goal of achieving investment-grade status</summary>
   </entry>
   <entry>
     <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
