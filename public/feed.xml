@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-18T00:50:43.285Z</updated>
+  <updated>2026-10-18T05:42:56.018Z</updated>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
     <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
@@ -73,19 +73,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-18T00:50:27.600Z</updated>
+    <updated>2026-10-18T05:42:44.046Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video</id>
-    <updated>2026-10-17T16:31:01.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic turns to lawyers to help AI agents strike deals</title>
+    <link href="https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1</id>
+    <updated>2026-10-18T04:00:09.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime Minister of Canada a</summary>
+    <summary>Tech companies are being forced to confront the rules of negotiation when machines act on humans’ behalf</summary>
   </entry>
   <entry>
     <title>News editor's view: Four big stories and a few hard truths</title>
@@ -187,13 +187,13 @@
     <summary>Redacted by IDIQ’s Ken Eiden talks about cybersecurity, AI and how advisors can take a more proactive approach to protecting clients and their families.</summary>
   </entry>
   <entry>
-    <title>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice</title>
-    <link href="https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice"/>
-    <id>https://www.advisorhub.com/resources/from-envestnet-to-field-bill-crager-on-data-ai-and-the-future-of-advice</id>
-    <updated>2026-10-16T20:53:49.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
+    <title>US WealthTech Funding Reaches Five-Quarter High as Q3 Investment Doubles Year Over Year</title>
+    <link href="https://evotek.vn/en/us-wealthtech-funding-reaches-five-quarter-high-as-q3-investment-doubles-year-over-year"/>
+    <id>https://evotek.vn/en/us-wealthtech-funding-reaches-five-quarter-high-as-q3-investment-doubles-year-over-year</id>
+    <updated>2026-10-15T21:06:00.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>From Envestnet to Field: Bill Crager on Data, AI and the Future of Advice AdvisorHub</summary>
+    <summary>US WealthTech Funding Reaches Five-Quarter High as Q3 Investment Doubles Year Over Year Evotek JSC</summary>
   </entry>
   <entry>
     <title>TD Bank's RIA unit poaches Schwab's 'head of firmwide AI' and makes him its 'head of U.S. Wealth' with an eye on national franchise</title>
@@ -235,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-18T00:50:27.600Z</updated>
+    <updated>2026-10-18T05:42:44.046Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,10 +244,19 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-18T00:50:27.600Z</updated>
+    <updated>2026-10-18T05:42:44.046Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
+  </entry>
+  <entry>
+    <title>Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video</id>
+    <updated>2026-10-17T16:31:01.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime Minister of Canada a</summary>
   </entry>
   <entry>
     <title>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly</title>
@@ -257,15 +266,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.</summary>
-  </entry>
-  <entry>
-    <title>AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks</id>
-    <updated>2026-10-18T00:00:00.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has powered the region’s stock-market rally.</summary>
   </entry>
   <entry>
     <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
