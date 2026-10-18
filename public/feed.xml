@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-18T18:00:02.025Z</updated>
+  <updated>2026-10-18T20:29:11.854Z</updated>
   <entry>
     <title>AI trade reversal pierces star stocks across Asia</title>
     <link href="https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866193"/>
@@ -14,6 +14,15 @@
     <author><name>GN: AI capex / ETF</name></author>
     <category term="AI MARKETS"/>
     <summary>AI trade reversal pierces star stocks across Asia Taipei Times — Also covered by: Bloomberg Tech</summary>
+  </entry>
+  <entry>
+    <title>Wall Street tumbles as worries about AI trade and high oil prices weigh</title>
+    <link href="https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16"/>
+    <id>https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16</id>
+    <updated>2026-10-16T11:01:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Wall Street tumbles as worries about AI trade and high oil prices weigh Reuters</summary>
   </entry>
   <entry>
     <title>Warsh touts US economic resilience, keeps coy on next rate move</title>
@@ -73,28 +82,28 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-18T17:59:52.802Z</updated>
+    <updated>2026-10-18T20:29:00.658Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Option Traders Brace for VIX Surge as AI Jitters Jolt Market</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market</id>
-    <updated>2026-10-18T14:00:00.000Z</updated>
+    <title>Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles</id>
+    <updated>2026-10-18T19:00:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market.</summary>
+    <summary>US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slump to deepen.</summary>
   </entry>
   <entry>
-    <title>News editor's view: Four big stories and a few hard truths</title>
-    <link href="https://www.professionaladviser.com/opinion/4537467/news-editors-view-big-stories-hard-truths"/>
-    <id>https://www.professionaladviser.com/opinion/4537467/news-editors-view-big-stories-hard-truths</id>
-    <updated>2026-10-16T14:10:49.000Z</updated>
-    <author><name>Professional Adviser</name></author>
+    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
+    <updated>2026-10-15T01:26:55.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>From the future of advice firms to pension reform and the growing influence of AI, this week has been a reminder that the biggest questions facing the profession are rarely straightforward.</summary>
+    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
   </entry>
   <entry>
     <title>Elorian’s first AI model wants to reason with images, not just about them</title>
@@ -235,7 +244,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-18T17:59:52.802Z</updated>
+    <updated>2026-10-18T20:29:00.658Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,36 +253,27 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-18T17:59:52.802Z</updated>
+    <updated>2026-10-18T20:29:00.658Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>Inside Andreessen’s Growing Political Influence</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-18/inside-andreessen-s-growing-political-influence-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-18/inside-andreessen-s-growing-political-influence-video</id>
-    <updated>2026-10-18T15:04:47.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Option Traders Brace for VIX Surge as AI Jitters Jolt Market</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market</id>
+    <updated>2026-10-18T14:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Bloomberg Businessweek features writer Austin Carr tells Bloomberg This Weekend how Andreessen Horowitz co-founder Marc Andreessen became an increasingly influential Republican donor and adviser after years of shifting political allegiances, with disputes over AI, crypto and other Biden-era policies playing a role in h</summary>
+    <summary>Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market.</summary>
   </entry>
   <entry>
-    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
-    <updated>2026-10-15T01:26:55.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
-  </entry>
-  <entry>
-    <title>Managing risk to accelerate agentic AI value creation</title>
-    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation"/>
-    <id>https://www.risk.net/insight/ai-and-machine-learning/7964278/managing-risk-to-accelerate-agentic-ai-value-creation</id>
-    <updated>2026-10-15T13:29:21.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Banks can accelerate agentic AI adoption by aligning each use case’s risks, controls and capabilities, enabling safe, accountable and value-driven deployment</summary>
+    <title>AI Agents Trading Stocks While You Sleep? Charles Schwab’s CEO Is Skeptical</title>
+    <link href="https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_Technology</id>
+    <updated>2026-10-18T20:23:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Schwab CEO Rick Wurster is betting some money and investing needs require a human touch.</summary>
   </entry>
 </feed>
