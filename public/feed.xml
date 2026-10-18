@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-18T05:42:56.018Z</updated>
+  <updated>2026-10-18T10:52:14.622Z</updated>
   <entry>
     <title>Gemini 4 Argon: Built to solve your hardest problems</title>
     <link href="https://deepmind.google/blog/introducing-gemini-4-argon"/>
@@ -73,7 +73,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-18T05:42:44.046Z</updated>
+    <updated>2026-10-18T10:52:03.636Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -235,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-18T05:42:44.046Z</updated>
+    <updated>2026-10-18T10:52:03.636Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,10 +244,19 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-18T05:42:44.046Z</updated>
+    <updated>2026-10-18T10:52:03.636Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
+  </entry>
+  <entry>
+    <title>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock</title>
+    <link href="https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8160558/president-trump-sells-micron-stock-and-buys-another-mega-cap-artificial-intelligence-ai-stock"/>
+    <id>https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8160558/president-trump-sells-micron-stock-and-buys-another-mega-cap-artificial-intelligence-ai-stock</id>
+    <updated>2026-10-18T09:14:16.000Z</updated>
+    <author><name>GN: AI capex / ETF</name></author>
+    <category term="AI MARKETS"/>
+    <summary>President Trump Sells Micron Stock and Buys Another Mega-Cap Artificial Intelligence (AI) Stock The Globe and Mail</summary>
   </entry>
   <entry>
     <title>Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'</title>
@@ -257,15 +266,6 @@
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
     <summary>The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime Minister of Canada a</summary>
-  </entry>
-  <entry>
-    <title>CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly</id>
-    <updated>2026-10-17T14:27:13.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.</summary>
   </entry>
   <entry>
     <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
