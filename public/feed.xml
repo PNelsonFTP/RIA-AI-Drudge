@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-18T22:59:10.306Z</updated>
+  <updated>2026-10-19T01:02:32.953Z</updated>
   <entry>
     <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
     <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"/>
@@ -13,16 +13,16 @@
     <updated>2026-10-18T20:37:40.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic said that it will commit 5% of its shares to the fund. — Also covered by: Bloomberg Tech</summary>
+    <summary>Anthropic said that it will commit 5% of its shares to the fund. — Also covered by: WSJ Tech, Bloomberg Tech</summary>
   </entry>
   <entry>
-    <title>AI trade reversal pierces star stocks across Asia</title>
-    <link href="https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866193"/>
-    <id>https://www.taipeitimes.com/News/biz/archives/2026/10/19/2003866193</id>
-    <updated>2026-10-18T16:00:00.000Z</updated>
-    <author><name>GN: AI capex / ETF</name></author>
-    <category term="AI MARKETS"/>
-    <summary>AI trade reversal pierces star stocks across Asia Taipei Times — Also covered by: Bloomberg Tech</summary>
+    <title>Anthropic Turns to Lawyers to Teach AI Agents to Negotiate</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate</id>
+    <updated>2026-10-19T00:40:07.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Anthropic is reportedly in discussions with legal groups to teach artificial intelligence agents negotiation skills. That’s according to a report Sunday (Oct. 18) by the Financial Times (FT) citing two sources familiar with the AI company’s thinking. They say the startup is looking for advice from law firms to better u — Also covered by: FT Artificial Intelligence</summary>
   </entry>
   <entry>
     <title>Warsh touts US economic resilience, keeps coy on next rate move</title>
@@ -73,28 +73,28 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-18T22:58:41.297Z</updated>
+    <updated>2026-10-19T01:02:23.653Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles</id>
-    <updated>2026-10-18T19:00:00.000Z</updated>
+    <title>Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips</id>
+    <updated>2026-10-19T00:17:50.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slump to deepen.</summary>
+    <summary>South Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing.</summary>
   </entry>
   <entry>
-    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
-    <updated>2026-10-15T01:26:55.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
+    <title>Meta Says Claude AI Tool Triggered No Kings Instagram Suspension</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension</id>
+    <updated>2026-10-18T23:59:54.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
+    <summary>Meta Platforms Inc. said an automated security system mistakenly suspended the Instagram account of the No Kings Coalition at the height of a nationwide series of demonstrations.</summary>
   </entry>
   <entry>
     <title>Elorian’s first AI model wants to reason with images, not just about them</title>
@@ -235,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-18T22:58:41.297Z</updated>
+    <updated>2026-10-19T01:02:23.653Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -244,36 +244,36 @@
     <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
     <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
     <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-18T22:58:41.297Z</updated>
+    <updated>2026-10-19T01:02:23.653Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Post-incident fraud management needs to adapt. But how?</summary>
   </entry>
   <entry>
-    <title>AI Agents Trading Stocks While You Sleep? Charles Schwab’s CEO Is Skeptical</title>
-    <link href="https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_Technology</id>
-    <updated>2026-10-18T20:23:00.000Z</updated>
+    <title>US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates</id>
+    <updated>2026-10-18T22:07:25.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil slipped.</summary>
+  </entry>
+  <entry>
+    <title>What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO</title>
+    <link href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_Technology</id>
+    <updated>2026-10-19T01:00:00.000Z</updated>
     <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Schwab CEO Rick Wurster is betting some money and investing needs require a human touch.</summary>
+    <summary>The AI company has shared few details on the dynamics of the five-person trust empowered to shape its board and block major moves.</summary>
   </entry>
   <entry>
-    <title>Anthropic to Shift Some Shares Into New ‘Public Good’ Fund</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund</id>
-    <updated>2026-10-18T18:03:03.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Anthropic PBC said it plans to put 5% of its shares into a new so-called public benefit fund that allows it to make donations that can address “the public good,” including mitigating AI’s impact on the job market.</summary>
-  </entry>
-  <entry>
-    <title>News editor's view: Four big stories and a few hard truths</title>
-    <link href="https://www.professionaladviser.com/opinion/4537467/news-editors-view-big-stories-hard-truths"/>
-    <id>https://www.professionaladviser.com/opinion/4537467/news-editors-view-big-stories-hard-truths</id>
-    <updated>2026-10-16T14:10:49.000Z</updated>
-    <author><name>Professional Adviser</name></author>
+    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
+    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
+    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
+    <updated>2026-10-15T01:26:55.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>From the future of advice firms to pension reform and the growing influence of AI, this week has been a reminder that the biggest questions facing the profession are rarely straightforward.</summary>
+    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
   </entry>
 </feed>
