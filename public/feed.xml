@@ -5,24 +5,15 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-19T01:02:32.953Z</updated>
+  <updated>2026-10-19T06:02:01.994Z</updated>
   <entry>
-    <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-    <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"/>
-    <id>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</id>
-    <updated>2026-10-18T20:37:40.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Anthropic commits 5% of shares to ‘public benefit’ fund</title>
+    <link href="https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1</id>
+    <updated>2026-10-19T01:31:01.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic said that it will commit 5% of its shares to the fund. — Also covered by: WSJ Tech, Bloomberg Tech</summary>
-  </entry>
-  <entry>
-    <title>Anthropic Turns to Lawyers to Teach AI Agents to Negotiate</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-turns-to-lawyers-to-teach-ai-agents-to-negotiate</id>
-    <updated>2026-10-19T00:40:07.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Anthropic is reportedly in discussions with legal groups to teach artificial intelligence agents negotiation skills. That’s according to a report Sunday (Oct. 18) by the Financial Times (FT) citing two sources familiar with the AI company’s thinking. They say the startup is looking for advice from law firms to better u — Also covered by: FT Artificial Intelligence</summary>
+    <summary>AI start-up has faced growing public backlash over safety and economic concerns — Also covered by: WSJ Tech, TechCrunch AI</summary>
   </entry>
   <entry>
     <title>Warsh touts US economic resilience, keeps coy on next rate move</title>
@@ -32,6 +23,15 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>Fed chair links AI-driven investment surge to inflation pressure in Bangkok, leaving investors to watch pundits and markets for December hike odds</summary>
+  </entry>
+  <entry>
+    <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
+    <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"/>
+    <id>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</id>
+    <updated>2026-10-18T20:37:40.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic said that it will commit 5% of its shares to the fund.</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -70,31 +70,31 @@
     <summary>A new securities class action lawsuit filed against Endava plc, a technology consulting and digital transformation company that has promoted its transition to an “AI-native” business model, represents the 28th AI-related securities class action lawsuit filed in 2026. The lawsuit also raises an increasingly important qu — Also covered by: The D&amp;O Diary</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-19T01:02:23.653Z</updated>
+    <title>Beyond connectivity: Creating more value across the payments lifecycle</title>
+    <link href="https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle"/>
+    <id>https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle</id>
+    <updated>2026-10-20T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>What practical considerations should the industry have for building a more connected and efficient payments ecosystem?</summary>
   </entry>
   <entry>
-    <title>Korean Stocks Fall as DeepSeek Model, Funding Worry Rattle Chips</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips</id>
-    <updated>2026-10-19T00:17:50.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Datacenters 2027: The Year of Acceleration, +50GW in a Single Year</title>
+    <link href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration"/>
+    <id>https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration</id>
+    <updated>2026-10-19T05:39:38.000Z</updated>
+    <author><name>SemiAnalysis</name></author>
     <category term="AI MARKETS"/>
-    <summary>South Korean stocks resumed declines Monday, as DeepSeek’s latest model sparked concerns over demand for memory chips, compounding market worries over AI financing.</summary>
+    <summary>60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips</summary>
   </entry>
   <entry>
-    <title>Meta Says Claude AI Tool Triggered No Kings Instagram Suspension</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension</id>
-    <updated>2026-10-18T23:59:54.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Barclays built a system to spot AI agents that might go rogue</title>
+    <link href="https://www.risk.net/risk-management/7964285/barclays-built-a-system-to-spot-ai-agents-that-might-go-rogue"/>
+    <id>https://www.risk.net/risk-management/7964285/barclays-built-a-system-to-spot-ai-agents-that-might-go-rogue</id>
+    <updated>2026-10-19T03:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Meta Platforms Inc. said an automated security system mistakenly suspended the Instagram account of the No Kings Coalition at the height of a nationwide series of demonstrations.</summary>
+    <summary>Research setup ‘reads the mind’ of LLM-based agents and flags if they’re about to do something risky</summary>
   </entry>
   <entry>
     <title>Elorian’s first AI model wants to reason with images, not just about them</title>
@@ -232,48 +232,48 @@
     <summary>The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products &amp; platforms Optro, a GRC intelligence provider, released an expansion of its agentic products thr</summary>
   </entry>
   <entry>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-10-19T06:01:48.830Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+  </entry>
+  <entry>
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-19T01:02:23.653Z</updated>
+    <updated>2026-10-19T06:01:48.830Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Beyond fraud detection: Why dispute management needs an overhaul</title>
-    <link href="https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul"/>
-    <id>https://www.finextra.com/event-info/643/beyond-fraud-detection-why-dispute-management-needs-an-overhaul</id>
-    <updated>2026-10-19T01:02:23.653Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Post-incident fraud management needs to adapt. But how?</summary>
-  </entry>
-  <entry>
-    <title>US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates</id>
-    <updated>2026-10-18T22:07:25.000Z</updated>
+    <title>The UK Shows How AI Could Affect Jobs</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video</id>
+    <updated>2026-10-19T04:01:30.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil slipped.</summary>
+    <summary>The UK is at the sharp end of transformations in the age of AI because finance, one of the industries most exposed to disruption, is also one of the UK’s biggest employers and most important exports. Bloomberg Opinion columnist Paul J. Davies explains why other nations should watch closely. (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO</title>
-    <link href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?mod=rss_Technology</id>
-    <updated>2026-10-19T01:00:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>Asian Chip Stocks Extend Losses on Funding Worry, DeepSeek Model</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips</id>
+    <updated>2026-10-19T00:17:50.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The AI company has shared few details on the dynamics of the five-person trust empowered to shape its board and block major moves.</summary>
+    <summary>Asian semiconductor stocks tumbled again Monday, as DeepSeek’s latest model sparked concerns over demand for chips, compounding market fears over AI financing.</summary>
   </entry>
   <entry>
-    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
-    <updated>2026-10-15T01:26:55.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
+    <title>Meta Says Claude AI Tool Triggered No Kings Instagram Suspension</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-18/meta-says-claude-ai-tool-triggered-no-kings-instagram-suspension</id>
+    <updated>2026-10-18T23:59:54.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
+    <summary>Meta Platforms Inc. said an automated security system mistakenly suspended the Instagram account of the No Kings Coalition at the height of a nationwide series of demonstrations.</summary>
   </entry>
 </feed>
