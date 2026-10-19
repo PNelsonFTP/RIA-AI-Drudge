@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-19T12:55:52.045Z</updated>
-  <entry>
-    <title>Anthropic commits 5% of shares to ‘public benefit’ fund</title>
-    <link href="https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1</id>
-    <updated>2026-10-19T12:17:24.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>AI start-up has faced growing public backlash over safety and economic concerns — Also covered by: WSJ Tech, TechCrunch AI</summary>
-  </entry>
+  <updated>2026-10-19T19:13:42.869Z</updated>
   <entry>
     <title>FCA: Boundary between regulated and unregulated AI financial advice becoming blurred</title>
     <link href="https://www.professionaladviser.com/opinion/4537522/fca-boundary-regulated-unregulated-ai-financial-advice-blurred"/>
@@ -25,22 +16,31 @@
     <summary>The boundary between regulated and unregulated financial advice from artificial intelligence tools is becoming blurred, according to a Financial Conduct Authority (FCA) board member. — Also covered by: Investment Week</summary>
   </entry>
   <entry>
-    <title>Investment banking revenue nears $1.1 trillion as nonbanks surge</title>
-    <link href="https://www.investmentnews.com/wirehouses/investment-banking-revenue-nears-11-trillion-as-nonbanks-surge/268645"/>
-    <id>https://www.investmentnews.com/wirehouses/investment-banking-revenue-nears-11-trillion-as-nonbanks-surge/268645</id>
-    <updated>2026-10-19T10:51:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A BCG report finds private credit and hedge funds driving CIB growth while AI reshapes bank operating economics through 2030.</summary>
+    <title>Anthropic commits 5% of shares to ‘public benefit’ fund</title>
+    <link href="https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1</id>
+    <updated>2026-10-19T12:17:24.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>AI start-up has faced growing public backlash over safety and economic concerns — Also covered by: TechCrunch AI</summary>
   </entry>
   <entry>
-    <title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</title>
-    <link href="https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"/>
-    <id>https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play</id>
-    <updated>2026-10-19T09:08:05.000Z</updated>
-    <author><name>MIT Tech Review AI</name></author>
+    <title>Fed officials flag AI boom as inflation driver before October vote</title>
+    <link href="https://www.investmentnews.com/fixed-income/fed-officials-flag-ai-boom-as-inflation-driver-before-october-vote/268649"/>
+    <id>https://www.investmentnews.com/fixed-income/fed-officials-flag-ai-boom-as-inflation-driver-before-october-vote/268649</id>
+    <updated>2026-10-19T13:29:07.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Goolsbee, Hammack and Warsh weigh AI-fueled price pressures as markets price in a possible rate hike in December.</summary>
+  </entry>
+  <entry>
+    <title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
+    <link href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"/>
+    <id>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs</id>
+    <updated>2026-10-19T15:37:09.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…</summary>
+    <summary>Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.</summary>
   </entry>
   <entry>
     <title>Building the future of finance in the age of AI</title>
@@ -52,49 +52,49 @@
     <summary>Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated are already emerging, including the trans</summary>
   </entry>
   <entry>
-    <title>The Missing Link In Wealthtech: Turning AI Insights Into ‘Work Done’</title>
-    <link href="https://www.wealthsolutionsreport.com/the-missing-link-in-wealthtech-turning-ai-insights-into-work-done"/>
-    <id>https://www.wealthsolutionsreport.com/the-missing-link-in-wealthtech-turning-ai-insights-into-work-done</id>
-    <updated>2026-10-19T12:29:24.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
+    <title>WealthTech's Q3 Jolt: Fewer Deals, Bigger Cheques, and an AI Layer That Finally Earns Its Keep</title>
+    <link href="https://www.financexmagazine.com/post/wealthtech-s-q3-jolt-fewer-deals-bigger-cheques-and-an-ai-layer-that-finally-earns-its-keep"/>
+    <id>https://www.financexmagazine.com/post/wealthtech-s-q3-jolt-fewer-deals-bigger-cheques-and-an-ai-layer-that-finally-earns-its-keep</id>
+    <updated>2026-10-19T12:25:59.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Why The Next Competitive Advantage In Wealth Management May Depend Less On Adding Technology And More On Connecting Intelligence To Execution</summary>
+    <summary>WealthTech's Q3 Jolt: Fewer Deals, Bigger Cheques, and an AI Layer That Finally Earns Its Keep FinanceX Magazine</summary>
   </entry>
   <entry>
-    <title>FCA calls for disclaimers on AI-generated financial advice</title>
-    <link href="https://www.moneymarketing.co.uk/fca-calls-for-disclaimers-on-ai-generated-financial-advice"/>
-    <id>https://www.moneymarketing.co.uk/fca-calls-for-disclaimers-on-ai-generated-financial-advice</id>
-    <updated>2026-10-19T08:55:49.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Market Brief: Fed Faces Growing Dilemma as AI Boom Fuels Inflation but Resists Higher Rates</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-10-19-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-10-19-2026</id>
+    <updated>2026-10-19T14:10:37.000Z</updated>
+    <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The Financial Conduct Authority (FCA) has called on AI platforms including ChatGPT, Gemini and Claude to introduce clearer disclaimers about financial advice generated by their models. The regulator revealed that just 40% of consumers recognise they have no recourse if something goes wrong after acting… The post FCA ca</summary>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Fed Faces Growing Dilemma as AI Boom Fuels Inflation but Resists Higher Rates appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
-    <title>The Vendor’s AI Model Did Not Change. But it’s Risk Did.</title>
-    <link href="https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk"/>
-    <id>https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk</id>
-    <updated>2026-10-19T11:30:57.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>‘Rogue’ AI raises liability and insurance questions for developers and deployers</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/rogue-ai-raises-liability-and-insurance-questions-for-developers-and-deployers"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/rogue-ai-raises-liability-and-insurance-questions-for-developers-and-deployers</id>
+    <updated>2026-10-19T18:37:16.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>The conditions and technology need to be in place for a sound employee reporting The post The Vendor’s AI Model Did Not Change. But it’s Risk Did. appeared first on Corporate Compliance Insights .</summary>
+    <summary>Insurance companies anticipate multi-million-dollar claims if AI developers are sued over AI wrongdoing. Recent examples of AI autonomously hacking third-party systems and evading controls have increased concern about liability cases for both developers and deployers. The post ‘Rogue’ AI raises liability and insurance </summary>
   </entry>
   <entry>
-    <title>Huntington Bank partners Google Cloud for AI-powered small business operating system</title>
-    <link href="https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system"/>
-    <id>https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system</id>
-    <updated>2026-10-19T13:00:00.000Z</updated>
+    <title>Beyond connectivity: Creating more value across the payments lifecycle</title>
+    <link href="https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle"/>
+    <id>https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle</id>
+    <updated>2026-10-20T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>The Huntington National Bank has unveiled an AI-powered operating system built with Google Cloud’s Gemini Enterprise platform.</summary>
+    <summary>What practical considerations should the industry have for building a more connected and efficient payments ecosystem?</summary>
   </entry>
   <entry>
-    <title>US Stocks Rebound Ahead of Earnings; Zelenskyy Says Trump Pushing Kyiv to Yield</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-brief-10-19-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-brief-10-19-2026-video</id>
-    <updated>2026-10-19T12:44:25.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Submit a question: Could Anthropic’s IPO be a turning point for AI?</title>
+    <link href="https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1</id>
+    <updated>2026-10-19T14:10:33.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>US equity future rise as tech stocks look set to snap a 8-session losing streak. President Zelenskyy accuses President Trump of trying to push Ukraine to give in to Russia. Elon Musk says he'll give a SpaceX share to &quot;every kid in America&quot; next year. Ella Gude of BNY joins &quot;Bloomberg Brief&quot; to discuss the global AI tra</summary>
+    <summary>Join us for a live Ask an Expert Q&amp;A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22</summary>
   </entry>
   <entry>
     <title>FCA: Boundary between regulated and unregulated AI financial advice becoming blurred</title>
@@ -104,6 +104,15 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>The boundary between regulated and unregulated financial advice from AI tools is becoming blurred, according to a Financial Conduct Authority board member.</summary>
+  </entry>
+  <entry>
+    <title>FCA calls for disclaimers on AI-generated financial advice</title>
+    <link href="https://www.moneymarketing.co.uk/fca-calls-for-disclaimers-on-ai-generated-financial-advice"/>
+    <id>https://www.moneymarketing.co.uk/fca-calls-for-disclaimers-on-ai-generated-financial-advice</id>
+    <updated>2026-10-19T08:55:49.000Z</updated>
+    <author><name>Money Marketing</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>The Financial Conduct Authority (FCA) has called on AI platforms including ChatGPT, Gemini and Claude to introduce clearer disclaimers about financial advice generated by their models. The regulator revealed that just 40% of consumers recognise they have no recourse if something goes wrong after acting… The post FCA ca</summary>
   </entry>
   <entry>
     <title>Turning Manual Manufacturing Variability into Data-Driven Control</title>
@@ -124,40 +133,40 @@
     <summary>DeepVest. (2026, October 15). DeepVest launches PlanLab, expanding its agentic platform into financial planning. Business Wire. https://www.businesswire.com/news/home/20261015573142/en/DeepVest-Launches-PlanLab-Expanding-Its-Agentic-Platform-Into-Financial-Planning DeepVest, the agentic front office for financial advis</summary>
   </entry>
   <entry>
-    <title>Warsh touts US economic resilience, keeps coy on next rate move</title>
-    <link href="https://www.investmentnews.com/equities/warsh-touts-us-economic-resilience-keeps-coy-on-next-rate-move/268635"/>
-    <id>https://www.investmentnews.com/equities/warsh-touts-us-economic-resilience-keeps-coy-on-next-rate-move/268635</id>
-    <updated>2026-10-16T18:50:12.000Z</updated>
+    <title>Investment banking revenue nears $1.1 trillion as nonbanks surge</title>
+    <link href="https://www.investmentnews.com/wirehouses/investment-banking-revenue-nears-11-trillion-as-nonbanks-surge/268645"/>
+    <id>https://www.investmentnews.com/wirehouses/investment-banking-revenue-nears-11-trillion-as-nonbanks-surge/268645</id>
+    <updated>2026-10-19T10:51:00.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Fed chair links AI-driven investment surge to inflation pressure in Bangkok, leaving investors to watch pundits and markets for December hike odds.</summary>
+    <summary>A BCG report finds private credit and hedge funds driving CIB growth while AI reshapes bank operating economics through 2030.</summary>
   </entry>
   <entry>
-    <title>Clients with advisors more likely to act on unchecked AI answers</title>
-    <link href="https://www.investmentnews.com/practice-management/clients-with-advisors-more-likely-to-act-on-unchecked-ai-answers/268628"/>
-    <id>https://www.investmentnews.com/practice-management/clients-with-advisors-more-likely-to-act-on-unchecked-ai-answers/268628</id>
-    <updated>2026-10-16T13:21:15.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>The Hardest Part of AI Is Knowing What to Ask: Dirk Pearson &amp; Kelly Fitzpatrick @ Advyzon</title>
+    <link href="https://podcasters.spotify.com/pod/show/aiforadvisors/episodes/The-Hardest-Part-of-AI-Is-Knowing-What-to-Ask-Dirk-Pearson--Kelly-Fitzpatrick--Advyzon-e3qk3m3"/>
+    <id>https://podcasters.spotify.com/pod/show/aiforadvisors/episodes/The-Hardest-Part-of-AI-Is-Knowing-What-to-Ask-Dirk-Pearson--Kelly-Fitzpatrick--Advyzon-e3qk3m3</id>
+    <updated>2026-10-19T14:00:00.000Z</updated>
+    <author><name>AI for Advisors (podcast)</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Evergreen.ai study shows retirement planning and tax gaps persist, while Security Benefit finds AI now shapes advisor-client meetings.</summary>
+    <summary>Most of the AI conversation in wealth management is about capability: which model, which connectors, which platform can do the most. But advisors using these tools keep running into a different wall. They don't know what to ask. When Advyzon launched its AI, a handful of users asked for a list of everything they could </summary>
   </entry>
   <entry>
     <title>Fed sees AI boom adding to inflation headache, but others may pay for the medicine</title>
     <link href="https://www.reuters.com/markets/wealth/fed-sees-ai-boom-adding-inflation-headache-others-may-pay-medicine-2026-10-19"/>
     <id>https://www.reuters.com/markets/wealth/fed-sees-ai-boom-adding-inflation-headache-others-may-pay-medicine-2026-10-19</id>
-    <updated>2026-10-19T11:35:47.000Z</updated>
+    <updated>2026-10-19T18:39:36.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Fed sees AI boom adding to inflation headache, but others may pay for the medicine Reuters</summary>
   </entry>
   <entry>
-    <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-    <link href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"/>
-    <id>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</id>
-    <updated>2026-10-18T20:37:40.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>AI researchers stranded Claude on a virtual desert island. It started to “play.”</title>
+    <link href="https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"/>
+    <id>https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play</id>
+    <updated>2026-10-19T09:08:05.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic said that it will commit 5% of its shares to the fund.</summary>
+    <summary>What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…</summary>
   </entry>
   <entry>
     <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
@@ -178,6 +187,15 @@
     <summary>This document summarises the responses to the June 2026 public consultation on the Sound Practices for financial institutions’ responsible AI adoption. — Also covered by: FSB News, FSB News</summary>
   </entry>
   <entry>
+    <title>The Missing Link In Wealthtech: Turning AI Insights Into ‘Work Done’</title>
+    <link href="https://www.wealthsolutionsreport.com/the-missing-link-in-wealthtech-turning-ai-insights-into-work-done"/>
+    <id>https://www.wealthsolutionsreport.com/the-missing-link-in-wealthtech-turning-ai-insights-into-work-done</id>
+    <updated>2026-10-19T12:29:24.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Why The Next Competitive Advantage In Wealth Management May Depend Less On Adding Technology And More On Connecting Intelligence To Execution</summary>
+  </entry>
+  <entry>
     <title>WealthStack Roundup: Docupace Launches Next, an Agentic AI Foundation</title>
     <link href="https://www.wealthmanagement.com/advisor-support-platforms/wealthstack-roundup-singularity-partners-with-rothschild-on-ai-native-buildout-of-advisor-platform"/>
     <id>https://www.wealthmanagement.com/advisor-support-platforms/wealthstack-roundup-singularity-partners-with-rothschild-on-ai-native-buildout-of-advisor-platform</id>
@@ -187,67 +205,67 @@
     <summary>In other advisor tech-related news, Focus Financial partners with AI provider Nevis, Deepvest rolls out financial planning suite and Acorns has acquired a social investing app.</summary>
   </entry>
   <entry>
-    <title>The WealthStack Podcast: Cybersecurity and Client Protection Beyond the Portfolio with Ken Eiden</title>
-    <link href="https://www.wealthmanagement.com/financial-cybersecurity/the-wealthstack-podcast-cybersecurity-and-client-protection-beyond-the-portfolio-with-ken-eiden"/>
-    <id>https://www.wealthmanagement.com/financial-cybersecurity/the-wealthstack-podcast-cybersecurity-and-client-protection-beyond-the-portfolio-with-ken-eiden</id>
-    <updated>2026-10-16T14:16:01.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Redacted by IDIQ’s Ken Eiden talks about cybersecurity, AI and how advisors can take a more proactive approach to protecting clients and their families.</summary>
-  </entry>
-  <entry>
-    <title>At the Helm: Improving your firm’s visibility in AI searches</title>
-    <link href="https://www.moneymarketing.co.uk/at-the-helm-improving-your-firms-visibility-in-ai-searches"/>
-    <id>https://www.moneymarketing.co.uk/at-the-helm-improving-your-firms-visibility-in-ai-searches</id>
-    <updated>2026-10-19T10:00:43.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Arena Private Wealth’s Mitch Stein on How to AI-Proof Wealth Management. Plus, the Week’s Top News.</title>
+    <link href="https://www.barrons.com/advisor/articles/arena-private-wealths-mitch-stein-on-how-to-ai-proof-wealth-management-plus-the-weeks-top-news-d73adf6c"/>
+    <id>https://www.barrons.com/advisor/articles/arena-private-wealths-mitch-stein-on-how-to-ai-proof-wealth-management-plus-the-weeks-top-news-d73adf6c</id>
+    <updated>2026-10-19T15:54:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The first thing many people do when they need a product or a service such as financial advice is to search for it online. Even if the owners of advice firms are not experts in ‘search engine optimisation’ (SEO), they will probably understand that their… The post At the Helm: Improving your firm’s visibility in AI searc</summary>
+    <summary>In this weekly newsletter, Stein outlines his firm’s private- and capital-markets businesses, and we review last week’s wealth management news.</summary>
   </entry>
   <entry>
-    <title>Endava Hit with Latest AI-Related Securities Suit</title>
-    <link href="https://www.dandodiary.com/2026/10/articles/artificial-intelligence/endava-hit-with-latest-ai-related-securities-suit"/>
-    <id>https://www.dandodiary.com/2026/10/articles/artificial-intelligence/endava-hit-with-latest-ai-related-securities-suit</id>
-    <updated>2026-10-18T12:13:34.000Z</updated>
-    <author><name>The D&amp;O Diary</name></author>
+    <title>FSB Guidance on Sound Practices for Responsible AI Adoption: What Financial Institutions Need to Know</title>
+    <link href="https://www.debevoisedatablog.com/2026/10/19/fsb-guidance-on-sound-practices-for-responsible-ai-adoption-what-financial-institutions-need-to-know"/>
+    <id>https://www.debevoisedatablog.com/2026/10/19/fsb-guidance-on-sound-practices-for-responsible-ai-adoption-what-financial-institutions-need-to-know</id>
+    <updated>2026-10-19T18:10:44.000Z</updated>
+    <author><name>Debevoise Data Blog</name></author>
     <category term="COMPLIANCE"/>
-    <summary>A new securities class action lawsuit filed against Endava plc, a technology consulting and digital transformation company that has promoted its transition to an “AI-native” business model, represents the 28th AI-related securities class action lawsuit filed in 2026. The lawsuit also raises an increasingly important qu — Also covered by: The D&amp;O Diary</summary>
+    <summary>On October 15, 2026, the Financial Stability Board (FSB) published Sound Practices for Responsible Adoption of Artificial Intelligence (AI) (the Guidance), which follows the FSB’s June 2026 consultation report and November 2024 report on The Financial Stability Implications of Artificial Intelligence. The Guidance was </summary>
   </entry>
   <entry>
-    <title>A Third of Compliance Leaders See Strategic Advising in Their Future</title>
-    <link href="https://www.corporatecomplianceinsights.com/news-roundup-october-16-2026"/>
-    <id>https://www.corporatecomplianceinsights.com/news-roundup-october-16-2026</id>
-    <updated>2026-10-16T11:00:56.000Z</updated>
+    <title>The Vendor’s AI Model Did Not Change. But its Risk Did.</title>
+    <link href="https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk"/>
+    <id>https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk</id>
+    <updated>2026-10-19T11:30:57.000Z</updated>
     <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Plus: Directors’ AI use rises 30%; Money flow worries more than half of mission-driven organizations; Cyber threats lead risk for 2027; AI in lending concerns a third of banking professionals The post A Third of Compliance Leaders See Strategic Advising in Their Future appeared first on Corporate Compliance Insights .</summary>
+    <summary>The conditions and technology need to be in place for a sound employee reporting The post The Vendor’s AI Model Did Not Change. But its Risk Did. appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>Beyond connectivity: Creating more value across the payments lifecycle</title>
-    <link href="https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle"/>
-    <id>https://www.finextra.com/event-info/637/beyond-connectivity-creating-more-value-across-the-payments-lifecycle</id>
-    <updated>2026-10-20T15:00:00.000Z</updated>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-10-19T19:13:32.732Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>What practical considerations should the industry have for building a more connected and efficient payments ecosystem?</summary>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Kaplan UK research highlights AI capability gaps</title>
-    <link href="https://www.finextra.com/pressarticle/111331/kaplan-uk-research-highlights-ai-capability-gaps"/>
-    <id>https://www.finextra.com/pressarticle/111331/kaplan-uk-research-highlights-ai-capability-gaps</id>
-    <updated>2026-10-19T13:20:00.000Z</updated>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-10-19T19:13:32.732Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>​​​Two in five (40%) financial services directors and C-Suite professionals say their organisation has lost a competitive bid or client opportunity partly because of AI capability concerns, according to new research from Kaplan UK - a leading provider of professional education, apprenticeship training, and enterprise u</summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
     <title>Musk Vows to Give Each U.S. Child a SpaceX Share</title>
     <link href="https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=rss_Technology"/>
     <id>https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=rss_Technology</id>
-    <updated>2026-10-19T12:00:00.000Z</updated>
+    <updated>2026-10-19T18:11:00.000Z</updated>
     <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
     <summary>The world’s richest person made the announcement following similar pledges by Anthropic and other high-profile billionaires.</summary>
+  </entry>
+  <entry>
+    <title>US prosecutors allege Saudi royal links in OpenAI bugging case</title>
+    <link href="https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1</id>
+    <updated>2026-10-19T16:13:28.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’</summary>
   </entry>
   <entry>
     <title>Barclays built a system to spot AI agents that might go rogue</title>
@@ -257,23 +275,5 @@
     <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Research setup ‘reads the mind’ of LLM-based agents and flags if they’re about to do something risky</summary>
-  </entry>
-  <entry>
-    <title>Andrew Hall on AI’s growing influence, and the challenge of preserving democracy</title>
-    <link href="https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy"/>
-    <id>https://www.top1000funds.com/events/fis/fis-stanford-2026/andrew-hall-on-ais-growing-influence-and-the-challenge-of-preserving-democracy</id>
-    <updated>2026-10-15T01:26:55.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Artificial intelligence has the potential to transform how people work, access information and participate in democracy, but its rapid advancement is raising urgent questions about governance, political influence and human control. Andrew Hall, Davies Family Professor of Political Economy at Stanford Graduate School of</summary>
-  </entry>
-  <entry>
-    <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-    <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them"/>
-    <id>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them</id>
-    <updated>2026-10-16T16:01:37.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</summary>
   </entry>
 </feed>
