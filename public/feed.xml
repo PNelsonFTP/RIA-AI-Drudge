@@ -5,15 +5,15 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-20T19:08:13.231Z</updated>
+  <updated>2026-10-20T23:06:48.292Z</updated>
   <entry>
     <title>Focus adds Nevis as advisor AI tools face potential overlap</title>
     <link href="https://www.investmentnews.com/transformation/focus-adds-nevis-as-advisor-ai-tools-face-potential-overlap/268655"/>
     <id>https://www.investmentnews.com/transformation/focus-adds-nevis-as-advisor-ai-tools-face-potential-overlap/268655</id>
-    <updated>2026-10-19T19:56:06.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <updated>2026-10-20T01:20:34.000Z</updated>
+    <author><name>GN: advisor AI notetaker</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Nevis joins Jump at RIA platform Focus as both vendors’ AI tools aim to handle account opening and notetaking.</summary>
+    <summary>Focus adds Nevis as advisor AI tools face potential overlap InvestmentNews</summary>
   </entry>
   <entry>
     <title>Jump, Zocks double down on AI meeting leadership with new partnerships</title>
@@ -25,6 +25,15 @@
     <summary>Jump is piping FMG marketing content into post-meeting workflows as Zocks opens its platform to more than 32,000 LPL financial advisors</summary>
   </entry>
   <entry>
+    <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
+    <link href="https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business"/>
+    <id>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business</id>
+    <updated>2026-10-20T20:35:10.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. — Also covered by: OpenAI News</summary>
+  </entry>
+  <entry>
     <title>Mercer Advisors launches Aspen Investing with in-house direct indexing</title>
     <link href="https://www.investmentnews.com/fintech/mercer-advisors-launches-aspen-investing-with-in-house-direct-indexing/268663"/>
     <id>https://www.investmentnews.com/fintech/mercer-advisors-launches-aspen-investing-with-in-house-direct-indexing/268663</id>
@@ -34,13 +43,13 @@
     <summary>The $100B-plus mega-RIA is folding custom portfolios, daily tax-loss harvesting and unified managed accounts into its Aspen advisor tech platform</summary>
   </entry>
   <entry>
-    <title>Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool</title>
-    <link href="https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool"/>
-    <id>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool</id>
-    <updated>2026-10-20T11:00:00.000Z</updated>
+    <title>Anthropic’s cloud partnerships are getting messy</title>
+    <link href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy"/>
+    <id>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</id>
+    <updated>2026-10-20T21:25:22.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to</summary>
+    <summary>Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.</summary>
   </entry>
   <entry>
     <title>2026 IAA Compliance Workshops: Recap</title>
@@ -61,40 +70,40 @@
     <summary>AI may give advisors a new way to scale personalization without losing the human connection that builds trust.</summary>
   </entry>
   <entry>
-    <title>AI in the Audit Room</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room</id>
-    <updated>2026-10-20T14:21:17.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>When in Rome? The Risks of Ethics &amp; Compliance Bending to Local Norms</title>
+    <link href="https://www.corporatecomplianceinsights.com/when-in-rome-the-risks-of-ethics-compliance-bending-to-local-norms"/>
+    <id>https://www.corporatecomplianceinsights.com/when-in-rome-the-risks-of-ethics-compliance-bending-to-local-norms</id>
+    <updated>2026-10-20T19:59:32.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Most organizations now use AI, and most have a policy for it. Far fewer test whether that policy works. When errors surface, it’s often internal audit that finds them, after the output has already reached the board, a regulator, or the public. The post AI in the Audit Room appeared first on Compliance Week .</summary>
+    <summary>The question of whether ethics are universal or local is as old as philosophy, and the AI race has made it urgent again The post When in Rome? The Risks of Ethics &amp; Compliance Bending to Local Norms appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>DeepSeek Open Sources Inference Tech to Lower AI Costs</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs</id>
-    <updated>2026-10-20T18:52:07.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>Starling build agentic fincrime investigator that takes 17 seconds</title>
+    <link href="https://www.finextra.com/newsarticle/48623/starling-build-agentic-fincrime-investigator-that-takes-17-seconds"/>
+    <id>https://www.finextra.com/newsarticle/48623/starling-build-agentic-fincrime-investigator-that-takes-17-seconds</id>
+    <updated>2026-10-21T00:01:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>DeepSeek has made its in-house inference framework, DeepInfer, fully open source, saying this will help make artificial intelligence more affordable. DeepInfer powers the company’s DeepSeek-V4.1-Flash model at scale with high throughput and low latency, DeepSeek said in a Tuesday (Oct. 20) post on X. “We’re sharing our</summary>
+    <summary>Starling has deployed an agentic &quot;financial crime investigator&quot; that the UK digital bank says can carry out an end-to-end investigation within 17 seconds.</summary>
   </entry>
   <entry>
-    <title>AI Gut Check, Inside Citadel's Securities Conference</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-20/open-interest-10-20-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-20/open-interest-10-20-2026-video</id>
-    <updated>2026-10-20T17:48:43.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Submit a question: Could Anthropic’s IPO be a turning point for AI?</title>
+    <link href="https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1</id>
+    <updated>2026-10-20T20:57:44.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Get a jump start on the US trading day with Dani Burger on &quot;Bloomberg Open Interest.&quot; AI gets a gut-check as a data-center debut crashes on valuation and debt fears. GM tightens its profit outlook and launches a $20 billion buyback. Plus, Dani Burger live from Citadel’s Future of Global Markets Conference with Scott Ru</summary>
+    <summary>Join us for a live Ask an Expert Q&amp;A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22</summary>
   </entry>
   <entry>
-    <title>CPP Investments’ Jon Webster on being ‘Einstein’s friend’ in the AI race</title>
-    <link href="https://www.top1000funds.com/organisational-design/technology/cpp-investments-jon-webster-on-being-einsteins-friend-in-the-ai-race"/>
-    <id>https://www.top1000funds.com/organisational-design/technology/cpp-investments-jon-webster-on-being-einsteins-friend-in-the-ai-race</id>
-    <updated>2026-10-20T04:35:56.000Z</updated>
-    <author><name>Top1000funds.com</name></author>
+    <title>Kitces: AI Gives Advisers Depth and Quality, Rather Than Efficiency</title>
+    <link href="https://www.planadviser.com/kitces-ai-gives-advisers-depth-and-quality-rather-than-efficiency"/>
+    <id>https://www.planadviser.com/kitces-ai-gives-advisers-depth-and-quality-rather-than-efficiency</id>
+    <updated>2026-10-20T21:54:33.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>As artificial intelligence reshapes the investment process, CPP Investments’ chief operating officer Jon Webster said allocators need to make a choice on whether to compete at the technological frontier or leverage AI to strengthen their existing edge.</summary>
+    <summary>Artificial intelligence is less about scaling a business than improving client relationships , according to industry commentator Michael Kitces.</summary>
   </entry>
   <entry>
     <title>Google Offers Gemini Agent to Government Workers</title>
@@ -106,13 +115,13 @@
     <summary>After introducing an artificial intelligence (AI) agent for workers in the private sector, Google is shifting its focus to public employees. The tech giant on Tuesday (Oct. 20) announced the preview of its Gemini agent for government services, following the recent launch of Gemini at Work. “Every industry runs on knowl</summary>
   </entry>
   <entry>
-    <title>Turning Manual Manufacturing Variability into Data-Driven Control</title>
-    <link href="https://emerj.com/turning-manual-manufacturing-variability-into-data-driven-control"/>
-    <id>https://emerj.com/turning-manual-manufacturing-variability-into-data-driven-control</id>
-    <updated>2026-10-19T10:00:00.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
+    <title>Securing software in the age of AI: Red Hat CTO Chris Wright</title>
+    <link href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright"/>
+    <id>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Manufacturing leaders often know where losses occur but lack the visibility to intervene before scrap, downtime, or performance losses accumulate. A National Institute of Standards and Technology (NIST) paper identifies delays between machining and quality assessment as a barrier to feeding results back into production</summary>
+    <summary>Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.</summary>
   </entry>
   <entry>
     <title>Financial services faces highest AI exposure of any sector, BCG finds</title>
@@ -124,22 +133,13 @@
     <summary>New BCG research names financial services among the world's most AI-exposed industries and the US as a top-tier AI economy.</summary>
   </entry>
   <entry>
-    <title>ChatGPT now lets you lock your chats</title>
-    <link href="https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats"/>
-    <id>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats</id>
-    <updated>2026-10-20T18:36:53.000Z</updated>
+    <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+    <link href="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed"/>
+    <id>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed</id>
+    <updated>2026-10-20T23:01:23.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.</summary>
-  </entry>
-  <entry>
-    <title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
-    <link href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei"/>
-    <id>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei</id>
-    <updated>2026-10-20T17:55:12.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.</summary>
+    <summary>The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.</summary>
   </entry>
   <entry>
     <title>Building the future of finance in the age of AI</title>
@@ -160,31 +160,31 @@
     <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
   </entry>
   <entry>
-    <title>LAIQON: WealthTech LAIC reaches EUR 1 billion mark in Q3 2026</title>
-    <link href="https://www.tradingview.com/news/eqs:249e72e45094b:0-laiqon-wealthtech-laic-reaches-eur-1-billion-mark-in-q3-2026"/>
-    <id>https://www.tradingview.com/news/eqs:249e72e45094b:0-laiqon-wealthtech-laic-reaches-eur-1-billion-mark-in-q3-2026</id>
-    <updated>2026-10-20T10:45:53.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>AI Use Is Widespread Among RIAs Despite Lack of Strategy, Leadership</title>
+    <link href="https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy"/>
+    <id>https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy</id>
+    <updated>2026-10-20T20:31:43.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>LAIQON: WealthTech LAIC reaches EUR 1 billion mark in Q3 2026 TradingView</summary>
+    <summary>Panelists at RIA Edge Orange County said the stumbling blocks to AI implementation in wealth management are more about strategy and leadership than about the rapidly evolving tools.</summary>
   </entry>
   <entry>
-    <title>Nedgroup warns against replacing graduates with AI</title>
-    <link href="https://www.moneymarketing.co.uk/nedgroup-warns-against-replacing-graduates-with-ai"/>
-    <id>https://www.moneymarketing.co.uk/nedgroup-warns-against-replacing-graduates-with-ai</id>
-    <updated>2026-10-20T14:46:47.000Z</updated>
-    <author><name>Money Marketing</name></author>
+    <title>Tuesday links: housing market ennui</title>
+    <link href="https://abnormalreturns.com/2026/10/20/tuesday-links-housing-market-ennui"/>
+    <id>https://abnormalreturns.com/2026/10/20/tuesday-links-housing-market-ennui</id>
+    <updated>2026-10-20T17:23:05.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Wealth firms risk creating a future skills gap if they use artificial intelligence to replace graduate recruitment rather than enhance productivity. The warning comes from Nedgroup managing director of Investments Tom Caddick, who said some firms are scaling back graduate hiring as AI takes on… The post Nedgroup warns </summary>
+    <summary>Finance Polymarket is losing share to Kalshi. (bloomberg.com) Don't be surprised if SpaceX ($SPCX) and Tesla ($TSLA) merge. (slate.com) The problems facing the property and casualty industry are only going to get worse. (hamiltonnolan.com) Is real estate still a diversifier? (institutionalinvestor.com) AI Token spendin</summary>
   </entry>
   <entry>
-    <title>Vicky Pearce: The difference between using AI and governing it</title>
-    <link href="https://www.moneymarketing.co.uk/vicky-pearce-the-difference-between-using-ai-and-governing-it"/>
-    <id>https://www.moneymarketing.co.uk/vicky-pearce-the-difference-between-using-ai-and-governing-it</id>
-    <updated>2026-10-20T10:00:00.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>It starts as a time-saver. A client meeting finishes and, before the kettle has boiled for the post-meeting brew, a tidy summary is waiting in the inbox. A quick read, a couple of tweaks and it is on file. Nothing unusual there. Advisers have spent… The post Vicky Pearce: The difference between using AI and governing i</summary>
+    <title>AI in the Audit Room</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room</id>
+    <updated>2026-10-20T14:21:17.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Most organizations now use AI, and most have a policy for it. Far fewer test whether that policy works. When errors surface, it’s often internal audit that finds them, after the output has already reached the board, a regulator, or the public. The post AI in the Audit Room appeared first on Compliance Week .</summary>
   </entry>
   <entry>
     <title>‘Rogue’ AI raises liability and insurance questions for developers and deployers</title>
@@ -194,15 +194,6 @@
     <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
     <summary>Insurance companies anticipate multi-million-dollar claims if AI developers are sued over AI wrongdoing. Recent examples of AI autonomously hacking third-party systems and evading controls have increased concern about liability cases for both developers and deployers. The post ‘Rogue’ AI raises liability and insurance </summary>
-  </entry>
-  <entry>
-    <title>FSB Guidance on Sound Practices for Responsible AI Adoption: What Financial Institutions Need to Know</title>
-    <link href="https://www.debevoisedatablog.com/2026/10/19/fsb-guidance-on-sound-practices-for-responsible-ai-adoption-what-financial-institutions-need-to-know"/>
-    <id>https://www.debevoisedatablog.com/2026/10/19/fsb-guidance-on-sound-practices-for-responsible-ai-adoption-what-financial-institutions-need-to-know</id>
-    <updated>2026-10-19T18:10:44.000Z</updated>
-    <author><name>Debevoise Data Blog</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>On October 15, 2026, the Financial Stability Board (FSB) published Sound Practices for Responsible Adoption of Artificial Intelligence (AI) (the Guidance), which follows the FSB’s June 2026 consultation report and November 2024 report on The Financial Stability Implications of Artificial Intelligence. The Guidance was </summary>
   </entry>
   <entry>
     <title>AI in payments: Short-term gains, long-term transformation</title>
@@ -217,28 +208,37 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-20T19:07:59.136Z</updated>
+    <updated>2026-10-20T23:06:19.924Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Wells Fargo Indicator Flashes Buy Signal After Stock Turbulence</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-20/wells-fargo-indicator-flashes-buy-signal-after-stock-turbulence"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-20/wells-fargo-indicator-flashes-buy-signal-after-stock-turbulence</id>
-    <updated>2026-10-20T16:13:07.000Z</updated>
+    <title>AI Stocks Rally After Super Micro Preliminary Sales Bring Relief</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief</id>
+    <updated>2026-10-20T22:14:09.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Wells Fargo &amp; Co.’s sentiment indicator is giving a “buy” signal for the first time since June 2025, suggesting that US stocks have fallen to attractive levels after a slide fueled by worries over artificial intelligence and elevated oil prices.</summary>
+    <summary>The shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc. spurred relief about the outlook for spending on the technology.</summary>
   </entry>
   <entry>
-    <title>Brokers Gear Up for Compute Futures Ahead of Regulatory Approval</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-20/brokers-gear-up-for-compute-futures-ahead-of-regulatory-approval"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-20/brokers-gear-up-for-compute-futures-ahead-of-regulatory-approval</id>
-    <updated>2026-10-20T16:10:12.000Z</updated>
+    <title>US Stock Futures Advance on AI Earnings Boost: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates</id>
+    <updated>2026-10-20T22:05:51.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Some top commodity brokerage firms are gearing up for what is promising to be the next front for AI trading: the buying and selling of derivatives tied to the cost of renting computing power used to develop and run artificial intelligence.</summary>
+    <summary>Asian stocks were set to track US stock futures higher as strong earnings from some of the biggest beneficiaries of the artificial intelligence boom helped revive the tech trade.</summary>
+  </entry>
+  <entry>
+    <title>CPP Investments’ Jon Webster on being ‘Einstein’s friend’ in the AI race</title>
+    <link href="https://www.top1000funds.com/organisational-design/technology/cpp-investments-jon-webster-on-being-einsteins-friend-in-the-ai-race"/>
+    <id>https://www.top1000funds.com/organisational-design/technology/cpp-investments-jon-webster-on-being-einsteins-friend-in-the-ai-race</id>
+    <updated>2026-10-20T04:35:56.000Z</updated>
+    <author><name>Top1000funds.com</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>As artificial intelligence reshapes the investment process, CPP Investments’ chief operating officer Jon Webster said allocators need to make a choice on whether to compete at the technological frontier or leverage AI to strengthen their existing edge.</summary>
   </entry>
   <entry>
     <title>PRI in Person: Investors shift focus from climate targets to delivery</title>
@@ -250,15 +250,6 @@
     <summary>Investors challenged climate targets, debated AI governance and warned that sustainability disclosure reforms could undermine consistency across markets</summary>
   </entry>
   <entry>
-    <title>AI Product &amp; Service Launches – 10/19/2026</title>
-    <link href="https://www.planadviser.com/ai-product-service-launches-10-19-2026"/>
-    <id>https://www.planadviser.com/ai-product-service-launches-10-19-2026</id>
-    <updated>2026-10-19T21:06:04.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>PlanSource launches AI-powered benefits assistant; FinTurk partners with Fiduciary Check; and Capitalize introduces agent for retirement account transfers.</summary>
-  </entry>
-  <entry>
     <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
     <link href="https://openai.com/index/ted-taylor-restaurant"/>
     <id>https://openai.com/index/ted-taylor-restaurant</id>
@@ -268,12 +259,21 @@
     <summary>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.</summary>
   </entry>
   <entry>
-    <title>OpenAI acquires Orchestra Bio</title>
-    <link href="https://openai.com/index/openai-to-acquire-orchestra-bio"/>
-    <id>https://openai.com/index/openai-to-acquire-orchestra-bio</id>
-    <updated>2026-10-20T00:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>Google’s more personalized Gemini AI is heading to your car</title>
+    <link href="https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"/>
+    <id>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</id>
+    <updated>2026-10-20T22:11:34.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</summary>
+    <summary>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status</summary>
+  </entry>
+  <entry>
+    <title>Turning Manual Manufacturing Variability into Data-Driven Control</title>
+    <link href="https://emerj.com/turning-manual-manufacturing-variability-into-data-driven-control"/>
+    <id>https://emerj.com/turning-manual-manufacturing-variability-into-data-driven-control</id>
+    <updated>2026-10-19T10:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>Manufacturing leaders often know where losses occur but lack the visibility to intervene before scrap, downtime, or performance losses accumulate. A National Institute of Standards and Technology (NIST) paper identifies delays between machining and quality assessment as a barrier to feeding results back into production</summary>
   </entry>
 </feed>
