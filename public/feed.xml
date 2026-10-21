@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-21T15:02:06.763Z</updated>
+  <updated>2026-10-21T19:14:01.999Z</updated>
+  <entry>
+    <title>OpenAI models are coming to Google Cloud</title>
+    <link href="https://openai.com/index/openai-models-google-cloud"/>
+    <id>https://openai.com/index/openai-models-google-cloud</id>
+    <updated>2026-10-21T12:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. — Also covered by: Ars Technica AI, PYMNTS AI</summary>
+  </entry>
   <entry>
     <title>Focus adds Nevis as advisor AI tools face potential overlap</title>
     <link href="https://www.investmentnews.com/transformation/focus-adds-nevis-as-advisor-ai-tools-face-potential-overlap/268655"/>
@@ -16,40 +25,157 @@
     <summary>Focus adds Nevis as advisor AI tools face potential overlap InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Jump, Zocks double down on AI meeting leadership with new partnerships</title>
-    <link href="https://www.investmentnews.com/fintech/jump-zocks-double-down-on-ai-meeting-leadership-with-new-partnerships/268668"/>
-    <id>https://www.investmentnews.com/fintech/jump-zocks-double-down-on-ai-meeting-leadership-with-new-partnerships/268668</id>
-    <updated>2026-10-20T18:04:48.000Z</updated>
+    <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+    <link href="https://openai.com/index/chatgpt-ads-expands-26-new-countries"/>
+    <id>https://openai.com/index/chatgpt-ads-expands-26-new-countries</id>
+    <updated>2026-10-21T13:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. — Also covered by: PYMNTS AI</summary>
+  </entry>
+  <entry>
+    <title>SpaceX’s AI segment now drives more than half its revenue. Here’s what advisors should watch next</title>
+    <link href="https://www.investmentnews.com/equities/spacex-delivered-a-blockbuster-quarter-advisors-should-keep-an-eye-on-these-catalysts/268683"/>
+    <id>https://www.investmentnews.com/equities/spacex-delivered-a-blockbuster-quarter-advisors-should-keep-an-eye-on-these-catalysts/268683</id>
+    <updated>2026-10-21T17:55:53.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Jump is piping FMG marketing content into post-meeting workflows as Zocks opens its platform to more than 32,000 LPL financial advisors.</summary>
+    <summary>Super Intelligence revenue grew more than 800% in Q3, and a Starship launch and Tesla merger talk are on deck.</summary>
   </entry>
   <entry>
-    <title>OpenAI Brings Its Frontier AI Models to Google Cloud</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/openai-brings-its-frontier-ai-models-to-google-cloud</id>
-    <updated>2026-10-21T14:26:08.000Z</updated>
+    <title>Conversational Gemini navigation comes to Apple CarPlay</title>
+    <link href="https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"/>
+    <id>https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</id>
+    <updated>2026-10-21T15:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with &quot;rollout happening globally too,&quot; according to Google (we've asked for specific regional availability details). It's take</summary>
+  </entry>
+  <entry>
+    <title>FTC, SEC Scrutiny Raises Stakes for AI Data Disclosures</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/federal-trade-commission-securities-exchange-commission-scrutiny-raises-stakes-ai-data-disclosures</id>
+    <updated>2026-10-21T15:07:12.000Z</updated>
     <author><name>PYMNTS AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>OpenAI has launched a new partnership with artificial intelligence (AI) rival Google. This collaboration brings OpenAI’s frontier AI models and Codex⁠ agentic workflows to Google Cloud’s Model Garden, the companies announced Wednesday (Oct. 21). The integration is designed to give customers “native access” to these mod — Also covered by: OpenAI News</summary>
+    <category term="REGULATION"/>
+    <summary>Businesses deploying artificial intelligence face growing legal exposure when their descriptions of data practices fail to match how their systems operate. Updating privacy policies or terms of service after introducing AI features can leave companies exposed to regulatory scrutiny and customer disputes, according to a</summary>
   </entry>
   <entry>
-    <title>Huang Says All Industries Across Europe Need to Adopt AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video</id>
-    <updated>2026-10-21T12:03:07.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>AI Agents and MCP Servers for Advisors Jumped 250% Since August</title>
+    <link href="https://wealthtechtoday.com/2026/10/21/ai-agents-mcp-servers-financial-advisors"/>
+    <id>https://wealthtechtoday.com/2026/10/21/ai-agents-mcp-servers-financial-advisors</id>
+    <updated>2026-10-21T13:27:18.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post AI Agents and MCP Servers for Advisors Jumped 250% Since August appeared first on and was written by Craig Iskowitz . In September 2026, a financial advisor could open Claude, ask about a client household and get back CRM notes from Wealthbox, holdings from Addepar and an estate summary from Wealth.com in a si</summary>
+  </entry>
+  <entry>
+    <title>AI Could Undercut RIAs’ Record Valuations, Banker Warns</title>
+    <link href="https://www.advisorhub.com/ai-could-undercut-rias-record-valuations-banker-warns"/>
+    <id>https://www.advisorhub.com/ai-could-undercut-rias-record-valuations-banker-warns</id>
+    <updated>2026-10-21T17:50:45.000Z</updated>
+    <author><name>AdvisorHub</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Speaking at AdvisorHub’s annual conference in New York, Allen Darby warned advisors against waiting to implement AI. The post AI Could Undercut RIAs’ Record Valuations, Banker Warns appeared first on AdvisorHub .</summary>
+  </entry>
+  <entry>
+    <title>From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals</title>
+    <link href="https://www.complianceweek.com/scheduled-webcast/from-ai-outputs-to-compliance-decisions-a-practical-guide-for-compliance-professionals"/>
+    <id>https://www.complianceweek.com/scheduled-webcast/from-ai-outputs-to-compliance-decisions-a-practical-guide-for-compliance-professionals</id>
+    <updated>2026-10-21T17:06:28.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>AI is changing how compliance teams find information, assess risk, and support business decisions, but not every AI-enabled workflow is appropriate for every task. The post From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals appeared first on Compliance Week .</summary>
+  </entry>
+  <entry>
+    <title>Outmarket AI brings AI-native insurance workflows to agencies of all sizes</title>
+    <link href="https://www.finextra.com/pressarticle/111393/outmarket-ai-brings-ai-native-insurance-workflows-to-agencies-of-all-sizes"/>
+    <id>https://www.finextra.com/pressarticle/111393/outmarket-ai-brings-ai-native-insurance-workflows-to-agencies-of-all-sizes</id>
+    <updated>2026-10-21T18:11:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Outmarket AI, the leading AI platform purpose-built for insurance, today launched Outmarket Lite, a new self-serve offering that lets any agency or team put Outmarket's AI to work the same day.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic, Nscale IPOs Await Amid AI Volatility</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-21/anthropic-nscale-ipos-await-amid-ai-volatility-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-21/anthropic-nscale-ipos-await-amid-ai-volatility-video</id>
+    <updated>2026-10-21T19:04:01.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Nvidia CEO Jensen Huang pushed Europe to adopt artificial intelligence more quickly. “For Europe to benefit from AI, and to have really created an AI ecosystem and AI economy, you need all of the end markets, the end industries to adopt AI,” Huang said Wednesday at his company’s GTC conference in Berlin. (Source: Bloom — Also covered by: GN: AI capex / ETF, Bloomberg Tech</summary>
+    <summary>Bloomberg's Bailey Lipschultz joins Dani Burger on &quot;Bloomberg Deals.&quot; Nscale is facing opposition to the valuation target it’s pursuing in its initial public offering, according to people familiar with the matter, after a series of market setbacks for artificial intelligence companies. (Source: Bloomberg)</summary>
+  </entry>
+  <entry>
+    <title>CROs urged to use ‘creative’ stress tests for interconnected risks</title>
+    <link href="https://www.risk.net/risk-management/7964319/cros-urged-to-use-%E2%80%98creative%E2%80%99-stress-tests-for-interconnected-risks"/>
+    <id>https://www.risk.net/risk-management/7964319/cros-urged-to-use-%E2%80%98creative%E2%80%99-stress-tests-for-interconnected-risks</id>
+    <updated>2026-10-21T14:53:23.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Risk Live Asia: AI, cyber security and geopolitics mean faster shock transmission across risk types</summary>
+  </entry>
+  <entry>
+    <title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+    <link href="https://openai.com/index/att-legal"/>
+    <id>https://openai.com/index/att-legal</id>
+    <updated>2026-10-21T17:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.</summary>
+  </entry>
+  <entry>
+    <title>Securing software in the age of AI: Red Hat CTO Chris Wright</title>
+    <link href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright"/>
+    <id>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</id>
+    <updated>2026-10-20T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.</summary>
+  </entry>
+  <entry>
+    <title>Why AI Makes Your Portfolio Optimization Engine More Important, Not Less</title>
+    <link href="https://insight.factset.com/why-ai-makes-your-portfolio-optimization-engine-more-important-not-less"/>
+    <id>https://insight.factset.com/why-ai-makes-your-portfolio-optimization-engine-more-important-not-less</id>
+    <updated>2026-10-21T15:25:18.000Z</updated>
+    <author><name>FactSet Insight (vendor)</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>AI is making it materially easier for portfolio managers to express an investment outcome in natural language rather than working through the complexities of optimizer settings, data mappings, objective-function menus, or lines of code.</summary>
+  </entry>
+  <entry>
+    <title>Trump urges data centers to pay communities a ‘dividend’ for support</title>
+    <link href="https://www.investmentnews.com/equities/trump-urges-data-centers-to-pay-communities-a-dividend-for-support/268679"/>
+    <id>https://www.investmentnews.com/equities/trump-urges-data-centers-to-pay-communities-a-dividend-for-support/268679</id>
+    <updated>2026-10-21T15:25:11.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>With midterms near and public opposition rising, the president’s push puts AI infrastructure costs and community payouts in focus for investors</summary>
+  </entry>
+  <entry>
+    <title>OpenAI's latest AI models are coming to Google Cloud and Antigravity</title>
+    <link href="https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity"/>
+    <id>https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity</id>
+    <updated>2026-10-21T18:51:42.000Z</updated>
+    <author><name>Ars Technica AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.</summary>
   </entry>
   <entry>
     <title>Super Micro climbs after upbeat forecast shows robust AI demand</title>
     <link href="https://www.reuters.com/business/super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand-2026-10-21"/>
     <id>https://www.reuters.com/business/super-micro-climbs-after-upbeat-forecast-shows-robust-ai-demand-2026-10-21</id>
-    <updated>2026-10-21T10:45:22.000Z</updated>
+    <updated>2026-10-21T14:01:45.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Super Micro climbs after upbeat forecast shows robust AI demand Reuters</summary>
+  </entry>
+  <entry>
+    <title>FDIC’s Hill mulls agentic AI deposit impact</title>
+    <link href="https://www.bankingdive.com/news/fdic-travis-hill-agentic-ai-deposit-impact-money2020/833573"/>
+    <id>https://www.bankingdive.com/news/fdic-travis-hill-agentic-ai-deposit-impact-money2020/833573</id>
+    <updated>2026-10-21T14:05:16.000Z</updated>
+    <author><name>Banking Dive</name></author>
+    <category term="REGULATION"/>
+    <summary>Travis Hill, speaking Tuesday in Las Vegas, also said he sees potential for AI to help the banking agency become more efficient in aspects of supervision and failed bank resolution.</summary>
   </entry>
   <entry>
     <title>2026 IAA Compliance Workshops: Recap</title>
@@ -61,6 +187,15 @@
     <summary>IAA Compliance Workshop shared expert views on practical strategies for SEC exam preparedness, strengthening cybersecurity, implementing amended Regulation S-P, managing third-party risks, and addressing AI governance and emerging threats. The post 2026 IAA Compliance Workshops: Recap appeared first on Investment Advis</summary>
   </entry>
   <entry>
+    <title>Top 10: Wealthtech Platforms</title>
+    <link href="https://fintechmagazine.com/top10/top-10-wealthtech-platforms"/>
+    <id>https://fintechmagazine.com/top10/top-10-wealthtech-platforms</id>
+    <updated>2026-10-21T16:19:27.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Top 10: Wealthtech Platforms FinTech Magazine</summary>
+  </entry>
+  <entry>
     <title>Using AI to Deepen Advisor-Client Relationships at Scale</title>
     <link href="https://www.wealthmanagement.com/client-relations/using-ai-to-deepen-advisor-client-relationships-at-scale"/>
     <id>https://www.wealthmanagement.com/client-relations/using-ai-to-deepen-advisor-client-relationships-at-scale</id>
@@ -68,6 +203,15 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>AI may give advisors a new way to scale personalization without losing the human connection that builds trust.</summary>
+  </entry>
+  <entry>
+    <title>Finance Leaders Spar Over AI Bubble After Griffin Warning</title>
+    <link href="https://www.advisorhub.com/finance-leaders-spar-over-ai-bubble-after-griffin-warning"/>
+    <id>https://www.advisorhub.com/finance-leaders-spar-over-ai-bubble-after-griffin-warning</id>
+    <updated>2026-10-21T15:21:10.000Z</updated>
+    <author><name>AdvisorHub</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Billionaire Ken Griffin warned that investors in the industry should be prepared for setbacks. The post Finance Leaders Spar Over AI Bubble After Griffin Warning appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
     <title>Tavistock pursues Atomos deal as it shifts to AI advice strategy</title>
@@ -88,123 +232,6 @@
     <summary>The question of whether ethics are universal or local is as old as philosophy, and the AI race has made it urgent again The post When in Rome? The Risks of Ethics &amp; Compliance Bending to Local Norms appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>BBVA works with Nvidia to boost AI agent security</title>
-    <link href="https://www.finextra.com/newsarticle/48628/bbva-works-with-nvidia-to-boost-ai-agent-security"/>
-    <id>https://www.finextra.com/newsarticle/48628/bbva-works-with-nvidia-to-boost-ai-agent-security</id>
-    <updated>2026-10-21T15:38:00.000Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>BBVA is collaborating with chip giant Nvidia to explore how security and governance can be embedded into AI agents from the design stage.</summary>
-  </entry>
-  <entry>
-    <title>Nscale CEO Touts Doubling of Contract Value in Note to Employees</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-21/nscale-ceo-touts-doubling-of-contract-value-in-note-to-employees"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-21/nscale-ceo-touts-doubling-of-contract-value-in-note-to-employees</id>
-    <updated>2026-10-21T13:44:14.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Nscale Ltd.’s contracts to deliver computing power have more than doubled in value since a funding round in March, according to a note to staff from its chief executive officer, as the AI cloud computing company faces pushback from investors on its IPO valuation target.</summary>
-  </entry>
-  <entry>
-    <title>CROs urged to use ‘creative’ stress tests for interconnected risks</title>
-    <link href="https://www.risk.net/risk-management/7964319/cros-urged-to-use-%E2%80%98creative%E2%80%99-stress-tests-for-interconnected-risks"/>
-    <id>https://www.risk.net/risk-management/7964319/cros-urged-to-use-%E2%80%98creative%E2%80%99-stress-tests-for-interconnected-risks</id>
-    <updated>2026-10-21T14:53:23.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Risk Live Asia: AI, cyber security and geopolitics mean faster shock transmission across risk types</summary>
-  </entry>
-  <entry>
-    <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
-    <link href="https://openai.com/index/chatgpt-ads-expands-26-new-countries"/>
-    <id>https://openai.com/index/chatgpt-ads-expands-26-new-countries</id>
-    <updated>2026-10-21T13:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.</summary>
-  </entry>
-  <entry>
-    <title>Securing software in the age of AI: Red Hat CTO Chris Wright</title>
-    <link href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright"/>
-    <id>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</id>
-    <updated>2026-10-20T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.</summary>
-  </entry>
-  <entry>
-    <title>Otter Secures $320 Million to Turn AI Notetaker Into Enterprise Knowledge Engine</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/otter-secures-320-million-to-turn-ai-notetaker-into-enterprise-knowledge-engine"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/otter-secures-320-million-to-turn-ai-notetaker-into-enterprise-knowledge-engine</id>
-    <updated>2026-10-21T00:45:29.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Otter.ai secured $320 million in growth financing from General Catalyst’s Customer Value Fund (CVF) to accelerate the growth of its artificial intelligence notetaker and conversational knowledge platform, the company said in a Tuesday (Oct. 20) press release. Otter will invest the new financing in its enterprise growth</summary>
-  </entry>
-  <entry>
-    <title>Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge</title>
-    <link href="https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"/>
-    <id>https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html</id>
-    <updated>2026-10-21T13:30:57.000Z</updated>
-    <author><name>CNBC Tech</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.</summary>
-  </entry>
-  <entry>
-    <title>AI Guardrails Aren’t Stopping Criminal Hackers</title>
-    <link href="https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers"/>
-    <id>https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers</id>
-    <updated>2026-10-21T14:00:00.000Z</updated>
-    <author><name>Wired AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.</summary>
-  </entry>
-  <entry>
-    <title>Building the future of finance in the age of AI</title>
-    <link href="https://www.fca.org.uk/news/speeches/building-future-finance-age-ai"/>
-    <id>https://www.fca.org.uk/news/speeches/building-future-finance-age-ai</id>
-    <updated>2026-10-19T00:00:00.000Z</updated>
-    <author><name>FCA News</name></author>
-    <category term="REGULATION"/>
-    <summary>Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated are already emerging, including the trans</summary>
-  </entry>
-  <entry>
-    <title>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</title>
-    <link href="https://www.finra.org/rules-guidance/notices/26-18"/>
-    <id>https://www.finra.org/rules-guidance/notices/26-18</id>
-    <updated>2026-10-14T00:00:00.000Z</updated>
-    <author><name>FINRA Notices</name></author>
-    <category term="REGULATION"/>
-    <summary>FINRA Adopts Amendments that Shorten the Qualification Examination Retake Waiting Periods</summary>
-  </entry>
-  <entry>
-    <title>When RIAs Merge, Compliance Risks Multiply</title>
-    <link href="https://www.wealthsolutionsreport.com/when-rias-merge-compliance-risks-multiply"/>
-    <id>https://www.wealthsolutionsreport.com/when-rias-merge-compliance-risks-multiply</id>
-    <updated>2026-10-21T13:34:43.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Compliance And Technology Experts Discuss RIA M&amp;A Risks And How AI Can Help Manage Them</summary>
-  </entry>
-  <entry>
-    <title>AI Use Is Widespread Among RIAs Despite Lack of Strategy, Leadership</title>
-    <link href="https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy"/>
-    <id>https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy</id>
-    <updated>2026-10-20T20:31:43.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Panelists at RIA Edge Orange County said the stumbling blocks to AI implementation in wealth management are more about strategy and leadership than about the rapidly evolving tools.</summary>
-  </entry>
-  <entry>
-    <title>Dan Wiltshire: Ignore the AI prophets of doom</title>
-    <link href="https://www.moneymarketing.co.uk/dan-wiltshire-ignore-the-ai-prophets-of-doom"/>
-    <id>https://www.moneymarketing.co.uk/dan-wiltshire-ignore-the-ai-prophets-of-doom</id>
-    <updated>2026-10-21T07:00:03.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>By now we’re all acutely aware that there’s this thing called AI and this thing is going to change the world. We’ve been bashed around the head with this stuff for years now. Even my Nan’s using it. We get it – it’s here and… The post Dan Wiltshire: Ignore the AI prophets of doom appeared first on Money Marketing .</summary>
-  </entry>
-  <entry>
     <title>AI in the Audit Room</title>
     <link href="https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room"/>
     <id>https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room</id>
@@ -214,66 +241,39 @@
     <summary>Most organizations now use AI, and most have a policy for it. Far fewer test whether that policy works. When errors surface, it’s often internal audit that finds them, after the output has already reached the board, a regulator, or the public. The post AI in the Audit Room appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>‘Rogue’ AI raises liability and insurance questions for developers and deployers</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/rogue-ai-raises-liability-and-insurance-questions-for-developers-and-deployers"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/rogue-ai-raises-liability-and-insurance-questions-for-developers-and-deployers</id>
-    <updated>2026-10-19T18:37:16.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Insurance companies anticipate multi-million-dollar claims if AI developers are sued over AI wrongdoing. Recent examples of AI autonomously hacking third-party systems and evading controls have increased concern about liability cases for both developers and deployers. The post ‘Rogue’ AI raises liability and insurance </summary>
+    <title>Anthropic Accounting Charge Drives 80% Net Loss</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accounting-charge-drives-80percent-net-loss"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accounting-charge-drives-80percent-net-loss</id>
+    <updated>2026-10-21T18:33:01.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Anthropic’s net loss jumped significantly to $80.7 billion in the first half of 2026, largely due to an accounting charge. That’s according to a report Tuesday (Oct. 20) by Reuters, which viewed a draft prospectus for the company’s planned initial public offering (IPO). Anthropic is expected to go public next month, wi</summary>
   </entry>
   <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-21T15:01:56.029Z</updated>
+    <updated>2026-10-21T19:13:48.084Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-21T15:01:56.029Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
-  </entry>
-  <entry>
-    <title>EQT Warns of Hidden Portfolio Risks</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-21/eqt-warns-of-hidden-portfolio-risks-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-21/eqt-warns-of-hidden-portfolio-risks-video</id>
-    <updated>2026-10-21T14:15:26.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>The Huawei-DeepSeek Symbiosis</title>
+    <link href="https://newsletter.semianalysis.com/p/huawei-deepseek"/>
+    <id>https://newsletter.semianalysis.com/p/huawei-deepseek</id>
+    <updated>2026-10-21T17:34:38.000Z</updated>
+    <author><name>SemiAnalysis</name></author>
     <category term="AI MARKETS"/>
-    <summary>EQT says portfolios that look diversified may still be exposed to the same underlying risks, including AI spending. CEO Per Franzen joins Bloomberg Open Interest to discuss potential overinvestment, strong demand for data-center capacity and how higher capital costs are shaping the buildout. He also weighs in on privat</summary>
+    <summary>Huawei Ascend 950PR Deep dive &amp; µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend</summary>
   </entry>
   <entry>
-    <title>US Futures Climb With SpaceX Results Helping Boost AI Sentiment</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-21/us-futures-climb-with-spacex-results-helping-boost-ai-sentiment"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-21/us-futures-climb-with-spacex-results-helping-boost-ai-sentiment</id>
-    <updated>2026-10-21T12:18:53.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>AI Research Startup Flapping Airplanes Valued at $6 Billion in Round</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round</id>
+    <updated>2026-10-21T17:00:01.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The S&amp;P 500 Index pared early-session gains spurred by solid earnings from SpaceX and Super Micro Computer Inc., which had bolstered bullish views of the artificial-intelligence trade. Healthcare and communcations stocks led declining sectors in Wednesday trading. Attention turns next to earnings from tech giants Meta </summary>
-  </entry>
-  <entry>
-    <title>Kepler Partners' Jean-Baptiste Andrieux: Funds to fight index bloat in AI-warped EMs</title>
-    <link href="https://www.investmentweek.co.uk/opinion/4537253/kepler-partners-jean-baptiste-andrieux-funds-fight-index-bloat-ai-warped-ems"/>
-    <id>https://www.investmentweek.co.uk/opinion/4537253/kepler-partners-jean-baptiste-andrieux-funds-fight-index-bloat-ai-warped-ems</id>
-    <updated>2026-10-21T07:20:22.000Z</updated>
-    <author><name>Investment Week</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Emerging market equities have made a comeback, having outperformed their developed market peers in 2025 and so far this year.</summary>
-  </entry>
-  <entry>
-    <title>Kitces: AI Gives Advisers Depth and Quality, Rather Than Efficiency</title>
-    <link href="https://www.planadviser.com/kitces-ai-gives-advisers-depth-and-quality-rather-than-efficiency"/>
-    <id>https://www.planadviser.com/kitces-ai-gives-advisers-depth-and-quality-rather-than-efficiency</id>
-    <updated>2026-10-20T21:54:33.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Artificial intelligence is less about scaling a business than improving client relationships , according to industry commentator Michael Kitces.</summary>
+    <summary>Flapping Airplanes, a year-old artificial intelligence startup, has raised $1 billion in funding at a $6 billion valuation — the latest example of investors betting on a newer crop of AI research labs that have yet to introduce commercial products. The financing, set to be announced Wednesday, was led by Index Ventures</summary>
   </entry>
 </feed>
