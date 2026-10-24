@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-24T00:32:55.280Z</updated>
+  <updated>2026-10-24T05:39:25.571Z</updated>
   <entry>
     <title>Independents lag on AI. Here's how they can catch up</title>
     <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
@@ -61,13 +61,13 @@
     <summary>The SEC's exam division plans to probe how firms govern AI use, from deepfake threats to vendor risk, while also prioritizing illiquid products and Reg S-P readiness.</summary>
   </entry>
   <entry>
-    <title>Do smaller RIAs really need to own their data?</title>
-    <link href="https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data"/>
-    <id>https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data</id>
-    <updated>2026-10-23T22:05:00.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026</title>
+    <link href="https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026"/>
+    <id>https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026</id>
+    <updated>2026-10-24T01:13:31.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>At FP's ADVISE AI conference, Michael Kitces called many big-firm data warehouse builds overspends, while Joel Bruckenstein warned small firms to clean their data and scrutinize vendor contracts.</summary>
+    <summary>Word leaked out during a webinar about having to buy 20 seats</summary>
   </entry>
   <entry>
     <title>The State of AI Governance in Third-Party Risk</title>
@@ -79,13 +79,13 @@
     <summary>In this session, ECI CEO James Lindstrom and Integrity Bridge CEO Andrew McBride look at where AI governance stands today, including recent cases where vendors’ unmanaged AI use led to fabricated citations and exposed personal data. The post The State of AI Governance in Third-Party Risk appeared first on Compliance We</summary>
   </entry>
   <entry>
-    <title>Wealth Tax Debate, Midterm Investing, AI Anxiety</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video</id>
-    <updated>2026-10-23T22:47:27.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Pegasus spyware founder urges governments to trust his tech and ditch US AI</title>
+    <link href="https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1</id>
+    <updated>2026-10-24T04:00:23.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)</summary>
+    <summary>Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security</summary>
   </entry>
   <entry>
     <title>The use of generative AI for stock selection</title>
@@ -142,6 +142,15 @@
     <summary>A new SIFMA and KPMG study of more than 2,100 US investors finds satisfaction high, AI-only trust falling, and demand for human guidance growing across every generation.</summary>
   </entry>
   <entry>
+    <title>Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally</title>
+    <link href="https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23"/>
+    <id>https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23</id>
+    <updated>2026-10-23T10:06:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally Reuters</summary>
+  </entry>
+  <entry>
     <title>OpenAI now trains its frontier AI models with no internet access</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"/>
     <id>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</id>
@@ -149,15 +158,6 @@
     <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content &quot;without risk of affecting external systems.&quot; OpenAI pa</summary>
-  </entry>
-  <entry>
-    <title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-    <link href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up"/>
-    <id>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up</id>
-    <updated>2026-10-22T19:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</summary>
   </entry>
   <entry>
     <title>2026 IAA Compliance Workshops: Recap</title>
@@ -187,6 +187,15 @@
     <summary>Since the start of this decade, wealth management has transformed dramatically. Technology is evolving at such a rapid pace that the sector could look vastly different in the next few years. With 2030 edging ever closer, FinTech Global spoke to leaders from across the sector to explore what wealth management might look</summary>
   </entry>
   <entry>
+    <title>Do smaller RIAs really need to own their data?</title>
+    <link href="https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data"/>
+    <id>https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data</id>
+    <updated>2026-10-23T22:05:00.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>At FP's ADVISE AI conference, Michael Kitces called many big-firm data warehouse builds overspends, while Joel Bruckenstein warned small firms to clean their data and scrutinize vendor contracts.</summary>
+  </entry>
+  <entry>
     <title>With UK Deadline Near, Just 9% of Multinationals Have Completed ID Checks</title>
     <link href="https://www.corporatecomplianceinsights.com/news-roundup-october-22-2026"/>
     <id>https://www.corporatecomplianceinsights.com/news-roundup-october-22-2026</id>
@@ -208,7 +217,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-24T00:30:57.773Z</updated>
+    <updated>2026-10-24T05:39:15.185Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -217,19 +226,19 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-24T00:30:57.773Z</updated>
+    <updated>2026-10-24T05:39:15.185Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>AI Trade Stumbles Again as Investors Rediscover Treasury Haven</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven</id>
-    <updated>2026-10-23T20:32:42.000Z</updated>
+    <title>Wealth Tax Debate, Midterm Investing, AI Anxiety</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video</id>
+    <updated>2026-10-23T22:47:27.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>According to the president of Blackstone Inc., there’s no bubble in artificial intelligence. Treasury Secretary Scott Bessent isn’t seeing a “systemic problem” in the boom. But as hard as Wall Street brass works to tamp down concerns around the space, markets are refusing to be calmed.</summary>
+    <summary>Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>AI Ushers in New Era of Cybersecurity Needs</title>
@@ -266,14 +275,5 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</summary>
-  </entry>
-  <entry>
-    <title>UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic</id>
-    <updated>2026-10-23T23:01:00.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.</summary>
   </entry>
 </feed>
