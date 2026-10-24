@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-24T18:02:07.201Z</updated>
+  <updated>2026-10-24T20:40:45.456Z</updated>
   <entry>
     <title>Independents lag on AI. Here's how they can catch up</title>
     <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
@@ -14,33 +14,6 @@
     <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Larger firms have the governance, vetting and training to deploy AI. Smaller firms are racing to catch up. — Also covered by: American Banker AI</summary>
-  </entry>
-  <entry>
-    <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
-    <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
-    <id>https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689</id>
-    <updated>2026-10-21T19:48:20.000Z</updated>
-    <author><name>GN: advisor AI notetaker</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump InvestmentNews</summary>
-  </entry>
-  <entry>
-    <title>Uber puts all 30,000 employees on ChatGPT Work</title>
-    <link href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work"/>
-    <id>https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work</id>
-    <updated>2026-10-22T16:00:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide. — Also covered by: OpenAI News</summary>
-  </entry>
-  <entry>
-    <title>Zocks Earns Highest WealthTech Integration Score for AI Assistants from Ezra Group</title>
-    <link href="https://finance.yahoo.com/technology/ai/articles/zocks-earns-highest-wealthtech-integration-130000639.html"/>
-    <id>https://finance.yahoo.com/technology/ai/articles/zocks-earns-highest-wealthtech-integration-130000639.html</id>
-    <updated>2026-10-22T13:00:00.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Zocks Earns Highest WealthTech Integration Score for AI Assistants from Ezra Group Yahoo Finance</summary>
   </entry>
   <entry>
     <title>Fintech bytes: SEI, FinTurk and Powerlytics unveil new advisor tools</title>
@@ -52,13 +25,13 @@
     <summary>New launches tackle succession planning, AI-driven email management and heir retention ahead of the great wealth transfer</summary>
   </entry>
   <entry>
-    <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
-    <link href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"/>
-    <id>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats</id>
-    <updated>2026-10-24T15:00:00.000Z</updated>
+    <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+    <link href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"/>
+    <id>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it</id>
+    <updated>2026-10-24T19:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</summary>
+    <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy &quot;super app&quot; launch, here's a look at the AI projects that shut down or missed expectations.</summary>
   </entry>
   <entry>
     <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
@@ -100,7 +73,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-24T18:01:51.711Z</updated>
+    <updated>2026-10-24T20:38:47.717Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -169,6 +142,15 @@
     <summary>A new SIFMA and KPMG study of more than 2,100 US investors finds satisfaction high, AI-only trust falling, and demand for human guidance growing across every generation.</summary>
   </entry>
   <entry>
+    <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+    <link href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"/>
+    <id>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats</id>
+    <updated>2026-10-24T15:00:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</summary>
+  </entry>
+  <entry>
     <title>The PHP Meltdown Shows How AI Makes Bugs More Exploitable</title>
     <link href="https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"/>
     <id>https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable</id>
@@ -176,15 +158,6 @@
     <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.</summary>
-  </entry>
-  <entry>
-    <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
-    <link href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks"/>
-    <id>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</id>
-    <updated>2026-10-23T23:05:49.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</summary>
   </entry>
   <entry>
     <title>Who Wears the Cost?</title>
@@ -235,7 +208,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-24T18:01:51.711Z</updated>
+    <updated>2026-10-24T20:38:47.717Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -244,7 +217,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-24T18:01:51.711Z</updated>
+    <updated>2026-10-24T20:38:47.717Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -275,5 +248,32 @@
     <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending</summary>
+  </entry>
+  <entry>
+    <title>FCA chief: Risks put on 'steroids' by unprecedented pace of tech and AI development</title>
+    <link href="https://www.investmentweek.co.uk/news/4537781/fca-chief-risks-steroids-unprecedented-pace-tech-ai-development"/>
+    <id>https://www.investmentweek.co.uk/news/4537781/fca-chief-risks-steroids-unprecedented-pace-tech-ai-development</id>
+    <updated>2026-10-23T10:08:28.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>The unprecedented pace of technological change provoked by AI has magnified volatility, concentration and market abuse risks, according to the Financial Conduct Authority’s Nikhil Rathi.</summary>
+  </entry>
+  <entry>
+    <title>Securing our frontier model training environment</title>
+    <link href="https://openai.com/index/securing-our-frontier-model-training-environment"/>
+    <id>https://openai.com/index/securing-our-frontier-model-training-environment</id>
+    <updated>2026-10-23T10:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</summary>
+  </entry>
+  <entry>
+    <title>UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic</id>
+    <updated>2026-10-23T23:01:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.</summary>
   </entry>
 </feed>
