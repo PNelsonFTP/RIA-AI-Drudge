@@ -5,15 +5,24 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-24T20:40:45.456Z</updated>
+  <updated>2026-10-24T23:05:01.086Z</updated>
   <entry>
-    <title>Independents lag on AI. Here's how they can catch up</title>
-    <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
-    <id>https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up</id>
-    <updated>2026-10-23T14:24:16.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Larger firms have the governance, vetting and training to deploy AI. Smaller firms are racing to catch up. — Also covered by: American Banker AI</summary>
+    <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
+    <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
+    <id>https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689</id>
+    <updated>2026-10-21T19:48:20.000Z</updated>
+    <author><name>GN: advisor AI notetaker</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump InvestmentNews</summary>
+  </entry>
+  <entry>
+    <title>Zocks Earns Highest WealthTech Integration Score for AI Assistants from Ezra Group</title>
+    <link href="https://finance.yahoo.com/technology/ai/articles/zocks-earns-highest-wealthtech-integration-130000639.html"/>
+    <id>https://finance.yahoo.com/technology/ai/articles/zocks-earns-highest-wealthtech-integration-130000639.html</id>
+    <updated>2026-10-22T13:00:00.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Zocks Earns Highest WealthTech Integration Score for AI Assistants from Ezra Group Yahoo Finance</summary>
   </entry>
   <entry>
     <title>Fintech bytes: SEI, FinTurk and Powerlytics unveil new advisor tools</title>
@@ -73,7 +82,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-24T20:38:47.717Z</updated>
+    <updated>2026-10-24T23:04:49.227Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -208,7 +217,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-24T20:38:47.717Z</updated>
+    <updated>2026-10-24T23:04:49.227Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -217,7 +226,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-24T20:38:47.717Z</updated>
+    <updated>2026-10-24T23:04:49.227Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -266,14 +275,5 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</summary>
-  </entry>
-  <entry>
-    <title>UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic</id>
-    <updated>2026-10-23T23:01:00.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.</summary>
   </entry>
 </feed>
