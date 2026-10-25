@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-25T18:53:24.522Z</updated>
+  <updated>2026-10-25T21:38:37.797Z</updated>
+  <entry>
+    <title>Independents lag on AI. Here's how they can catch up</title>
+    <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
+    <id>https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up</id>
+    <updated>2026-10-23T14:24:16.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Larger firms have the governance, vetting and training to deploy AI. Smaller firms are racing to catch up. — Also covered by: American Banker AI</summary>
+  </entry>
   <entry>
     <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
     <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
@@ -82,7 +91,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-25T18:53:14.954Z</updated>
+    <updated>2026-10-25T21:38:26.901Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -178,13 +187,13 @@
     <summary>Platform fees for API access and AI agent calls keep landing on advisors' desks, whereas industry history illustrates that openness benefits everyone without hurting profit margins.</summary>
   </entry>
   <entry>
-    <title>WealthTech Safari — Week of October 23, 2026</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-23-2026"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-23-2026</id>
-    <updated>2026-10-24T12:11:29.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
+    <title>Wealthtech on track for lowest funding since 2018</title>
+    <link href="https://asianbankingandfinance.net/retail-banking/in-focus/wealthtech-track-lowest-funding-2018"/>
+    <id>https://asianbankingandfinance.net/retail-banking/in-focus/wealthtech-track-lowest-funding-2018</id>
+    <updated>2026-10-22T21:30:00.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Docupace rebuilds its wealth operations platform around a universal client record Docupace, a back-office software provider for wealth management enterprises, released Docupace Next 1.0, built on a new data architecture of reusable contact records that act as a universal client master across custodians, accounts, workf</summary>
+    <summary>Wealthtech on track for lowest funding since 2018 Asian Banking &amp; Finance</summary>
   </entry>
   <entry>
     <title>Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026</title>
@@ -194,15 +203,6 @@
     <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Word leaked out during a webinar about having to buy 20 seats</summary>
-  </entry>
-  <entry>
-    <title>Do smaller RIAs really need to own their data?</title>
-    <link href="https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data"/>
-    <id>https://www.financial-planning.com/news/do-smaller-rias-really-need-to-own-their-data</id>
-    <updated>2026-10-23T22:05:00.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>At FP's ADVISE AI conference, Michael Kitces called many big-firm data warehouse builds overspends, while Joel Bruckenstein warned small firms to clean their data and scrutinize vendor contracts.</summary>
   </entry>
   <entry>
     <title>The State of AI Governance in Third-Party Risk</title>
@@ -226,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-25T18:53:14.954Z</updated>
+    <updated>2026-10-25T21:38:26.901Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -235,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-25T18:53:14.954Z</updated>
+    <updated>2026-10-25T21:38:26.901Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -250,13 +250,13 @@
     <summary>Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things: play music, make calls, answer questions through Meta’s artificial intelligence assistant, or</summary>
   </entry>
   <entry>
-    <title>Can Mistral Challenge Big Tech by Doing AI Differently?</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video</id>
-    <updated>2026-10-25T12:04:04.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Opinion | ‘Effective Altruism’ Is Another Term for Media Bias</title>
+    <link href="https://www.wsj.com/opinion/effective-altruism-is-another-term-for-media-bias-c0b77469?mod=rss_Technology"/>
+    <id>https://www.wsj.com/opinion/effective-altruism-is-another-term-for-media-bias-c0b77469?mod=rss_Technology</id>
+    <updated>2026-10-25T18:58:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Europe has fallen behind the US in the race to build the biggest AI models, constrained by smaller capital markets and a fragmented business environment. France-based Mistral is betting it can compete differently using open-source models to offer companies lower costs, more control over their data and greater technolog</summary>
+    <summary>The movement is now backing fellowships that train journalists to cover ‘AI safety.’</summary>
   </entry>
   <entry>
     <title>The use of generative AI for stock selection</title>
