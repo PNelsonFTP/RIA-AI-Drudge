@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-25T11:12:26.145Z</updated>
+  <updated>2026-10-25T15:59:10.312Z</updated>
+  <entry>
+    <title>Independents lag on AI. Here's how they can catch up</title>
+    <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
+    <id>https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up</id>
+    <updated>2026-10-23T14:24:16.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Larger firms have the governance, vetting and training to deploy AI. Smaller firms are racing to catch up. — Also covered by: American Banker AI</summary>
+  </entry>
   <entry>
     <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
     <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
@@ -82,19 +91,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-25T11:12:15.980Z</updated>
+    <updated>2026-10-25T15:58:59.912Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels</id>
-    <updated>2026-10-25T07:44:43.000Z</updated>
+    <title>Zero-Day Option Traders Are Betting Against Big S&amp;P 500 Swings</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings</id>
+    <updated>2026-10-25T14:00:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Goldman Sachs Group Inc. strategists slashed their target for South Korea’s Kospi Index by 25%, after raising it repeatedly this year, as concerns over the artificial intelligence trade intensify.</summary>
+    <summary>While some investors position for AI earnings, geopolitics and interest rates to send stocks either to new highs or into a tailspin, zero-day option traders have increasingly bet that the S&amp;P 500 Index will remain calm.</summary>
   </entry>
   <entry>
     <title>Calpers retreats from Big Tech as AI rally falters</title>
@@ -151,6 +160,15 @@
     <summary>A new SIFMA and KPMG study of more than 2,100 US investors finds satisfaction high, AI-only trust falling, and demand for human guidance growing across every generation.</summary>
   </entry>
   <entry>
+    <title>Anthropic IPO stands alone as AI market jitters sideline others</title>
+    <link href="https://www.reuters.com/legal/transactional/anthropic-ipo-stands-alone-ai-market-jitters-sideline-others-2026-10-22"/>
+    <id>https://www.reuters.com/legal/transactional/anthropic-ipo-stands-alone-ai-market-jitters-sideline-others-2026-10-22</id>
+    <updated>2026-10-24T06:48:57.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic IPO stands alone as AI market jitters sideline others Reuters</summary>
+  </entry>
+  <entry>
     <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
     <link href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"/>
     <id>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats</id>
@@ -158,15 +176,6 @@
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</summary>
-  </entry>
-  <entry>
-    <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
-    <link href="https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks"/>
-    <id>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</id>
-    <updated>2026-10-23T23:05:49.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</summary>
   </entry>
   <entry>
     <title>Who Wears the Cost?</title>
@@ -217,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-25T11:12:15.980Z</updated>
+    <updated>2026-10-25T15:58:59.912Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -226,28 +235,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-25T11:12:15.980Z</updated>
+    <updated>2026-10-25T15:58:59.912Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing</id>
-    <updated>2026-10-25T10:30:39.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Not Just OpenAI: There Are More Pre-IPO Names to Watch</title>
+    <link href="https://www.thedailyupside.com/advisor/investing-strategies/not-just-openai-there-are-more-pre-ipo-names-to-watch"/>
+    <id>https://www.thedailyupside.com/advisor/investing-strategies/not-just-openai-there-are-more-pre-ipo-names-to-watch</id>
+    <updated>2026-10-25T12:00:00.000Z</updated>
+    <author><name>The Daily Upside</name></author>
     <category term="AI MARKETS"/>
-    <summary>Suzhou Dongshan Precision Manufacturing Co. a printed circuit board maker, raised about HK$9.9 billion ($1.3 billion) in Hong Kong’s biggest listing in nearly two months, which hit a volatile market for companies related to the artificial intelligence build out.</summary>
+    <summary>There are more ways than ever to access late-stage private equity, and there are some big IPOs on the horizon. The post Not Just OpenAI: There Are More Pre-IPO Names to Watch appeared first on The Daily Upside .</summary>
   </entry>
   <entry>
-    <title>SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says</id>
-    <updated>2026-10-25T07:42:28.000Z</updated>
+    <title>Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review</id>
+    <updated>2026-10-25T12:00:03.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Masayoshi Son of SoftBank Group Corp. chose locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.</summary>
+    <summary>Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things: play music, make calls, answer questions through Meta’s artificial intelligence assistant, or</summary>
   </entry>
   <entry>
     <title>The use of generative AI for stock selection</title>
@@ -266,14 +275,5 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>The unprecedented pace of technological change provoked by AI has magnified volatility, concentration and market abuse risks, according to the Financial Conduct Authority’s Nikhil Rathi.</summary>
-  </entry>
-  <entry>
-    <title>Securing our frontier model training environment</title>
-    <link href="https://openai.com/index/securing-our-frontier-model-training-environment"/>
-    <id>https://openai.com/index/securing-our-frontier-model-training-environment</id>
-    <updated>2026-10-23T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</summary>
   </entry>
 </feed>
