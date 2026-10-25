@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-24T23:05:01.086Z</updated>
+  <updated>2026-10-25T01:03:47.726Z</updated>
+  <entry>
+    <title>Independents lag on AI. Here's how they can catch up</title>
+    <link href="https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up"/>
+    <id>https://www.financial-planning.com/news/independents-lag-on-ai-heres-how-they-can-catch-up</id>
+    <updated>2026-10-23T14:24:16.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Larger firms have the governance, vetting and training to deploy AI. Smaller firms are racing to catch up. — Also covered by: American Banker AI</summary>
+  </entry>
   <entry>
     <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
     <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
@@ -82,7 +91,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-24T23:04:49.227Z</updated>
+    <updated>2026-10-25T01:03:34.419Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -217,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-24T23:04:49.227Z</updated>
+    <updated>2026-10-25T01:03:34.419Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -226,7 +235,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-24T23:04:49.227Z</updated>
+    <updated>2026-10-25T01:03:34.419Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -266,14 +275,5 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>The unprecedented pace of technological change provoked by AI has magnified volatility, concentration and market abuse risks, according to the Financial Conduct Authority’s Nikhil Rathi.</summary>
-  </entry>
-  <entry>
-    <title>Securing our frontier model training environment</title>
-    <link href="https://openai.com/index/securing-our-frontier-model-training-environment"/>
-    <id>https://openai.com/index/securing-our-frontier-model-training-environment</id>
-    <updated>2026-10-23T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</summary>
   </entry>
 </feed>
