@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-26T04:37:13.955Z</updated>
+  <updated>2026-10-26T10:57:22.967Z</updated>
   <entry>
     <title>AI tech stack overlap tests RIAs as Focus adds Nevis to Jump</title>
     <link href="https://www.investmentnews.com/transformation/ai-tech-stack-overlap-tests-rias-as-focus-adds-nevis-to-jump/268689"/>
@@ -25,13 +25,13 @@
     <summary>Zocks Earns Highest WealthTech Integration Score for AI Assistants from Ezra Group Yahoo Finance</summary>
   </entry>
   <entry>
-    <title>Fintech bytes: SEI, FinTurk and Powerlytics unveil new advisor tools</title>
-    <link href="https://www.investmentnews.com/fintech/fintech-bytes-sei-finturk-and-powerlytics-unveil-new-advisor-tools/268719"/>
-    <id>https://www.investmentnews.com/fintech/fintech-bytes-sei-finturk-and-powerlytics-unveil-new-advisor-tools/268719</id>
-    <updated>2026-10-23T13:25:54.000Z</updated>
+    <title>AI governance gaps leave RIAs exposed to a new wave of cyber threats</title>
+    <link href="https://www.investmentnews.com/practice-management/ai-governance-gaps-leave-rias-exposed-to-a-new-wave-of-cyber-threats/268735"/>
+    <id>https://www.investmentnews.com/practice-management/ai-governance-gaps-leave-rias-exposed-to-a-new-wave-of-cyber-threats/268735</id>
+    <updated>2026-10-26T10:37:00.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>New launches tackle succession planning, AI-driven email management and heir retention ahead of the great wealth transfer</summary>
+    <summary>Shadow AI, weak oversight, and no formal policy highlight why advisory firms are more exposed to cyber risk than they realize.</summary>
   </entry>
   <entry>
     <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
@@ -82,19 +82,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-26T04:37:00.580Z</updated>
+    <updated>2026-10-26T10:57:10.831Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-26/em-stocks-fall-before-key-earnings-brazil-in-focus-as-lula-wins</id>
-    <updated>2026-10-26T03:53:33.000Z</updated>
+    <title>AI Agents Seen Taking Credit Trading Work From Humans Over Time</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/ai-agents-seen-taking-credit-trading-work-from-humans-over-time"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/ai-agents-seen-taking-credit-trading-work-from-humans-over-time</id>
+    <updated>2026-10-26T09:30:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Emerging-market stocks started the week lower as investors awaited earnings from some of the world’s biggest technology companies for clues on whether the artificial intelligence trade can recover from a bruising selloff.</summary>
+    <summary>Bond traders are right to be worried about artificial intelligence, it’s coming for their job — but only some of it, and not all at once.</summary>
   </entry>
   <entry>
     <title>Calpers retreats from Big Tech as AI rally falters</title>
@@ -115,13 +115,13 @@
     <summary>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</summary>
   </entry>
   <entry>
-    <title>Clearwater Warns on Agentic Use in Risk Management Without Data Quality Check</title>
-    <link href="https://a-teaminsight.com/blog/clearwater-warns-on-agentic-use-in-risk-management-without-data-quality-check?brand=ati"/>
-    <id>https://a-teaminsight.com/blog/clearwater-warns-on-agentic-use-in-risk-management-without-data-quality-check?brand=ati</id>
-    <updated>2026-10-24T12:53:29.000Z</updated>
-    <author><name>A-Team Insight</name></author>
+    <title>The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI</title>
+    <link href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai"/>
+    <id>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</id>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>The deployment of artificial intelligence agents to risk management processes without adequate attention paid to data quality will expose capital markets participants to undue vulnerabilities. The warning from Clearwater Analytics came after a survey by the company found almost all institutional investors questioned sa</summary>
+    <summary>AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.</summary>
   </entry>
   <entry>
     <title>How AI, Automation and Data are Reshaping Investment Operations</title>
@@ -133,6 +133,15 @@
     <summary>Artificial intelligence is dominating conversations about the future of financial services. But AI is only one part of a much bigger transformation taking place across investment operations. The more significant opportunity comes from bringing together three capabilities: high-quality data, intelligent analysis and aut</summary>
   </entry>
   <entry>
+    <title>Fintech bytes: SEI, FinTurk and Powerlytics unveil new advisor tools</title>
+    <link href="https://www.investmentnews.com/fintech/fintech-bytes-sei-finturk-and-powerlytics-unveil-new-advisor-tools/268719"/>
+    <id>https://www.investmentnews.com/fintech/fintech-bytes-sei-finturk-and-powerlytics-unveil-new-advisor-tools/268719</id>
+    <updated>2026-10-23T13:25:54.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>New launches tackle succession planning, AI-driven email management and heir retention ahead of the great wealth transfer</summary>
+  </entry>
+  <entry>
     <title>American Express to make job cuts as AI revolution ramps up</title>
     <link href="https://www.investmentnews.com/fintech/american-express-to-make-job-cuts-as-ai-revolution-ramps-up/268723"/>
     <id>https://www.investmentnews.com/fintech/american-express-to-make-job-cuts-as-ai-revolution-ramps-up/268723</id>
@@ -140,15 +149,6 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>“We needed to become a more agile and efficient organization,” said American Express CEO Stephen Squeri.</summary>
-  </entry>
-  <entry>
-    <title>Investors still want advisors, even as AI expands investment choices</title>
-    <link href="https://www.investmentnews.com/transformation/investors-still-want-advisors-even-as-ai-expands-investment-choices/268716"/>
-    <id>https://www.investmentnews.com/transformation/investors-still-want-advisors-even-as-ai-expands-investment-choices/268716</id>
-    <updated>2026-10-23T10:30:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>A new SIFMA and KPMG study of more than 2,100 US investors finds satisfaction high, AI-only trust falling, and demand for human guidance growing across every generation.</summary>
   </entry>
   <entry>
     <title>Anthropic IPO stands alone as AI market jitters sideline others</title>
@@ -226,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-26T04:37:00.580Z</updated>
+    <updated>2026-10-26T10:57:10.831Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -235,28 +235,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-26T04:37:00.580Z</updated>
+    <updated>2026-10-26T10:57:10.831Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting</id>
-    <updated>2026-10-26T03:52:35.000Z</updated>
+    <title>CoreWeave Rout Sends Warning Sign to Rest of the Stock Market</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/coreweave-rout-sends-warning-sign-to-rest-of-the-stock-market</id>
+    <updated>2026-10-26T09:24:43.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Copper extended last week’s drop as artificial intelligence stocks came under further pressure, sapping risk appetite ahead of the Federal Reserve’s policy meeting.</summary>
+    <summary>Wall Street strategists are warning that declines in shares of AI cloud-computing providers will spill into other corners of the tech trade, potentially dragging the US stock market down to its June lows.</summary>
   </entry>
   <entry>
-    <title>Asset Manager Australian Dollar Shorts Hit Record on Risk-Off</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-26/asset-manager-australian-dollar-shorts-hit-record-on-risk-off"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-26/asset-manager-australian-dollar-shorts-hit-record-on-risk-off</id>
-    <updated>2026-10-26T01:44:58.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>We need to know if AI agents are accessing British services</title>
+    <link href="https://www.ft.com/content/a2be99e5-b952-495f-9776-1ce7e4f994aa?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/a2be99e5-b952-495f-9776-1ce7e4f994aa?syn-25a6b1a6=1</id>
+    <updated>2026-10-26T05:00:20.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Asset managers’ short positions on the Australian dollar surged to a record high in the week ended Oct. 20, as mounting Middle East tensions and jitters over the artificial intelligence trade spurred a retreat from the risk-sensitive currency.</summary>
+    <summary>The recent hack of Australian health data is a reminder that this is the biggest cyber security threat facing the UK</summary>
   </entry>
   <entry>
     <title>The use of generative AI for stock selection</title>
