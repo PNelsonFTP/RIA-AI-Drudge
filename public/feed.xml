@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-27T01:58:41.902Z</updated>
+  <updated>2026-10-27T07:40:16.403Z</updated>
+  <entry>
+    <title>Anthropic IPO Reignites AI Trade in Asia</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-27/insight-with-haslinda-amin-10-27-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-27/insight-with-haslinda-amin-10-27-2026-video</id>
+    <updated>2026-10-27T06:12:28.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>&quot;Insight with Haslinda Amin&quot; is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg) — Also covered by: Bloomberg Tech</summary>
+  </entry>
   <entry>
     <title>With the Anthropic IPO, the devil is in the details</title>
     <link href="https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories"/>
@@ -25,22 +34,22 @@
     <summary>The Claude maker’s S-1 lays out the opportunities, risks and compute costs to weigh ahead of a listing that could overshadow SpaceX’s record trading debut</summary>
   </entry>
   <entry>
-    <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
-    <link href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"/>
-    <id>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked</id>
-    <updated>2026-10-26T16:49:42.000Z</updated>
+    <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
+    <link href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"/>
+    <id>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant</id>
+    <updated>2026-10-27T02:00:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.</summary>
+    <summary>Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.</summary>
   </entry>
   <entry>
-    <title>Warren urges Fed, OCC, FDIC to restore bank examiner powers</title>
-    <link href="https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767"/>
-    <id>https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767</id>
-    <updated>2026-10-26T16:17:35.000Z</updated>
-    <author><name>Banking Dive</name></author>
+    <title>Artificial Intelligence Streamlines Clinical Workflows and Patient Care for Family Physicians</title>
+    <link href="https://www.thecardiologyadvisor.com/reports/artificial-intelligence-clinical-workflows-patient-care"/>
+    <id>https://www.thecardiologyadvisor.com/reports/artificial-intelligence-clinical-workflows-patient-care</id>
+    <updated>2026-10-26T04:00:00.000Z</updated>
+    <author><name>GN: SEC AI</name></author>
     <category term="REGULATION"/>
-    <summary>Policies limiting when examiners can issue warnings and enforcement actions leave banks more vulnerable to escalations in AI and cybersecurity threats, the senator said.</summary>
+    <summary>Artificial Intelligence Streamlines Clinical Workflows and Patient Care for Family Physicians The Cardiology Advisor</summary>
   </entry>
   <entry>
     <title>Nevis Lands $70M to Expand AI Wealth Platform</title>
@@ -52,13 +61,13 @@
     <summary>The Series B round includes backing from EQT Ventures, Charles Schwab and Revolut founder Nik Storonsky.</summary>
   </entry>
   <entry>
-    <title>Goldman, Morgan Stanley Take Top Banking Roles in Anthropic IPO</title>
-    <link href="https://www.advisorhub.com/goldman-morgan-stanley-take-top-banking-roles-in-anthropic-ipo"/>
-    <id>https://www.advisorhub.com/goldman-morgan-stanley-take-top-banking-roles-in-anthropic-ipo</id>
-    <updated>2026-10-26T19:38:53.000Z</updated>
-    <author><name>AdvisorHub</name></author>
+    <title>Schwab is the latest to leap on runaway 'Nevis' AI bandwagon with capital backing and a critical endorsement</title>
+    <link href="https://riabiz.com/a/2026/10/27/schwab-is-the-latest-to-leap-on-runaway-nevis-ai-bandwagon-with-capital-backing-and-a-critical-endorsement"/>
+    <id>https://riabiz.com/a/2026/10/27/schwab-is-the-latest-to-leap-on-runaway-nevis-ai-bandwagon-with-capital-backing-and-a-critical-endorsement</id>
+    <updated>2026-10-27T05:21:11.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The post Goldman, Morgan Stanley Take Top Banking Roles in Anthropic IPO appeared first on AdvisorHub .</summary>
+    <summary>After Anthropic hiccup, the custodian to 17,000 RIA firms puts its money where Jon Beatty's mouth is -- the AI platform chosen by Focus Financial, United Capital and others with $700 billion combined</summary>
   </entry>
   <entry>
     <title>New York City Proposes Sweeping Rules for Automated Customer Service Systems, Including Mandatory AI Disclosure and Access to Human Representatives</title>
@@ -73,19 +82,10 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-27T01:58:29.928Z</updated>
+    <updated>2026-10-27T07:40:06.415Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
-  </entry>
-  <entry>
-    <title>Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video</id>
-    <updated>2026-10-26T22:26:18.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Dave Lee, Bloomberg Opinion US Technology Columnist, joins Bloomberg Businessweek Daily to discuss his piece about Anthropic's IPO announcement. Lee writes about the firm's S-1 containing warnings about the company and prospects for humanity as AI technology continues to advance. Lee adds that the filing is described a</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 10/26/2026</title>
@@ -142,6 +142,15 @@
     <summary>Shadow AI, weak oversight, and no formal policy highlight why advisory firms are more exposed to cyber risk than they realize.</summary>
   </entry>
   <entry>
+    <title>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</title>
+    <link href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"/>
+    <id>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked</id>
+    <updated>2026-10-26T16:49:42.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.</summary>
+  </entry>
+  <entry>
     <title>Will the real Anthropic please stand up</title>
     <link href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"/>
     <id>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up</id>
@@ -149,15 +158,6 @@
     <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the te</summary>
-  </entry>
-  <entry>
-    <title>Anthropic officially files for its public debut</title>
-    <link href="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut"/>
-    <id>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut</id>
-    <updated>2026-10-26T14:35:22.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.</summary>
   </entry>
   <entry>
     <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
@@ -169,13 +169,13 @@
     <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
   </entry>
   <entry>
-    <title>SEC Examiners' 2027 Focus Includes Firms' Protections Against AI Phishing, Deepfakes</title>
-    <link href="https://www.wealthmanagement.com/regulation-compliance/sec-sharpens-ai-oversight-focus-in-2027-exam-priorities"/>
-    <id>https://www.wealthmanagement.com/regulation-compliance/sec-sharpens-ai-oversight-focus-in-2027-exam-priorities</id>
-    <updated>2026-10-23T18:57:35.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Warren urges Fed, OCC, FDIC to restore bank examiner powers</title>
+    <link href="https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767"/>
+    <id>https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767</id>
+    <updated>2026-10-26T16:17:35.000Z</updated>
+    <author><name>Banking Dive</name></author>
     <category term="REGULATION"/>
-    <summary>The SEC's exam division plans to probe how firms govern AI use, from deepfake threats to vendor risk, while also prioritizing illiquid products and Reg S-P readiness.</summary>
+    <summary>Policies limiting when examiners can issue warnings and enforcement actions leave banks more vulnerable to escalations in AI and cybersecurity threats, the senator said.</summary>
   </entry>
   <entry>
     <title>WealthTech's Autumn Flex: $1.8bn in a Quarter and the AI-Augmented Adviser</title>
@@ -187,6 +187,15 @@
     <summary>WealthTech's Autumn Flex: $1.8bn in a Quarter and the AI-Augmented Adviser FinanceX Magazine</summary>
   </entry>
   <entry>
+    <title>Goldman, Morgan Stanley Take Top Banking Roles in Anthropic IPO</title>
+    <link href="https://www.advisorhub.com/goldman-morgan-stanley-take-top-banking-roles-in-anthropic-ipo"/>
+    <id>https://www.advisorhub.com/goldman-morgan-stanley-take-top-banking-roles-in-anthropic-ipo</id>
+    <updated>2026-10-26T19:38:53.000Z</updated>
+    <author><name>AdvisorHub</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>The post Goldman, Morgan Stanley Take Top Banking Roles in Anthropic IPO appeared first on AdvisorHub .</summary>
+  </entry>
+  <entry>
     <title>Market Brief: Anthropic Files for IPO That Could Become Largest Stock Offering in History</title>
     <link href="https://www.advisorhub.com/morning-bell-wrapup-10-26-2026"/>
     <id>https://www.advisorhub.com/morning-bell-wrapup-10-26-2026</id>
@@ -194,15 +203,6 @@
     <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Anthropic Files for IPO That Could Become Largest Stock Offering in History appeared first on AdvisorHub .</summary>
-  </entry>
-  <entry>
-    <title>Monday links: a wave of vulnerabilities</title>
-    <link href="https://abnormalreturns.com/2026/10/26/monday-links-a-wave-of-vulnerabilities"/>
-    <id>https://abnormalreturns.com/2026/10/26/monday-links-a-wave-of-vulnerabilities</id>
-    <updated>2026-10-26T17:40:03.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Strategy Ejiye Jimeta Ibhawoh, &quot;AI will change what is scarce. It will not decide who captures that scarcity premium.&quot; (rpc.cfainstitute.org) Bear markets are about balance sheets. (hub.tslombard.com) AI No more leaks. Anthopic has dropped its S-1. (techcrunch.com) Elon says the neoclouds are dead. (barrons.com) Meta (</summary>
   </entry>
   <entry>
     <title>Hong Kong regulator sets accountability, resilience, trust rules for bank AI</title>
@@ -226,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-27T01:58:29.928Z</updated>
+    <updated>2026-10-27T07:40:06.415Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -235,28 +235,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-27T01:58:29.928Z</updated>
+    <updated>2026-10-27T07:40:06.415Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Asian Chip Stocks Rise as Anthropic IPO Filing Rekindles AI Bets</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets</id>
-    <updated>2026-10-27T01:00:52.000Z</updated>
+    <title>Anthropic IPO: Who Can Subscribe and What Are the Risks?</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-27/anthropic-ipo-who-can-subscribe-and-what-are-the-risks-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-27/anthropic-ipo-who-can-subscribe-and-what-are-the-risks-video</id>
+    <updated>2026-10-27T05:12:42.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Asian semiconductor stocks jumped, as Anthropic PBC’s initial public offering filing helped renew investor enthusiasm for the artificial intelligence trade.</summary>
+    <summary>How is Anthropic's listing positioned in Asian markets? Moneta's global wealth managing director and Bloomberg News reporters discuss the opportunities and pitfalls of the long-awaited IPO. (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package</id>
-    <updated>2026-10-26T21:43:04.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic’s big financial reveal</title>
+    <link href="https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1</id>
+    <updated>2026-10-27T05:00:29.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familiar with the matter.</summary>
+    <summary>Here are the big takeaways from the start-up’s IPO prospectus</summary>
   </entry>
   <entry>
     <title>Market Movers blog: US markets in the green as Anthropic files for IPO</title>
@@ -268,12 +268,12 @@
     <summary>In this live blog, Investment Week collates all the breaking market news, analysis and opinion on equity, bond and currencies, as well as the impact of regulation, economics and key market figures.</summary>
   </entry>
   <entry>
-    <title>Calpers retreats from Big Tech as AI rally falters</title>
-    <link href="https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1</id>
-    <updated>2026-10-23T04:00:18.000Z</updated>
-    <author><name>FT Asset Management</name></author>
+    <title>The use of generative AI for stock selection</title>
+    <link href="https://www.risk.net/node/7964332"/>
+    <id>https://www.risk.net/node/7964332</id>
+    <updated>2026-10-23T14:51:44.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending</summary>
+    <summary>The author analyses how generative artificial intelligence may be used to automate feature discovery in US equities.</summary>
   </entry>
 </feed>
