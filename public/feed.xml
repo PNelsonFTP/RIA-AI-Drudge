@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-29T02:22:36.456Z</updated>
+  <updated>2026-10-29T09:46:53.298Z</updated>
   <entry>
     <title>A guide to getting AI buy-in as RIAs look to scale</title>
     <link href="https://www.financial-planning.com/news/a-guide-to-getting-ai-buy-in-as-rias-look-to-scale"/>
@@ -25,13 +25,13 @@
     <summary>Schwab’s AI lead said RIAs would receive a $4,800 credit if they sign up for the enterprise version of Claude for Financial Advisors, initially eliminating a cost restriction for smaller firms. — Also covered by: InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Report Finds RIA Industry Rankings, Scale Don't Guarantee AI Search Visibility</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility</id>
-    <updated>2026-10-28T16:53:24.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The public relations firm Gregory studied over 8,000 AI-generated answers and found that many of the RIAs included in some of the industry’s top rankings are rarely (if ever) mentioned.</summary>
+    <title>What Wall Street Really Thanks About the AI Trade (Podcast)</title>
+    <link href="https://www.bloomberg.com/news/audio/2026-10-29/what-wall-street-really-thanks-about-the-ai-trade-podcast"/>
+    <id>https://www.bloomberg.com/news/audio/2026-10-29/what-wall-street-really-thanks-about-the-ai-trade-podcast</id>
+    <updated>2026-10-29T08:00:00.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>It has been a big week for the AI trade — we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that the laws of the econo — Also covered by: Bloomberg Tech</summary>
   </entry>
   <entry>
     <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -41,15 +41,6 @@
     <author><name>Google DeepMind Blog</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Also covered by: Ars Technica AI</summary>
-  </entry>
-  <entry>
-    <title>Jump Works With Anthropic to Bring Its Client Meeting Context to Claude for Financial Advisors</title>
-    <link href="https://www.01net.it/jump-works-with-anthropic-to-bring-its-client-meeting-context-to-claude-for-financial-advisors"/>
-    <id>https://www.01net.it/jump-works-with-anthropic-to-bring-its-client-meeting-context-to-claude-for-financial-advisors</id>
-    <updated>2026-10-27T19:00:00.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Jump Works With Anthropic to Bring Its Client Meeting Context to Claude for Financial Advisors 01net — Also covered by: Jump (vendor)</summary>
   </entry>
   <entry>
     <title>Anthropic IPO filing flags legal risks as Claude advisor offering expands</title>
@@ -70,22 +61,13 @@
     <summary>The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.</summary>
   </entry>
   <entry>
-    <title>SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams</title>
-    <link href="https://www.thedailyupside.com/etf/regulation-legislation/sec-to-focus-on-conflicts-complex-products-private-markets-in-2027-exams"/>
-    <id>https://www.thedailyupside.com/etf/regulation-legislation/sec-to-focus-on-conflicts-complex-products-private-markets-in-2027-exams</id>
-    <updated>2026-10-28T04:03:00.000Z</updated>
-    <author><name>The Daily Upside</name></author>
+    <title>Advyzon Launches the Industry’s Only Natively Built, AI-Powered Cash Flow Planning Experience Within a Unified Wealth Management Platform</title>
+    <link href="https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform"/>
+    <id>https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform</id>
+    <updated>2026-10-27T19:15:39.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
     <category term="REGULATION"/>
-    <summary>The Securities and Exchange Commission will be keeping a close eye on how artificial intelligence may affect market operations. The post SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams appeared first on The Daily Upside .</summary>
-  </entry>
-  <entry>
-    <title>Tax-Aware Advisor AI Tools: 55ip Connects ActiveTax Technology to Claude for Financial…</title>
-    <link href="https://www.trendhunter.com/trends/tax-aware-advisor-ai-tools"/>
-    <id>https://www.trendhunter.com/trends/tax-aware-advisor-ai-tools</id>
-    <updated>2026-10-28T20:09:54.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Tax-Aware Advisor AI Tools: 55ip Connects ActiveTax Technology to Claude for Financial… Trend Hunter</summary>
+    <summary>Advyzon, a global AI-powered, unified wealth management technology and data platform for advisory firms, announced the launch of Advyzon Financial Planning, a comprehensive cash-flow planning and […]</summary>
   </entry>
   <entry>
     <title>Bessent Plays Down Concerns Over AI Financing, Fed Rate Policy</title>
@@ -109,19 +91,10 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-29T02:22:19.683Z</updated>
+    <updated>2026-10-29T09:46:38.464Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
-  </entry>
-  <entry>
-    <title>Tech Stocks Drop as Alphabet, Samsung Disappoint: Markets Wrap</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates</id>
-    <updated>2026-10-28T22:11:47.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Technology shares fell, snapping this week’s rally, after disappointing earnings from two industry heavyweights revived concerns about the billions of dollars companies are pouring into artificial intelligence.</summary>
   </entry>
   <entry>
     <title>How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy</title>
@@ -187,6 +160,15 @@
     <summary>Prediction market bets set the tone for Anthropic's much-awaited IPO Reuters</summary>
   </entry>
   <entry>
+    <title>SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams</title>
+    <link href="https://www.thedailyupside.com/etf/regulation-legislation/sec-to-focus-on-conflicts-complex-products-private-markets-in-2027-exams"/>
+    <id>https://www.thedailyupside.com/etf/regulation-legislation/sec-to-focus-on-conflicts-complex-products-private-markets-in-2027-exams</id>
+    <updated>2026-10-28T04:03:00.000Z</updated>
+    <author><name>The Daily Upside</name></author>
+    <category term="REGULATION"/>
+    <summary>The Securities and Exchange Commission will be keeping a close eye on how artificial intelligence may affect market operations. The post SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams appeared first on The Daily Upside .</summary>
+  </entry>
+  <entry>
     <title>How RIAs Can Prepare for AI Cyber Crime</title>
     <link href="https://www.thinkadvisor.com/2026/10/27/how-rias-can-prepare-for-ai-cyber-crime"/>
     <id>https://www.thinkadvisor.com/2026/10/27/how-rias-can-prepare-for-ai-cyber-crime</id>
@@ -196,22 +178,31 @@
     <summary>How RIAs Can Prepare for AI Cyber Crime ThinkAdvisor</summary>
   </entry>
   <entry>
-    <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
-    <link href="https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"/>
-    <id>https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities</id>
-    <updated>2026-10-23T14:10:00.000Z</updated>
-    <author><name>SEC Press</name></author>
-    <category term="REGULATION"/>
-    <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
+    <title>Tax-Aware Advisor AI Tools: 55ip Connects ActiveTax Technology to Claude for Financial…</title>
+    <link href="https://www.trendhunter.com/trends/tax-aware-advisor-ai-tools"/>
+    <id>https://www.trendhunter.com/trends/tax-aware-advisor-ai-tools</id>
+    <updated>2026-10-28T20:09:54.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Tax-Aware Advisor AI Tools: 55ip Connects ActiveTax Technology to Claude for Financial… Trend Hunter</summary>
   </entry>
   <entry>
-    <title>Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026</title>
-    <link href="https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026"/>
-    <id>https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026</id>
-    <updated>2026-10-28T17:24:53.000Z</updated>
-    <author><name>RIABiz</name></author>
+    <title>AI volatility is a reminder that diversification is more than just fund count</title>
+    <link href="https://www.professionaladviser.com/opinion/4537590/ai-volatility-reminder-diversification-fund-count"/>
+    <id>https://www.professionaladviser.com/opinion/4537590/ai-volatility-reminder-diversification-fund-count</id>
+    <updated>2026-10-29T09:01:05.000Z</updated>
+    <author><name>Professional Adviser</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Word leaked out during a webinar about having to buy 20 seats</summary>
+    <summary>The recent wobble in AI stocks is useful - not because it tells us where markets are heading next, but because it highlights why good portfolio construction matters, says Louis Hutchings</summary>
+  </entry>
+  <entry>
+    <title>AI for Financial Advisors: An Expert’s Advice on How and Where to Start</title>
+    <link href="https://www.diamond-consultants.com/ai-for-financial-advisors-an-experts-advice-on-how-and-where-to-start"/>
+    <id>https://www.diamond-consultants.com/ai-for-financial-advisors-an-experts-advice-on-how-and-where-to-start</id>
+    <updated>2026-10-29T09:00:00.000Z</updated>
+    <author><name>Diamond Consultants</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>AI is changing wealth management. Are financial advisors keeping up? John O’Connell of The Oasis Group shares practical advice on adopting AI, evaluating technology, and identifying opportunities to build a better advisory business.</summary>
   </entry>
   <entry>
     <title>AI Chats May Be Work Product—Even When Lawyers Aren’t Involved</title>
@@ -223,19 +214,10 @@
     <summary>On October 21, 2026, Magistrate Judge Marty Fulgueira Elfenbein of the U.S. District Court for the Southern District of Florida issued a discovery order in Fontainebleau Florida Hotel, LLC v. Botach that held that work-product protection can apply to AI prompts and outputs created with AI tools, even if those documents</summary>
   </entry>
   <entry>
-    <title>AI leaders fear rapid tech deployment is encouraging staff to bypass governance processes</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/ai-leaders-fear-rapid-tech-deployment-is-encouraging-staff-to-bypass-governance-processes"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/ai-leaders-fear-rapid-tech-deployment-is-encouraging-staff-to-bypass-governance-processes</id>
-    <updated>2026-10-27T23:13:12.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Human compliance risks are a critical weakness in AI governance. According to an EY US report, 47% of AI decision-makers know their organization has bypassed corporate governance processes to deploy AI faster. The post AI leaders fear rapid tech deployment is encouraging staff to bypass governance processes appeared fi</summary>
-  </entry>
-  <entry>
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-29T02:22:19.683Z</updated>
+    <updated>2026-10-29T09:46:38.464Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -244,28 +226,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-29T02:22:19.683Z</updated>
+    <updated>2026-10-29T09:46:38.464Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Nscale’s Unproven CEO Braves AI Turmoil in Bid for $30 Billion Neocloud IPO</title>
-    <link href="https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo"/>
-    <id>https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo</id>
-    <updated>2026-10-29T00:00:08.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Microsoft Remains the Adult in the AI Room</title>
+    <link href="https://www.thedailyupside.com/technology/artificial-intelligence/microsoft-remains-the-adult-in-the-ai-room"/>
+    <id>https://www.thedailyupside.com/technology/artificial-intelligence/microsoft-remains-the-adult-in-the-ai-room</id>
+    <updated>2026-10-29T04:01:00.000Z</updated>
+    <author><name>The Daily Upside</name></author>
     <category term="AI MARKETS"/>
-    <summary>Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg. Josh Payne must now take his startup public at a tumultuous moment for the AI industry.</summary>
+    <summary>The Windows-maker’s announced a smoking 48% year-over-year revenue growth for its Azure cloud computing division in its earnings call. The post Microsoft Remains the Adult in the AI Room appeared first on The Daily Upside .</summary>
   </entry>
   <entry>
-    <title>Alphabet Shares Tank on Sales Misses Across Core Businesses</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video</id>
-    <updated>2026-10-28T23:23:23.000Z</updated>
+    <title>Tech Rally Stalls as Alphabet, Samsung Disappoint</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video</id>
+    <updated>2026-10-29T06:43:13.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Alphabet posted disappointing sales from most of its core businesses in the third quarter, escalating investors’ concerns about the hundreds of billions of dollars that the company is spending on artificial intelligence. Ed Ludlow has more. (Source: Bloomberg)</summary>
+    <summary>A global rally in technology shares this week stalled after disappointing earnings from Alphabet and Samsung revived doubts over whether billions of dollars in AI spending will deliver sufficient returns. Bloomberg's Anthony Stephens reports. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI</title>
@@ -275,5 +257,23 @@
     <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets</summary>
+  </entry>
+  <entry>
+    <title>Why a hybrid approach works best for AI in credit risk modelling</title>
+    <link href="https://www.risk.net/comment/7963969/why-a-hybrid-approach-works-best-for-ai-in-credit-risk-modelling"/>
+    <id>https://www.risk.net/comment/7963969/why-a-hybrid-approach-works-best-for-ai-in-credit-risk-modelling</id>
+    <updated>2026-10-28T04:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>AI helps models look beyond quarterly reports, but CRO says governance curtails full automation</summary>
+  </entry>
+  <entry>
+    <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
+    <link href="https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"/>
+    <id>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</id>
+    <updated>2026-10-28T20:03:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Google has released its latest frontier model, Gemini 4 Carbon, offering &quot;significant gains&quot; in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing beh</summary>
   </entry>
 </feed>
