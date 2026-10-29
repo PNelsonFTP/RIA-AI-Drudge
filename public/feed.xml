@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-29T16:50:59.213Z</updated>
+  <updated>2026-10-29T21:43:45.321Z</updated>
   <entry>
     <title>Savvy Wealth opens pre-IPO private markets program to its advisors</title>
     <link href="https://www.investmentnews.com/alternatives/savvy-wealth-opens-pre-ipo-private-markets-program-to-its-advisors/268797"/>
@@ -16,13 +16,22 @@
     <summary>The AI-native RIA is partnering with Allocate to give qualified-purchaser clients access to venture and growth equity managers</summary>
   </entry>
   <entry>
-    <title>A guide to getting AI buy-in as RIAs look to scale</title>
-    <link href="https://www.financial-planning.com/news/a-guide-to-getting-ai-buy-in-as-rias-look-to-scale"/>
-    <id>https://www.financial-planning.com/news/a-guide-to-getting-ai-buy-in-as-rias-look-to-scale</id>
-    <updated>2026-10-28T22:22:11.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Two experts discussed how they've gotten AI use at their firms to go from a few power users to part of the culture — and what they've gained because of it. — Also covered by: American Banker AI</summary>
+    <title>Report Finds RIA Industry Rankings, Scale Don't Guarantee AI Search Visibility</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility</id>
+    <updated>2026-10-28T16:53:24.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The public relations firm Gregory studied over 8,000 AI-generated answers and found that many of the RIAs included in some of the industry’s top rankings are rarely (if ever) mentioned.</summary>
+  </entry>
+  <entry>
+    <title>Raymond James CEO on 4Q Earnings and AI Strategy</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video</id>
+    <updated>2026-10-29T21:38:45.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Raymond James shares rose after the company beat estimates for fourth-quarter revenue and adjusted EPS, with investment banking revenue also exceeding expectations. CEO Paul Shoukry said Raymond James focuses on sustainable growth and long-term decisions, noting 155 consecutive profitable quarters. He speaks with Romai — Also covered by: WealthTech Strategy</summary>
   </entry>
   <entry>
     <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -34,22 +43,22 @@
     <summary>Also covered by: Ars Technica AI</summary>
   </entry>
   <entry>
-    <title>RIA moves: Dynasty, Mercer Advisors, and AlphaCore add to leadership</title>
-    <link href="https://www.investmentnews.com/ria-news/ria-moves-dynasty-mercer-advisors-and-alphacore-add-to-leadership/268798"/>
-    <id>https://www.investmentnews.com/ria-news/ria-moves-dynasty-mercer-advisors-and-alphacore-add-to-leadership/268798</id>
-    <updated>2026-10-29T15:12:51.000Z</updated>
+    <title>AI operating system race heats up as Nevis raises $70 million</title>
+    <link href="https://www.investmentnews.com/fintech/ai-operating-system-race-heats-up-as-nevis-raises-70-million/268806"/>
+    <id>https://www.investmentnews.com/fintech/ai-operating-system-race-heats-up-as-nevis-raises-70-million/268806</id>
+    <updated>2026-10-29T20:31:54.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Dynasty names a new CMO, Mercer taps a wealthtech veteran as data chief, and AlphaCore adds an acquisition-minded CFO from Corient as RIA platforms continue to scale</summary>
+    <summary>Tandems and Zeplyn roll out new AI agents and assistants as wealthtech firms compete to run more of advisors’ back-office work</summary>
   </entry>
   <entry>
-    <title>Anthropic is asking Wall Street to believe in AGI</title>
-    <link href="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"/>
-    <id>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</id>
-    <updated>2026-10-29T14:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>OpenAI-backed Thrive Holdings acquires ADT</title>
+    <link href="https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt"/>
+    <id>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt</id>
+    <updated>2026-10-29T19:56:19.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]</summary>
+    <summary>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.</summary>
   </entry>
   <entry>
     <title>SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready?</title>
@@ -59,15 +68,6 @@
     <author><name>SEC3 Compliance</name></author>
     <category term="REGULATION"/>
     <summary>SEC3 analyzes the SEC's fiscal year 2027 examination priorities, highlighting key focus areas including fiduciary conflicts, private fund practices, emerging AI technologies, and compliance program testing for investment advisers. The post SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready? appe</summary>
-  </entry>
-  <entry>
-    <title>The Diamond Podcast for Financial Advisors: Expert AI Advice from John O'Connell</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell</id>
-    <updated>2026-10-29T13:59:28.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The Oasis Group’s John O’Connell shares practical guidance on AI and explains why solving the right business problem matters more than adopting the latest technology.</summary>
   </entry>
   <entry>
     <title>Dynamic Planner launches agentic upgrade to its digital advice platform</title>
@@ -82,19 +82,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-29T16:50:49.312Z</updated>
+    <updated>2026-10-29T21:43:31.964Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Two fears will decide the fate of Anthropic’s giant IPO</title>
-    <link href="https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1</id>
-    <updated>2026-10-29T14:41:41.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Moving Down in High-Grade Quality: Goldman's Lynam</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video</id>
+    <updated>2026-10-29T20:40:57.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity</summary>
+    <summary>Amanda Lynam, chief credit strategist at Goldman Sachs, and Winnie Cisar, global head of credit strategy at CreditSights, joins Scarlet Fu on &quot;Bloomberg Real Yield.&quot; US investment-grade bond sales set an annual record as a surge in artificial intelligence spending drives companies to borrow hundreds of billions of doll</summary>
   </entry>
   <entry>
     <title>Partner Insight: AI Is Creating Value. Who Gets to Keep It?</title>
@@ -105,22 +105,22 @@
     <category term="INSTITUTIONAL"/>
   </entry>
   <entry>
-    <title>Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work</title>
-    <link href="https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work"/>
-    <id>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work</id>
-    <updated>2026-10-28T16:51:35.000Z</updated>
-    <author><name>Microsoft Blog</name></author>
+    <title>An updated Model Spec for more capable and beneficial AI</title>
+    <link href="https://openai.com/index/updated-model-spec"/>
+    <id>https://openai.com/index/updated-model-spec</id>
+    <updated>2026-10-29T17:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And..</summary>
+    <summary>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</summary>
   </entry>
   <entry>
-    <title>Even the largest U.S. banks measure AI returns differently</title>
-    <link href="https://www.americanbanker.com/news/even-jpmorganchase-and-bofa-measure-ai-returns-differently"/>
-    <id>https://www.americanbanker.com/news/even-jpmorganchase-and-bofa-measure-ai-returns-differently</id>
-    <updated>2026-10-29T13:46:51.000Z</updated>
-    <author><name>American Banker AI</name></author>
+    <title>Schwab finds RIAs embrace AI, alternatives but hold fiduciary line</title>
+    <link href="https://www.investmentnews.com/goria/practice-management/schwab-finds-rias-embrace-ai-alternatives-but-hold-fiduciary-line/268799"/>
+    <id>https://www.investmentnews.com/goria/practice-management/schwab-finds-rias-embrace-ai-alternatives-but-hold-fiduciary-line/268799</id>
+    <updated>2026-10-29T17:54:07.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="RESEARCH"/>
-    <summary>JPMorgan and BofA executives discuss AI returns differently. An American Banker survey finds banks that use pre-AI baselines more likely to quantify AI ROI.</summary>
+    <summary>Latest annual survey of independent advisors shows firms leaning on referrals and service for growth while harnessing AI behind the scenes</summary>
   </entry>
   <entry>
     <title>Wealthbox Is Now Available in Apple’s CarPlay</title>
@@ -132,22 +132,31 @@
     <summary>Advisors can now talk to the Wealthbox AI Assistant from their car to add contacts, log notes, create follow-up tasks, and ask about their day. The post Wealthbox Is Now Available in Apple’s CarPlay first appeared on Wealthbox CRM .</summary>
   </entry>
   <entry>
-    <title>We urgently need to monitor AI agents’ actions in real time</title>
-    <link href="https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"/>
-    <id>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time</id>
-    <updated>2026-10-29T10:11:12.000Z</updated>
-    <author><name>MIT Tech Review AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government w</summary>
+    <title>A successful AI workforce isn’t about agents, says Humanity Labs CEO</title>
+    <link href="https://www.investmentnews.com/goria/practice-management/a-successful-ai-workforce-isnt-about-agents-says-humanity-labs-ceo/268800"/>
+    <id>https://www.investmentnews.com/goria/practice-management/a-successful-ai-workforce-isnt-about-agents-says-humanity-labs-ceo/268800</id>
+    <updated>2026-10-29T18:31:57.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>“A better tool does not on its own make a better outcome,” said Humanity Labs CEO Andrei Pop.</summary>
   </entry>
   <entry>
-    <title>Anthropic just launched tools to show companies what their AI spending is buying</title>
-    <link href="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"/>
-    <id>https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying</id>
-    <updated>2026-10-28T19:19:58.000Z</updated>
+    <title>Granola crunches up a dictation feature to compete with Wispr</title>
+    <link href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr"/>
+    <id>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr</id>
+    <updated>2026-10-29T17:54:38.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.</summary>
+    <summary>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</summary>
+  </entry>
+  <entry>
+    <title>You can generate and edit Google Docs files directly in Gemini chats now</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</id>
+    <updated>2026-10-29T18:45:31.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file f</summary>
   </entry>
   <entry>
     <title>CFTC’s Selig Sees Role for Compute Futures, Rules for AI Trading Agents</title>
@@ -168,13 +177,22 @@
     <summary>The Securities and Exchange Commission will be keeping a close eye on how artificial intelligence may affect market operations. The post SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams appeared first on The Daily Upside .</summary>
   </entry>
   <entry>
+    <title>The Diamond Podcast for Financial Advisors: Expert AI Advice from John O'Connell</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell</id>
+    <updated>2026-10-29T13:59:28.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The Oasis Group’s John O’Connell shares practical guidance on AI and explains why solving the right business problem matters more than adopting the latest technology.</summary>
+  </entry>
+  <entry>
     <title>US Wealthtech Firm AssetMark Opens Global Capability Centre in Hyderabad</title>
     <link href="https://www.tribuneindia.com/news/business/us-wealthtech-firm-assetmark-opens-global-capability-centre-in-hyderabad/amp"/>
     <id>https://www.tribuneindia.com/news/business/us-wealthtech-firm-assetmark-opens-global-capability-centre-in-hyderabad/amp</id>
     <updated>2026-10-29T11:20:56.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>US Wealthtech Firm AssetMark Opens Global Capability Centre in Hyderabad The Tribune — Also covered by: GN: wealthtech AI</summary>
+    <summary>US Wealthtech Firm AssetMark Opens Global Capability Centre in Hyderabad The Tribune</summary>
   </entry>
   <entry>
     <title>Market Brief: U.S. Economic Growth Accelerates to 3.4% as Consumer Spending and AI Investment Remain Strong</title>
@@ -216,7 +234,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-29T16:50:49.312Z</updated>
+    <updated>2026-10-29T21:43:31.964Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -225,28 +243,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-29T16:50:49.312Z</updated>
+    <updated>2026-10-29T21:43:31.964Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Why Do AI Labs Follow the Zaibatsu Model?</title>
-    <link href="https://www.thediff.co/archive/why-do-ai-labs-follow-the-zaibatsu-model"/>
-    <id>https://www.thediff.co/archive/why-do-ai-labs-follow-the-zaibatsu-model</id>
-    <updated>2026-10-29T15:40:48.000Z</updated>
-    <author><name>The Diff</name></author>
+    <title>Two fears will decide the fate of Anthropic’s giant IPO</title>
+    <link href="https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1</id>
+    <updated>2026-10-29T14:41:41.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Plus! But Doctor...; The Venture Supply Chain; Financial Rearrangements; Media; Complements</summary>
+    <summary>Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity</summary>
   </entry>
   <entry>
-    <title>Canada, Nvidia Back Cohere in Round at Over $20 Billion Value</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-29/canada-nvidia-back-cohere-in-round-at-over-20-billion-value</id>
-    <updated>2026-10-29T15:45:41.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Need to Position Against AI Concentration Risk, Said D.J. Tierney</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video</id>
+    <updated>2026-10-29T20:35:48.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Cohere Inc., an artificial intelligence model maker, is in the process of raising a large funding round at a $20.5 billion valuation, roughly tripling its value from a year ago.</summary>
+    <summary>D.J. Tierney, senior investment portfolio strategist at Schwab Asset Management, said that 'we don't know' when the party is over for the AI trade and that Schwab is advising investors to start making changes at the margins to position themselves to insure against concentration risk. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy</title>
@@ -256,23 +274,5 @@
     <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Firms are having to balance honing their cybersecurity and evolving their technology stacks.</summary>
-  </entry>
-  <entry>
-    <title>ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI</title>
-    <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1</id>
-    <updated>2026-10-28T05:00:15.000Z</updated>
-    <author><name>FT Asset Management</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets</summary>
-  </entry>
-  <entry>
-    <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
-    <link href="https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"/>
-    <id>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</id>
-    <updated>2026-10-28T20:03:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google has released its latest frontier model, Gemini 4 Carbon, offering &quot;significant gains&quot; in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing beh</summary>
   </entry>
 </feed>
