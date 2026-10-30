@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-29T21:43:45.321Z</updated>
+  <updated>2026-10-30T01:50:41.745Z</updated>
   <entry>
     <title>Savvy Wealth opens pre-IPO private markets program to its advisors</title>
     <link href="https://www.investmentnews.com/alternatives/savvy-wealth-opens-pre-ipo-private-markets-program-to-its-advisors/268797"/>
@@ -14,24 +14,6 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>The AI-native RIA is partnering with Allocate to give qualified-purchaser clients access to venture and growth equity managers</summary>
-  </entry>
-  <entry>
-    <title>Report Finds RIA Industry Rankings, Scale Don't Guarantee AI Search Visibility</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/report-finds-ria-industry-rankings-scale-dont-guarantee-ai-search-visibility</id>
-    <updated>2026-10-28T16:53:24.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The public relations firm Gregory studied over 8,000 AI-generated answers and found that many of the RIAs included in some of the industry’s top rankings are rarely (if ever) mentioned.</summary>
-  </entry>
-  <entry>
-    <title>Raymond James CEO on 4Q Earnings and AI Strategy</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-29/raymond-james-ceo-on-4q-earnings-and-ai-strategy-video</id>
-    <updated>2026-10-29T21:38:45.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Raymond James shares rose after the company beat estimates for fourth-quarter revenue and adjusted EPS, with investment banking revenue also exceeding expectations. CEO Paul Shoukry said Raymond James focuses on sustainable growth and long-term decisions, noting 155 consecutive profitable quarters. He speaks with Romai — Also covered by: WealthTech Strategy</summary>
   </entry>
   <entry>
     <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -82,19 +64,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-29T21:43:31.964Z</updated>
+    <updated>2026-10-30T01:50:25.566Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Moving Down in High-Grade Quality: Goldman's Lynam</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video</id>
-    <updated>2026-10-29T20:40:57.000Z</updated>
+    <title>Dollar’s Rate-Fueled Rally Set to Ride Out US Midterm Gridlock</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock</id>
+    <updated>2026-10-30T00:35:03.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Amanda Lynam, chief credit strategist at Goldman Sachs, and Winnie Cisar, global head of credit strategy at CreditSights, joins Scarlet Fu on &quot;Bloomberg Real Yield.&quot; US investment-grade bond sales set an annual record as a surge in artificial intelligence spending drives companies to borrow hundreds of billions of doll</summary>
+    <summary>The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.</summary>
   </entry>
   <entry>
     <title>Partner Insight: AI Is Creating Value. Who Gets to Keep It?</title>
@@ -150,22 +132,22 @@
     <summary>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</summary>
   </entry>
   <entry>
-    <title>You can generate and edit Google Docs files directly in Gemini chats now</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</id>
-    <updated>2026-10-29T18:45:31.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Amazon shares sink as it spends heavily on AI</title>
+    <link href="https://www.axios.com/2026/10/29/amazon-stock-earnings-ai"/>
+    <id>https://www.axios.com/2026/10/29/amazon-stock-earnings-ai</id>
+    <updated>2026-10-29T22:11:02.000Z</updated>
+    <author><name>Axios AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file f</summary>
+    <summary>Amazon shares sink as it spends heavily on AI Axios</summary>
   </entry>
   <entry>
-    <title>CFTC’s Selig Sees Role for Compute Futures, Rules for AI Trading Agents</title>
-    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/cftcs-selig-sees-role-for-compute-futures-rules-for-ai-trading-agents"/>
-    <id>https://www.pymnts.com/news/artificial-intelligence/2026/cftcs-selig-sees-role-for-compute-futures-rules-for-ai-trading-agents</id>
-    <updated>2026-10-29T15:46:37.000Z</updated>
-    <author><name>PYMNTS AI</name></author>
+    <title>Advyzon Launches the Industry’s Only Natively Built, AI-Powered Cash Flow Planning Experience Within a Unified Wealth Management Platform</title>
+    <link href="https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform"/>
+    <id>https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform</id>
+    <updated>2026-10-27T19:15:39.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
     <category term="REGULATION"/>
-    <summary>Commodity Futures Trading Commission (CFTC) Chairman Michael Selig outlined a potential role for derivatives markets in financing the artificial intelligence (AI) economy, arguing that businesses will need tools to hedge computing costs. At the same time, he said, regulators confront unresolved questions about autonomo</summary>
+    <summary>Advyzon, a global AI-powered, unified wealth management technology and data platform for advisory firms, announced the launch of Advyzon Financial Planning, a comprehensive cash-flow planning and […]</summary>
   </entry>
   <entry>
     <title>SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams</title>
@@ -177,6 +159,15 @@
     <summary>The Securities and Exchange Commission will be keeping a close eye on how artificial intelligence may affect market operations. The post SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams appeared first on The Daily Upside .</summary>
   </entry>
   <entry>
+    <title>Advyzon Announces 2027 Advyzon Conference: Showcasing the Next Wave of AI-Powered Wealth Management Innovation</title>
+    <link href="https://t3technologyhub.com/advyzon-announces-2027-advyzon-conference-showcasing-the-next-wave-of-ai-powered-wealth-management-innovation"/>
+    <id>https://t3technologyhub.com/advyzon-announces-2027-advyzon-conference-showcasing-the-next-wave-of-ai-powered-wealth-management-innovation</id>
+    <updated>2026-10-29T16:26:55.000Z</updated>
+    <author><name>T3 Technology Hub</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Advyzon announced details for the fourth annual 2027 Advyzon Conference, taking place February 24–26, 2027 at the Fairmont Dallas. Registration is now open, with early bird […]</summary>
+  </entry>
+  <entry>
     <title>The Diamond Podcast for Financial Advisors: Expert AI Advice from John O'Connell</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell"/>
     <id>https://www.wealthmanagement.com/artificial-intelligence/the-diamond-podcast-for-financial-advisors-expert-ai-advice-from-john-o-connell</id>
@@ -184,15 +175,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>The Oasis Group’s John O’Connell shares practical guidance on AI and explains why solving the right business problem matters more than adopting the latest technology.</summary>
-  </entry>
-  <entry>
-    <title>US Wealthtech Firm AssetMark Opens Global Capability Centre in Hyderabad</title>
-    <link href="https://www.tribuneindia.com/news/business/us-wealthtech-firm-assetmark-opens-global-capability-centre-in-hyderabad/amp"/>
-    <id>https://www.tribuneindia.com/news/business/us-wealthtech-firm-assetmark-opens-global-capability-centre-in-hyderabad/amp</id>
-    <updated>2026-10-29T11:20:56.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>US Wealthtech Firm AssetMark Opens Global Capability Centre in Hyderabad The Tribune</summary>
   </entry>
   <entry>
     <title>Market Brief: U.S. Economic Growth Accelerates to 3.4% as Consumer Spending and AI Investment Remain Strong</title>
@@ -234,7 +216,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-29T21:43:31.964Z</updated>
+    <updated>2026-10-30T01:50:25.566Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -243,28 +225,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-29T21:43:31.964Z</updated>
+    <updated>2026-10-30T01:50:25.566Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Two fears will decide the fate of Anthropic’s giant IPO</title>
-    <link href="https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1</id>
-    <updated>2026-10-29T14:41:41.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity</summary>
-  </entry>
-  <entry>
-    <title>Need to Position Against AI Concentration Risk, Said D.J. Tierney</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video</id>
-    <updated>2026-10-29T20:35:48.000Z</updated>
+    <title>Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks"/>
+    <id>https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks</id>
+    <updated>2026-10-30T00:20:56.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>D.J. Tierney, senior investment portfolio strategist at Schwab Asset Management, said that 'we don't know' when the party is over for the AI trade and that Schwab is advising investors to start making changes at the margins to position themselves to insure against concentration risk. (Source: Bloomberg)</summary>
+    <summary>Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.</summary>
+  </entry>
+  <entry>
+    <title>Foxconn CEO: AI to Drive Consumer Update Cycle</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ceo-ai-to-drive-consumer-update-cycle-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ceo-ai-to-drive-consumer-update-cycle-video</id>
+    <updated>2026-10-30T00:17:35.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Foxconn rotating CEO Michael Chiang expresses optimism about the AI boom and says he expects it to drive a new cycle of consumer hardware upgrades. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy</title>
@@ -274,5 +256,23 @@
     <author><name>PlanAdviser AI</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Firms are having to balance honing their cybersecurity and evolving their technology stacks.</summary>
+  </entry>
+  <entry>
+    <title>ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI</title>
+    <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1</id>
+    <updated>2026-10-28T05:00:15.000Z</updated>
+    <author><name>FT Asset Management</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets</summary>
+  </entry>
+  <entry>
+    <title>Google Tops AI Smarts Ranking as OpenAI Slashes Prices</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/google-tops-ai-smarts-ranking-as-openai-slashes-prices</id>
+    <updated>2026-10-29T22:25:20.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Google may have finally caught up with its archrivals. Its new Gemini 4 Carbon model ranks first on the Artificial Analysis Intelligence Index, an independent scorecard that had OpenAI and Anthropic ahead for most of the year. OpenAI answered on price, halving the cost of its workhorse model. In voice artificial intell</summary>
   </entry>
 </feed>
