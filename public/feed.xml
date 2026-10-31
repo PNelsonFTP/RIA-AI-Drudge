@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-10-30T20:39:29.794Z</updated>
+  <updated>2026-10-31T00:39:42.892Z</updated>
+  <entry>
+    <title>Survey: Firms commit to marketing but aren't tracking the results</title>
+    <link href="https://www.financial-planning.com/news/survey-firms-commit-to-marketing-but-arent-tracking-the-results"/>
+    <id>https://www.financial-planning.com/news/survey-firms-commit-to-marketing-but-arent-tracking-the-results</id>
+    <updated>2026-10-30T21:27:46.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>In two reports, the PR firm Gregory finds prominent wealth managers sometimes never show up in AI search results and that few firms are doing enough to track whether all the money they spend on marketing is having the desired effect. — Also covered by: American Banker AI</summary>
+  </entry>
   <entry>
     <title>Gemini 4 Carbon: Our next frontier model</title>
     <link href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"/>
@@ -25,13 +34,13 @@
     <summary>Former Hightower COO and ex-Yieldstreet CTO headline wealth technology hires as advisor platforms push deeper into AI and private markets</summary>
   </entry>
   <entry>
-    <title>Wall Street slides as AI cash burn worries spark tech selloff</title>
-    <link href="https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30"/>
-    <id>https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30</id>
-    <updated>2026-10-30T18:45:27.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
+    <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says"/>
+    <id>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</id>
+    <updated>2026-10-30T21:52:03.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Wall Street slides as AI cash burn worries spark tech selloff Reuters</summary>
+    <summary>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</summary>
   </entry>
   <entry>
     <title>SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready?</title>
@@ -52,31 +61,22 @@
     <summary>Advisors see muted client interest in Anthropic's IPO and recommend a patient, long-term approach to buying shares.</summary>
   </entry>
   <entry>
-    <title>The WealthStack Podcast: The RIA Growth Trap with Brad Johnson</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-the-ria-growth-trap-with-brad-johnson"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-the-ria-growth-trap-with-brad-johnson</id>
-    <updated>2026-10-30T14:38:10.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Brad Johnson, co-founder at Triad Partners, discusses founder dependence, delegation, firm design and how AI fits into a growing practice.</summary>
-  </entry>
-  <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-10-30T20:39:16.471Z</updated>
+    <updated>2026-10-31T00:39:09.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
-    <link href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1</id>
-    <updated>2026-10-30T18:19:08.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Rich Steinmeier on a Career in Management</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video</id>
+    <updated>2026-10-30T21:21:38.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance</summary>
+    <summary>Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Andrew Dalrymple and José Manuel Silva: Emerging markets have outgrown their index</title>
@@ -97,15 +97,6 @@
     <summary>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.</summary>
   </entry>
   <entry>
-    <title>Closing the Industrial Knowledge Gap with Consumer-Grade Enterprise AI</title>
-    <link href="https://emerj.com/closing-the-industrial-knowledge-gap-with-enterprise-ai"/>
-    <id>https://emerj.com/closing-the-industrial-knowledge-gap-with-enterprise-ai</id>
-    <updated>2026-10-30T09:25:15.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
-    <category term="RESEARCH"/>
-    <summary>This article is sponsored by IFS and was written, edited, and published in alignment with our Emerj sponsored content guidelines. Learn more about our thought leadership and content creation services on our Emerj Media Services page. Asset-intensive industries, including manufacturing, energy, utilities, and aviation, </summary>
-  </entry>
-  <entry>
     <title>WealthTech Safari — Week of October 30, 2026</title>
     <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-30-2026"/>
     <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-october-30-2026</id>
@@ -115,49 +106,40 @@
     <summary>Nevis raises $70M Series B as Schwab joins as a strategic investor Nevis, which is building an AI operating system for wealth management, raised a $70 million Series B led by EQT Ventures with Schwab, Sequoia, ICONIQ, QuantumLight and Ribbit Capital participating, taking total funding to $110 million two years after fo — Also covered by: WealthTech Strategy</summary>
   </entry>
   <entry>
-    <title>AI in asset management operations moves beyond fixing errors faster</title>
-    <link href="https://www.investmentnews.com/transformation/ai-in-asset-management-operations-moves-beyond-fixing-errors-faster/268808"/>
-    <id>https://www.investmentnews.com/transformation/ai-in-asset-management-operations-moves-beyond-fixing-errors-faster/268808</id>
-    <updated>2026-10-30T10:33:00.000Z</updated>
-    <author><name>InvestmentNews</name></author>
+    <title>Wealthbox Is Now Available in Apple’s CarPlay</title>
+    <link href="https://www.wealthbox.com/wealthbox-is-now-available-in-carplay"/>
+    <id>https://www.wealthbox.com/wealthbox-is-now-available-in-carplay</id>
+    <updated>2026-10-29T16:03:31.000Z</updated>
+    <author><name>Wealthbox (vendor)</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Asset managers have a new playbook for AI - and catching mistakes is just the start.</summary>
+    <summary>Advisors can now talk to the Wealthbox AI Assistant from their car to add contacts, log notes, create follow-up tasks, and ask about their day. The post Wealthbox Is Now Available in Apple’s CarPlay first appeared on Wealthbox CRM .</summary>
   </entry>
   <entry>
-    <title>Granola crunches up a dictation feature to compete with Wispr</title>
-    <link href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr"/>
-    <id>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr</id>
-    <updated>2026-10-29T17:54:38.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Introducing Wealthbox Vault: Advanced File Storage for Advisory Firms, Plus AI for Client Documents</title>
+    <link href="https://www.wealthbox.com/introducing-wealthbox-vault-advanced-file-storage-and-ai-powered-document-management"/>
+    <id>https://www.wealthbox.com/introducing-wealthbox-vault-advanced-file-storage-and-ai-powered-document-management</id>
+    <updated>2026-10-28T16:01:22.000Z</updated>
+    <author><name>Wealthbox (vendor)</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</summary>
+    <summary>Wealthbox issued a press release today to announce Wealthbox Vault, a new add-on that gives advisory firms unlimited file storage, full-content search, retained file versions, and a Compliance Monitor role with a complete audit log of file activity. Alongside the launch of Vault, Wealthbox is expanding its AI capabilit</summary>
   </entry>
   <entry>
-    <title>Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen</title>
-    <link href="https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30"/>
-    <id>https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30</id>
-    <updated>2026-10-30T16:54:28.000Z</updated>
+    <title>October ends with a thud for Intel, Reddit, AI stalwarts</title>
+    <link href="https://www.reuters.com/legal/legalindustry/october-ends-with-thud-intel-reddit-ai-stalwarts-2026-10-30"/>
+    <id>https://www.reuters.com/legal/legalindustry/october-ends-with-thud-intel-reddit-ai-stalwarts-2026-10-30</id>
+    <updated>2026-10-30T20:53:02.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen Reuters</summary>
+    <summary>October ends with a thud for Intel, Reddit, AI stalwarts Reuters</summary>
   </entry>
   <entry>
-    <title>Reddit shares plunge as Google's AI search squeezes traffic</title>
-    <link href="https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30"/>
-    <id>https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30</id>
-    <updated>2026-10-30T16:15:23.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>How a Contractor’s Claude Agent Got Into the Pentagon</title>
+    <link href="https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon"/>
+    <id>https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon</id>
+    <updated>2026-10-30T21:19:26.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Reddit shares plunge as Google's AI search squeezes traffic Reuters</summary>
-  </entry>
-  <entry>
-    <title>Advyzon Launches the Industry’s Only Natively Built, AI-Powered Cash Flow Planning Experience Within a Unified Wealth Management Platform</title>
-    <link href="https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform"/>
-    <id>https://t3technologyhub.com/advyzon-launches-the-industrys-only-natively-built-ai-powered-cash-flow-planning-experience-within-a-unified-wealth-management-platform</id>
-    <updated>2026-10-27T19:15:39.000Z</updated>
-    <author><name>T3 Technology Hub</name></author>
-    <category term="REGULATION"/>
-    <summary>Advyzon, a global AI-powered, unified wealth management technology and data platform for advisory firms, announced the launch of Advyzon Financial Planning, a comprehensive cash-flow planning and […]</summary>
+    <summary>This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.</summary>
   </entry>
   <entry>
     <title>SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams</title>
@@ -167,6 +149,24 @@
     <author><name>The Daily Upside</name></author>
     <category term="REGULATION"/>
     <summary>The Securities and Exchange Commission will be keeping a close eye on how artificial intelligence may affect market operations. The post SEC to Focus on Conflicts, Complex Products, Private Markets in 2027 Exams appeared first on The Daily Upside .</summary>
+  </entry>
+  <entry>
+    <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
+    <link href="https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"/>
+    <id>https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities</id>
+    <updated>2026-10-23T14:10:00.000Z</updated>
+    <author><name>SEC Press</name></author>
+    <category term="REGULATION"/>
+    <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
+  </entry>
+  <entry>
+    <title>The WealthStack Podcast: The RIA Growth Trap with Brad Johnson</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-the-ria-growth-trap-with-brad-johnson"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-the-ria-growth-trap-with-brad-johnson</id>
+    <updated>2026-10-30T14:38:10.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Brad Johnson, co-founder at Triad Partners, discusses founder dependence, delegation, firm design and how AI fits into a growing practice.</summary>
   </entry>
   <entry>
     <title>Advisors Debate AI Hype, ROI at Schwab Impact</title>
@@ -185,15 +185,6 @@
     <author><name>Professional Adviser</name></author>
     <category term="PRACTICE &amp; RIA"/>
     <summary>As AI changes the economics of delivering it, who gets access to professional advice? Alistair Morgan explores the issues...</summary>
-  </entry>
-  <entry>
-    <title>Dynamic Planner launches agentic upgrade to its digital advice platform</title>
-    <link href="https://www.moneymarketing.co.uk/dynamic-planner-launches-agentic-upgrade-to-its-digital-advice-platform"/>
-    <id>https://www.moneymarketing.co.uk/dynamic-planner-launches-agentic-upgrade-to-its-digital-advice-platform</id>
-    <updated>2026-10-29T10:05:57.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Dynamic Planner has announced an agentic upgrade to its existing digital platform in a bid to help unlock trusted advice at scale. Unveiled at its Transforming Advice: Revealed event in London’s West End today (29 October), the upgrade combines data, models and insights, established workflows… The post Dynamic Planner </summary>
   </entry>
   <entry>
     <title>GRC Business Roundup: Casepoint, Smarsh, LexisNexis, EcoVadis, MCO &amp; More</title>
@@ -217,7 +208,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-10-30T20:39:16.471Z</updated>
+    <updated>2026-10-31T00:39:09.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -226,7 +217,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-10-30T20:39:16.471Z</updated>
+    <updated>2026-10-31T00:39:09.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -235,19 +226,19 @@
     <title>US tech stocks tumble as concerns over AI spending intensify</title>
     <link href="https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"/>
     <id>https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1</id>
-    <updated>2026-10-30T20:02:30.000Z</updated>
+    <updated>2026-10-30T21:13:50.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Revelations that Anthropic could receive junk rating after IPO add to concerns over Big Tech borrowing spree</summary>
+    <summary>Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree</summary>
   </entry>
   <entry>
-    <title>AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses"/>
-    <id>https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses</id>
-    <updated>2026-10-30T20:30:15.000Z</updated>
+    <title>The Future of Financial Advice: Masters in Business with Rich Steinmeier</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video</id>
+    <updated>2026-10-30T21:14:16.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The deep selloff in technology stocks delivered a painful reckoning to those who remained all-in on the AI trade as the companies at the center of it tumbled, one after another, and investors rushed back to the defensive stocks they had swept out of vogue.</summary>
+    <summary>Barry speaks with Rich Steinmeier, CEO of LPL Financial. They discuss his early career learnings at McKinsey. They also discuss LPL's $2.7 billion acquisition of Commonwealth, and the evolving relationship of AI and financial advice. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Partner Insight: AI Is Creating Value. Who Gets to Keep It?</title>
@@ -274,5 +265,14 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.</summary>
+  </entry>
+  <entry>
+    <title>Fair use benefits everyone</title>
+    <link href="https://openai.com/index/fair-use-benefits-everyone"/>
+    <id>https://openai.com/index/fair-use-benefits-everyone</id>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.</summary>
   </entry>
 </feed>
