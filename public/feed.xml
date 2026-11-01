@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-01T16:44:40.630Z</updated>
+  <updated>2026-11-01T21:04:32.696Z</updated>
+  <entry>
+    <title>Ep. 368: October 2026 WealthTech News</title>
+    <link href="https://wealthtechtoday.com/2026/10/31/october-wealthtech-news"/>
+    <id>https://wealthtechtoday.com/2026/10/31/october-wealthtech-news</id>
+    <updated>2026-10-31T14:06:37.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post Ep. 368: October 2026 WealthTech News appeared first on and was written by Elana Iskowitz . Welcome to the October WealthTech news. AI took over the news cycle this month. Anthropic added another wave of partners to Claude for Financial Advisors, Envestnet answered with a $35 million surge investment in Tamara — Also covered by: WealthTech Strategy</summary>
+  </entry>
   <entry>
     <title>Survey: Firms commit to marketing but aren't tracking the results</title>
     <link href="https://www.financial-planning.com/news/survey-firms-commit-to-marketing-but-arent-tracking-the-results"/>
@@ -16,15 +25,6 @@
     <summary>In two reports, the PR firm Gregory finds prominent wealth managers sometimes never show up in AI search results and that few firms are doing enough to track whether all the money they spend on marketing is having the desired effect. — Also covered by: American Banker AI</summary>
   </entry>
   <entry>
-    <title>Advisors Debate AI Hype, ROI at Schwab Impact</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/advisors-debate-ai-hype-and-roi-at-schwab-impact"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/advisors-debate-ai-hype-and-roi-at-schwab-impact</id>
-    <updated>2026-10-30T14:27:55.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Attendees at Schwab Impact confront a conference dominated by artificial intelligence, as advisors and founders debate whether the technology lives up to its promise or remains overhyped.</summary>
-  </entry>
-  <entry>
     <title>Gemini 4 Carbon: Our next frontier model</title>
     <link href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"/>
     <id>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</id>
@@ -32,15 +32,6 @@
     <author><name>Google DeepMind Blog</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Also covered by: Ars Technica AI</summary>
-  </entry>
-  <entry>
-    <title>Jump Works With Anthropic to Bring Its Client Meeting Context to Claude for Financial Advisors</title>
-    <link href="https://www.01net.it/jump-works-with-anthropic-to-bring-its-client-meeting-context-to-claude-for-financial-advisors"/>
-    <id>https://www.01net.it/jump-works-with-anthropic-to-bring-its-client-meeting-context-to-claude-for-financial-advisors</id>
-    <updated>2026-10-27T19:00:00.000Z</updated>
-    <author><name>GN: wealth AI vendors</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Jump Works With Anthropic to Bring Its Client Meeting Context to Claude for Financial Advisors 01net — Also covered by: Jump (vendor)</summary>
   </entry>
   <entry>
     <title>Fintech bytes: Advisor360, Dispatch, Opto add senior tech leaders</title>
@@ -70,15 +61,6 @@
     <summary>SEC3 analyzes the SEC's fiscal year 2027 examination priorities, highlighting key focus areas including fiduciary conflicts, private fund practices, emerging AI technologies, and compliance program testing for investment advisers. The post SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready? appe</summary>
   </entry>
   <entry>
-    <title>October WealthTech News</title>
-    <link href="https://wealthtechtoday.com/2026/10/31/october-wealthtech-news"/>
-    <id>https://wealthtechtoday.com/2026/10/31/october-wealthtech-news</id>
-    <updated>2026-10-31T14:06:37.000Z</updated>
-    <author><name>WealthTech Today</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The post October WealthTech News appeared first on and was written by Elana Iskowitz . ,Welcome to the October WealthTech news. AI took over the news cycle this month. Anthropic added another wave of partners to Claude for Financial Advisors, Envestnet answered with a $35 million surge investment in Tamarac, and Marine</summary>
-  </entry>
-  <entry>
     <title>Sunday links: economic failures</title>
     <link href="https://abnormalreturns.com/2026/11/01/sunday-links-economic-failures"/>
     <id>https://abnormalreturns.com/2026/11/01/sunday-links-economic-failures</id>
@@ -100,7 +82,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-01T16:44:31.438Z</updated>
+    <updated>2026-11-01T21:04:20.001Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -235,7 +217,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-01T16:44:31.438Z</updated>
+    <updated>2026-11-01T21:04:20.001Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -244,10 +226,19 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-11-01T16:44:31.438Z</updated>
+    <updated>2026-11-01T21:04:20.001Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+  </entry>
+  <entry>
+    <title>The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout</title>
+    <link href="https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan"/>
+    <id>https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan</id>
+    <updated>2026-11-01T18:40:45.000Z</updated>
+    <author><name>SemiAnalysis</name></author>
+    <category term="AI MARKETS"/>
+    <summary>2027 is largely locked in. 2028 is less secure: a prolonged Texas permit freeze is now the biggest single risk to the US buildout, and both parties are running on tighter rules</summary>
   </entry>
   <entry>
     <title>Bookmarked: News Stories On Our Reading List</title>
@@ -259,20 +250,29 @@
     <summary>Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention ov</summary>
   </entry>
   <entry>
-    <title>Wall Street Braces for More Wild Days in Stocks After Tech Rout</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout</id>
-    <updated>2026-11-01T15:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The stock market got a long-awaited jolt of volatility late last week after disappointing earnings from technology giants added to angst around the AI-driven rally.</summary>
-  </entry>
-  <entry>
     <title>Partner Insight: AI Is Creating Value. Who Gets to Keep It?</title>
     <link href="https://www.investmentweek.co.uk/sponsored/4537391/partner-insight-ai-creating-value"/>
     <id>https://www.investmentweek.co.uk/sponsored/4537391/partner-insight-ai-creating-value</id>
     <updated>2026-10-29T16:13:49.000Z</updated>
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
+  </entry>
+  <entry>
+    <title>How Artificial Intelligence Can Build Advisers’ Cybersecurity Strategy</title>
+    <link href="https://www.planadviser.com/how-artificial-intelligence-can-build-advisers-cybersecurity-strategy"/>
+    <id>https://www.planadviser.com/how-artificial-intelligence-can-build-advisers-cybersecurity-strategy</id>
+    <updated>2026-10-28T18:32:23.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Firms are having to balance honing their cybersecurity and evolving their technology stacks.</summary>
+  </entry>
+  <entry>
+    <title>Community safety report and new protections for teens</title>
+    <link href="https://openai.com/index/community-safety-report-and-new-protections-for-teens"/>
+    <id>https://openai.com/index/community-safety-report-and-new-protections-for-teens</id>
+    <updated>2026-10-30T09:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.</summary>
   </entry>
 </feed>
