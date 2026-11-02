@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-01T21:04:32.696Z</updated>
+  <updated>2026-11-02T00:36:54.025Z</updated>
   <entry>
     <title>Ep. 368: October 2026 WealthTech News</title>
     <link href="https://wealthtechtoday.com/2026/10/31/october-wealthtech-news"/>
@@ -25,13 +25,13 @@
     <summary>In two reports, the PR firm Gregory finds prominent wealth managers sometimes never show up in AI search results and that few firms are doing enough to track whether all the money they spend on marketing is having the desired effect. — Also covered by: American Banker AI</summary>
   </entry>
   <entry>
-    <title>Gemini 4 Carbon: Our next frontier model</title>
-    <link href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"/>
-    <id>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</id>
-    <updated>2026-10-28T17:00:58.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Also covered by: Ars Technica AI</summary>
+    <title>Advisors Debate AI Hype, ROI at Schwab Impact</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/advisors-debate-ai-hype-and-roi-at-schwab-impact"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/advisors-debate-ai-hype-and-roi-at-schwab-impact</id>
+    <updated>2026-10-30T14:27:55.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Attendees at Schwab Impact confront a conference dominated by artificial intelligence, as advisors and founders debate whether the technology lives up to its promise or remains overhyped.</summary>
   </entry>
   <entry>
     <title>Fintech bytes: Advisor360, Dispatch, Opto add senior tech leaders</title>
@@ -43,13 +43,13 @@
     <summary>Former Hightower COO and ex-Yieldstreet CTO headline wealth technology hires as advisor platforms push deeper into AI and private markets</summary>
   </entry>
   <entry>
-    <title>OpenAI reportedly lowers funding target for new round</title>
-    <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round"/>
-    <id>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round</id>
-    <updated>2026-10-31T16:12:55.000Z</updated>
+    <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+    <link href="https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses"/>
+    <id>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses</id>
+    <updated>2026-11-01T21:55:23.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI’s latest funding round doesn't seem to be living up to expectations.</summary>
+    <summary>Data centers are deeply unpopular. But what if we called them something else?</summary>
   </entry>
   <entry>
     <title>SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready?</title>
@@ -82,19 +82,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-01T21:04:20.001Z</updated>
+    <updated>2026-11-02T00:36:44.109Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>By The Way: Headlines You May Have Missed</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-01/by-the-way-headlines-you-may-have-missed-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-01/by-the-way-headlines-you-may-have-missed-video</id>
-    <updated>2026-11-01T14:34:43.000Z</updated>
+    <title>Asian Stocks Drop as AI Fears Deepen, Oil Declines: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates</id>
+    <updated>2026-11-01T21:28:04.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>AI in White House press releases, a 'brutal' but surprisingly popular class at Harvard, Life Magazine rises again, and the dwindling justification of day light savings: Join Nathan Hager, David Gura and Lisa Mateo for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)</summary>
+    <summary>Asian stocks dropped, following Friday’s losses on Wall Street, as concern that a rally in artificial intelligence has gone too far spurred a selloff in tech shares. Oil declined.</summary>
   </entry>
   <entry>
     <title>Andrew Dalrymple and José Manuel Silva: Emerging markets have outgrown their index</title>
@@ -142,6 +142,15 @@
     <summary>Wealthbox issued a press release today to announce Wealthbox Vault, a new add-on that gives advisory firms unlimited file storage, full-content search, retained file versions, and a Compliance Monitor role with a complete audit log of file activity. Alongside the launch of Vault, Wealthbox is expanding its AI capabilit</summary>
   </entry>
   <entry>
+    <title>OpenAI reportedly lowers funding target for new round</title>
+    <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round"/>
+    <id>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round</id>
+    <updated>2026-10-31T16:12:55.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI’s latest funding round doesn't seem to be living up to expectations.</summary>
+  </entry>
+  <entry>
     <title>🔮 39 charts on Anthropic, one-person biotech firm &amp; cheap solar #608</title>
     <link href="https://www.exponentialview.co/p/ev-608"/>
     <id>https://www.exponentialview.co/p/ev-608</id>
@@ -149,15 +158,6 @@
     <author><name>Exponential View</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Bigger and smaller all at the same time</summary>
-  </entry>
-  <entry>
-    <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
-    <link href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says"/>
-    <id>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</id>
-    <updated>2026-10-30T21:52:03.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</summary>
   </entry>
   <entry>
     <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
@@ -196,15 +196,6 @@
     <summary>Brad Johnson, co-founder at Triad Partners, discusses founder dependence, delegation, firm design and how AI fits into a growing practice.</summary>
   </entry>
   <entry>
-    <title>Dynamic Planner launches agentic upgrade to its digital advice platform</title>
-    <link href="https://www.moneymarketing.co.uk/dynamic-planner-launches-agentic-upgrade-to-its-digital-advice-platform"/>
-    <id>https://www.moneymarketing.co.uk/dynamic-planner-launches-agentic-upgrade-to-its-digital-advice-platform</id>
-    <updated>2026-10-29T10:05:57.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Dynamic Planner has announced an agentic upgrade to its existing digital platform in a bid to help unlock trusted advice at scale. Unveiled at its Transforming Advice: Revealed event in London’s West End today (29 October), the upgrade combines data, models and insights, established workflows… The post Dynamic Planner </summary>
-  </entry>
-  <entry>
     <title>GRC Business Roundup: Casepoint, Smarsh, LexisNexis, EcoVadis, MCO &amp; More</title>
     <link href="https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-smarsh-lexisnexis-ecovadis-mco-more"/>
     <id>https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-smarsh-lexisnexis-ecovadis-mco-more</id>
@@ -217,7 +208,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-01T21:04:20.001Z</updated>
+    <updated>2026-11-02T00:36:44.109Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -226,7 +217,7 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-11-01T21:04:20.001Z</updated>
+    <updated>2026-11-02T00:36:44.109Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
@@ -241,13 +232,13 @@
     <summary>2027 is largely locked in. 2028 is less secure: a prolonged Texas permit freeze is now the biggest single risk to the US buildout, and both parties are running on tighter rules</summary>
   </entry>
   <entry>
-    <title>Bookmarked: News Stories On Our Reading List</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video</id>
-    <updated>2026-11-01T15:53:30.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Kioxia Shares Tumble After Outlook Suggests Demand Leveling Off</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off</id>
+    <updated>2026-11-02T00:26:06.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Vinyl record bars and cafes, odd Halloween trick-or-treat offerings, the South Korean trend of being seen reading physical books, and Just Eats apologizing for AI mistake: Join hosts David Gura, Lisa Mateo and Nathan Hager on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention ov</summary>
+    <summary>Kioxia Holdings Corp.’s shares fell as much as 15% on Monday after the Japanese memory maker’s cautious outlook disappointed investors, flaring up concerns that the explosive growth driven by artificial intelligence may be leveling off.</summary>
   </entry>
   <entry>
     <title>Partner Insight: AI Is Creating Value. Who Gets to Keep It?</title>
@@ -274,5 +265,14 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.</summary>
+  </entry>
+  <entry>
+    <title>Fair use benefits everyone</title>
+    <link href="https://openai.com/index/fair-use-benefits-everyone"/>
+    <id>https://openai.com/index/fair-use-benefits-everyone</id>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.</summary>
   </entry>
 </feed>
