@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-03T17:41:45.614Z</updated>
+  <updated>2026-11-03T23:12:01.219Z</updated>
   <entry>
     <title>Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire – and prove AI can fix 'the most painful workflow at any RIA'</title>
     <link href="https://riabiz.com/a/2026/11/2/schwab-rias-have-until-monday-to-convert-exclusively-to-docusign-ending-paper-era-as-it-deputizes-nevis-to-help-rias-conquer-their-onboarding-quagmire-and-prove-ai-can-fix-the-most-painful-workflow-at-any-ria"/>
@@ -16,58 +16,40 @@
     <summary>The Nov. 2 deadline marks a huge Schwab milestone but the real challenge remains – integrating the back-office with artificial intelligence (AI) and digitizing its paper trail.</summary>
   </entry>
   <entry>
-    <title>The latest AI news we announced in October 2026</title>
-    <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026"/>
-    <id>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</id>
-    <updated>2026-11-02T17:45:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Here are Google’s latest AI updates from October 2026 — Also covered by: WealthTech Today, WealthTech Strategy</summary>
-  </entry>
-  <entry>
-    <title>Survey: Firms commit to marketing but aren't tracking the results</title>
-    <link href="https://www.financial-planning.com/news/survey-firms-commit-to-marketing-but-arent-tracking-the-results"/>
-    <id>https://www.financial-planning.com/news/survey-firms-commit-to-marketing-but-arent-tracking-the-results</id>
-    <updated>2026-10-30T21:27:46.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>In two reports, the PR firm Gregory finds prominent wealth managers sometimes never show up in AI search results and that few firms are doing enough to track whether all the money they spend on marketing is having the desired effect.</summary>
-  </entry>
-  <entry>
-    <title>Farther taps Google and NASA veterans to sharpen wealthtech usability</title>
-    <link href="https://www.investmentnews.com/fintech/farther-taps-google-and-nasa-veterans-to-sharpen-wealthtech-usability/268848"/>
-    <id>https://www.investmentnews.com/fintech/farther-taps-google-and-nasa-veterans-to-sharpen-wealthtech-usability/268848</id>
-    <updated>2026-11-03T11:38:00.000Z</updated>
+    <title>Nevis wants AI agents that act. Schwab says not yet</title>
+    <link href="https://www.investmentnews.com/goria/technology/nevis-wants-ai-agents-that-act-schwab-says-not-yet/268860"/>
+    <id>https://www.investmentnews.com/goria/technology/nevis-wants-ai-agents-that-act-schwab-says-not-yet/268860</id>
+    <updated>2026-11-03T19:50:48.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Kai Conragan and Allan Smith join Farther's product and UX teams as the firm doubles down on advisor-first design.</summary>
+    <summary>Schwab-backed Nevis wants agents that move money and act on accounts, but the custodian's AI limits remain read-only—for now.</summary>
   </entry>
   <entry>
-    <title>Anthropic is still grappling with the economics of compute</title>
-    <link href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute"/>
-    <id>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute</id>
-    <updated>2026-11-03T17:07:01.000Z</updated>
+    <title>Anthropic is working on a system to prove AI models’ identity</title>
+    <link href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity"/>
+    <id>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity</id>
+    <updated>2026-11-03T22:41:03.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</summary>
+    <summary>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</summary>
   </entry>
   <entry>
-    <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
-    <link href="https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"/>
-    <id>https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities</id>
-    <updated>2026-10-23T14:10:00.000Z</updated>
-    <author><name>SEC Press</name></author>
+    <title>SEC Enforcement Director Signals Continued Scrutiny of Corporate AI Disclosures</title>
+    <link href="https://www.debevoisedatablog.com/2026/11/03/sec-enforcement-director-signals-continued-scrutiny-of-corporate-ai-disclosures"/>
+    <id>https://www.debevoisedatablog.com/2026/11/03/sec-enforcement-director-signals-continued-scrutiny-of-corporate-ai-disclosures</id>
+    <updated>2026-11-03T18:46:27.000Z</updated>
+    <author><name>Debevoise Data Blog</name></author>
     <category term="REGULATION"/>
-    <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
+    <summary>On October 30, 2026, David Woodcock, Director of the Division of Enforcement at the Securities and Exchange Commission (“SEC”), confirmed in separate interviews with Reuters and Law360 that the agency is scrutinizing companies’ disclosures about artificial intelligence (“AI”). His comments reinforce the need for compan</summary>
   </entry>
   <entry>
-    <title>Rent the Platform, Keep the Relationship: How RIAs Can Add Trust Services Without Building a Trust Department</title>
-    <link href="https://wealthtechtoday.com/2026/11/03/trust-services-for-rias"/>
-    <id>https://wealthtechtoday.com/2026/11/03/trust-services-for-rias</id>
-    <updated>2026-11-03T13:45:42.000Z</updated>
-    <author><name>WealthTech Today</name></author>
+    <title>Press Release Wakeo launches Supply Chain Advisor: AI recommendations to build a better transport plan</title>
+    <link href="https://theloadstar.com/ls_press_release/wakeo-launches-supply-chain-advisor-ai-recommendations-to-build-a-better-transport-plan"/>
+    <id>https://theloadstar.com/ls_press_release/wakeo-launches-supply-chain-advisor-ai-recommendations-to-build-a-better-transport-plan</id>
+    <updated>2026-11-03T14:03:12.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The post Rent the Platform, Keep the Relationship: How RIAs Can Add Trust Services Without Building a Trust Department appeared first on and was written by Craig Iskowitz . SHARON WATSON EXECUTIVE IN RESIDENCE Sharon Watson is an Executive-in-Residence at Ezra Group. She has spent more than 35 years in financial servic</summary>
+    <summary>Press Release Wakeo launches Supply Chain Advisor: AI recommendations to build a better transport plan The Loadstar</summary>
   </entry>
   <entry>
     <title>Simon Collins: Challenging the ‘tick box’ approach</title>
@@ -97,13 +79,13 @@
     <summary>Guava, a new developer platform for building voice agents, today announced $12.5 million in seed financing led by Acrew Capital, with participation from Flourish Ventures, WillowTree Ventures, Clocktower Ventures, and Guava pre-seed investor Commerce Ventures.</summary>
   </entry>
   <entry>
-    <title>Technology Stocks Lead S&amp;P 500 Higher With Midterm Vote Underway</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook</id>
-    <updated>2026-11-03T13:15:16.000Z</updated>
+    <title>US Stock Futures Climb on AI Rally as US Votes: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates</id>
+    <updated>2026-11-03T22:20:22.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>US stocks advanced as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors assessing potential risks to the artificial intelligence trade.</summary>
+    <summary>US equity futures advanced as the artificial-intelligence trade regained momentum, while investors awaited the results of the US midterm elections.</summary>
   </entry>
   <entry>
     <title>Considering Which Parts of Compliance to Outsource</title>
@@ -133,13 +115,13 @@
     <summary>MoneyGram and Riskified leaders share strategies for combating synthetic identities, account takeovers, and ACH fraud with identity intelligence and adaptive friction.</summary>
   </entry>
   <entry>
-    <title>Theta Lake Positioned as a Leader and Furthest in Vision in the 2026 Gartner® Magic Quadrant™ for Digital Communications Governance and Archiving Solutions and #1 in AI Communications Governance Use Case in Gartner® Critical Capabilities for DCGA</title>
-    <link href="https://thetalake.com/press-release-theta-lake-positioned-as-leader-and-furthest-in-vision-in-the-2026-gartner-magic-quadrant-for-dcga-solutions"/>
-    <id>https://thetalake.com/press-release-theta-lake-positioned-as-leader-and-furthest-in-vision-in-the-2026-gartner-magic-quadrant-for-dcga-solutions</id>
-    <updated>2026-11-03T16:16:47.000Z</updated>
-    <author><name>Theta Lake (vendor)</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Theta Lake Ranked #1 in 6 out of 7 Use Cases in the Gartner® Critical Capabilities for DCGA Santa Barbara, CA – November 3, 2026 (Business Wire) – Theta Lake, Inc., a multi-award winning platform for Digital Communications Governance and Archiving,...</summary>
+    <title>Farther taps Google and NASA veterans to sharpen wealthtech usability</title>
+    <link href="https://www.investmentnews.com/fintech/farther-taps-google-and-nasa-veterans-to-sharpen-wealthtech-usability/268848"/>
+    <id>https://www.investmentnews.com/fintech/farther-taps-google-and-nasa-veterans-to-sharpen-wealthtech-usability/268848</id>
+    <updated>2026-11-03T11:38:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Kai Conragan and Allan Smith join Farther's product and UX teams as the firm doubles down on advisor-first design.</summary>
   </entry>
   <entry>
     <title>Will Advisors End Up Paying The Cost Of Orion’s New Vendor-Level Integration Fees? (And More Of The Latest In Financial #AdvisorTech – November 2026)</title>
@@ -151,31 +133,31 @@
     <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
-    <title>eMoney platform preps AI assistant for CoPlanner tool</title>
-    <link href="https://www.wealthtechstrategy.com/post/emoney-platform-preps-ai-assistant-for-coplanner-tool"/>
-    <id>https://www.wealthtechstrategy.com/post/emoney-platform-preps-ai-assistant-for-coplanner-tool</id>
-    <updated>2026-11-03T11:17:38.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Rogers, J. (2026, November 2). eMoney platform preps AI assistant for CoPlanner tool. InvestmentNews. https://www.investmentnews.com/goria/technology/emoney-platform-preps-ai-assistant-for-coplanner-tool/268840 eMoney Advisor is preparing to launch CoPlanner Chat, an AI assistant for its CoPlanner planning tool that is</summary>
+    <title>Anthropic is still grappling with the economics of compute</title>
+    <link href="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute"/>
+    <id>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute</id>
+    <updated>2026-11-03T17:07:01.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</summary>
   </entry>
   <entry>
-    <title>Google is entirely disabling Search in schools that don’t want AI</title>
-    <link href="https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"/>
-    <id>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</id>
-    <updated>2026-11-03T17:00:04.000Z</updated>
+    <title>OpenAI says ChatGPT is catching up to Google in search</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</id>
+    <updated>2026-11-03T18:30:42.000Z</updated>
     <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search &quot;will be entirely off&quot; for</summary>
+    <summary>In many circles, &quot;Ask Chat&quot; has replaced &quot;Google it,&quot; and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. H</summary>
   </entry>
   <entry>
-    <title>AI-related layoffs carry a hidden cost for workers</title>
-    <link href="https://www.axios.com/2026/11/03/ai-employment-technology-goldman-sachs"/>
-    <id>https://www.axios.com/2026/11/03/ai-employment-technology-goldman-sachs</id>
-    <updated>2026-11-03T17:31:32.000Z</updated>
-    <author><name>Axios AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>AI-related layoffs carry a hidden cost for workers Axios</summary>
+    <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
+    <link href="https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"/>
+    <id>https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities</id>
+    <updated>2026-10-23T14:10:00.000Z</updated>
+    <author><name>SEC Press</name></author>
+    <category term="REGULATION"/>
+    <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
   </entry>
   <entry>
     <title>Advyzon Launches the Industry’s Only Natively Built, AI-Powered Cash Flow Planning Experience Within a Unified Wealth Management Platform</title>
@@ -187,15 +169,6 @@
     <summary>Advyzon, a global AI-powered, unified wealth management technology and data platform for advisory firms, announced the launch of Advyzon Financial Planning, a comprehensive cash-flow planning and […]</summary>
   </entry>
   <entry>
-    <title>SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready?</title>
-    <link href="https://sec3compliance.com/sec-2027-examination-priorities-compliance-guide"/>
-    <id>https://sec3compliance.com/sec-2027-examination-priorities-compliance-guide</id>
-    <updated>2026-10-29T16:00:19.000Z</updated>
-    <author><name>SEC3 Compliance</name></author>
-    <category term="REGULATION"/>
-    <summary>SEC3 analyzes the SEC's fiscal year 2027 examination priorities, highlighting key focus areas including fiduciary conflicts, private fund practices, emerging AI technologies, and compliance program testing for investment advisers. The post SEC Releases 2027 Examination Priorities: Is Your Compliance Program Ready? appe</summary>
-  </entry>
-  <entry>
     <title>India: Wealthtech platform PowerUp Money raises $10m led by Flourish Ventures</title>
     <link href="https://www.dealstreetasia.com/stories/powerup-money-flourish-ventures-500013"/>
     <id>https://www.dealstreetasia.com/stories/powerup-money-flourish-ventures-500013</id>
@@ -203,6 +176,15 @@
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>India: Wealthtech platform PowerUp Money raises $10m led by Flourish Ventures DealStreetAsia — Also covered by: GN: wealthtech AI, GN: wealthtech AI, GN: wealthtech AI</summary>
+  </entry>
+  <entry>
+    <title>Tuesday links: celebrity value extraction</title>
+    <link href="https://abnormalreturns.com/2026/11/03/tuesday-links-celebrity-value-extraction"/>
+    <id>https://abnormalreturns.com/2026/11/03/tuesday-links-celebrity-value-extraction</id>
+    <updated>2026-11-03T18:12:50.000Z</updated>
+    <author><name>Abnormal Returns</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Markets Why are housing stocks rallying? (conorsen.substack.com) Picking stocks is always tough, especially. now. (awealthofcommonsense.com) The stock market is not the answer on how AI will turn out. (behaviouralinvestment.com) Finance The hyperscalers continue to float new bond issues. (axios.com) The CDS market is h</summary>
   </entry>
   <entry>
     <title>Robinhood in ‘Food Fight’ for Anthropic IPO Retail Allocation</title>
@@ -214,15 +196,6 @@
     <summary>Robinhood Markets Inc. is competing with other retail brokerages to fight for access to Anthropic PBC’s mega-IPO. The post Robinhood in ‘Food Fight’ for Anthropic IPO Retail Allocation appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
-    <title>Watch PA's Working Lunch with Baillie Gifford - The future of growth investing</title>
-    <link href="https://www.professionaladviser.com/sponsored/4536913/future-growth-investing"/>
-    <id>https://www.professionaladviser.com/sponsored/4536913/future-growth-investing</id>
-    <updated>2026-11-03T09:30:27.000Z</updated>
-    <author><name>Professional Adviser</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Change is in the air. On 7 October, Baillie Gifford Investment Specialist Richie Vernon explained how simmering geopolitical tensions, elevated economic uncertainty and accelerating AI adoption are combining to transform the world, and with it the opportunity set for active managers. In this session, We cover the oppor</summary>
-  </entry>
-  <entry>
     <title>Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising</title>
     <link href="https://www.consumerfinancemonitor.com/2026/11/02/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act-new-disclosure-requirements-for-ai-generated-advertising"/>
     <id>https://www.consumerfinancemonitor.com/2026/11/02/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act-new-disclosure-requirements-for-ai-generated-advertising</id>
@@ -232,19 +205,10 @@
     <summary>Pennsylvania has enacted legislation imposing new disclosure requirements on certain advertisements that use artificial intelligence (AI)-generated or AI-modified content. Senate Bill 806, now Act 99 of 2026 , was signed into law by Governor Josh Shapiro on October 22, 2026. The statute, titled the Artificial Intellige</summary>
   </entry>
   <entry>
-    <title>Compliance spend on AI rising, but fears about accuracy, reliability remain</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/compliance-spend-on-ai-rising-but-fears-about-accuracy-reliability-remain"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/compliance-spend-on-ai-rising-but-fears-about-accuracy-reliability-remain</id>
-    <updated>2026-11-03T03:14:37.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Organizations are increasing their investments in AI to support compliance and due diligence, but many remain wary of the reliability and accuracy of the technology’s outputs. The post Compliance spend on AI rising, but fears about accuracy, reliability remain appeared first on Compliance Week .</summary>
-  </entry>
-  <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-03T17:41:22.016Z</updated>
+    <updated>2026-11-03T23:11:52.011Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -253,27 +217,63 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-03T17:41:22.016Z</updated>
+    <updated>2026-11-03T23:11:52.011Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Meta Seeks $15 Billion in First Leg of Cross-Border Fundraising</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-03/meta-kicks-off-debt-offering-in-push-to-fund-ai-investments</id>
-    <updated>2026-11-03T13:25:51.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video</id>
+    <updated>2026-11-03T21:19:38.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Meta Platforms Inc. is selling debt for the first time in six months, offering investors juicier yields as it seeks to lure buyers despite growing skepticism over Big Tech’s massive bet on artificial intelligence.</summary>
+    <summary>Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>The IPO Market Is Open For Anthropic. Not For Everyone Else.</title>
-    <link href="https://www.wsj.com/tech/ai/the-ipo-market-is-open-for-anthropic-not-for-everyone-else-15d97043?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/the-ipo-market-is-open-for-anthropic-not-for-everyone-else-15d97043?mod=rss_Technology</id>
-    <updated>2026-11-03T17:00:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>Schneider Electric Coalition Spotlight</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video</id>
+    <updated>2026-11-03T21:18:36.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Plus, a wild week for tech earnings, and an Nvidia spy caper.</summary>
+    <summary>Frédéric Godemel, Executive Vice-President for Energy Management, Schneider Electric, discusses the energy systems and infrastructure needed to support AI-driven growth with Bloomberg's Dana Perkins at Bloomberg Tech 2026 in London. (Source: Bloomberg)</summary>
+  </entry>
+  <entry>
+    <title>Nick Train: Rising AI adoption 'unambiguously bullish' for UK equity portfolio</title>
+    <link href="https://www.investmentweek.co.uk/news/4538295/nick-train-rising-ai-adoption-unambiguously-bullish-uk-equity-portfolio"/>
+    <id>https://www.investmentweek.co.uk/news/4538295/nick-train-rising-ai-adoption-unambiguously-bullish-uk-equity-portfolio</id>
+    <updated>2026-11-03T11:56:25.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>Experienced portfolio manager Nick Train has said falling costs for AI resulting from greater competition and rising adoption is &quot;unambiguously bullish&quot; for his fund.</summary>
+  </entry>
+  <entry>
+    <title>AI Product &amp; Service Launches – 11/2/2026</title>
+    <link href="https://www.planadviser.com/ai-product-service-launches-11-2-2026"/>
+    <id>https://www.planadviser.com/ai-product-service-launches-11-2-2026</id>
+    <updated>2026-11-02T18:30:02.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>WealthFeed adds Form 5500 data to platform; 5 firms integrate Claude into their s ystems; and Zeplyn launches Zeplyn Workflows. — Also covered by: PlanAdviser AI</summary>
+  </entry>
+  <entry>
+    <title>Google Curbs AI in School Accounts After Pushback</title>
+    <link href="https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc?mod=rss_Technology</id>
+    <updated>2026-11-03T22:53:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>The search company turns off Gemini chatbot and Google Search by default for schoolchildren after a WSJ investigation into Google’s AI rollout in schools.</summary>
+  </entry>
+  <entry>
+    <title>Accelerating engineering for the physical world</title>
+    <link href="https://openai.com/index/accelerating-engineering-for-the-physical-world"/>
+    <id>https://openai.com/index/accelerating-engineering-for-the-physical-world</id>
+    <updated>2026-11-03T12:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.</summary>
   </entry>
 </feed>
