@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-04T21:15:43.802Z</updated>
+  <updated>2026-11-05T02:12:32.161Z</updated>
+  <entry>
+    <title>Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire – and prove AI can fix 'the most painful workflow at any RIA'</title>
+    <link href="https://riabiz.com/a/2026/11/2/schwab-rias-have-until-monday-to-convert-exclusively-to-docusign-ending-paper-era-as-it-deputizes-nevis-to-help-rias-conquer-their-onboarding-quagmire-and-prove-ai-can-fix-the-most-painful-workflow-at-any-ria"/>
+    <id>https://riabiz.com/a/2026/11/2/schwab-rias-have-until-monday-to-convert-exclusively-to-docusign-ending-paper-era-as-it-deputizes-nevis-to-help-rias-conquer-their-onboarding-quagmire-and-prove-ai-can-fix-the-most-painful-workflow-at-any-ria</id>
+    <updated>2026-11-02T06:46:31.000Z</updated>
+    <author><name>RIABiz</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The Nov. 2 deadline marks a huge Schwab milestone but the real challenge remains – integrating the back-office with artificial intelligence (AI) and digitizing its paper trail.</summary>
+  </entry>
   <entry>
     <title>The latest AI news we announced in October 2026</title>
     <link href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026"/>
@@ -16,13 +25,22 @@
     <summary>Here are Google’s latest AI updates from October 2026 — Also covered by: WealthTech Today, WealthTech Strategy</summary>
   </entry>
   <entry>
-    <title>Lawsuit accuses Blue Owl of inflating assets in $4.3B merger</title>
-    <link href="https://www.investmentnews.com/regulation-legal-compliance/lawsuit-accuses-blue-owl-of-inflating-assets-in-43b-merger/268884"/>
-    <id>https://www.investmentnews.com/regulation-legal-compliance/lawsuit-accuses-blue-owl-of-inflating-assets-in-43b-merger/268884</id>
-    <updated>2026-11-04T17:52:16.000Z</updated>
+    <title>Large RIAs name ChatGPT, Copilot and Claude in job posts far more than advisor AI tools</title>
+    <link href="https://www.investmentnews.com/transformation/large-rias-name-chatgpt-copilot-and-claude-in-job-posts-far-more-than-advisor-ai-tools/268889"/>
+    <id>https://www.investmentnews.com/transformation/large-rias-name-chatgpt-copilot-and-claude-in-job-posts-far-more-than-advisor-ai-tools/268889</id>
+    <updated>2026-11-04T22:51:10.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>The complaint points to interest rate risk and AI disruption the BDC allegedly ignored.</summary>
+    <summary>When the largest RIAs recruit for AI, they name Copilot, ChatGPT and Claude in job posts far more often than advisor-specific fintechs, Caddi data shows</summary>
+  </entry>
+  <entry>
+    <title>The 'advisor paradox' of clients who trust AI for financial advice</title>
+    <link href="https://www.financial-planning.com/news/the-advisor-paradox-of-clients-who-trust-ai-for-financial-advice"/>
+    <id>https://www.financial-planning.com/news/the-advisor-paradox-of-clients-who-trust-ai-for-financial-advice</id>
+    <updated>2026-11-04T22:00:45.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Adults who have financial advisors are three times as likely to act on AI's money advice without checking, new research shows. Those results, which defy conventional wisdom, will outlast the company that uncovered them. — Also covered by: American Banker AI</summary>
   </entry>
   <entry>
     <title>Open source AI is booming. Hugging Face explains who profits.</title>
@@ -43,13 +61,13 @@
     <summary>The OCC released guidance for its examiners when evaluating the use of artificial intelligence – or “super intelligence&quot; – in banks’ business activities. The post OCC releases framework for supervising artificial intelligence appeared first on ABA Banking Journal .</summary>
   </entry>
   <entry>
-    <title>Saaspocalypse Panel: Three Big Vendors Split on Claude, Vibe Coding, and Who Owns the Advisor Desktop</title>
-    <link href="https://wealthtechtoday.com/2026/11/04/claude-financial-advisors-saas-apocalypse-panel"/>
-    <id>https://wealthtechtoday.com/2026/11/04/claude-financial-advisors-saas-apocalypse-panel</id>
-    <updated>2026-11-04T17:58:01.000Z</updated>
-    <author><name>WealthTech Today</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>The post Saaspocalypse Panel: Three Big Vendors Split on Claude, Vibe Coding, and Who Owns the Advisor Desktop appeared first on and was written by Craig Iskowitz . Three of the biggest RIA platforms shared a stage and couldn’t agree on whether Claude makes them stronger or turns them into plumbing. When Anthropic laun</summary>
+    <title>Anthropic’s IPO Is Coming. These Brokerages Are Giving Everyday Investors a Chance to Participate.</title>
+    <link href="https://www.barrons.com/advisor/articles/anthropic-ant-ipo-brokerage-firms-afe39034"/>
+    <id>https://www.barrons.com/advisor/articles/anthropic-ant-ipo-brokerage-firms-afe39034</id>
+    <updated>2026-11-04T21:54:00.000Z</updated>
+    <author><name>Barron's Advisor</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>The artificial intelligence company intends to allocate a portion of IPO shares to customers of some of the nation’s largest brokerage firms.</summary>
   </entry>
   <entry>
     <title>Your AI Agent Can Bind You: A Governance Framework for Autonomous Contracts</title>
@@ -64,19 +82,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-04T21:13:49.902Z</updated>
+    <updated>2026-11-05T02:12:22.442Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition</title>
-    <link href="https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology"/>
-    <id>https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology</id>
-    <updated>2026-11-04T17:24:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
+    <title>Blue Wave Stock Rotation Sinks Asian Chipmakers, Boosts Autos</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos</id>
+    <updated>2026-11-05T01:45:33.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>OpenAI said Pierre’s open-source projects would remain freely available, and Code Storage customers would be able to use the tool post-acquisition while it is integrated into Codex.</summary>
+    <summary>The Democratic sweep of Congress fueled rotation trade in Asia, dragging down shares of chipmakers on concerns over the AI buildout while lifting auto and consumer goods makers.</summary>
   </entry>
   <entry>
     <title>Partner Interview: Amundi ETF and Indexing's Michael Stewart on the evolving memory chip investment opportunity</title>
@@ -97,13 +115,13 @@
     <summary>OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.</summary>
   </entry>
   <entry>
-    <title>Matching AI-Driven Attacks With Autonomous Security Testing</title>
-    <link href="https://emerj.com/matching-ai-driven-attacks-with-autonomous-security-testing"/>
-    <id>https://emerj.com/matching-ai-driven-attacks-with-autonomous-security-testing</id>
-    <updated>2026-11-04T11:00:00.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
+    <title>Most Brits not ready to let AI manage their money</title>
+    <link href="https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money"/>
+    <id>https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money</id>
+    <updated>2026-11-05T00:01:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="RESEARCH"/>
-    <summary>This article is sponsored by XBOW and was written, edited, and published in alignment with our Emerj sponsored content guidelines. Learn more about our thought leadership and content creation services on our Emerj Media Services page. The Cloud Security Alliance reports that AI-assisted software development is outpacin</summary>
+    <summary>Brits are already using artificial intelligence for help with their money, but most are not ready to hand over day-to-day control to an AI assistant, according to a FIS survey.</summary>
   </entry>
   <entry>
     <title>From Conversation to Application: When a Portfolio Workflow Should Become a Tool</title>
@@ -115,22 +133,22 @@
     <summary>In AI-enabled conversational portfolio construction, natural language is particularly useful while a workflow is being discovered. A user can describe an investment mandate, clarify assumptions, run an optimization, inspect the results, and refine the request until the process is settled. But once the workflow has stab</summary>
   </entry>
   <entry>
-    <title>Modera Wealth plants West Coast flag with $750M RS Crum deal</title>
-    <link href="https://www.investmentnews.com/ria-news/modera-wealth-plants-west-coast-flag-with-750m-rs-crum-deal/268882"/>
-    <id>https://www.investmentnews.com/ria-news/modera-wealth-plants-west-coast-flag-with-750m-rs-crum-deal/268882</id>
-    <updated>2026-11-04T16:55:54.000Z</updated>
+    <title>Lawsuit accuses Blue Owl of inflating assets in $4.3B merger</title>
+    <link href="https://www.investmentnews.com/regulation-legal-compliance/lawsuit-accuses-blue-owl-of-inflating-assets-in-43b-merger/268884"/>
+    <id>https://www.investmentnews.com/regulation-legal-compliance/lawsuit-accuses-blue-owl-of-inflating-assets-in-43b-merger/268884</id>
+    <updated>2026-11-04T17:52:16.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Fee-only RIA welcomes a 50-year-old Southern California firm as its agentic AI platform, becomes part of the pitch to selling advisors</summary>
+    <summary>The complaint points to interest rate risk and AI disruption the BDC allegedly ignored.</summary>
   </entry>
   <entry>
-    <title>Democrats take Congress: what it means for your clients</title>
-    <link href="https://www.investmentnews.com/equities/democrats-take-congress-what-it-means-for-your-clients/268876"/>
-    <id>https://www.investmentnews.com/equities/democrats-take-congress-what-it-means-for-your-clients/268876</id>
-    <updated>2026-11-04T10:14:18.000Z</updated>
+    <title>Mariner’s Hugo AI uncovered $22B in client assets, says Marty Bicknell</title>
+    <link href="https://www.investmentnews.com/transformation/mariners-hugo-ai-uncovered-22b-in-client-assets-says-marty-bicknell/268888"/>
+    <id>https://www.investmentnews.com/transformation/mariners-hugo-ai-uncovered-22b-in-client-assets-says-marty-bicknell/268888</id>
+    <updated>2026-11-04T21:18:40.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Democratic sweep signals tougher tech regulation, AI headwinds, and near-term market volatility.</summary>
+    <summary>Bicknell said that Mariner's Humanity Labs partnership is key to growing his mega-RIA from 70,000 to 500,000 households by 2028</summary>
   </entry>
   <entry>
     <title>Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs</title>
@@ -142,13 +160,22 @@
     <summary>Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can America</summary>
   </entry>
   <entry>
-    <title>The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms</title>
-    <link href="https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms"/>
-    <id>https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms</id>
-    <updated>2026-11-04T20:41:29.000Z</updated>
-    <author><name>Wired AI</name></author>
+    <title>OpenAI is already trying to shape the 2028 election</title>
+    <link href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election"/>
+    <id>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election</id>
+    <updated>2026-11-04T21:25:44.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.</summary>
+    <summary>OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.</summary>
+  </entry>
+  <entry>
+    <title>FINRA Warns AI Is Making Investment Fraud Harder to Detect</title>
+    <link href="https://www.tradersmagazine.com/xtra/finra-warns-ai-is-making-investment-fraud-harder-to-detect"/>
+    <id>https://www.tradersmagazine.com/xtra/finra-warns-ai-is-making-investment-fraud-harder-to-detect</id>
+    <updated>2026-11-04T08:39:44.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
+    <category term="REGULATION"/>
+    <summary>FINRA Warns AI Is Making Investment Fraud Harder to Detect Traders Magazine</summary>
   </entry>
   <entry>
     <title>SEC Enforcement Director Signals Continued Scrutiny of Corporate AI Disclosures</title>
@@ -160,13 +187,13 @@
     <summary>On October 30, 2026, David Woodcock, Director of the Division of Enforcement at the Securities and Exchange Commission (“SEC”), confirmed in separate interviews with Reuters and Law360 that the agency is scrutinizing companies’ disclosures about artificial intelligence (“AI”). His comments reinforce the need for compan</summary>
   </entry>
   <entry>
-    <title>SEC Announces Fiscal Year 2027 Examination Priorities</title>
-    <link href="https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"/>
-    <id>https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities</id>
-    <updated>2026-10-23T14:10:00.000Z</updated>
-    <author><name>SEC Press</name></author>
-    <category term="REGULATION"/>
-    <summary>The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…</summary>
+    <title>Saaspocalypse Panel: Three Big Vendors Split on Claude, Vibe Coding, and Who Owns the Advisor Desktop</title>
+    <link href="https://wealthtechtoday.com/2026/11/04/claude-financial-advisors-saas-apocalypse-panel"/>
+    <id>https://wealthtechtoday.com/2026/11/04/claude-financial-advisors-saas-apocalypse-panel</id>
+    <updated>2026-11-04T17:58:01.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post Saaspocalypse Panel: Three Big Vendors Split on Claude, Vibe Coding, and Who Owns the Advisor Desktop appeared first on and was written by Craig Iskowitz . Three of the biggest RIA platforms shared a stage and couldn’t agree on whether Claude makes them stronger or turns them into plumbing. When Anthropic laun</summary>
   </entry>
   <entry>
     <title>Focused on the Future: How Advisors Can Use AI Without Losing the Human Relationship</title>
@@ -176,33 +203,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Arca Wealth’s Rron Rexha details what meaningful AI adoption could look like for advisory firms, starting with the client experience and working backward.</summary>
-  </entry>
-  <entry>
-    <title>Should Your Firm Adopt an AI and Cybersecurity Policy Statement?</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/should-your-firm-adopt-an-ai-and-cybersecurity-policy-statement-"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/should-your-firm-adopt-an-ai-and-cybersecurity-policy-statement-</id>
-    <updated>2026-11-04T17:00:41.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>It can help create a unified framework that reflects how the firm operates.</summary>
-  </entry>
-  <entry>
-    <title>What gets Edward Jones to open its wallet for wealthtech?</title>
-    <link href="https://www.financial-planning.com/news/what-gets-edward-jones-to-open-its-wallet-for-wealthtech"/>
-    <id>https://www.financial-planning.com/news/what-gets-edward-jones-to-open-its-wallet-for-wealthtech</id>
-    <updated>2026-11-04T18:50:19.000Z</updated>
-    <author><name>Financial Planning</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Edward Jones Ventures gets 2,000 tech pitches a year. What gets their execs' attention has far more to do with wallet share than time savings these days.</summary>
-  </entry>
-  <entry>
-    <title>Openwork expands AI offering with AdvisoryAI</title>
-    <link href="https://www.moneymarketing.co.uk/openwork-expands-ai-offering-with-advisoryai"/>
-    <id>https://www.moneymarketing.co.uk/openwork-expands-ai-offering-with-advisoryai</id>
-    <updated>2026-11-04T08:00:55.000Z</updated>
-    <author><name>Money Marketing</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Openwork has partnered with AdvisoryAI to bring AI-powered report writing and compliance checks to advisers as part of its ongoing technology overhaul. The partnership was announced at Openwork's Advice Conference in Telford, where the network outlined plans to reduce administrative burdens and give advisers more… The </summary>
   </entry>
   <entry>
     <title>The State of AI Governance in Third-Party Risk</title>
@@ -226,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-04T21:13:49.902Z</updated>
+    <updated>2026-11-05T02:12:22.442Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -235,28 +235,28 @@
     <title>What defines the issuer of tomorrow?</title>
     <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
     <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-11-04T21:13:49.902Z</updated>
+    <updated>2026-11-05T02:12:22.442Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>Wall Street Sees Risks to AI Boom After the Democratic Sweep</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep</id>
-    <updated>2026-11-04T16:27:47.000Z</updated>
+    <title>Isomorphic Labs in Talks for About $5 Billion in Funding</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding</id>
+    <updated>2026-11-04T22:51:44.000Z</updated>
     <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>While stocks rallied as the Democratic sweep of Congress promises to exert a significant restraint on President Donald Trump, one key corner of the market was left out.</summary>
+    <summary>Alphabet Inc.’s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use artificial intelligence for drug discovery, according to people familiar with the matter.</summary>
   </entry>
   <entry>
-    <title>State of the Themes</title>
-    <link href="https://www.citriniresearch.com/p/state-of-the-themes-556"/>
-    <id>https://www.citriniresearch.com/p/state-of-the-themes-556</id>
-    <updated>2026-11-04T20:28:09.000Z</updated>
-    <author><name>Citrini Research</name></author>
+    <title>Months-Old Chip Startup Tenspresso in Talks for $500 Million Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation</id>
+    <updated>2026-11-04T22:30:48.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The End of the Trade (as we know it)</summary>
+    <summary>Tenspresso, a three-month-old artificial intelligence chip startup founded by former Google AI chip engineers, is in talks for financing that would value it at $500 million, according to people familiar with the matter.</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 11/2/2026</title>
