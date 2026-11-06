@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-06T06:24:48.060Z</updated>
+  <updated>2026-11-06T14:56:22.887Z</updated>
   <entry>
     <title>Large RIAs name ChatGPT, Copilot and Claude in job posts far more than advisor AI tools</title>
     <link href="https://www.investmentnews.com/transformation/large-rias-name-chatgpt-copilot-and-claude-in-job-posts-far-more-than-advisor-ai-tools/268889"/>
@@ -25,94 +25,85 @@
     <summary>Anthropic PBC’s march toward an initial public offering is expected to deliver billions of dollars in paper gains ordinary mutual funds. The post Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO appeared first on AdvisorHub . — Also covered by: WealthManagement.com</summary>
   </entry>
   <entry>
+    <title>Claude gets personal finance tool</title>
+    <link href="https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool"/>
+    <id>https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool</id>
+    <updated>2026-11-06T14:11:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic has unveiled a personal finance tool for Claude that lets users connect their bank and card accounts to get answers to questions about their money. — Also covered by: TechCrunch AI</summary>
+  </entry>
+  <entry>
     <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-    <link href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"/>
-    <id>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips</id>
-    <updated>2026-11-05T17:05:16.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"/>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</id>
+    <updated>2026-11-05T17:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Also covered by: Google AI Blog</summary>
+    <summary>Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. — Also covered by: Google DeepMind Blog</summary>
   </entry>
   <entry>
-    <title>Wealthbox Adds AI Agents to Every Plan</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthbox-adds-ai-agents-to-every-plan"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthbox-adds-ai-agents-to-every-plan</id>
-    <updated>2026-11-05T11:44:10.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Bowman, W. (2026, November 4). Introducing Wealthbox AI Agents, included on every plan. Wealthbox. https://www.wealthbox.com/introducing-wealthbox-ai-agents-included-on-every-plan/ Wealthbox launched AI Agents on all of its plans, offering an initial set of 24 pre-built agents along with the option to create and custom — Also covered by: Wealthbox (vendor)</summary>
-  </entry>
-  <entry>
-    <title>Cary Carbonaro wins lifetime honor at Women to Watch: 'I am so not done'</title>
-    <link href="https://www.investmentnews.com/practice-management/cary-carbonaro-wins-lifetime-honor-at-women-to-watch-i-am-so-not-done/268911"/>
-    <id>https://www.investmentnews.com/practice-management/cary-carbonaro-wins-lifetime-honor-at-women-to-watch-i-am-so-not-done/268911</id>
-    <updated>2026-11-06T02:26:47.000Z</updated>
+    <title>Most Americans are OK with AI managing their money - but not how you think</title>
+    <link href="https://www.investmentnews.com/fintech/most-americans-are-ok-with-ai-managing-their-money-but-not-how-you-think/268910"/>
+    <id>https://www.investmentnews.com/fintech/most-americans-are-ok-with-ai-managing-their-money-but-not-how-you-think/268910</id>
+    <updated>2026-11-06T12:00:00.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Winners at the InvestmentNews awards said awareness, mentorship and AI can help close the advisor industry’s gender gap.</summary>
+    <summary>AI trust gap: Americans want protection, not autonomy, in their finances</summary>
   </entry>
   <entry>
-    <title>OpenAI president Greg Brockman says company could be IPO ready in 2027</title>
-    <link href="https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027"/>
-    <id>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027</id>
-    <updated>2026-11-05T18:02:27.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises</title>
+    <link href="https://www.reuters.com/business/media-telecom/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-2026-11-06"/>
+    <id>https://www.reuters.com/business/media-telecom/indias-coforge-joins-spacex-partner-network-deploy-grok-ai-tools-enterprises-2026-11-06</id>
+    <updated>2026-11-06T07:46:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.</summary>
+    <summary>India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises Reuters</summary>
   </entry>
   <entry>
-    <title>OCC unveils supervisory framework for bank AI deployment</title>
-    <link href="https://www.fintechfutures.com/regulations-compliance/occ-unveils-supervisory-framework-for-bank-ai-deployment"/>
-    <id>https://www.fintechfutures.com/regulations-compliance/occ-unveils-supervisory-framework-for-bank-ai-deployment</id>
-    <updated>2026-11-06T06:00:00.000Z</updated>
-    <author><name>FinTech Futures</name></author>
+    <title>Will flawed AI in the Control Room spark enforcement?</title>
+    <link href="https://fintech.global/2026/11/06/will-flawed-ai-in-the-control-room-spark-enforcement"/>
+    <id>https://fintech.global/2026/11/06/will-flawed-ai-in-the-control-room-spark-enforcement</id>
+    <updated>2026-11-06T14:21:06.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="REGULATION"/>
-    <summary>The OCC describes the new guidelines as an &quot;important milestone for the financial industry as it continues to embrace innovation responsibly.&quot;</summary>
+    <summary>Artificial intelligence is steadily advancing in the Control Room, shifting from basic task automation towards more sophisticated uses such as conflict identification, workflow automation and pattern detection. As these applications mature, issues of data quality, trust, governance and accountability are becoming harde</summary>
   </entry>
   <entry>
-    <title>Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO</title>
-    <link href="https://www.wealthmanagement.com/mutual-funds/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo"/>
-    <id>https://www.wealthmanagement.com/mutual-funds/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo</id>
-    <updated>2026-11-05T18:04:06.000Z</updated>
+    <title>Few RIAs Have Named AI Leaders, Caddi Finds</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/few-rias-have-named-ai-leaders-caddi-finds"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/few-rias-have-named-ai-leaders-caddi-finds</id>
+    <updated>2026-11-06T14:32:05.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Asset managers popular with retirement savers have quietly amassed sizable bets on Anthropic.</summary>
+    <summary>Our technology columnist highlights new research from Caddi, which shows most large RIAs still lack a designated AI leader, and of those that do, many don't hire the compliance staff needed to support AI use.</summary>
   </entry>
   <entry>
-    <title>BDO 2026 Board Survey: Keeping pace with AI is a top challenge</title>
-    <link href="https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge"/>
-    <id>https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge</id>
-    <updated>2026-11-06T02:24:35.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>AML Compliance Spending Dips in US</title>
+    <link href="https://www.corporatecomplianceinsights.com/news-roundup-november-6-2026"/>
+    <id>https://www.corporatecomplianceinsights.com/news-roundup-november-6-2026</id>
+    <updated>2026-11-06T14:26:59.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Keeping pace with artificial intelligence and emerging technologies is the most significant challenge corporate boards expect to face, alongside many other competing board priorities, according to BDO’s 2026 Board Survey. The post BDO 2026 Board Survey: Keeping pace with AI is a top challenge appeared first on Complian</summary>
+    <summary>Plus: Majority of contract negotiators use AI; AI strategic miscalculation enters top five risks The post AML Compliance Spending Dips in US appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-06T06:24:35.208Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
-  </entry>
-  <entry>
-    <title>Max Richter: AI Degrades Our Taste in Music</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-06/max-richter-ai-degrades-our-taste-in-music"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-06/max-richter-ai-degrades-our-taste-in-music</id>
-    <updated>2026-11-06T06:00:24.000Z</updated>
+    <title>Anthropic IPO Buyers See Valuation Down as Low as $1.2 Trillion</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</id>
+    <updated>2026-11-06T13:12:57.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Oscar-nominated composer Max Richter speaks to Mishal Husain about his latest album, what it was like growing up in the 1970s and why AI-generated music is a “solution looking for a problem.” (Source: Bloomberg)</summary>
+    <summary>Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.</summary>
   </entry>
   <entry>
-    <title>Europe's first Mag Seven ETF launches as investor tech jitters intensify</title>
-    <link href="https://www.investmentweek.co.uk/news/4538448/europes-mag-seven-etf-launches-investor-tech-jitters-intensify"/>
-    <id>https://www.investmentweek.co.uk/news/4538448/europes-mag-seven-etf-launches-investor-tech-jitters-intensify</id>
-    <updated>2026-11-05T12:02:03.000Z</updated>
+    <title>Managers look to diversify as US tech sell-off spirals after midterms and AI capex fears</title>
+    <link href="https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears"/>
+    <id>https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears</id>
+    <updated>2026-11-06T11:44:19.000Z</updated>
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>HANetf and Defiance ETFs have launched a Magnificent Seven ETF for European investors, exposed only to the seven tech and AI giants.</summary>
+    <summary>US markets have plummeted, led by the tech-heavy Nasdaq, following the midterms and a Magnificent Seven earnings round that failed to placate investors concerned about exorbitant AI capex.</summary>
   </entry>
   <entry>
     <title>Cult.fit builds operational muscle with Codex</title>
@@ -124,13 +115,31 @@
     <summary>Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.</summary>
   </entry>
   <entry>
-    <title>Stress Testing Amid Rising Fears of an AI Bubble</title>
-    <link href="https://insight.factset.com/stress-testing-amid-rising-fears-of-an-ai-bubble"/>
-    <id>https://insight.factset.com/stress-testing-amid-rising-fears-of-an-ai-bubble</id>
-    <updated>2026-11-05T17:23:00.000Z</updated>
-    <author><name>FactSet Insight (vendor)</name></author>
+    <title>How AI is transforming automotive quality operations</title>
+    <link href="https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations"/>
+    <id>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</id>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.</summary>
+  </entry>
+  <entry>
+    <title>Crypto-associated publicly traded WealthTechs off 10% on Thursday post midterms</title>
+    <link href="https://www.wealthtechstrategy.com/post/crypto-associated-publicly-traded-wealthtechs-off-10-on-thursday-post-midterms"/>
+    <id>https://www.wealthtechstrategy.com/post/crypto-associated-publicly-traded-wealthtechs-off-10-on-thursday-post-midterms</id>
+    <updated>2026-11-06T10:57:31.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>Given recent market reactions to rising fears of an artificial intelligence bubble, we are revisiting the stress testing analysis we performed on investable indices and strategies as a response to a hypothetical AI bubble burst. As concerns of tech companies being overpriced is often compared to the dot-com bubble burs</summary>
+    <summary>Moadel, D. (2026, November 5). Robinhood sinks 12%, SoFi tumbles 9%, Affirm drops 8% as Bitcoin slides and Democratic Congress weighs on fintech. Yahoo Finance. https://finance.yahoo.com/markets/crypto/articles/robinhood-sinks-12-sofi-tumbles-190303224.html In afternoon trading on November 5, Robinhood, Webull, Coinbas</summary>
+  </entry>
+  <entry>
+    <title>Cary Carbonaro wins lifetime honor at Women to Watch: 'I am so not done'</title>
+    <link href="https://www.investmentnews.com/practice-management/cary-carbonaro-wins-lifetime-honor-at-women-to-watch-i-am-so-not-done/268911"/>
+    <id>https://www.investmentnews.com/practice-management/cary-carbonaro-wins-lifetime-honor-at-women-to-watch-i-am-so-not-done/268911</id>
+    <updated>2026-11-06T02:26:47.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Winners at the InvestmentNews awards said awareness, mentorship and AI can help close the advisor industry’s gender gap.</summary>
   </entry>
   <entry>
     <title>Fintech bytes: Vestmark, NDEX, and Forms Logic partnerships sharpen RIA tools</title>
@@ -139,61 +148,61 @@
     <updated>2026-11-05T20:08:30.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>First Trust models, Schwab-linked data tools and Orion transition tech headline a busy week for RIA wealthtech</summary>
+    <summary>First Trust models, Schwab-linked data tools and Orion transition tech headline a busy week for RIA wealthtech.</summary>
   </entry>
   <entry>
-    <title>AI revolution in full swing, but it won’t replace advisors: HSBC</title>
-    <link href="https://www.investmentnews.com/practice-management/ai-revolution-in-full-swing-but-it-wont-replace-advisors-hsbc/268906"/>
-    <id>https://www.investmentnews.com/practice-management/ai-revolution-in-full-swing-but-it-wont-replace-advisors-hsbc/268906</id>
-    <updated>2026-11-05T21:25:55.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>“I am excited about what AI will do for us,” said Racquel Oden of HSBC.</summary>
-  </entry>
-  <entry>
-    <title>Instant View: Tech-stock rout accelerates retreat from the AI trade</title>
-    <link href="https://www.reuters.com/business/view-tech-stock-rout-accelerates-retreat-ai-trade-2026-11-05"/>
-    <id>https://www.reuters.com/business/view-tech-stock-rout-accelerates-retreat-ai-trade-2026-11-05</id>
-    <updated>2026-11-05T22:26:39.000Z</updated>
+    <title>SoftBank credit risk jumps to 4-year high, shares tumble as AI fears roil market</title>
+    <link href="https://www.reuters.com/business/media-telecom/softbank-cds-softbank-cds-2026-11-06"/>
+    <id>https://www.reuters.com/business/media-telecom/softbank-cds-softbank-cds-2026-11-06</id>
+    <updated>2026-11-06T03:20:00.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Instant View: Tech-stock rout accelerates retreat from the AI trade Reuters</summary>
+    <summary>SoftBank credit risk jumps to 4-year high, shares tumble as AI fears roil market Reuters</summary>
   </entry>
   <entry>
-    <title>Perplexity launches its own take on AI agents for work</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</id>
-    <updated>2026-11-05T22:26:50.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
+    <link href="https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m"/>
+    <id>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m</id>
+    <updated>2026-11-06T06:28:32.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on &quot;Teammates&quot; can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI syst</summary>
+    <summary>Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.</summary>
+  </entry>
+  <entry>
+    <title>OCC unveils supervisory framework for bank AI deployment</title>
+    <link href="https://www.fintechfutures.com/regulations-compliance/occ-unveils-supervisory-framework-for-bank-ai-deployment"/>
+    <id>https://www.fintechfutures.com/regulations-compliance/occ-unveils-supervisory-framework-for-bank-ai-deployment</id>
+    <updated>2026-11-06T06:00:00.000Z</updated>
+    <author><name>FinTech Futures</name></author>
+    <category term="REGULATION"/>
+    <summary>The OCC describes the new guidelines as an &quot;important milestone for the financial industry as it continues to embrace innovation responsibly.&quot;</summary>
   </entry>
   <entry>
     <title>FINRA’s AI rules expose gaps in compliance oversight</title>
     <link href="https://fintech.global/2026/11/05/finras-ai-rules-expose-gaps-in-compliance-oversight"/>
     <id>https://fintech.global/2026/11/05/finras-ai-rules-expose-gaps-in-compliance-oversight</id>
     <updated>2026-11-05T10:52:20.000Z</updated>
-    <author><name>FinTech Global</name></author>
-    <category term="REGULATION"/>
-    <summary>Financial firms are facing a growing challenge as artificial intelligence accelerates content production, while existing regulatory requirements continue to demand human oversight and thorough reviews of every communication. FINRA has reiterated that AI-generated material must meet the same standards as any other conte</summary>
-  </entry>
-  <entry>
-    <title>FINRA Warns AI Is Making Investment Fraud Harder to Detect</title>
-    <link href="https://www.tradersmagazine.com/xtra/finra-warns-ai-is-making-investment-fraud-harder-to-detect"/>
-    <id>https://www.tradersmagazine.com/xtra/finra-warns-ai-is-making-investment-fraud-harder-to-detect</id>
-    <updated>2026-11-04T08:39:44.000Z</updated>
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>FINRA Warns AI Is Making Investment Fraud Harder to Detect Traders Magazine</summary>
+    <summary>FINRA’s AI rules expose gaps in compliance oversight FinTech Global</summary>
   </entry>
   <entry>
-    <title>Early Revolut employees emerge from stealth with AI wealthtech Haido</title>
-    <link href="https://sifted.eu/articles/haido-emerges-from-stealth"/>
-    <id>https://sifted.eu/articles/haido-emerges-from-stealth</id>
-    <updated>2026-11-05T17:05:25.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>PowerUp Money bets $10m on AI-led wealth advice in India</title>
+    <link href="https://fintech.global/2026/11/06/powerup-money-bets-10m-on-ai-led-wealth-advice-in-india"/>
+    <id>https://fintech.global/2026/11/06/powerup-money-bets-10m-on-ai-led-wealth-advice-in-india</id>
+    <updated>2026-11-06T10:38:12.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Early Revolut employees emerge from stealth with AI wealthtech Haido Sifted</summary>
+    <summary>Indian WealthTech platform PowerUp Money, an AI-led investment advisory business, has secured $10m in early-stage funding at a $73m valuation as it moves to monetise India’s surge in retail investing. According to DealRoom, Flourish Ventures led the round. Existing backers also returned, including Peak XV Partners, Acc</summary>
+  </entry>
+  <entry>
+    <title>Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO</title>
+    <link href="https://www.wealthmanagement.com/mutual-funds/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo"/>
+    <id>https://www.wealthmanagement.com/mutual-funds/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo</id>
+    <updated>2026-11-05T18:04:06.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Asset managers popular with retirement savers have quietly amassed sizable bets on Anthropic.</summary>
   </entry>
   <entry>
     <title>Anthropic, Plaid Collaborate on AI Consumer Finance Guidance</title>
@@ -214,6 +223,15 @@
     <summary>The artificial intelligence company intends to allocate a portion of IPO shares to customers of some of the nation’s largest brokerage firms.</summary>
   </entry>
   <entry>
+    <title>BDO 2026 Board Survey: Keeping pace with AI is a top challenge</title>
+    <link href="https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge"/>
+    <id>https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge</id>
+    <updated>2026-11-06T02:24:35.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>Keeping pace with artificial intelligence and emerging technologies is the most significant challenge corporate boards expect to face, alongside many other competing board priorities, according to BDO’s 2026 Board Survey. The post BDO 2026 Board Survey: Keeping pace with AI is a top challenge appeared first on Complian</summary>
+  </entry>
+  <entry>
     <title>Experts warn of ‘compliance conflict’ between GDPR and companies’ AI use</title>
     <link href="https://www.complianceweek.com/data-privacy/experts-warn-of-compliance-conflict-between-gdpr-and-companies-ai-use"/>
     <id>https://www.complianceweek.com/data-privacy/experts-warn-of-compliance-conflict-between-gdpr-and-companies-ai-use</id>
@@ -223,57 +241,39 @@
     <summary>Companies have spent the past decade considering why they collect, use, and retain personal data to comply with the GDPR, only to find that their rapid adoption of AI may be putting those efforts at risk. The post Experts warn of ‘compliance conflict’ between GDPR and companies’ AI use appeared first on Compliance Week</summary>
   </entry>
   <entry>
-    <title>Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/financial-stability-board-sets-out-12-sound-practices-for-fs-firms-ai-adoption"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/financial-stability-board-sets-out-12-sound-practices-for-fs-firms-ai-adoption</id>
-    <updated>2026-11-05T03:17:03.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>The Financial Stability Board has issued a report outlining 12 “sound practices” financial institutions should consider for responsible AI adoption. The post Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption appeared first on Compliance Week .</summary>
-  </entry>
-  <entry>
-    <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
-    <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
-    <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-06T06:24:35.208Z</updated>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-11-06T14:55:50.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can financial institutions unlock real-time intelligence?</summary>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-11-06T06:24:35.208Z</updated>
+    <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
+    <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
+    <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
+    <updated>2026-11-06T14:55:50.206Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+    <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
   </entry>
   <entry>
-    <title>Asia Stocks Sell Off As AI Rout Deepens</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-06/the-asia-trade-11-6-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-06/the-asia-trade-11-6-2026-video</id>
-    <updated>2026-11-06T05:40:41.000Z</updated>
+    <title>Brookfield Raises $25 Billion Amid AI Push as Profits Rise</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise</id>
+    <updated>2026-11-06T12:09:41.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>&quot;Bloomberg: The Asia Trade&quot; brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Queensland, New Zealand and Hong Kong with Haidi Stroud-Watts and Annabelle Droulers, getting insight and analysis from newsmakers and industry leaders on the biggest stories shap</summary>
+    <summary>Brookfield Asset Management raised $25 billion in the third quarter, driven by credit and infrastructure, as the money manager positions itself as a key player funding the build-out of artificial intelligence.</summary>
   </entry>
   <entry>
-    <title>AI Selloff Drives Asian Stock Markets to Fresh Grim Milestones</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones</id>
-    <updated>2026-11-06T05:11:11.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Low-profile Wall Street firm to double down on Anthropic despite tech rout</title>
+    <link href="https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1</id>
+    <updated>2026-11-06T14:01:19.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Asian markets are notching fresh grim milestones as the artificial intelligence selloff deepened following the Democrats’ decisive midterm election win.</summary>
-  </entry>
-  <entry>
-    <title>AI Product &amp; Service Launches – 11/2/2026</title>
-    <link href="https://www.planadviser.com/ai-product-service-launches-11-2-2026"/>
-    <id>https://www.planadviser.com/ai-product-service-launches-11-2-2026</id>
-    <updated>2026-11-02T18:30:02.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>WealthFeed adds Form 5500 data to platform; 5 firms integrate Claude into their s ystems; and Zeplyn launches Zeplyn Workflows.</summary>
+    <summary>XN amassed $5.3bn stake in AI lab through private-round investments</summary>
   </entry>
 </feed>
