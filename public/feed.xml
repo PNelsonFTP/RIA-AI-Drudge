@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-07T06:59:50.403Z</updated>
-  <entry>
-    <title>Large RIAs name ChatGPT, Copilot and Claude in job posts far more than advisor AI tools</title>
-    <link href="https://www.investmentnews.com/transformation/large-rias-name-chatgpt-copilot-and-claude-in-job-posts-far-more-than-advisor-ai-tools/268889"/>
-    <id>https://www.investmentnews.com/transformation/large-rias-name-chatgpt-copilot-and-claude-in-job-posts-far-more-than-advisor-ai-tools/268889</id>
-    <updated>2026-11-04T22:52:31.000Z</updated>
-    <author><name>GN: advisor AI notetaker</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Large RIAs name ChatGPT, Copilot and Claude in job posts far more than advisor AI tools InvestmentNews</summary>
-  </entry>
+  <updated>2026-11-07T13:53:17.693Z</updated>
   <entry>
     <title>Few RIAs Have Named AI Leaders, Caddi Finds</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/few-rias-have-named-ai-leaders-caddi-finds"/>
@@ -91,19 +82,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-07T06:59:39.997Z</updated>
+    <updated>2026-11-07T13:53:02.813Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Anthropic to press ahead with IPO targeting $1.5tn valuation</title>
-    <link href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1</id>
-    <updated>2026-11-06T21:00:09.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>AI Trade Faces a Post-Election Reality Check</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video</id>
+    <updated>2026-11-07T12:50:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Claude maker intends to list before Thanksgiving despite brutal tech rout</summary>
+    <summary>On Bloomberg This Weekend, Yorkville Ives &amp; Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich examine the sharp post-election technology selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO. They tell hosts David Gura and Christina R</summary>
   </entry>
   <entry>
     <title>Dispersion trades weather AI selloff, for now</title>
@@ -160,6 +151,15 @@
     <summary>AI trust gap: Americans want protection, not autonomy, in their finances</summary>
   </entry>
   <entry>
+    <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"/>
+    <id>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</id>
+    <updated>2026-11-07T12:30:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an</summary>
+  </entry>
+  <entry>
     <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
     <link href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo"/>
     <id>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</id>
@@ -167,15 +167,6 @@
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.</summary>
-  </entry>
-  <entry>
-    <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</id>
-    <updated>2026-11-06T23:46:18.000Z</updated>
-    <author><name>The Verge AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]</summary>
   </entry>
   <entry>
     <title>GreenboardGo2.0 brings AI harness era to compliance teams</title>
@@ -244,7 +235,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-07T06:59:39.997Z</updated>
+    <updated>2026-11-07T13:53:02.813Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -253,19 +244,19 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-07T06:59:39.997Z</updated>
+    <updated>2026-11-07T13:53:02.813Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Ann Berry on the Importance of Learning AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video</id>
-    <updated>2026-11-06T22:01:25.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic to press ahead with IPO targeting $1.5tn valuation</title>
+    <link href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1</id>
+    <updated>2026-11-06T21:00:09.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Barry speaks with Ann Berry, founder and managing partner of Threadneedle. They discuss her path from Goldman Sachs M&amp;A and private equity to running a hospitality services company through the pandemic. They also discuss Ann's early-stage bets on AI and deepfake detection, and surveying the expanding IPO landscape. (So</summary>
+    <summary>Claude maker intends to list before Thanksgiving despite brutal tech rout</summary>
   </entry>
   <entry>
     <title>Anthropic lines up UK retail offer as AI stocks wobble</title>
@@ -275,5 +266,14 @@
     <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Analysts warn demand may be dented by the SpaceX slide</summary>
+  </entry>
+  <entry>
+    <title>Managers look to diversify as US tech sell-off spirals after midterms and AI capex fears</title>
+    <link href="https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears"/>
+    <id>https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears</id>
+    <updated>2026-11-06T11:44:19.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>US markets have plummeted, led by the tech-heavy Nasdaq, following the midterms and a Magnificent Seven earnings round that failed to placate investors concerned about exorbitant AI capex.</summary>
   </entry>
 </feed>
