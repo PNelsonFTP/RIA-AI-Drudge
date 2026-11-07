@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-07T13:53:17.693Z</updated>
+  <updated>2026-11-07T18:38:54.332Z</updated>
   <entry>
     <title>Few RIAs Have Named AI Leaders, Caddi Finds</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/few-rias-have-named-ai-leaders-caddi-finds"/>
@@ -26,12 +26,12 @@
   </entry>
   <entry>
     <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"/>
-    <id>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</id>
-    <updated>2026-11-05T17:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
+    <link href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"/>
+    <id>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips</id>
+    <updated>2026-11-05T17:05:16.000Z</updated>
+    <author><name>Google DeepMind Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. — Also covered by: Google DeepMind Blog</summary>
+    <summary>Also covered by: Google AI Blog</summary>
   </entry>
   <entry>
     <title>Wealthbox Adds AI Agents to Every Plan</title>
@@ -70,31 +70,40 @@
     <summary>The Office of the Comptroller of the Currency (OCC) has taken another important step in addressing the rapidly expanding use of artificial intelligence in the banking industry. On November 4, 2026, the OCC issued a new supervisory framework designed to assist its bank examiners in evaluating banks’ use of what the agen</summary>
   </entry>
   <entry>
+    <title>The Human in the Loop: AI Agents for Estate and Tax Planning with Danny Lohrfink of Wealth.com</title>
+    <link href="https://wealthtechtoday.com/2026/11/07/ai-agents-estate-tax-planning-human-in-the-loop-wealth-com"/>
+    <id>https://wealthtechtoday.com/2026/11/07/ai-agents-estate-tax-planning-human-in-the-loop-wealth-com</id>
+    <updated>2026-11-07T15:50:54.000Z</updated>
+    <author><name>WealthTech Today</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The post The Human in the Loop: AI Agents for Estate and Tax Planning with Danny Lohrfink of Wealth.com appeared first on and was written by Elana Iskowitz . Meet Our Guest Danny Lohrfink is co-founder and Chief Product Officer of Wealth.com, an advanced planning platform for wealth management institutions that focuses</summary>
+  </entry>
+  <entry>
     <title>Deals &amp; Moves: Beacon Pointe Acquires RIA Focused on Airline Workers</title>
     <link href="https://www.wealthmanagement.com/ria-news/deals-moves-beacon-point-acquires-ria-focused-on-airline-workers"/>
     <id>https://www.wealthmanagement.com/ria-news/deals-moves-beacon-point-acquires-ria-focused-on-airline-workers</id>
     <updated>2026-11-06T19:41:14.000Z</updated>
     <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
+    <category term="PRACTICE &amp; RIA"/>
     <summary>In other moves, $20B Modera adds its first West Coast office; Mercer acquires an AI-driven tax planner, advisory and accounting firm; Aprio makes its first standalone wealth deal; and Robertson Stephens expands in Colorado.</summary>
   </entry>
   <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-07T13:53:02.813Z</updated>
+    <updated>2026-11-07T18:38:31.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>AI Trade Faces a Post-Election Reality Check</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video</id>
-    <updated>2026-11-07T12:50:00.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Ken Chenault on Leadership in an Age of AI</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video</id>
+    <updated>2026-11-07T15:32:55.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>On Bloomberg This Weekend, Yorkville Ives &amp; Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich examine the sharp post-election technology selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO. They tell hosts David Gura and Christina R</summary>
+    <summary>On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chenault tells host David</summary>
   </entry>
   <entry>
     <title>Dispersion trades weather AI selloff, for now</title>
@@ -115,13 +124,13 @@
     <summary>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</summary>
   </entry>
   <entry>
-    <title>Providing Capital to Tech Companies: Masters In Business with Ann Berry</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video</id>
-    <updated>2026-11-06T22:15:53.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>How AI is transforming automotive quality operations</title>
+    <link href="https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations"/>
+    <id>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</id>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Barry speaks with Ann Berry, founder and managing partner of Threadneedle. They discuss her path from Goldman Sachs M&amp;A and private equity to running a hospitality services company through the pandemic. They also discuss Ann's early-stage bets on AI and deepfake detection, and surveying the expanding IPO landscape. (So</summary>
+    <summary>Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.</summary>
   </entry>
   <entry>
     <title>WealthTech Safari — Week of November 6, 2026</title>
@@ -151,6 +160,15 @@
     <summary>AI trust gap: Americans want protection, not autonomy, in their finances</summary>
   </entry>
   <entry>
+    <title>AI broke the cybersecurity world. What’s next?</title>
+    <link href="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"/>
+    <id>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</id>
+    <updated>2026-11-07T15:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say </summary>
+  </entry>
+  <entry>
     <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"/>
     <id>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</id>
@@ -160,31 +178,22 @@
     <summary>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an</summary>
   </entry>
   <entry>
-    <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
-    <link href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo"/>
-    <id>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</id>
-    <updated>2026-11-06T15:54:47.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.</summary>
+    <title>Experts talk new rules and compliance approaches in Q4 2026</title>
+    <link href="https://sec3compliance.com/experts-talk-new-rules-compliance-q4-2026"/>
+    <id>https://sec3compliance.com/experts-talk-new-rules-compliance-q4-2026</id>
+    <updated>2026-11-06T15:15:43.000Z</updated>
+    <author><name>SEC3 Compliance</name></author>
+    <category term="REGULATION"/>
+    <summary>Industry experts—including SEC3 Compliance President Janaya Moscony—share their insights on upcoming SEC and FINRA rulemaking, AI cybersecurity risks, prediction markets, and how investment advisers should navigate regulatory interactions in Q4 2026. The post Experts talk new rules and compliance approaches in Q4 2026 </summary>
   </entry>
   <entry>
-    <title>GreenboardGo2.0 brings AI harness era to compliance teams</title>
-    <link href="https://fintech.global/2026/11/06/greenboardgo2-0-brings-ai-harness-era-to-compliance-teams"/>
-    <id>https://fintech.global/2026/11/06/greenboardgo2-0-brings-ai-harness-era-to-compliance-teams</id>
-    <updated>2026-11-06T09:48:26.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
+    <title>Anthropic IPO to Fuel Robinhood's Retail and Advisor Business Growth?</title>
+    <link href="https://www.tradingview.com/news/zacks:c93f75d47094b:0-anthropic-ipo-to-fuel-robinhood-s-retail-and-advisor-business-growth"/>
+    <id>https://www.tradingview.com/news/zacks:c93f75d47094b:0-anthropic-ipo-to-fuel-robinhood-s-retail-and-advisor-business-growth</id>
+    <updated>2026-11-05T12:57:00.000Z</updated>
+    <author><name>GN: SEC AI</name></author>
     <category term="REGULATION"/>
-    <summary>GreenboardGo2.0 brings AI harness era to compliance teams FinTech Global</summary>
-  </entry>
-  <entry>
-    <title>Owen, Bowman discuss bank technology adoption, fighting fraud</title>
-    <link href="https://bankingjournal.aba.com/2026/11/owen-bowman-discuss-bank-technology-adoption-fighting-fraud"/>
-    <id>https://bankingjournal.aba.com/2026/11/owen-bowman-discuss-bank-technology-adoption-fighting-fraud</id>
-    <updated>2026-11-06T20:52:01.000Z</updated>
-    <author><name>ABA Banking Journal AI</name></author>
-    <category term="REGULATION"/>
-    <summary>As AI and other technologies evolve, banks need to adopt new technology in a responsible way that protects customers, and they need someone to lead that process, ABA Chair Cathy Owen said during a discussion with Federal Reserve Vice Chair for Supervision Michelle Bowman. The post Owen, Bowman discuss bank technology a</summary>
+    <summary>Anthropic IPO to Fuel Robinhood's Retail and Advisor Business Growth? TradingView</summary>
   </entry>
   <entry>
     <title>WealthStack Roundup: Kihan Launches Constitutional Computing for AI Governance</title>
@@ -194,15 +203,6 @@
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
     <summary>Kihan debuts an independent authorization framework that verifies AI agent actions before execution, plus news from Focus Logic and Orion, and Osaic and Nitrogen.</summary>
-  </entry>
-  <entry>
-    <title>Week’s Best: How to Get In on Anthropic’s IPO</title>
-    <link href="https://www.barrons.com/advisor/articles/weeks-best-anthropic-ipo-b349b859"/>
-    <id>https://www.barrons.com/advisor/articles/weeks-best-anthropic-ipo-b349b859</id>
-    <updated>2026-11-06T18:25:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Here’s our weekly roundup of the most-read articles at Barron’s Advisor.</summary>
   </entry>
   <entry>
     <title>Bank of America’s Holly O’Neill: “I’m Very Bullish on What AI Has in Store for Us”</title>
@@ -235,7 +235,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-07T13:53:02.813Z</updated>
+    <updated>2026-11-07T18:38:31.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -244,19 +244,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-07T13:53:02.813Z</updated>
+    <updated>2026-11-07T18:38:31.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Anthropic to press ahead with IPO targeting $1.5tn valuation</title>
-    <link href="https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1</id>
-    <updated>2026-11-06T21:00:09.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>AI Safety Advocates Make Gains After $110 Million Midterm Fight</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight</id>
+    <updated>2026-11-07T14:30:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>Claude maker intends to list before Thanksgiving despite brutal tech rout</summary>
+    <summary>Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic PBC at a time when Americans are increasingly uneasy over the rapidly developing technology.</summary>
+  </entry>
+  <entry>
+    <title>AI Trade Faces a Post-Election Reality Check</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video</id>
+    <updated>2026-11-07T12:50:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>On Bloomberg This Weekend, Yorkville Ives &amp; Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich examine the sharp post-election technology selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO. They tell hosts David Gura and Christina R</summary>
   </entry>
   <entry>
     <title>Anthropic lines up UK retail offer as AI stocks wobble</title>
@@ -266,14 +275,5 @@
     <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Analysts warn demand may be dented by the SpaceX slide</summary>
-  </entry>
-  <entry>
-    <title>Managers look to diversify as US tech sell-off spirals after midterms and AI capex fears</title>
-    <link href="https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears"/>
-    <id>https://www.investmentweek.co.uk/news-analysis/4538501/managers-look-diversify-us-tech-sell-spirals-midterms-ai-capex-fears</id>
-    <updated>2026-11-06T11:44:19.000Z</updated>
-    <author><name>Investment Week</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>US markets have plummeted, led by the tech-heavy Nasdaq, following the midterms and a Magnificent Seven earnings round that failed to placate investors concerned about exorbitant AI capex.</summary>
   </entry>
 </feed>
