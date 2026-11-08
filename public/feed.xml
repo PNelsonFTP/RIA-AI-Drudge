@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-08T10:08:20.850Z</updated>
+  <updated>2026-11-08T16:59:32.628Z</updated>
   <entry>
     <title>Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO</title>
     <link href="https://www.advisorhub.com/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo"/>
@@ -23,15 +23,6 @@
     <author><name>Google DeepMind Blog</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Also covered by: Google AI Blog</summary>
-  </entry>
-  <entry>
-    <title>Wealthbox Adds AI Agents to Every Plan</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthbox-adds-ai-agents-to-every-plan"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthbox-adds-ai-agents-to-every-plan</id>
-    <updated>2026-11-05T11:44:10.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Bowman, W. (2026, November 4). Introducing Wealthbox AI Agents, included on every plan. Wealthbox. https://www.wealthbox.com/introducing-wealthbox-ai-agents-included-on-every-plan/ Wealthbox launched AI Agents on all of its plans, offering an initial set of 24 pre-built agents along with the option to create and custom — Also covered by: Wealthbox (vendor)</summary>
   </entry>
   <entry>
     <title>Mercer Advisors, Osaic deepen AI bets with Arch and Nitrogen deals</title>
@@ -82,19 +73,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-08T10:08:11.136Z</updated>
+    <updated>2026-11-08T16:59:23.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>AI Slump Revives Asia’s Forgotten Trades From China to India</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india</id>
-    <updated>2026-11-08T00:00:00.000Z</updated>
+    <title>By The Way: Headlines You May Have Missed</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video</id>
+    <updated>2026-11-08T16:23:12.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.</summary>
+    <summary>Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Dispersion trades weather AI selloff, for now</title>
@@ -115,22 +106,13 @@
     <summary>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</summary>
   </entry>
   <entry>
-    <title>How AI is transforming automotive quality operations</title>
-    <link href="https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations"/>
-    <id>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</id>
-    <updated>2026-11-06T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.</summary>
-  </entry>
-  <entry>
-    <title>WealthTech Safari — Week of November 6, 2026</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-november-6-2026"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-november-6-2026</id>
-    <updated>2026-11-06T19:15:30.000Z</updated>
+    <title>Are Family Offices Really Using AI?</title>
+    <link href="https://www.wealthtechstrategy.com/post/are-family-offices-really-using-ai"/>
+    <id>https://www.wealthtechstrategy.com/post/are-family-offices-really-using-ai</id>
+    <updated>2026-11-08T11:11:06.000Z</updated>
     <author><name>WealthTech Strategy</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>WealthFeed takes its prospecting engine into 401(k) plans WealthFeed, a prospecting platform for financial advisors, added Form 5500 data covering more than 780,000 retirement plans, with plan profiles, opportunity scores and 12 filing triggers that flag events such as 20%+ participant balance growth, a departed adviso</summary>
+    <category term="RESEARCH"/>
+    <summary>BNY Wealth. (2026, November 5). Are family offices really using AI? https://www.bny.com/wealth/global/en/insights/are-family-offices-really-using-ai.html Fifty-one percent of decision-makers surveyed in BNY Wealth's 2026 Investment Insights for Single Family Offices report use data analytics and predictive modeling, of</summary>
   </entry>
   <entry>
     <title>AI bubble fears: the CapEx risks lurking behind this week’s selloff</title>
@@ -160,13 +142,13 @@
     <summary>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.</summary>
   </entry>
   <entry>
-    <title>AI broke the cybersecurity world. What’s next?</title>
-    <link href="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"/>
-    <id>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</id>
-    <updated>2026-11-07T15:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
+    <link href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo"/>
+    <id>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</id>
+    <updated>2026-11-06T15:54:47.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say </summary>
+    <summary>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.</summary>
   </entry>
   <entry>
     <title>Experts talk new rules and compliance approaches in Q4 2026</title>
@@ -217,7 +199,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-08T10:08:11.136Z</updated>
+    <updated>2026-11-08T16:59:23.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -226,28 +208,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-08T10:08:11.136Z</updated>
+    <updated>2026-11-08T16:59:23.403Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>We Visited China’s Stargate in Inner Mongolia</title>
-    <link href="https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner"/>
-    <id>https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner</id>
-    <updated>2026-11-07T19:01:39.000Z</updated>
-    <author><name>SemiAnalysis</name></author>
+    <title>From Silicon Valley to the Pentagon, Here’s the 2026 WSJ Tech: California Recap</title>
+    <link href="https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology</id>
+    <updated>2026-11-08T15:55:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>A wind-powered 800MW campus, 120MW built within a year, a 5MW SST-native 800V DC pilot and a cooling design without central chillers</summary>
+    <summary>Plus, Apple’s beach-friendly iPad Mini and Amazon’s upscale Alexa tablet, the data-center revolt continues, investors question Anthropic’s valuation and more.</summary>
   </entry>
   <entry>
-    <title>Ken Chenault on Leadership in an Age of AI</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video</id>
-    <updated>2026-11-07T15:32:55.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic strikes $3.4bn deal to generate gas-fired power for data centres</title>
+    <link href="https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1</id>
+    <updated>2026-11-08T11:00:09.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stand by their values even as political and technological pressures intensify. Chenault tells host David</summary>
+    <summary>AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges</summary>
   </entry>
   <entry>
     <title>Anthropic lines up UK retail offer as AI stocks wobble</title>
@@ -275,5 +257,23 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</summary>
+  </entry>
+  <entry>
+    <title>How AI is transforming automotive quality operations</title>
+    <link href="https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations"/>
+    <id>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</id>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.</summary>
+  </entry>
+  <entry>
+    <title>AI's upshot? Advisors are reinvesting time into growth, new data shows</title>
+    <link href="https://www.financial-planning.com/news/ais-upshot-advisors-are-reinvesting-time-into-growth-new-data-shows"/>
+    <id>https://www.financial-planning.com/news/ais-upshot-advisors-are-reinvesting-time-into-growth-new-data-shows</id>
+    <updated>2026-11-05T15:15:00.000Z</updated>
+    <author><name>Financial Planning</name></author>
+    <category term="RESEARCH"/>
+    <summary>Nearly half of advisors using AI say their admin work has dropped, but most are still working the same hours. A new FACO survey shows where that time is going.</summary>
   </entry>
 </feed>
