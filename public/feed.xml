@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-08T02:17:10.064Z</updated>
+  <updated>2026-11-08T10:08:20.850Z</updated>
   <entry>
     <title>Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO</title>
     <link href="https://www.advisorhub.com/fidelity-capital-group-stand-to-reap-billions-in-anthropic-ipo"/>
@@ -82,7 +82,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-08T02:16:59.351Z</updated>
+    <updated>2026-11-08T10:08:11.136Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -214,19 +214,10 @@
     <summary>Panelists at ECI Compliance Week’s TPRM summit warned AI’s randomness and bias can undermine due diligence, while vetting vendors’ AI governance becomes increasingly essential. The post ECI-CW TPRM 2026: The two sides of the coin in AI risk management appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>UK experts divided over sudden rise in whistleblower reports</title>
-    <link href="https://www.complianceweek.com/whistleblowers/uk-experts-divided-over-sudden-rise-in-whistleblower-reports"/>
-    <id>https://www.complianceweek.com/whistleblowers/uk-experts-divided-over-sudden-rise-in-whistleblower-reports</id>
-    <updated>2026-11-06T22:22:52.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>The UK has seen a massive rise in whistleblower reports from workers making claims at employment tribunals, but experts say it is unclear whether this reflects the success of speak-up channels and whistleblower protection, poor corporate governance, or AI enabling quicker complaints. The post UK experts divided over su</summary>
-  </entry>
-  <entry>
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-08T02:16:59.351Z</updated>
+    <updated>2026-11-08T10:08:11.136Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -235,7 +226,7 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-08T02:16:59.351Z</updated>
+    <updated>2026-11-08T10:08:11.136Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
@@ -275,5 +266,14 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>US markets have plummeted, led by the tech-heavy Nasdaq, following the midterms and a Magnificent Seven earnings round that failed to placate investors concerned about exorbitant AI capex.</summary>
+  </entry>
+  <entry>
+    <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+    <link href="https://openai.com/index/partnering-with-hacktron"/>
+    <id>https://openai.com/index/partnering-with-hacktron</id>
+    <updated>2026-11-06T08:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</summary>
   </entry>
 </feed>
