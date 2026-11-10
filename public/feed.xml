@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-10T01:58:07.532Z</updated>
+  <updated>2026-11-10T09:37:34.283Z</updated>
   <entry>
     <title>Anthropic releases new Mythos and Fable models amid RSI concerns</title>
     <link href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns"/>
@@ -17,12 +17,12 @@
   </entry>
   <entry>
     <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash"/>
-    <id>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</id>
-    <updated>2026-11-05T17:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
+    <link href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"/>
+    <id>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips</id>
+    <updated>2026-11-05T17:05:16.000Z</updated>
+    <author><name>Google DeepMind Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. — Also covered by: Google DeepMind Blog</summary>
+    <summary>Also covered by: Google AI Blog</summary>
   </entry>
   <entry>
     <title>Why To Hire An Entry-Level Advisor (Even If AI Can Do Their Job Instead)</title>
@@ -73,19 +73,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-10T01:57:56.770Z</updated>
+    <updated>2026-11-10T09:37:24.726Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying</id>
-    <updated>2026-11-10T00:09:22.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>SoftBank Logs $7 Billion Loss as US Data Center Costs Swell</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son</id>
+    <updated>2026-11-10T06:35:51.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>South Korean stocks climbed, lifted by heavyweight chipmakers as investors waded back into the artificial intelligence trade following the recent selloff.</summary>
+    <summary>SoftBank Group Corp. reported its first net loss in almost two years after swallowing a $3.7 billion writedown over its US data-center projects amid rising fears around the sustainability of AI growth.</summary>
   </entry>
   <entry>
     <title>Public Pension Exposure to AI-Related Companies Climbs as Firms Grow</title>
@@ -97,13 +97,13 @@
     <summary>The 25 largest public pension funds could hold more than $700 billion of equity investments in technology focused on artificial intelligence, according to research from Equable.</summary>
   </entry>
   <entry>
-    <title>ChatGPT Enterprise now available in AWS Marketplace</title>
-    <link href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"/>
-    <id>https://openai.com/index/chatgpt-enterprise-aws-marketplace</id>
-    <updated>2026-11-09T19:00:00.000Z</updated>
+    <title>Closing the AI guidance gap in education</title>
+    <link href="https://openai.com/index/closing-ai-guidance-gap-education"/>
+    <id>https://openai.com/index/closing-ai-guidance-gap-education</id>
+    <updated>2026-11-10T09:00:00.000Z</updated>
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</summary>
+    <summary>Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.</summary>
   </entry>
   <entry>
     <title>Artificial Intelligence at Quest Diagnostics – Two Use Cases</title>
@@ -208,7 +208,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-10T01:57:56.770Z</updated>
+    <updated>2026-11-10T09:37:24.726Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -217,28 +217,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-10T01:57:56.770Z</updated>
+    <updated>2026-11-10T09:37:24.726Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Anthropic Prepares to Push Ahead With IPO Despite Market Jitters</title>
-    <link href="https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_Technology"/>
-    <id>https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_Technology</id>
-    <updated>2026-11-09T21:12:00.000Z</updated>
-    <author><name>WSJ Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The Claude maker is braving investor nerves around artificial intelligence and an Nvidia investigation.</summary>
-  </entry>
-  <entry>
-    <title>Thai Bond Sales Set for Rebound in 2027 as AI Investment Surges</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-10/thai-bond-sales-set-for-rebound-in-2027-as-ai-investment-surges"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-10/thai-bond-sales-set-for-rebound-in-2027-as-ai-investment-surges</id>
-    <updated>2026-11-10T00:00:00.000Z</updated>
+    <title>AI Rout Has Investors Scouring Emerging Markets for Bargains</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains</id>
+    <updated>2026-11-10T06:15:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Thailand’s corporate bond sales are poised to rebound in 2027 after four years of decline, as companies tap the debt market to fund investments in power plants and data centers, according to the head of the Thai Bond Market Association.</summary>
+    <summary>Stock pickers seeking relief from the AI-fueled turbulence in global equities are zeroing in on opportunities in emerging markets.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic to Formally Market IPO After Filing Misstep</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-10/anthropic-to-formally-market-ipo-after-filing-misstep-video</id>
+    <updated>2026-11-10T06:38:45.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Anthropic is set to kick off the formal marketing of its blockbuster initial public offering as early as Tuesday after an apparent snafu over the filing documents added a dose of last-minute drama to a nervous market. Bloomberg's Manuel Baigorri explains. (Source: Bloomberg)</summary>
   </entry>
   <entry>
     <title>Fund manager Nick Train has best month since 2000 on back of AI sell-off</title>
@@ -259,6 +259,15 @@
     <summary>Nick Train’s Finsbury Growth &amp; Income trust (FGT) delivered its strongest monthly NAV return since 2009 in October, following a prolonged period of underperformance.</summary>
   </entry>
   <entry>
+    <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+    <link href="https://openai.com/index/chatgpt-enterprise-aws-marketplace"/>
+    <id>https://openai.com/index/chatgpt-enterprise-aws-marketplace</id>
+    <updated>2026-11-09T19:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="LABS &amp; MODELS"/>
+    <summary>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</summary>
+  </entry>
+  <entry>
     <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
     <link href="https://openai.com/index/control-room"/>
     <id>https://openai.com/index/control-room</id>
@@ -266,14 +275,5 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</summary>
-  </entry>
-  <entry>
-    <title>CodeRabbit scales agentic software development and ships 20x more</title>
-    <link href="https://openai.com/index/coderabbit-codex-daybreak"/>
-    <id>https://openai.com/index/coderabbit-codex-daybreak</id>
-    <updated>2026-11-09T08:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</summary>
   </entry>
 </feed>
