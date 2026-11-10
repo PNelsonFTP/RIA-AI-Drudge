@@ -1,50 +1,50 @@
 {
   "BLK": {
     "symbol": "BLK",
-    "price": 1214.71,
-    "changePct": 3.0401995130930595,
-    "fetchedAt": "2026-11-10T09:37:34.927Z"
+    "price": 1213.79,
+    "changePct": -0.07573824204954868,
+    "fetchedAt": "2026-11-10T17:39:09.754Z"
   },
   "SCHW": {
     "symbol": "SCHW",
-    "price": 92.73,
-    "changePct": 1.3553393813531633,
-    "fetchedAt": "2026-11-10T09:37:34.934Z"
+    "price": 93.61,
+    "changePct": 0.9489916963226522,
+    "fetchedAt": "2026-11-10T17:39:09.751Z"
   },
   "MS": {
     "symbol": "MS",
-    "price": 187.1,
-    "changePct": 3.1194885361552007,
-    "fetchedAt": "2026-11-10T09:37:34.962Z"
+    "price": 186.63,
+    "changePct": -0.2512025654730085,
+    "fetchedAt": "2026-11-10T17:39:09.752Z"
   },
   "JPM": {
     "symbol": "JPM",
-    "price": 342.08,
-    "changePct": 2.269126132320839,
-    "fetchedAt": "2026-11-10T09:37:34.963Z"
+    "price": 342.665,
+    "changePct": 0.1710126286248937,
+    "fetchedAt": "2026-11-10T17:39:09.818Z"
   },
   "AMP": {
     "symbol": "AMP",
-    "price": 518.3,
-    "changePct": 3.7035554933071757,
-    "fetchedAt": "2026-11-10T09:37:35.064Z"
+    "price": 523.085,
+    "changePct": 0.9232104958518391,
+    "fetchedAt": "2026-11-10T17:39:09.845Z"
   },
   "LPLA": {
     "symbol": "LPLA",
-    "price": 305.49,
-    "changePct": 3.377212277080308,
-    "fetchedAt": "2026-11-10T09:37:35.070Z"
+    "price": 309.2,
+    "changePct": 1.2144423712723753,
+    "fetchedAt": "2026-11-10T17:39:09.913Z"
   },
   "NVDA": {
     "symbol": "NVDA",
-    "price": 178.67,
-    "changePct": -4.270252893270467,
-    "fetchedAt": "2026-11-10T09:37:35.203Z"
+    "price": 166.517,
+    "changePct": -6.801925337213854,
+    "fetchedAt": "2026-11-10T17:39:10.090Z"
   },
   "MSFT": {
     "symbol": "MSFT",
-    "price": 545.18,
-    "changePct": 2.7458962326378953,
-    "fetchedAt": "2026-11-10T09:37:35.205Z"
+    "price": 530.98,
+    "changePct": -2.604644337649938,
+    "fetchedAt": "2026-11-10T17:39:10.064Z"
   }
 }
