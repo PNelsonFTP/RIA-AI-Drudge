@@ -5,15 +5,15 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-11T05:55:05.514Z</updated>
+  <updated>2026-11-11T14:00:31.614Z</updated>
   <entry>
-    <title>Anthropic targets valuation of up to $1.4tn in IPO</title>
-    <link href="https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1</id>
-    <updated>2026-11-10T13:07:48.000Z</updated>
+    <title>Anthropic bankers prepare to increase IPO valuation to $1.5tn or more</title>
+    <link href="https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1</id>
+    <updated>2026-11-11T00:27:38.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>The Claude maker plans to raise as much as $64bn in highly anticipated listing — Also covered by: WSJ Tech, The Verge AI</summary>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Claude maker’s listing price expected to rise after strong demand from investors — Also covered by: Professional Adviser, Investment Week</summary>
   </entry>
   <entry>
     <title>Mercer Advisors launches philanthropic services for UHNW families</title>
@@ -43,15 +43,6 @@
     <summary>New connectors bring IRS data. planning workflows, and meeting intelligence into AI assistants as RIAs make AI integration a top growth investment</summary>
   </entry>
   <entry>
-    <title>RIAs Urged to Treat AI Agents Like New Hires</title>
-    <link href="https://www.wealthmanagement.com/ria-edge/rias-urged-to-treat-ai-agents-like-new-hires"/>
-    <id>https://www.wealthmanagement.com/ria-edge/rias-urged-to-treat-ai-agents-like-new-hires</id>
-    <updated>2026-11-10T19:21:45.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Wealthtech leaders at RIA Edge Austin say firms should write job descriptions, set probation periods and run status reviews for AI agents before expanding their roles.</summary>
-  </entry>
-  <entry>
     <title>Morgan Stanley places big bet on scale as AI commoditizes advice</title>
     <link href="https://www.financial-planning.com/news/morgan-stanley-places-big-bet-on-scale-as-ai-commoditizes-advice"/>
     <id>https://www.financial-planning.com/news/morgan-stanley-places-big-bet-on-scale-as-ai-commoditizes-advice</id>
@@ -79,13 +70,31 @@
     <summary>Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company. — Also covered by: WealthManagement.com</summary>
   </entry>
   <entry>
-    <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
-    <link href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks"/>
-    <id>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks</id>
-    <updated>2026-11-10T17:30:00.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Market angst is driving investors into low-volatility stocks as AI trade stumbles</title>
+    <link href="https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories"/>
+    <id>https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories</id>
+    <updated>2026-11-11T12:00:00.000Z</updated>
+    <author><name>MarketWatch</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields. — Also covered by: GN: AI capex / ETF</summary>
+  </entry>
+  <entry>
+    <title>Anthropic to Seek $1.3 Trillion Valuation in IPO</title>
+    <link href="https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_Technology"/>
+    <id>https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_Technology</id>
+    <updated>2026-11-10T18:41:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.</summary>
+    <summary>The Claude maker’s stock-market debut is seen as a litmus test for investors on edge over the AI trade. — Also covered by: The Verge AI</summary>
+  </entry>
+  <entry>
+    <title>Foreign investors pull out $50 billion from Asian equities in October on AI, cash burn woes</title>
+    <link href="https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11"/>
+    <id>https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11</id>
+    <updated>2026-11-11T07:32:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Foreign investors pull out $50 billion from Asian equities in October on AI, cash burn woes Reuters</summary>
   </entry>
   <entry>
     <title>OCC’s New “Super Intelligence” Supervisory Framework: Key Takeaways and How It Compares to the FSB’s AI Sound Practices</title>
@@ -97,67 +106,94 @@
     <summary>On November 4, 2026, the Office of the Comptroller of the Currency (the “OCC”) released its Supervisory Framework for Bank Use of Super Intelligence (the “AI Supervisory Framework”), which provides guidance to OCC examiners on how to evaluate banks’ use of AI in business activities. The AI Supervisory Framework follows</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-11T05:54:52.889Z</updated>
+    <title>Rollover Equity For Advisors, Charitable Giving And Organic Growth</title>
+    <link href="https://www.wealthsolutionsreport.com/rollover-equity-for-advisors-charitable-giving-and-organic-growth"/>
+    <id>https://www.wealthsolutionsreport.com/rollover-equity-for-advisors-charitable-giving-and-organic-growth</id>
+    <updated>2026-11-11T13:45:16.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Plus Our Wealthtech And Deals &amp; Recruiting Roundups, Cambridge CEO Says It’s Not For Sale, Leadership, Marketing, Claude And Governance, October M&amp;A, WealthFeed’s Retirement Plan Prospecting, AssetMark’s Private Wealth Research, Carson’s And Mercer’s Purchases And Cleros’ Launch</summary>
+  </entry>
+  <entry>
+    <title>Anthropic bankers preparing to increase IPO valuation to $1.5trn – reports</title>
+    <link href="https://www.professionaladviser.com/news/4538770/anthropic-bankers-preparing-increase-ipo-valuation-usd15trn-reports"/>
+    <id>https://www.professionaladviser.com/news/4538770/anthropic-bankers-preparing-increase-ipo-valuation-usd15trn-reports</id>
+    <updated>2026-11-11T11:47:55.000Z</updated>
+    <author><name>Professional Adviser</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Anthropic’s valuation is expected to rise above $1.5trn, as investor demand remains strong despite the AI boom coming under pressure in recent weeks.</summary>
+  </entry>
+  <entry>
+    <title>Emirates NBD launches real-time AI market insights for digital wealth customers</title>
+    <link href="https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers"/>
+    <id>https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers</id>
+    <updated>2026-11-11T13:18:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers on ENBD X, developed in collaboration with Bridgewise, the global leader in embedded investment AI.</summary>
   </entry>
   <entry>
-    <title>Anthropic IPO valuation calculator: How much is it really worth?</title>
-    <link href="https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1</id>
-    <updated>2026-11-11T05:00:12.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed</id>
+    <updated>2026-11-11T13:17:14.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn</summary>
+    <summary>Anthropic PBC’s initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest first-time share sale ever.</summary>
   </entry>
   <entry>
-    <title>BoE's Bailey: AI investment already helping UK economy</title>
-    <link href="https://www.investmentweek.co.uk/news/4538677/boe-bailey-ai-investment-helping-uk-economy"/>
-    <id>https://www.investmentweek.co.uk/news/4538677/boe-bailey-ai-investment-helping-uk-economy</id>
-    <updated>2026-11-10T11:55:24.000Z</updated>
+    <title>Anthropic bankers preparing to increase IPO valuation to $1.5trn – reports</title>
+    <link href="https://www.investmentweek.co.uk/news/4538746/anthropic-bankers-preparing-increase-ipo-valuation-usd15trn-reports"/>
+    <id>https://www.investmentweek.co.uk/news/4538746/anthropic-bankers-preparing-increase-ipo-valuation-usd15trn-reports</id>
+    <updated>2026-11-11T09:15:36.000Z</updated>
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Bank of England governor Andrew Bailey said artificial intelligence is already starting to benefit the UK economy.</summary>
+    <summary>Anthropic’s valuation is expected to rise above $1.5trn, as investor demand remains strong despite the AI boom coming under pressure in recent weeks.</summary>
   </entry>
   <entry>
-    <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
-    <link href="https://deepmind.google/blog/introducing-alphaproof-code"/>
-    <id>https://deepmind.google/blog/introducing-alphaproof-code</id>
-    <updated>2026-11-10T12:02:28.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <title>Gilbert + Tobin rethinks the business of law with AI</title>
+    <link href="https://openai.com/index/gilbert-tobin-sam-nickless"/>
+    <id>https://openai.com/index/gilbert-tobin-sam-nickless</id>
+    <updated>2026-11-12T00:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.</summary>
+    <summary>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</summary>
   </entry>
   <entry>
-    <title>AI could cut banking industry's cost base by 20% - McKinsey's</title>
-    <link href="https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys"/>
-    <id>https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys</id>
-    <updated>2026-11-11T00:01:00.000Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>How to Make AI-translated Content Convert in Every Market – with Andrew Thomas of Acclaro</title>
+    <link href="https://emerj.com/how-to-make-ai-translated-content-convert-in-every-market"/>
+    <id>https://emerj.com/how-to-make-ai-translated-content-convert-in-every-market</id>
+    <updated>2026-11-11T11:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
     <category term="RESEARCH"/>
-    <summary>AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey's.</summary>
+    <summary>AI-translated content can be accurate and still underperform. Andrew Thomas of Acclaro explains how marketing teams can connect market performance data, brand guidelines, and targeted human review to improve engagement and conversion across markets.</summary>
   </entry>
   <entry>
-    <title>Anthropic's path from AI startup to industry-defining IPO</title>
-    <link href="https://www.reuters.com/technology/anthropics-path-ai-startup-industry-defining-ipo-2026-11-10"/>
-    <id>https://www.reuters.com/technology/anthropics-path-ai-startup-industry-defining-ipo-2026-11-10</id>
-    <updated>2026-11-10T22:42:35.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic's path from AI startup to industry-defining IPO Reuters</summary>
+    <title>Addition Wealth Rebrands to Addable, Introduces New Suite of AI Products for Its Financial Guidance Engine</title>
+    <link href="https://www.wealthtechstrategy.com/post/addition-wealth-rebrands-to-addable-introduces-new-suite-of-ai-products-for-its-financial-guidance"/>
+    <id>https://www.wealthtechstrategy.com/post/addition-wealth-rebrands-to-addable-introduces-new-suite-of-ai-products-for-its-financial-guidance</id>
+    <updated>2026-11-11T11:47:53.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Addable. (2026, November 10). Addition Wealth rebrands to Addable, introduces new suite of AI products for its financial guidance engine. PR Newswire. https://www.prnewswire.com/news-releases/addition-wealth-rebrands-to-addable-introduces-new-suite-of-ai-products-for-its-financial-guidance-engine-302935277.html Additio</summary>
   </entry>
   <entry>
-    <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
-    <link href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder"/>
-    <id>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder</id>
-    <updated>2026-11-10T21:08:52.000Z</updated>
+    <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
+    <link href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks"/>
+    <id>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks</id>
+    <updated>2026-11-10T17:30:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</summary>
+    <summary>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.</summary>
+  </entry>
+  <entry>
+    <title>Anthropic IPO could give AI stocks a needed spark</title>
+    <link href="https://www.axios.com/2026/11/10/anthropic-ipo-nvidia-stocks-spark"/>
+    <id>https://www.axios.com/2026/11/10/anthropic-ipo-nvidia-stocks-spark</id>
+    <updated>2026-11-11T08:03:09.000Z</updated>
+    <author><name>Axios AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic IPO could give AI stocks a needed spark Axios</summary>
   </entry>
   <entry>
     <title>AI governance work is harder than firms expect, compliance leaders warn</title>
@@ -178,22 +214,22 @@
     <summary>The Office of the Comptroller of the Currency (OCC) has taken another important step in addressing the rapidly expanding use of artificial intelligence in the banking industry. On November 4, 2026, the OCC issued a new supervisory framework designed to assist its bank examiners in evaluating banks’ use of what the agen</summary>
   </entry>
   <entry>
-    <title>Anthropic Founders to Cash Out $1.75B in Blockbuster IPO</title>
-    <link href="https://www.wealthmanagement.com/high-net-worth/anthropic-founders-to-cash-out-1-75b-in-blockbuster-ipo"/>
-    <id>https://www.wealthmanagement.com/high-net-worth/anthropic-founders-to-cash-out-1-75b-in-blockbuster-ipo</id>
-    <updated>2026-11-10T16:53:40.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Swiss Wealthtech Firm Avaloq Expands Into US Market</title>
+    <link href="https://fintechnews.ch/roboadvisor_onlinewealth/avaloq-us-expansion/87005"/>
+    <id>https://fintechnews.ch/roboadvisor_onlinewealth/avaloq-us-expansion/87005</id>
+    <updated>2026-11-11T07:33:18.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Each of Anthropic's seven co-founders is offering shares worth about $250 million at the midpoint of the IPO range. At that valuation, each will have a net worth of about $18 billion.</summary>
+    <summary>Swiss Wealthtech Firm Avaloq Expands Into US Market FintechNews CH</summary>
   </entry>
   <entry>
-    <title>Mercer Advisors Launches Philanthropic Services Team</title>
-    <link href="https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team"/>
-    <id>https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team</id>
-    <updated>2026-11-10T11:00:00.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>What AI Can Give Back To Wealth Management</title>
+    <link href="https://www.wealthsolutionsreport.com/what-ai-can-give-back-to-wealth-management"/>
+    <id>https://www.wealthsolutionsreport.com/what-ai-can-give-back-to-wealth-management</id>
+    <updated>2026-11-11T13:43:45.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Mercer Advisors has formed a specialized group to help wealthy clients align charitable giving with tax, estate and investment planning, led by former McKinsey executive Eleonora Sharef.</summary>
+    <summary>AI Should Give Advisors And Service Teams More Time For Human Connection</summary>
   </entry>
   <entry>
     <title>Morgan Stanley Wealth Chief Says Big Firms Can Survive ‘AI Obsolescence’</title>
@@ -205,75 +241,39 @@
     <summary>There is “some truth” to predictions of industry disruption, but large firms can deliver services that cannot be replicated by AI tools, Jed Finn said during a presentation on Monday. The post Morgan Stanley Wealth Chief Says Big Firms Can Survive ‘AI Obsolescence’ appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
-    <title>James Taylor: Advisors Who Don’t Embrace AI Will Be Left Behind</title>
-    <link href="https://www.barrons.com/advisor/articles/james-taylor-wells-fargo-ai-advisors-610adc7c"/>
-    <id>https://www.barrons.com/advisor/articles/james-taylor-wells-fargo-ai-advisors-610adc7c</id>
-    <updated>2026-11-10T18:25:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>The founding member of The Taylor Group at Wells Fargo Advisors says clients who are engineers and senior executives from top tech companies provide him with an insider’s view on the future of technology.</summary>
+    <title>AI Is Prompting New Legal Risks in the Workplace</title>
+    <link href="https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace"/>
+    <id>https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace</id>
+    <updated>2026-11-09T12:00:53.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>AI use, particularly by leaders, can heighten exposure for employers The post AI Is Prompting New Legal Risks in the Workplace appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>AI compliance gap exposed in CUBE’s 2026 cost report</title>
-    <link href="https://fintech.global/2026/11/10/ai-compliance-gap-exposed-in-cubes-2026-cost-report"/>
-    <id>https://fintech.global/2026/11/10/ai-compliance-gap-exposed-in-cubes-2026-cost-report</id>
-    <updated>2026-11-10T14:29:02.000Z</updated>
-    <author><name>FinTech Global</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Financial institutions have embraced artificial intelligence in their compliance functions at speed, but new research from CUBE suggests that many would struggle to show a regulator how that technology is being governed. The findings, published in CUBE’s Cost of Compliance Report 2026, point to a widening gap between a</summary>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-11-11T14:00:02.654Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-11T05:54:52.889Z</updated>
+    <updated>2026-11-11T14:00:02.654Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
   </entry>
   <entry>
-    <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
-    <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
-    <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-11T05:54:52.889Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How can financial institutions unlock real-time intelligence?</summary>
-  </entry>
-  <entry>
-    <title>AZ-VC's Selby on Why Anthropic's IPO Puzzles Him</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video</id>
-    <updated>2026-11-11T04:08:19.000Z</updated>
+    <title>AI Stocks Rally After Coreweave's Results; Treasury Market Closed</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video</id>
+    <updated>2026-11-11T12:19:50.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>AZ-VC Founder &amp; Managing Partner Jack Selby questions why Anthropic is rushing into the public markets when, in his words, the company has 'so much cash on their balance sheet, almost as much as Google'. He speaks with Haslinda Amin on &quot;Insight with Haslinda Amin.&quot; (Source: Bloomberg)</summary>
-  </entry>
-  <entry>
-    <title>Anthropic bankers prepare to increase IPO valuation to $1.5tn or more</title>
-    <link href="https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1</id>
-    <updated>2026-11-11T00:27:38.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Claude maker’s listing price expected to rise after strong demand from investors</summary>
-  </entry>
-  <entry>
-    <title>Public Pension Exposure to AI-Related Companies Climbs as Firms Grow</title>
-    <link href="https://www.plansponsor.com/public-pension-exposure-to-ai-related-companies-climbs-as-firms-grow"/>
-    <id>https://www.plansponsor.com/public-pension-exposure-to-ai-related-companies-climbs-as-firms-grow</id>
-    <updated>2026-11-09T21:03:05.000Z</updated>
-    <author><name>PlanSponsor AI</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>The 25 largest public pension funds could hold more than $700 billion of equity investments in technology focused on artificial intelligence, according to research from Equable.</summary>
-  </entry>
-  <entry>
-    <title>Fund manager Nick Train has best month since 2000 on back of AI sell-off</title>
-    <link href="https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1</id>
-    <updated>2026-11-09T16:21:23.000Z</updated>
-    <author><name>FT Asset Management</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Stockpicker hopes his investment strategy is past its ‘nadir’ after bruising few years</summary>
+    <summary>US equity futures rise after Coreweave's strong results and robust demand for Anthropic's IPO. US Treasury futures fall after a hot inflation print fueled Fed rate-hike bets and fueled a spike in yields. Cash Treasury market is closed for Veterans Day holiday. Olaolu Aganga of Citi discusses the sustainability of the A</summary>
   </entry>
 </feed>
