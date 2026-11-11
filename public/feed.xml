@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-10T23:08:26.317Z</updated>
+  <updated>2026-11-11T05:55:05.514Z</updated>
   <entry>
     <title>Anthropic targets valuation of up to $1.4tn in IPO</title>
     <link href="https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1"/>
@@ -23,6 +23,15 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>The $100 billion-plus RIA adds an in-house charitable giving team for family office clients as wealthy donors plan to give more — Also covered by: WealthManagement.com</summary>
+  </entry>
+  <entry>
+    <title>Altruist launches AI financial planning agent</title>
+    <link href="https://www.investmentnews.com/advisor-tech/altruist-launches-ai-financial-planning-agent/268935"/>
+    <id>https://www.investmentnews.com/advisor-tech/altruist-launches-ai-financial-planning-agent/268935</id>
+    <updated>2026-11-10T18:00:42.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Conquest opens to individual advisors as competition heats up in financial planning software.</summary>
   </entry>
   <entry>
     <title>TaxStatus, Nitrogen plug into Claude and ChatGPT in advisor AI push</title>
@@ -91,19 +100,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-10T23:08:13.864Z</updated>
+    <updated>2026-11-11T05:54:52.889Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Anthropic IPO Explained: Nasdaq Listing and Key Risks</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks</id>
-    <updated>2026-11-10T22:37:59.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Anthropic IPO valuation calculator: How much is it really worth?</title>
+    <link href="https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1</id>
+    <updated>2026-11-11T05:00:12.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>In late 2020, a group of senior OpenAI employees unhappy with what they saw as the company’s failure to adequately prioritize AI ethics and safety left the firm to form Anthropic PBC. Just a few years later, the younger company has become an artificial intelligence behemoth that is expected to hold one of the largest i</summary>
+    <summary>As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn</summary>
   </entry>
   <entry>
     <title>BoE's Bailey: AI investment already helping UK economy</title>
@@ -124,22 +133,22 @@
     <summary>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.</summary>
   </entry>
   <entry>
-    <title>Mercer Advisors Launches Philanthropic Services Team</title>
-    <link href="https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team"/>
-    <id>https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team</id>
-    <updated>2026-11-10T11:00:00.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>AI could cut banking industry's cost base by 20% - McKinsey's</title>
+    <link href="https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys"/>
+    <id>https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinseys</id>
+    <updated>2026-11-11T00:01:00.000Z</updated>
+    <author><name>Finextra AI</name></author>
     <category term="RESEARCH"/>
-    <summary>Mercer Advisors has formed a specialized group to help wealthy clients align charitable giving with tax, estate and investment planning, led by former McKinsey executive Eleonora Sharef.</summary>
+    <summary>AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey's.</summary>
   </entry>
   <entry>
-    <title>Altruist launches AI financial planning agent</title>
-    <link href="https://www.investmentnews.com/advisor-tech/altruist-launches-ai-financial-planning-agent/268935"/>
-    <id>https://www.investmentnews.com/advisor-tech/altruist-launches-ai-financial-planning-agent/268935</id>
-    <updated>2026-11-10T18:00:42.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Conquest opens to individual advisors as competition heats up in financial planning software.</summary>
+    <title>Anthropic's path from AI startup to industry-defining IPO</title>
+    <link href="https://www.reuters.com/technology/anthropics-path-ai-startup-industry-defining-ipo-2026-11-10"/>
+    <id>https://www.reuters.com/technology/anthropics-path-ai-startup-industry-defining-ipo-2026-11-10</id>
+    <updated>2026-11-10T22:42:35.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Anthropic's path from AI startup to industry-defining IPO Reuters</summary>
   </entry>
   <entry>
     <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
@@ -178,6 +187,15 @@
     <summary>Each of Anthropic's seven co-founders is offering shares worth about $250 million at the midpoint of the IPO range. At that valuation, each will have a net worth of about $18 billion.</summary>
   </entry>
   <entry>
+    <title>Mercer Advisors Launches Philanthropic Services Team</title>
+    <link href="https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team"/>
+    <id>https://www.wealthmanagement.com/ria-news/mercer-advisors-launches-philanthropic-services-team</id>
+    <updated>2026-11-10T11:00:00.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Mercer Advisors has formed a specialized group to help wealthy clients align charitable giving with tax, estate and investment planning, led by former McKinsey executive Eleonora Sharef.</summary>
+  </entry>
+  <entry>
     <title>Morgan Stanley Wealth Chief Says Big Firms Can Survive ‘AI Obsolescence’</title>
     <link href="https://www.advisorhub.com/morgan-stanley-wealth-chief-says-big-firms-can-survive-ai-obsolescence"/>
     <id>https://www.advisorhub.com/morgan-stanley-wealth-chief-says-big-firms-can-survive-ai-obsolescence</id>
@@ -208,7 +226,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-10T23:08:13.864Z</updated>
+    <updated>2026-11-11T05:54:52.889Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -217,28 +235,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-10T23:08:13.864Z</updated>
+    <updated>2026-11-11T05:54:52.889Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Anthropic Lodges Australian Prospectus, Opening IPO to Retail</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail</id>
-    <updated>2026-11-10T22:35:28.000Z</updated>
+    <title>AZ-VC's Selby on Why Anthropic's IPO Puzzles Him</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video</id>
+    <updated>2026-11-11T04:08:19.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Australian retail investors are able to buy shares of Anthropic PBC in the artificial intelligence giant’s initial public offering, which targets a valuation of $1.4 trillion.</summary>
+    <summary>AZ-VC Founder &amp; Managing Partner Jack Selby questions why Anthropic is rushing into the public markets when, in his words, the company has 'so much cash on their balance sheet, almost as much as Google'. He speaks with Haslinda Amin on &quot;Insight with Haslinda Amin.&quot; (Source: Bloomberg)</summary>
   </entry>
   <entry>
-    <title>FirstFT: Anthropic raises valuation target to $1.4tn</title>
-    <link href="https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1</id>
-    <updated>2026-11-10T21:38:37.000Z</updated>
+    <title>Anthropic bankers prepare to increase IPO valuation to $1.5tn or more</title>
+    <link href="https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1</id>
+    <updated>2026-11-11T00:27:38.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Also in today’s newsletter: US commerce department delays efforts to blacklist company linked to alleged Chinese spy and SoftBank slumps to $7bn loss</summary>
+    <summary>Claude maker’s listing price expected to rise after strong demand from investors</summary>
   </entry>
   <entry>
     <title>Public Pension Exposure to AI-Related Companies Climbs as Firms Grow</title>
@@ -257,22 +275,5 @@
     <author><name>FT Asset Management</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>Stockpicker hopes his investment strategy is past its ‘nadir’ after bruising few years</summary>
-  </entry>
-  <entry>
-    <title>Gemini 4 Carbon is now available</title>
-    <link href="https://deepmind.google/blog/gemini-4-carbon-is-now-available"/>
-    <id>https://deepmind.google/blog/gemini-4-carbon-is-now-available</id>
-    <updated>2026-11-10T16:03:47.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-  </entry>
-  <entry>
-    <title>Google Cloud launches Gemini for healthcare.</title>
-    <link href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare"/>
-    <id>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare</id>
-    <updated>2026-11-10T13:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.</summary>
   </entry>
 </feed>
