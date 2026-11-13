@@ -5,7 +5,16 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-13T00:06:33.154Z</updated>
+  <updated>2026-11-13T07:46:15.873Z</updated>
+  <entry>
+    <title>Nvidia CEO Jensen Huang resigns as shares tumble on succession fears</title>
+    <link href="https://www.investmentnews.com/equities/nvidia-ceo-jensen-huang-resigns-as-shares-tumble-on-succession-fears/268985"/>
+    <id>https://www.investmentnews.com/equities/nvidia-ceo-jensen-huang-resigns-as-shares-tumble-on-succession-fears/268985</id>
+    <updated>2026-11-12T14:30:52.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Bernstein halves its price target as CFO Colette Kress steps in as interim chief, leaving markets to weigh AI concentration risk — Also covered by: GN: AI capex / ETF</summary>
+  </entry>
   <entry>
     <title>Rick Wurster's off-hand offer to trade sweep cash for RIA custody fee at IMPACT reveals dilemma over 'hidden costs' driving legacy custody model off the rails and into the lap of leaner, AI-driven competitors</title>
     <link href="https://riabiz.com/a/2026/11/12/rick-wursters-off-hand-offer-to-trade-sweep-cash-for-ria-custody-fee-at-impact-reveals-dilemma-over-hidden-costs-driving-legacy-custody-model-off-the-rails-and-into-the-lap-of-leaner-ai-driven-competitors"/>
@@ -14,15 +23,6 @@
     <author><name>RIABiz</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Fidelity's answer was to dump sub-$100 million RIAs, with no fee option, but Schwab, for now, clings to its legion of small RIAs and 'broken' no-fee custody model, says Michael Kitces.</summary>
-  </entry>
-  <entry>
-    <title>What Jensen Huang’s Exit Means for Nvidia</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video</id>
-    <updated>2026-11-12T21:56:30.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Jensen Huang resigned as Nvidia’s CEO after reports of marital infidelity including an affair with a woman the US reportedly suspects is a Chinese spy. His sudden exit leaves the AI giant with an interim CEO while throwing the broader AI market into uncertainty. (Source: Bloomberg) — Also covered by: GN: AI capex / ETF</summary>
   </entry>
   <entry>
     <title>Why To Hire An Entry-Level Advisor (Even If AI Can Do Their Job Instead)</title>
@@ -34,13 +34,13 @@
     <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
-    <title>Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster</title>
-    <link href="https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12"/>
-    <id>https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12</id>
-    <updated>2026-11-12T20:46:55.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
+    <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"/>
+    <id>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions</id>
+    <updated>2026-11-12T19:27:45.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster Reuters</summary>
+    <summary>Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.</summary>
   </entry>
   <entry>
     <title>Barr, American Inequality and the Future of AI</title>
@@ -61,40 +61,40 @@
     <summary>Swiss WealthTech Giant Avaloq Enters US Market With A Pitch: Keep Your Existing Systems The Wealth Advisor</summary>
   </entry>
   <entry>
-    <title>As AI raises the bar for advice, RIA margins may struggle to follow</title>
-    <link href="https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow"/>
-    <id>https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow</id>
-    <updated>2026-11-12T20:13:42.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM</title>
+    <link href="https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm"/>
+    <id>https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm</id>
+    <updated>2026-11-13T04:47:39.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>At ADVISE AI, Joel Bruckenstein and Michael Kitces split on whether AI will expand advisor capacity, and on who ultimately pockets the gains.</summary>
+    <summary>The $13.3-trillion Texas broker-dealer is already rolling out its own Model Context Protocol (MCP) server -- in part because its CEO had expressed reservations publicly on Oct. 16.</summary>
   </entry>
   <entry>
-    <title>AI Ubiquitous in Financial Decision-Making</title>
-    <link href="https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026"/>
-    <id>https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026</id>
-    <updated>2026-11-12T16:29:31.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>Singapore regulator tells financial firms to tighten AI oversight</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight</id>
+    <updated>2026-11-13T01:50:50.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Plus: Spreadsheets still used for 70% of product compliance; most tax departments are feeling the crunch The post AI Ubiquitous in Financial Decision-Making appeared first on Corporate Compliance Insights .</summary>
+    <summary>The Monetary Authority of Singapore issued new AI risk management guidelines for financial institutions, setting out supervisory expectations firms must meet by Oct. 7, 2027. The post Singapore regulator tells financial firms to tighten AI oversight appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>Mexico's Clara raises $65m for spend management platform</title>
-    <link href="https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform"/>
-    <id>https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform</id>
-    <updated>2026-11-12T20:43:00.000Z</updated>
+    <title>Who controls payment initiation? The battle for the future of payments</title>
+    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
+    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
+    <updated>2026-11-13T07:46:06.808Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Latin American corporate spend management platform Clara has raised $65 million in a Series C equity round.</summary>
+    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Ex-Malaysia Digital Star That Built PM’s Avatar Is Mired in Debt</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-12/ex-malaysia-digital-star-that-built-pm-s-avatar-is-mired-in-debt"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-12/ex-malaysia-digital-star-that-built-pm-s-avatar-is-mired-in-debt</id>
-    <updated>2026-11-12T23:00:00.000Z</updated>
+    <title>Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing</id>
+    <updated>2026-11-13T06:05:03.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Earlier this year, Malaysia’s Zetrix AI Bhd. was preparing to list its artificial intelligence unit on Nasdaq and had even built an AI avatar of Prime Minister Anwar Ibrahim. Now the onetime digital infrastructure star has lost more than 90% of its market value, is mired in debt and risks defaulting on its Islamic bond</summary>
+    <summary>Artificial intelligence server maker xFusion Digital Technologies Co. received approval from the Shenzhen Stock Exchange on Thursday to move ahead with its planned initial public offering on the tech-heavy ChiNext board.</summary>
   </entry>
   <entry>
     <title>JB Beckett: Anthropic is the anomaly in the machine</title>
@@ -142,22 +142,22 @@
     <summary>The post eMoney Platform Preps AI Assistant for CoPlanner Tool appeared first on eMoney Advisor .</summary>
   </entry>
   <entry>
-    <title>Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain</title>
-    <link href="https://www.reuters.com/business/nvidia-pe-falls-14-year-low-ceo-exit-ai-worries-cloud-bargain-2026-11-12"/>
-    <id>https://www.reuters.com/business/nvidia-pe-falls-14-year-low-ceo-exit-ai-worries-cloud-bargain-2026-11-12</id>
-    <updated>2026-11-12T20:57:59.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>The unfolding Jensen Huang scandal: a timeline</title>
+    <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"/>
+    <id>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</id>
+    <updated>2026-11-12T21:35:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain Reuters</summary>
+    <summary>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</summary>
   </entry>
   <entry>
-    <title>AI stocks pare losses as investors assess fallout of Nvidia CEO's exit</title>
-    <link href="https://www.reuters.com/business/retail-consumer/global-ai-stocks-sink-nvidia-crisis-deepens-sector-selloff-2026-11-12"/>
-    <id>https://www.reuters.com/business/retail-consumer/global-ai-stocks-sink-nvidia-crisis-deepens-sector-selloff-2026-11-12</id>
-    <updated>2026-11-12T20:57:12.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</title>
+    <link href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"/>
+    <id>https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking</id>
+    <updated>2026-11-12T20:16:24.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>AI stocks pare losses as investors assess fallout of Nvidia CEO's exit Reuters</summary>
+    <summary>Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”</summary>
   </entry>
   <entry>
     <title>DOJ AI Task Force Puts Business Users in Enforcement Spotlight</title>
@@ -196,76 +196,76 @@
     <summary>Omani Carson And Laurie Stack Explore Delegation, Firm Culture And The Role Of AI In Advice</summary>
   </entry>
   <entry>
-    <title>Market Brief: Goldman Sachs Expects AI Investment to Reach $1.4 Trillion in 2027</title>
-    <link href="https://www.advisorhub.com/morning-bell-wrapup-11-12-2026"/>
-    <id>https://www.advisorhub.com/morning-bell-wrapup-11-12-2026</id>
-    <updated>2026-11-12T14:41:51.000Z</updated>
-    <author><name>AdvisorHub</name></author>
+    <title>NVIDIA is both that bad as a CEO disaster but likely still good -- as a value stock -- with great growth potential, despite spy scandal, say CIOs, fund managers, analysts and AI experts</title>
+    <link href="https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts"/>
+    <id>https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts</id>
+    <updated>2026-11-13T04:07:23.000Z</updated>
+    <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Goldman Sachs Expects AI Investment to Reach $1.4 Trillion in 2027 appeared first on AdvisorHub .</summary>
+    <summary>Jensen Huang touched the third rail because AI chips are a national defense issue, but NVIDIA's pipeline is rock solid for now -- especially with AMD such a distant second.</summary>
   </entry>
   <entry>
-    <title>Thursday links: intellectual honesty</title>
-    <link href="https://abnormalreturns.com/2026/11/12/thursday-links-intellectual-honesty"/>
-    <id>https://abnormalreturns.com/2026/11/12/thursday-links-intellectual-honesty</id>
-    <updated>2026-11-12T18:39:46.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>As AI raises the bar for advice, RIA margins may struggle to follow</title>
+    <link href="https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow"/>
+    <id>https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow</id>
+    <updated>2026-11-12T20:13:42.000Z</updated>
+    <author><name>Financial Planning</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets Does the bond market have a data center concentration problem? (ft.com) How an Anthropic IPO will affect market concentration. (morningstar.com) Why are home builder stocks rallying? (trendlabs.com) Nvidia Jensen Huang is out as Nvidia ($NVDA) CEO. (semafor.com) How some other CEO transitions have affected stoc</summary>
+    <summary>At ADVISE AI, Joel Bruckenstein and Michael Kitces split on whether AI will expand advisor capacity, and on who ultimately pockets the gains.</summary>
   </entry>
   <entry>
-    <title>Compliance teams failing to check their own AI outputs, says report</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/compliance-teams-failing-to-check-their-own-ai-outputs-says-report"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/compliance-teams-failing-to-check-their-own-ai-outputs-says-report</id>
-    <updated>2026-11-12T01:42:32.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>Paul Weiss Discusses UK Regulators’ Views on Competition and Consumer Law Liability for AI Agents</title>
+    <link href="https://clsbluesky.law.columbia.edu/2026/11/13/paul-weiss-discusses-uk-regulators-views-on-competition-and-consumer-law-liability-for-ai-agents"/>
+    <id>https://clsbluesky.law.columbia.edu/2026/11/13/paul-weiss-discusses-uk-regulators-views-on-competition-and-consumer-law-liability-for-ai-agents</id>
+    <updated>2026-11-13T05:01:12.000Z</updated>
+    <author><name>Columbia Blue Sky</name></author>
     <category term="COMPLIANCE"/>
-    <summary>Compliance teams that skip checks on AI-generated outputs are nearly three times as likely to report a regulatory fine against those that don’t. The post Compliance teams failing to check their own AI outputs, says report appeared first on Compliance Week .</summary>
+    <summary>On 30 October, the U.K. Competition and Markets Authority (the “CMA”) published a research paper on “ Agentic AI and consumers ”, alongside revised guidance for businesses on “ Complying with consumer law when using AI agents ”. The same …</summary>
   </entry>
   <entry>
-    <title>The Participation Gap: Keeping Employees at the Center of AI-Powered Compliance</title>
-    <link href="https://www.complianceweek.com/scheduled-webcast/the-participation-gap-keeping-employees-at-the-center-of-ai-powered-compliance"/>
-    <id>https://www.complianceweek.com/scheduled-webcast/the-participation-gap-keeping-employees-at-the-center-of-ai-powered-compliance</id>
-    <updated>2026-11-11T17:11:32.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>AI Ubiquitous in Financial Decision-Making</title>
+    <link href="https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026"/>
+    <id>https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026</id>
+    <updated>2026-11-12T16:29:31.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>As AI reshapes the compliance function, organizations are finding new ways to automate processes, connect data, and identify emerging risks. But while compliance technology advances, one fundamental challenge remains: building programs that employees understand, trust, and actively participate in. The post The Particip</summary>
-  </entry>
-  <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-13T00:06:16.244Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>Plus: Spreadsheets still used for 70% of product compliance; most tax departments are feeling the crunch The post AI Ubiquitous in Financial Decision-Making appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-13T00:06:16.244Z</updated>
+    <updated>2026-11-13T07:46:06.808Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
   </entry>
   <entry>
-    <title>Huang’s fall is an indictment of founder mode at Big Tech</title>
-    <link href="https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1</id>
-    <updated>2026-11-12T22:50:43.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
-    <category term="AI MARKETS"/>
-    <summary>The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear</summary>
+    <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
+    <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
+    <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
+    <updated>2026-11-13T07:46:06.808Z</updated>
+    <author><name>Finextra AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Nvidia and the World Without Jensen</title>
-    <link href="https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen"/>
-    <id>https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen</id>
-    <updated>2026-11-12T18:06:26.000Z</updated>
-    <author><name>SemiAnalysis</name></author>
+    <title>Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video</id>
+    <updated>2026-11-13T04:41:48.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China</summary>
+    <summary>&quot;Bloomberg: The Asia Trade&quot; brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)</summary>
+  </entry>
+  <entry>
+    <title>EM Stocks Eye First Weekly Gain Since September as Tech Rebounds</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds</id>
+    <updated>2026-11-13T04:53:47.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Emerging-market stocks are headed for their first weekly gain since late September as investors return to the technology sector on bets that the upheaval at Nvidia Corp. will not upend the wider artificial intelligence industry.</summary>
   </entry>
   <entry>
     <title>Industry Voice: In an AI World, Not All Data Is Created Equal</title>
