@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-13T07:46:15.873Z</updated>
-  <entry>
-    <title>Nvidia CEO Jensen Huang resigns as shares tumble on succession fears</title>
-    <link href="https://www.investmentnews.com/equities/nvidia-ceo-jensen-huang-resigns-as-shares-tumble-on-succession-fears/268985"/>
-    <id>https://www.investmentnews.com/equities/nvidia-ceo-jensen-huang-resigns-as-shares-tumble-on-succession-fears/268985</id>
-    <updated>2026-11-12T14:30:52.000Z</updated>
-    <author><name>InvestmentNews</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Bernstein halves its price target as CFO Colette Kress steps in as interim chief, leaving markets to weigh AI concentration risk — Also covered by: GN: AI capex / ETF</summary>
-  </entry>
+  <updated>2026-11-13T16:07:00.018Z</updated>
   <entry>
     <title>Rick Wurster's off-hand offer to trade sweep cash for RIA custody fee at IMPACT reveals dilemma over 'hidden costs' driving legacy custody model off the rails and into the lap of leaner, AI-driven competitors</title>
     <link href="https://riabiz.com/a/2026/11/12/rick-wursters-off-hand-offer-to-trade-sweep-cash-for-ria-custody-fee-at-impact-reveals-dilemma-over-hidden-costs-driving-legacy-custody-model-off-the-rails-and-into-the-lap-of-leaner-ai-driven-competitors"/>
@@ -25,76 +16,85 @@
     <summary>Fidelity's answer was to dump sub-$100 million RIAs, with no fee option, but Schwab, for now, clings to its legion of small RIAs and 'broken' no-fee custody model, says Michael Kitces.</summary>
   </entry>
   <entry>
-    <title>Why To Hire An Entry-Level Advisor (Even If AI Can Do Their Job Instead)</title>
-    <link href="https://feeds.feedblitz.com/~/972688718/_/kitcesnerdseyeview~Why-To-Hire-An-EntryLevel-Advisor-Even-If-AI-Can-Do-Their-Job-Instead"/>
-    <id>https://feeds.feedblitz.com/~/972688718/_/kitcesnerdseyeview~Why-To-Hire-An-EntryLevel-Advisor-Even-If-AI-Can-Do-Their-Job-Instead</id>
-    <updated>2026-11-09T12:03:09.000Z</updated>
-    <author><name>Kitces — Advisor FinTech</name></author>
-    <category term="ADVISOR TECH"/>
-    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
+    <title>Anthropic IPO: AI’s $1.4T Test</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video</id>
+    <updated>2026-11-13T15:51:38.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Anthropic’s potential IPO is drawing extraordinary investor demand, with a reported target valuation of $1.4 trillion. Bloomberg’s Bailey Lipschultz joins Bloomberg Open Interest to explain why investors see the AI company as a must-own and why soaring compute costs, cash burn, uncertain profitability and unusual insid — Also covered by: FactSet Insight (vendor)</summary>
   </entry>
   <entry>
-    <title>Google’s latest Search upgrade promises better answers to your most complicated questions</title>
-    <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"/>
-    <id>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions</id>
-    <updated>2026-11-12T19:27:45.000Z</updated>
+    <title>Investment managers face scale paradox as AI, ETFs reshape industry</title>
+    <link href="https://www.investmentnews.com/practice-management/investment-managers-face-scale-paradox-as-ai-etfs-reshape-industry/268998"/>
+    <id>https://www.investmentnews.com/practice-management/investment-managers-face-scale-paradox-as-ai-etfs-reshape-industry/268998</id>
+    <updated>2026-11-13T11:17:02.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Deloitte's 2027 outlook finds active ETFs, private markets access, and enterprise AI redefining how wealth and asset managers compete.</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT’s new Wallet lets AI agents shop and check out for you</title>
+    <link href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"/>
+    <id>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you</id>
+    <updated>2026-11-13T16:00:12.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.</summary>
+    <summary>ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.</summary>
   </entry>
   <entry>
-    <title>Barr, American Inequality and the Future of AI</title>
-    <link href="https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"/>
-    <id>https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm</id>
-    <updated>2026-11-12T15:00:00.000Z</updated>
-    <author><name>Federal Reserve Speeches</name></author>
+    <title>Prohibited AI Practices under the AI Act</title>
+    <link href="https://artificialintelligenceact.eu/prohibited-ai-practices-under-the-ai-act"/>
+    <id>https://artificialintelligenceact.eu/prohibited-ai-practices-under-the-ai-act</id>
+    <updated>2026-11-13T13:35:13.000Z</updated>
+    <author><name>EU AI Act tracker</name></author>
     <category term="REGULATION"/>
-    <summary>Speech At Yale University, New Haven, Connecticut</summary>
+    <summary>Since 2 February 2025, eight categories of AI practices have been banned in the EU because they pose unacceptable risks to fundamental rights and Union values. These ‘prohibited practices’ are set out in Article 5 of the AI Act. In 2026, the Digital Omnibus added two further prohibitions, which apply from 2 December 20</summary>
   </entry>
   <entry>
-    <title>Swiss WealthTech Giant Avaloq Enters US Market With A Pitch: Keep Your Existing Systems</title>
-    <link href="https://www.thewealthadvisor.com/article/swiss-wealthtech-giant-avaloq-enters-us-market-pitch-keep-your-existing-systems"/>
-    <id>https://www.thewealthadvisor.com/article/swiss-wealthtech-giant-avaloq-enters-us-market-pitch-keep-your-existing-systems</id>
-    <updated>2026-11-12T14:39:45.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>WealthStack Roundup: Avaloq Enters US Market with Mosaic Platform Launch</title>
+    <link href="https://www.wealthmanagement.com/advisor-support-platforms/avaloq-enters-us-market-with-mosaic-platform-launch"/>
+    <id>https://www.wealthmanagement.com/advisor-support-platforms/avaloq-enters-us-market-with-mosaic-platform-launch</id>
+    <updated>2026-11-13T15:58:08.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Swiss WealthTech Giant Avaloq Enters US Market With A Pitch: Keep Your Existing Systems The Wealth Advisor</summary>
+    <summary>Avaloq brings its wealth management technology to the U.S. with Mosaic, joining Nitrogen, Goodfin and Healthspan in rolling out new AI-driven advisor tools this fall.</summary>
   </entry>
   <entry>
-    <title>Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM</title>
-    <link href="https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm"/>
-    <id>https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm</id>
-    <updated>2026-11-13T04:47:39.000Z</updated>
+    <title>NVIDIA is both that bad as a CEO disaster but likely still good -- as a value stock -- with great growth potential, despite spy scandal, say CIOs, fund managers, analysts and AI experts</title>
+    <link href="https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts"/>
+    <id>https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts</id>
+    <updated>2026-11-13T14:57:25.000Z</updated>
     <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The $13.3-trillion Texas broker-dealer is already rolling out its own Model Context Protocol (MCP) server -- in part because its CEO had expressed reservations publicly on Oct. 16.</summary>
+    <summary>Jensen Huang touched the third rail because AI chips are a national defense issue, but NVIDIA's pipeline is rock solid for now -- especially with AMD such a distant second.</summary>
   </entry>
   <entry>
-    <title>Singapore regulator tells financial firms to tighten AI oversight</title>
-    <link href="https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight"/>
-    <id>https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight</id>
-    <updated>2026-11-13T01:50:50.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>A Democratic Congress Is Drawing Up Its Corporate Subpoena List</title>
+    <link href="https://www.corporatecomplianceinsights.com/democratic-congress-drawing-up-corporate-subpoena-list"/>
+    <id>https://www.corporatecomplianceinsights.com/democratic-congress-drawing-up-corporate-subpoena-list</id>
+    <updated>2026-11-13T12:00:51.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
     <category term="COMPLIANCE"/>
-    <summary>The Monetary Authority of Singapore issued new AI risk management guidelines for financial institutions, setting out supervisory expectations firms must meet by Oct. 7, 2027. The post Singapore regulator tells financial firms to tighten AI oversight appeared first on Compliance Week .</summary>
+    <summary>Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes &amp; AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-13T07:46:06.808Z</updated>
+    <updated>2026-11-13T16:06:47.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing</id>
-    <updated>2026-11-13T06:05:03.000Z</updated>
+    <title>Anthropic IPO Share Orders From China Are Said to Be Rebuffed</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed</id>
+    <updated>2026-11-13T15:37:27.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Artificial intelligence server maker xFusion Digital Technologies Co. received approval from the Shenzhen Stock Exchange on Thursday to move ahead with its planned initial public offering on the tech-heavy ChiNext board.</summary>
+    <summary>Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC’s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington and Beijing consider strategic.</summary>
   </entry>
   <entry>
     <title>JB Beckett: Anthropic is the anomaly in the machine</title>
@@ -106,22 +106,13 @@
     <summary>As a metaphor, the blockbuster film The Matrix helps explain a gap between the world we think we inhabit and the real system operating beneath it. The rise of AI and Anthropic's forthcoming IPO feels like another Matrix moment.</summary>
   </entry>
   <entry>
-    <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-    <link href="https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade"/>
-    <id>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</id>
-    <updated>2026-11-12T18:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
+    <title>Introducing ChatGPT Wallet</title>
+    <link href="https://openai.com/index/introducing-chatgpt-wallet"/>
+    <id>https://openai.com/index/introducing-chatgpt-wallet</id>
+    <updated>2026-11-13T15:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.</summary>
-  </entry>
-  <entry>
-    <title>Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether</title>
-    <link href="https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether"/>
-    <id>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether</id>
-    <updated>2026-11-12T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable outcomes by using proprietary transaction data, CMO–CFO alignment, and changes to customer journeys.</summary>
+    <summary>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</summary>
   </entry>
   <entry>
     <title>Putting AI to Work for Clients</title>
@@ -133,31 +124,40 @@
     <summary>The post Putting AI to Work for Clients appeared first on iCapital .</summary>
   </entry>
   <entry>
-    <title>eMoney Platform Preps AI Assistant for CoPlanner Tool</title>
-    <link href="https://emoneyadvisor.com/resources/news/emoney-platform-preps-ai-assistant-for-coplanner-tool"/>
-    <id>https://emoneyadvisor.com/resources/news/emoney-platform-preps-ai-assistant-for-coplanner-tool</id>
-    <updated>2026-11-09T16:59:01.000Z</updated>
-    <author><name>eMoney Advisor (vendor)</name></author>
+    <title>ElevenLabs’ new app combines meeting note-taking and dictation for teams</title>
+    <link href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams"/>
+    <id>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams</id>
+    <updated>2026-11-13T14:44:48.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>The post eMoney Platform Preps AI Assistant for CoPlanner Tool appeared first on eMoney Advisor .</summary>
+    <summary>ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.</summary>
+  </entry>
+  <entry>
+    <title>Why To Hire An Entry-Level Advisor (Even If AI Can Do Their Job Instead)</title>
+    <link href="https://feeds.feedblitz.com/~/972688718/_/kitcesnerdseyeview~Why-To-Hire-An-EntryLevel-Advisor-Even-If-AI-Can-Do-Their-Job-Instead"/>
+    <id>https://feeds.feedblitz.com/~/972688718/_/kitcesnerdseyeview~Why-To-Hire-An-EntryLevel-Advisor-Even-If-AI-Can-Do-Their-Job-Instead</id>
+    <updated>2026-11-09T12:03:09.000Z</updated>
+    <author><name>Kitces — Advisor FinTech</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
     <title>The unfolding Jensen Huang scandal: a timeline</title>
-    <link href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"/>
-    <id>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</id>
-    <updated>2026-11-12T21:35:00.000Z</updated>
+    <link href="https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"/>
+    <id>https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</id>
+    <updated>2026-11-13T15:58:00.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</summary>
   </entry>
   <entry>
-    <title>Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</title>
-    <link href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"/>
-    <id>https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking</id>
-    <updated>2026-11-12T20:16:24.000Z</updated>
-    <author><name>MIT Tech Review AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”</summary>
+    <title>Barr, American Inequality and the Future of AI</title>
+    <link href="https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"/>
+    <id>https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm</id>
+    <updated>2026-11-12T15:00:00.000Z</updated>
+    <author><name>Federal Reserve Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Speech At Yale University, New Haven, Connecticut</summary>
   </entry>
   <entry>
     <title>DOJ AI Task Force Puts Business Users in Enforcement Spotlight</title>
@@ -169,49 +169,49 @@
     <summary>The Department of Justice’s new Super Intelligence Task Force isn’t aiming its enforcement efforts at artificial intelligence developers alone. Companies using AI in everyday operations should expect closer scrutiny of how they prevent the technology from facilitating unlawful conduct. The initiative brings AI more fir</summary>
   </entry>
   <entry>
-    <title>OCC’s New “Super Intelligence” Supervisory Framework: Key Takeaways and How It Compares to the FSB’s AI Sound Practices</title>
-    <link href="https://www.debevoisedatablog.com/2026/11/10/occs-new-super-intelligence-supervisory-framework-key-takeaways-and-how-it-compares-to-the-fsbs-ai-sound-practices"/>
-    <id>https://www.debevoisedatablog.com/2026/11/10/occs-new-super-intelligence-supervisory-framework-key-takeaways-and-how-it-compares-to-the-fsbs-ai-sound-practices</id>
-    <updated>2026-11-10T20:37:48.000Z</updated>
-    <author><name>Debevoise Data Blog</name></author>
-    <category term="REGULATION"/>
-    <summary>On November 4, 2026, the Office of the Comptroller of the Currency (the “OCC”) released its Supervisory Framework for Bank Use of Super Intelligence (the “AI Supervisory Framework”), which provides guidance to OCC examiners on how to evaluate banks’ use of AI in business activities. The AI Supervisory Framework follows</summary>
-  </entry>
-  <entry>
-    <title>Canada's Volaris buys Swiss wealthtech firm Allocare</title>
-    <link href="https://app.dealroom.co/news/note/canada-s-volaris-buys-swiss-wealthtech-firm-allocare"/>
-    <id>https://app.dealroom.co/news/note/canada-s-volaris-buys-swiss-wealthtech-firm-allocare</id>
-    <updated>2026-11-12T12:49:24.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
+    <title>New Osaic AI Head Plans Claude for Financial Advisors Pilot Program</title>
+    <link href="https://www.wealthmanagement.com/ibd-news/osaic-to-pilot-claude-for-financial-advisors-tool"/>
+    <id>https://www.wealthmanagement.com/ibd-news/osaic-to-pilot-claude-for-financial-advisors-tool</id>
+    <updated>2026-11-13T14:36:19.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Canada's Volaris buys Swiss wealthtech firm Allocare Dealroom</summary>
+    <summary>In an interview, Sayee Bellamkonda discussed Anthropic, data security and how increasing token costs weigh on AI-related developments.</summary>
   </entry>
   <entry>
-    <title>Omani Carson On Building Carson Group And Leading With Purpose</title>
-    <link href="https://www.wealthsolutionsreport.com/omani-carson-on-building-carson-group-and-leading-with-purpose"/>
-    <id>https://www.wealthsolutionsreport.com/omani-carson-on-building-carson-group-and-leading-with-purpose</id>
-    <updated>2026-11-12T14:38:51.000Z</updated>
-    <author><name>Wealth Solutions Report</name></author>
+    <title>The WealthStack Podcast: AI, Video and the New Rules of Client Engagement with David Moricca</title>
+    <link href="https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-ai-video-and-the-new-rules-of-client-engagement-with-david-moricca"/>
+    <id>https://www.wealthmanagement.com/artificial-intelligence/the-wealthstack-podcast-ai-video-and-the-new-rules-of-client-engagement-with-david-moricca</id>
+    <updated>2026-11-13T14:43:02.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Omani Carson And Laurie Stack Explore Delegation, Firm Culture And The Role Of AI In Advice</summary>
+    <summary>Socialive's David Moricca describes how AI-powered video is transforming advisor marketing, client engagement and communication strategies.</summary>
   </entry>
   <entry>
-    <title>NVIDIA is both that bad as a CEO disaster but likely still good -- as a value stock -- with great growth potential, despite spy scandal, say CIOs, fund managers, analysts and AI experts</title>
-    <link href="https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts"/>
-    <id>https://riabiz.com/a/2026/11/13/nvidia-is-both-that-bad-as-a-ceo-disaster-but-likely-still-good-as-a-value-stock-with-great-growth-potential-despite-spy-scandal-say-cios-fund-managers-analysts-and-ai-experts</id>
-    <updated>2026-11-13T04:07:23.000Z</updated>
+    <title>Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM</title>
+    <link href="https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm"/>
+    <id>https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm</id>
+    <updated>2026-11-13T07:59:11.000Z</updated>
     <author><name>RIABiz</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Jensen Huang touched the third rail because AI chips are a national defense issue, but NVIDIA's pipeline is rock solid for now -- especially with AMD such a distant second.</summary>
+    <summary>The $13.3-trillion Texas broker-dealer is already rolling out its own Model Context Protocol (MCP) server -- in part because its CEO had expressed reservations publicly on Oct. 16.</summary>
   </entry>
   <entry>
-    <title>As AI raises the bar for advice, RIA margins may struggle to follow</title>
-    <link href="https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow"/>
-    <id>https://www.financial-planning.com/news/as-ai-raises-the-bar-for-advice-ria-margins-may-struggle-to-follow</id>
-    <updated>2026-11-12T20:13:42.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Market Brief: Goldman Sachs Expects AI Investment to Reach $1.4 Trillion in 2027</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-11-12-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-11-12-2026</id>
+    <updated>2026-11-12T14:41:51.000Z</updated>
+    <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>At ADVISE AI, Joel Bruckenstein and Michael Kitces split on whether AI will expand advisor capacity, and on who ultimately pockets the gains.</summary>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: Goldman Sachs Expects AI Investment to Reach $1.4 Trillion in 2027 appeared first on AdvisorHub .</summary>
+  </entry>
+  <entry>
+    <title>Singapore regulator tells financial firms to tighten AI oversight</title>
+    <link href="https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight"/>
+    <id>https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight</id>
+    <updated>2026-11-13T01:50:50.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>The Monetary Authority of Singapore issued new AI risk management guidelines for financial institutions, setting out supervisory expectations firms must meet by Oct. 7, 2027. The post Singapore regulator tells financial firms to tighten AI oversight appeared first on Compliance Week .</summary>
   </entry>
   <entry>
     <title>Paul Weiss Discusses UK Regulators’ Views on Competition and Consumer Law Liability for AI Agents</title>
@@ -223,19 +223,10 @@
     <summary>On 30 October, the U.K. Competition and Markets Authority (the “CMA”) published a research paper on “ Agentic AI and consumers ”, alongside revised guidance for businesses on “ Complying with consumer law when using AI agents ”. The same …</summary>
   </entry>
   <entry>
-    <title>AI Ubiquitous in Financial Decision-Making</title>
-    <link href="https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026"/>
-    <id>https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026</id>
-    <updated>2026-11-12T16:29:31.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>Plus: Spreadsheets still used for 70% of product compliance; most tax departments are feeling the crunch The post AI Ubiquitous in Financial Decision-Making appeared first on Corporate Compliance Insights .</summary>
-  </entry>
-  <entry>
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-13T07:46:06.808Z</updated>
+    <updated>2026-11-13T16:06:47.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -244,28 +235,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-13T07:46:06.808Z</updated>
+    <updated>2026-11-13T16:06:47.543Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video</id>
-    <updated>2026-11-13T04:41:48.000Z</updated>
+    <title>Anthropic IPO to Cap Year of Record-Breaking Equity Megadeals</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-to-cap-year-of-record-breaking-equity-megadeals"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-to-cap-year-of-record-breaking-equity-megadeals</id>
+    <updated>2026-11-13T14:19:49.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>&quot;Bloomberg: The Asia Trade&quot; brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)</summary>
+    <summary>Anthropic PBC is poised to add to a blockbuster year of transactions that are orders of magnitude larger than those seen in the past decade, with the biggest initial public offering of all time joining a half dozen other jumbo equity deals.</summary>
   </entry>
   <entry>
-    <title>EM Stocks Eye First Weekly Gain Since September as Tech Rebounds</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds</id>
-    <updated>2026-11-13T04:53:47.000Z</updated>
+    <title>New Corporate Speak Is Shaped By AI</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-13/opinion-new-corporate-speak-is-shaped-by-ai-video</id>
+    <updated>2026-11-13T15:20:47.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Emerging-market stocks are headed for their first weekly gain since late September as investors return to the technology sector on bets that the upheaval at Nvidia Corp. will not upend the wider artificial intelligence industry.</summary>
+    <summary>Corporate managements are using new euphemisms for job cuts or hiring freezes far more in the age of AI, as technology-enabled headcount reductions increasingly draw public ire and pushback from politicians, bloomberg Opinion columnist Jonathan Levin says. As a result, company leaders are leaning on vague talking point</summary>
   </entry>
   <entry>
     <title>Industry Voice: In an AI World, Not All Data Is Created Equal</title>
@@ -275,5 +266,14 @@
     <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
     <summary>As AI continues to advance at pace, the ways that software and data-owning businesses engage with and harness that technology continue to evolve. Against this backdrop, concerns have centred on the potential for AI to disrupt established digital business models. As investors in a number of what we consider to be world-</summary>
+  </entry>
+  <entry>
+    <title>The bond market is starting to choke on AI debt</title>
+    <link href="https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b"/>
+    <id>https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b</id>
+    <updated>2026-11-12T06:00:02.000Z</updated>
+    <author><name>FT Asset Management</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>There aren’t enough baskets to safely cope with this many massive eggs</summary>
   </entry>
 </feed>
