@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-14T16:57:33.450Z</updated>
+  <updated>2026-11-14T21:18:23.700Z</updated>
   <entry>
     <title>Rick Wurster's off-hand offer to trade sweep cash for RIA custody fee at IMPACT reveals dilemma over 'hidden costs' driving legacy custody model off the rails and into the lap of leaner, AI-driven competitors</title>
     <link href="https://riabiz.com/a/2026/11/12/rick-wursters-off-hand-offer-to-trade-sweep-cash-for-ria-custody-fee-at-impact-reveals-dilemma-over-hidden-costs-driving-legacy-custody-model-off-the-rails-and-into-the-lap-of-leaner-ai-driven-competitors"/>
@@ -25,13 +25,13 @@
     <summary>The Independent broker-dealer giant has had “active conversations” with the Claude maker, which is days away from its expected IPO</summary>
   </entry>
   <entry>
-    <title>How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts</title>
-    <link href="https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"/>
-    <id>https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html</id>
-    <updated>2026-11-14T15:50:43.000Z</updated>
-    <author><name>CNBC Tech</name></author>
+    <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+    <link href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"/>
+    <id>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it</id>
+    <updated>2026-11-14T17:30:00.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.</summary>
+    <summary>From Apple's repeatedly delayed Siri AI to OpenAI's messy &quot;super app&quot; launch, here's a look at the AI projects that shut down or missed expectations.</summary>
   </entry>
   <entry>
     <title>Prohibited AI Practices under the AI Act</title>
@@ -70,13 +70,13 @@
     <summary>Ping An Bank, a Shenzhen-listed institution, has formally adopted internal rules governing its use of AI. The bank’s board approved the measures following the principles of user accountability required by the National Financial Regulatory Administration. The post China’s Ping An Bank adopts board-level AI rules in a fi</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-14T16:57:21.824Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>IAB Launches New Framework to Track When AI Influences or Completes Purchases</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/interactive-advertising-bureau-launches-new-framework-track-when-ai-influences-completes-purchases"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/interactive-advertising-bureau-launches-new-framework-track-when-ai-influences-completes-purchases</id>
+    <updated>2026-11-13T21:21:33.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>The Interactive Advertising Bureau, a trade organization representing the digital advertising industry, released a new framework designed to give the industry a way to account for the role artificial intelligence plays in purchases, according to a Thursday (Nov. 12) press release. The framework, the AI-Era Attribution </summary>
   </entry>
   <entry>
     <title>Wealthtech firms target stock pay, pensions and heirs for advisors</title>
@@ -124,6 +124,15 @@
     <summary>ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.</summary>
   </entry>
   <entry>
+    <title>How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts</title>
+    <link href="https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"/>
+    <id>https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html</id>
+    <updated>2026-11-14T15:50:43.000Z</updated>
+    <author><name>CNBC Tech</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.</summary>
+  </entry>
+  <entry>
     <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
     <link href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"/>
     <id>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</id>
@@ -131,15 +140,6 @@
     <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […</summary>
-  </entry>
-  <entry>
-    <title>AI's four colliding crises</title>
-    <link href="https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks"/>
-    <id>https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks</id>
-    <updated>2026-11-14T13:09:13.000Z</updated>
-    <author><name>Axios AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>AI's four colliding crises Axios</summary>
   </entry>
   <entry>
     <title>Barr, American Inequality and the Future of AI</title>
@@ -205,22 +205,22 @@
     <summary>Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes &amp; AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .</summary>
   </entry>
   <entry>
-    <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
-    <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
-    <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-14T16:57:21.824Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/openai-gives-ai-agents-a-wallet-while-blocking-them-from-seeing-the-card</id>
+    <updated>2026-11-14T00:16:52.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
+    <summary>OpenAI has introduced a ChatGPT Wallet that lets agents pay without access to users’ card details, requires a security check for every purchase, and preserves existing card rewards and protections, the company said in a Friday (Nov. 13) press release. ChatGPT Wallet will initially be available through OpenAI’s personal</summary>
   </entry>
   <entry>
-    <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
-    <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
-    <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-14T16:57:21.824Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>Agentcard secures $8m to let AI agents shop online</title>
+    <link href="https://fintech.global/2026/11/13/agentcard-secures-8m-to-let-ai-agents-shop-online"/>
+    <id>https://fintech.global/2026/11/13/agentcard-secures-8m-to-let-ai-agents-shop-online</id>
+    <updated>2026-11-13T15:02:48.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can financial institutions unlock real-time intelligence?</summary>
+    <summary>Agentcard, a payments firm that lets AI agents make purchases using their users’ own cards, has closed an $8m seed funding round to help agents buy anything on the internet. Peak XV, Fin Capital and Y Combinator provided the capital. Several well-known technology figures have also backed the company. They include Y Com</summary>
   </entry>
   <entry>
     <title>Anthropic IPO Tests Investor Appetite for AI</title>
