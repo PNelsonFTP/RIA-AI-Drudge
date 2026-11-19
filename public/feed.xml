@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-18T21:18:52.366Z</updated>
+  <updated>2026-11-19T03:09:15.716Z</updated>
   <entry>
     <title>Klarna launches AI assistant</title>
     <link href="https://www.finextra.com/pressarticle/111728/klarna-launches-ai-assistant"/>
@@ -16,13 +16,22 @@
     <summary>Klarna, the everyday finance network, today announced the Klarna AI-assistant, a personal assistant that handles shopping, returns, bookings, and everyday admin, so you don't have to. — Also covered by: Banking Dive</summary>
   </entry>
   <entry>
-    <title>Anthropic Said to Be Weighing IPO Price as High as $85 Per Share</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-18/anthropic-said-to-be-weighing-ipo-price-as-high-as-85-per-share</id>
-    <updated>2026-11-18T20:39:53.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Anthropic PBC is considering pricing the shares in its initial public offering in a range of around $80 to $85 each, according to people familiar with the matter. — Also covered by: Bloomberg Tech</summary>
+    <title>Anthropic reportedly prices IPO at $83 a share, above projected range</title>
+    <link href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range"/>
+    <id>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range</id>
+    <updated>2026-11-18T22:11:15.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis. — Also covered by: WSJ Tech</summary>
+  </entry>
+  <entry>
+    <title>Palo Alto Networks Plans $4.5 Billion Acquisition of AI Startup Applied Compute</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/palo-alto-networks-plans-4-5-billion-acquisition-of-ai-startup-applied-compute"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/palo-alto-networks-plans-4-5-billion-acquisition-of-ai-startup-applied-compute</id>
+    <updated>2026-11-19T01:39:20.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="BANKING &amp; FINTECH"/>
+    <summary>Palo Alto Networks plans to acquire Applied Compute, a platform for post-training and inference of open-weight models, in an all-stock transaction valued at $4.5 billion, the company said in a Wednesday (Nov. 18) press release. The planned acquisition will boost Palo Alto Network’s ability to bring secure open-weight a — Also covered by: WSJ Tech</summary>
   </entry>
   <entry>
     <title>AI in quantitative investing: A buy-side perspective</title>
@@ -34,37 +43,28 @@
     <summary>AI is moving into production, boosting productivity while human oversight remains central to trusted quantitative investment workflows. — Also covered by: Risk.net</summary>
   </entry>
   <entry>
-    <title>Nevis raises $70M but is the market for an AI all-in-one big enough to scale?</title>
-    <link href="https://www.investmentnews.com/advisor-tech/nevis-raises-70m-but-is-the-market-for-an-ai-all-in-one-big-enough-to-scale/268941"/>
-    <id>https://www.investmentnews.com/advisor-tech/nevis-raises-70m-but-is-the-market-for-an-ai-all-in-one-big-enough-to-scale/268941</id>
-    <updated>2026-11-18T17:41:48.000Z</updated>
+    <title>Fintech bytes: AI tools for advisors flag when clients need attention</title>
+    <link href="https://www.investmentnews.com/fintech/fintech-bytes-ai-tools-for-advisors-flag-when-clients-need-attention/269082"/>
+    <id>https://www.investmentnews.com/fintech/fintech-bytes-ai-tools-for-advisors-flag-when-clients-need-attention/269082</id>
+    <updated>2026-11-18T22:17:51.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>It’s not a question of whether Nevis is building a useful, it’s whether advisory firms will want to buy a separate dedicated solution for on top of existing software?</summary>
+    <summary>DeepVest, Asset-Map and Aidentified launch automation that spots household gaps, wealth events and portfolio triggers for advisor sign-off</summary>
   </entry>
   <entry>
-    <title>Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor</title>
-    <link href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor"/>
-    <id>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor</id>
-    <updated>2026-11-18T19:56:39.000Z</updated>
+    <title>Nvidia created a weird bit of intrigue by not filing a routine SEC report</title>
+    <link href="https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report"/>
+    <id>https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report</id>
+    <updated>2026-11-18T21:57:40.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</summary>
-  </entry>
-  <entry>
-    <title>Barr, Some Potential Financial Stability Implications of Artificial Intelligence</title>
-    <link href="https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"/>
-    <id>https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm</id>
-    <updated>2026-11-16T10:00:00.000Z</updated>
-    <author><name>Federal Reserve Speeches</name></author>
-    <category term="REGULATION"/>
-    <summary>Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy</summary>
+    <summary>One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.</summary>
   </entry>
   <entry>
     <title>Centricity WealthTech launches NRI wealth biz, targets Rs 400 cr revenue</title>
     <link href="https://cafemutual.com/news/tarraki/39333-centricity-wealthtech-launches-nri-wealth-biz-targets-rs-400-cr-revenue"/>
     <id>https://cafemutual.com/news/tarraki/39333-centricity-wealthtech-launches-nri-wealth-biz-targets-rs-400-cr-revenue</id>
-    <updated>2026-11-18T17:28:30.000Z</updated>
+    <updated>2026-11-18T17:40:32.000Z</updated>
     <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
     <summary>Centricity WealthTech launches NRI wealth biz, targets Rs 400 cr revenue Cafemutual</summary>
@@ -79,31 +79,31 @@
     <summary>It will be the first market debut by one of the leading AI companies in the U.S.</summary>
   </entry>
   <entry>
-    <title>Compliance Brain Drain: When the Only Person Who Understands the Rules Walks Out the Door</title>
-    <link href="https://www.corporatecomplianceinsights.com/compliance-brain-drain-when-only-person-who-understands-rules-walks-out-door"/>
-    <id>https://www.corporatecomplianceinsights.com/compliance-brain-drain-when-only-person-who-understands-rules-walks-out-door</id>
-    <updated>2026-11-18T12:00:08.000Z</updated>
-    <author><name>Corporate Compliance Insights</name></author>
+    <title>UK regulator warns audit firms over independence risks of hyping AI insights to clients</title>
+    <link href="https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients"/>
+    <id>https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients</id>
+    <updated>2026-11-19T02:52:52.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="COMPLIANCE"/>
-    <summary>A departing compliance officer’s qualifications can be rebuilt in months; the judgment and regulator relationships that leave with them take years. CCI contributing writer Trevor Treharne reports on a knowledge drain that Asia-Pacific regulators are now naming outright, with a complication few saw coming: As AI takes o</summary>
+    <summary>The Financial Reporting Council has warned audit firms not to overhype their use of AI and leading tech to sell additional services to clients. The post UK regulator warns audit firms over independence risks of hyping AI insights to clients appeared first on Compliance Week .</summary>
   </entry>
   <entry>
-    <title>Anthropic’s Valuation Seems Justified: Thakker</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-18/anthropic-s-valuation-seems-justified-thakker-video</id>
-    <updated>2026-11-18T20:46:05.000Z</updated>
+    <title>Anthropic IPO Hands SK Hynix Tycoon’s Firm $3 Billion Windfall</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall</id>
+    <updated>2026-11-19T01:36:26.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Dharmesh Thakker, general partner at Battery Ventures joins Dani Burger on “Bloomberg Deals.” Anthropic is guiding prospective investors in its initial public offering it expects to price the shares at the high end of the price range or above, according to people familiar with the matter. (Source: Bloomberg)</summary>
+    <summary>Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial-intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.</summary>
   </entry>
   <entry>
-    <title>AI in quantitative investing: a buy-side perspective</title>
-    <link href="https://www.risk.net/insight/ai-and-machine-learning/7964459/ai-in-quantitative-investing-a-buy-side-perspective"/>
-    <id>https://www.risk.net/insight/ai-and-machine-learning/7964459/ai-in-quantitative-investing-a-buy-side-perspective</id>
-    <updated>2026-11-18T16:43:51.000Z</updated>
-    <author><name>Risk.net</name></author>
+    <title>China AI Biotech Firm Raises $200 Million in Oman-Backed Round</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round</id>
+    <updated>2026-11-19T00:20:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>AI is moving into production, boosting productivity while human oversight remains central to trusted quantitative investment workflows</summary>
+    <summary>Chinese biotech upstart MegaRobo Technologies has raised nearly $200 million from investors including Oman’s sovereign wealth fund, as investors pile into companies using artificial intelligence and robotics to accelerate drug research.</summary>
   </entry>
   <entry>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -142,31 +142,31 @@
     <summary>Please Update Your RSS Feeder Settings Now! We are updating the behind-the-scenes technology used to support the Nerd's Eye View blog , which will allow us to deliver content to you more effectively in the future. However, this does require you to take one (simple) step to keep getting blog updates from us. Please upda</summary>
   </entry>
   <entry>
-    <title>AI 'leadership swirl' distracts wealth execs from growth, says Bridge CEO</title>
-    <link href="https://www.investmentnews.com/practice-management/ai-leadership-swirl-distracts-wealth-execs-from-growth-says-bridge-ceo/269074"/>
-    <id>https://www.investmentnews.com/practice-management/ai-leadership-swirl-distracts-wealth-execs-from-growth-says-bridge-ceo/269074</id>
-    <updated>2026-11-18T20:02:43.000Z</updated>
+    <title>Nevis raises $70M but is the market for an AI all-in-one big enough to scale?</title>
+    <link href="https://www.investmentnews.com/advisor-tech/nevis-raises-70m-but-is-the-market-for-an-ai-all-in-one-big-enough-to-scale/268941"/>
+    <id>https://www.investmentnews.com/advisor-tech/nevis-raises-70m-but-is-the-market-for-an-ai-all-in-one-big-enough-to-scale/268941</id>
+    <updated>2026-11-18T17:41:48.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Eddie Brown says RIA executives need AI built for strategy and execution, not just advisor productivity</summary>
+    <summary>It’s not a question of whether Nevis is building a useful, it’s whether advisory firms will want to buy a separate dedicated solution for on top of existing software?</summary>
   </entry>
   <entry>
-    <title>Anthropic options could begin trading on Monday, expected to draw strong demand</title>
-    <link href="https://www.reuters.com/business/anthropic-options-could-begin-trading-monday-expected-draw-strong-demand-2026-11-18"/>
-    <id>https://www.reuters.com/business/anthropic-options-could-begin-trading-monday-expected-draw-strong-demand-2026-11-18</id>
-    <updated>2026-11-18T17:14:26.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic options could begin trading on Monday, expected to draw strong demand Reuters</summary>
-  </entry>
-  <entry>
-    <title>OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’</title>
-    <link href="https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen"/>
-    <id>https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen</id>
-    <updated>2026-11-18T16:14:09.000Z</updated>
+    <title>Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor</title>
+    <link href="https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor"/>
+    <id>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor</id>
+    <updated>2026-11-18T19:56:39.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.</summary>
+    <summary>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</summary>
+  </entry>
+  <entry>
+    <title>Barr, Some Potential Financial Stability Implications of Artificial Intelligence</title>
+    <link href="https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"/>
+    <id>https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm</id>
+    <updated>2026-11-16T10:00:00.000Z</updated>
+    <author><name>Federal Reserve Speeches</name></author>
+    <category term="REGULATION"/>
+    <summary>Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy</summary>
   </entry>
   <entry>
     <title>What we’re learning from firms engaging with our innovation services</title>
@@ -176,15 +176,6 @@
     <author><name>FCA News</name></author>
     <category term="REGULATION"/>
     <summary>Three themes stand out: the growing use of AI, innovation crossing traditional sector boundaries, and financial inclusion.As firms develop new products, services and business models, many engage with us through our Regulatory Sandbox and Innovation Pathways to understand how regulation applies to their proposition or t</summary>
-  </entry>
-  <entry>
-    <title>Prohibited AI Practices under the AI Act</title>
-    <link href="https://artificialintelligenceact.eu/prohibited-ai-practices-under-the-ai-act"/>
-    <id>https://artificialintelligenceact.eu/prohibited-ai-practices-under-the-ai-act</id>
-    <updated>2026-11-13T13:35:13.000Z</updated>
-    <author><name>EU AI Act tracker</name></author>
-    <category term="REGULATION"/>
-    <summary>Since 2 February 2025, eight categories of AI practices have been banned in the EU because they pose unacceptable risks to fundamental rights and Union values. These ‘prohibited practices’ are set out in Article 5 of the AI Act. In 2026, the Digital Omnibus added two further prohibitions, which apply from 2 December 20</summary>
   </entry>
   <entry>
     <title>Fee-only wealthtech startup finny.club raises Rs 5.3 crore as SEBI flags shortage of registered advisers</title>
@@ -214,6 +205,24 @@
     <summary>Investment management and financial planning are table stakes. Here are the nontechnical and personal reasons people seek the help of financial advisors.</summary>
   </entry>
   <entry>
+    <title>AI 'leadership swirl' distracts wealth execs from growth, says Bridge CEO</title>
+    <link href="https://www.investmentnews.com/practice-management/ai-leadership-swirl-distracts-wealth-execs-from-growth-says-bridge-ceo/269074"/>
+    <id>https://www.investmentnews.com/practice-management/ai-leadership-swirl-distracts-wealth-execs-from-growth-says-bridge-ceo/269074</id>
+    <updated>2026-11-18T20:02:43.000Z</updated>
+    <author><name>InvestmentNews</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Eddie Brown says RIA executives need AI built for strategy and execution, not just advisor productivity</summary>
+  </entry>
+  <entry>
+    <title>Compliance Brain Drain: When the Only Person Who Understands the Rules Walks Out the Door</title>
+    <link href="https://www.corporatecomplianceinsights.com/compliance-brain-drain-when-only-person-who-understands-rules-walks-out-door"/>
+    <id>https://www.corporatecomplianceinsights.com/compliance-brain-drain-when-only-person-who-understands-rules-walks-out-door</id>
+    <updated>2026-11-18T12:00:08.000Z</updated>
+    <author><name>Corporate Compliance Insights</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>A departing compliance officer’s qualifications can be rebuilt in months; the judgment and regulator relationships that leave with them take years. CCI contributing writer Trevor Treharne reports on a knowledge drain that Asia-Pacific regulators are now naming outright, with a complication few saw coming: As AI takes o</summary>
+  </entry>
+  <entry>
     <title>AI in Finance and Banking November 17, 2026</title>
     <link href="https://www.llrx.com/2026/11/ai-in-finance-and-banking-november-17-2026"/>
     <id>https://www.llrx.com/2026/11/ai-in-finance-and-banking-november-17-2026</id>
@@ -223,57 +232,48 @@
     <summary>This semi-monthly column by Sabrina I. Pacifici highlights news, government documents, NGO/IGO papers, conferences, industry white papers and reports, academic papers and speeches, and central bank actions on the subject of AI’s fast paced impact on the banking and finance sectors. The chronological links provided are </summary>
   </entry>
   <entry>
-    <title>EDPB Adopts Statement on Smart Glasses Under GDPR</title>
-    <link href="https://www.wsgrdataadvisor.com/2026/11/edpb-adopts-statement-on-smart-glasses-under-gdpr"/>
-    <id>https://www.wsgrdataadvisor.com/2026/11/edpb-adopts-statement-on-smart-glasses-under-gdpr</id>
-    <updated>2026-11-17T15:57:14.000Z</updated>
-    <author><name>WSGR Data Advisor</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>On October 13, 2026, the European Data Protection Board (EDPB) adopted a Statement on Smart Glasses (Statement), setting out its preliminary views on how the European Union (EU) General Data Protection Regulation (GDPR) applies to eyewear equipped with cameras, microphones, and artificial intelligence (AI) features (Sm</summary>
-  </entry>
-  <entry>
-    <title>Daloopa delivers audit-ready financial data directly on Snowflake Marketplace</title>
-    <link href="https://www.finextra.com/pressarticle/111722/daloopa-delivers-audit-ready-financial-data-directly-on-snowflake-marketplace"/>
-    <id>https://www.finextra.com/pressarticle/111722/daloopa-delivers-audit-ready-financial-data-directly-on-snowflake-marketplace</id>
-    <updated>2026-11-18T18:06:00.000Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>Anthropic Sets Record With $81.3 Billion Share Sale Before Nasdaq Debut</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-sets-record-with-81-3-billion-share-sale-before-nasdaq-debut"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-sets-record-with-81-3-billion-share-sale-before-nasdaq-debut</id>
+    <updated>2026-11-19T02:37:16.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the launch of its cloud-native fundamental data offering on Snowflake Marketplace.</summary>
+    <summary>Anthropic has priced its initial public offering of its Class A common stock at $83 per share and expects the shares to begin trading on the Nasdaq Global Select Market on Thursday (Nov. 19), the company said in a Wednesday (Nov. 18) announcement. The offering includes 980 million shares of Class A common stock, with [</summary>
   </entry>
   <entry>
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-18T21:18:38.780Z</updated>
+    <updated>2026-11-19T03:09:02.237Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Justifying Anthropic’s Valuation, The Bank of Nvidia</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-deals-11-18-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-deals-11-18-2026-video</id>
-    <updated>2026-11-18T20:45:24.000Z</updated>
+    <title>Anthropic Prices at $83 a Share in Record-Sized Offering</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video</id>
+    <updated>2026-11-19T00:45:46.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Goldman Sachs Global Head of Asset &amp; Wealth Management Marc Nachmann Battery Ventures General Partner Dharmesh Thakker, and Citi Executive Vice Chair &amp; </summary>
+    <summary>Anthropic PBC and its co-founders raised $107.3 billion in an upsized IPO and private placement. The artificial intelligence firm sold 956.4 million shares and the co-founders sold 23.6 million shares for $83 each, according to a statement, above the marketed range. The IPO is the biggest of all time, topping SpaceX’s </summary>
   </entry>
   <entry>
-    <title>BCLP lawyer David Rundle: AI exposes senior management accountability gap</title>
-    <link href="https://www.investmentweek.co.uk/opinion/4539034/bclp-lawyer-david-rundle-ai-exposes-senior-management-accountability-gap"/>
-    <id>https://www.investmentweek.co.uk/opinion/4539034/bclp-lawyer-david-rundle-ai-exposes-senior-management-accountability-gap</id>
-    <updated>2026-11-18T08:20:00.000Z</updated>
-    <author><name>Investment Week</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>The deployment and use of AI in financial services raises many concerns about accountability.</summary>
+    <title>Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk</id>
+    <updated>2026-11-19T01:00:36.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Artificial intelligence can bring exponential benefits but the damage that may result from a breach of its safeguards is the biggest risk that’s being underpriced by markets right now, according to Morgan Stanley.</summary>
   </entry>
   <entry>
-    <title>Fund manager euphoria over AI recedes amid 'soft landing' economic prediction</title>
-    <link href="https://www.investmentweek.co.uk/news/4539082/fund-manager-euphoria-ai-recedes-amid-soft-landing-economic-prediction"/>
-    <id>https://www.investmentweek.co.uk/news/4539082/fund-manager-euphoria-ai-recedes-amid-soft-landing-economic-prediction</id>
-    <updated>2026-11-17T14:50:31.000Z</updated>
-    <author><name>Investment Week</name></author>
+    <title>AI Agents Run WTW’s Benefits Machine. Humans Still Sign Off.</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-run-wtws-benefits-machine-humans-still-sign-off"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-run-wtws-benefits-machine-humans-still-sign-off</id>
+    <updated>2026-11-18T23:28:19.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Fund managers have rowed back on predictions of an economic boom while slashing tech overweights in November by the largest amount in 20 years, Bank of America’s (BofA) latest Global Fund Manager Survey found.</summary>
+    <summary>Willis Towers Watson (WTW) is using artificial intelligence agents to pass employees’ benefits choices to the outside vendors that set up their coverage, and to catch the handoffs that go wrong. Large U.S. employers hire WTW, an insurance broker and benefits consultant, to run their health, insurance and pension benefi</summary>
   </entry>
 </feed>
