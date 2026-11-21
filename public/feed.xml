@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-21T01:20:39.283Z</updated>
+  <updated>2026-11-21T09:35:17.899Z</updated>
   <entry>
     <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
     <link href="https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115"/>
@@ -34,6 +34,15 @@
     <summary>Vanilla and Altruist's Hazel are building an estate planning module that lets advisors review documents, spot gaps and guide clients toward plans, set to launch in early 2027. — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
+    <title>How AI Is Forcing China to Reshape Industrial Policy</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy</id>
+    <updated>2026-11-21T09:00:13.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Kyle Chan on Beijing's plan to become technologically self-reliant. — Also covered by: Bloomberg Tech</summary>
+  </entry>
+  <entry>
     <title>Anthropic stock sinks 8.5% as AI selloff swamps record-setting IPO</title>
     <link href="https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120"/>
     <id>https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120</id>
@@ -43,13 +52,13 @@
     <summary>Retail investors chased the debut, but Vanguard data shows most self-directed clients sat out the Anthropic IPO</summary>
   </entry>
   <entry>
-    <title>Wall St ends sharply lower on AI selloff, S&amp;P 500, Dow in correction</title>
-    <link href="https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20"/>
-    <id>https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20</id>
-    <updated>2026-11-20T22:55:43.000Z</updated>
+    <title>Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI</title>
+    <link href="https://www.reuters.com/business/view-nasdaq-plunges-5-day-after-anthropic-debut-investors-still-believe-ai-2026-11-20"/>
+    <id>https://www.reuters.com/business/view-nasdaq-plunges-5-day-after-anthropic-debut-investors-still-believe-ai-2026-11-20</id>
+    <updated>2026-11-20T21:30:13.000Z</updated>
     <author><name>Reuters AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Wall St ends sharply lower on AI selloff, S&amp;P 500, Dow in correction Reuters</summary>
+    <summary>Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI Reuters</summary>
   </entry>
   <entry>
     <title>Anthropic Sells $81.3 Billion in IPO Shares</title>
@@ -70,13 +79,13 @@
     <summary>Artificial intelligence has made content easier to produce, but attention harder to earn.</summary>
   </entry>
   <entry>
-    <title>AI Euphoria Gives Way to Fear And ‘Face-Ripping Volatility’</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets</id>
-    <updated>2026-11-20T21:52:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Despite Tech Meltdown, Advisors Say AI Sector Remains Solid Bet</title>
+    <link href="https://www.fa-mag.com/news/despite-meltdown-in-tech--advisors-say-ai-trade-remains-solid-bet-89313.html"/>
+    <id>https://www.fa-mag.com/news/despite-meltdown-in-tech--advisors-say-ai-trade-remains-solid-bet-89313.html</id>
+    <updated>2026-11-20T17:00:00.000Z</updated>
+    <author><name>FA Magazine</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>All year, investors have gorged themselves on whatever the AI trade served up. Hundreds of billions of dollars of stock sold to build out infrastructure. Near-daily bond offerings to pay for chips and data centers. History’s two largest IPOs.</summary>
+    <summary>A plunge in the Nasdaq after Anthropic's historic IPO has put a cloud over the AI trade.</summary>
   </entry>
   <entry>
     <title>Investigations of Nvidia mount amid growing questions of AI chip sales and governance</title>
@@ -91,7 +100,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-21T01:20:26.384Z</updated>
+    <updated>2026-11-21T09:35:06.489Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -115,13 +124,13 @@
     <summary>We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Science Summit appeared first on Meta Newsroom </summary>
   </entry>
   <entry>
-    <title>Scribe CEO Jennifer Smith on AI Usage in the Workplace</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video</id>
-    <updated>2026-11-20T22:38:25.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Physical AI is breaking out of the box</title>
+    <link href="https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box"/>
+    <id>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</id>
+    <updated>2026-11-20T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Jennifer Smith, Co-Founder and CEO of Scribe and a former Consultant at McKinsey, discusses AI valuations to adoption, noting research that puts AI use for workplace tasks below 4%. She says the findings contrast with the widespread chatbot and AI use they observe in their own circle. She speaks with Romaine Bostick on</summary>
+    <summary>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.</summary>
   </entry>
   <entry>
     <title>WealthTech Safari — Week of November 20, 2026</title>
@@ -151,13 +160,13 @@
     <summary>Pave Finance, DPL Financial Partners and Gottfried &amp; Somberg also add senior leaders as RIAs and wealthtech firms deepen their benches</summary>
   </entry>
   <entry>
-    <title>Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market</title>
-    <link href="https://www.reuters.com/business/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-ai-rocked-2026-11-20"/>
-    <id>https://www.reuters.com/business/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-ai-rocked-2026-11-20</id>
-    <updated>2026-11-20T21:33:16.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Nvidia shares plunge as Anthropic can't stop the AI selloff</title>
+    <link href="https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff"/>
+    <id>https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff</id>
+    <updated>2026-11-21T05:37:32.000Z</updated>
+    <author><name>Axios AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market Reuters</summary>
+    <summary>Nvidia shares plunge as Anthropic can't stop the AI selloff Axios</summary>
   </entry>
   <entry>
     <title>Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell</title>
@@ -178,13 +187,13 @@
     <summary>AI tokens, poker chips and the odds nobody’s calculating.</summary>
   </entry>
   <entry>
-    <title>Despite Tech Meltdown, Advisors Say AI Sector Remains Solid Bet</title>
-    <link href="https://www.fa-mag.com/news/despite-meltdown-in-tech--advisors-say-ai-trade-remains-solid-bet-89313.html"/>
-    <id>https://www.fa-mag.com/news/despite-meltdown-in-tech--advisors-say-ai-trade-remains-solid-bet-89313.html</id>
-    <updated>2026-11-20T17:00:00.000Z</updated>
+    <title>U.S. Treasurys Rally As AI Selloff Sends Investors To Havens</title>
+    <link href="https://www.fa-mag.com/news/u-s--treasurys-rally-as-ai-selloff-sends-investors-to-havens-89315.html"/>
+    <id>https://www.fa-mag.com/news/u-s--treasurys-rally-as-ai-selloff-sends-investors-to-havens-89315.html</id>
+    <updated>2026-11-20T16:15:00.000Z</updated>
     <author><name>FA Magazine</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>A plunge in the Nasdaq after Anthropic's historic IPO has put a cloud over the AI trade.</summary>
+    <summary>Indicators in the bond market pointed to less concern about future inflation.</summary>
   </entry>
   <entry>
     <title>Lessons from Anthropic’s IPO: AI’s Technical Failures Are Governance Failures</title>
@@ -199,7 +208,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-21T01:20:26.384Z</updated>
+    <updated>2026-11-21T09:35:06.489Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -208,19 +217,19 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-21T01:20:26.384Z</updated>
+    <updated>2026-11-21T09:35:06.489Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Anthropic IPO Could Mark End of the AI Trade</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-20/anthropic-ipo-could-mark-end-of-the-ai-trade-video</id>
-    <updated>2026-11-20T21:35:36.000Z</updated>
+    <title>Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)</title>
+    <link href="https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast"/>
+    <id>https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast</id>
+    <updated>2026-11-21T09:00:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Anna Wong, Bloomberg Economics Chief US Economist warns Anthropic’s slice of the token market has narrowed: and that the hyperscaler has surrendered a substantial part of its price premium without strengthening its competitive position. That’s a warning that enterprises may be moving workloads to cheaper models, weaken</summary>
+    <summary>Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom</summary>
   </entry>
   <entry>
     <title>Inside Anthropic’s historic IPO</title>
@@ -229,7 +238,7 @@
     <updated>2026-11-20T21:21:29.000Z</updated>
     <author><name>FT Artificial Intelligence</name></author>
     <category term="AI MARKETS"/>
-    <summary>Can the low-key company preserve its idiosyncratic culture in the glare of public markets?</summary>
+    <summary>Can the low-key company preserve its idiosyncratic culture in the glare of public markets? — Also covered by: FT Artificial Intelligence</summary>
   </entry>
   <entry>
     <title>Agentic traders ‘a long way off’, say their human counterparts</title>
@@ -266,14 +275,5 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</summary>
-  </entry>
-  <entry>
-    <title>Physical AI is breaking out of the box</title>
-    <link href="https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box"/>
-    <id>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</id>
-    <updated>2026-11-20T00:00:00.000Z</updated>
-    <author><name>McKinsey Insights</name></author>
-    <category term="RESEARCH"/>
-    <summary>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.</summary>
   </entry>
 </feed>
