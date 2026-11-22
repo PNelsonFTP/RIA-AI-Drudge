@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-22T02:58:36.964Z</updated>
+  <updated>2026-11-22T11:01:48.259Z</updated>
   <entry>
     <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
     <link href="https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115"/>
@@ -13,7 +13,7 @@
     <updated>2026-11-20T19:08:44.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>RIAs flag AI risk in Form ADV more often than they admit using AI</summary>
+    <summary>RIAs flag AI risk in Form ADV more often than they admit using AI — Also covered by: GN: RIA AI</summary>
   </entry>
   <entry>
     <title>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite</title>
@@ -22,16 +22,7 @@
     <updated>2026-11-20T17:47:48.000Z</updated>
     <author><name>RIABiz</name></author>
     <category term="WEALTHTECH"/>
-    <summary>The two AI brands of Hazel and Vanilla co-evolved under shared owners and board members -- including Vanguard -- and have now cemented a deal to form a tidy package just weeks ahead of the Vanguard-Altruist closing</summary>
-  </entry>
-  <entry>
-    <title>Vanilla Partners With Hazel on AI Estate Planning Module</title>
-    <link href="https://www.wealthmanagement.com/advisor-support-platforms/vanilla-partners-with-hazel-on-ai-estate-planning-tool"/>
-    <id>https://www.wealthmanagement.com/advisor-support-platforms/vanilla-partners-with-hazel-on-ai-estate-planning-tool</id>
-    <updated>2026-11-19T21:21:55.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Vanilla and Altruist's Hazel are building an estate planning module that lets advisors review documents, spot gaps and guide clients toward plans, set to launch in early 2027. — Also covered by: GN: wealth AI vendors</summary>
+    <summary>The two AI brands of Hazel and Vanilla co-evolved under shared owners and board members -- including Vanguard -- and have now cemented a deal to form a tidy package just weeks ahead of the Vanguard-Altruist closing — Also covered by: GN: wealth AI vendors</summary>
   </entry>
   <entry>
     <title>Milemarker launches MCP to plug AI tools into firm data</title>
@@ -43,22 +34,13 @@
     <summary>But wasn't this what AI was supposed to solve?</summary>
   </entry>
   <entry>
-    <title>Can Anthropic afford to put safety first?</title>
-    <link href="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"/>
-    <id>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</id>
-    <updated>2026-11-21T15:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>🔮 Certified human, twin primes, Anthropic++ #611</title>
+    <link href="https://www.exponentialview.co/p/ev-611"/>
+    <id>https://www.exponentialview.co/p/ev-611</id>
+    <updated>2026-11-22T04:59:51.000Z</updated>
+    <author><name>Exponential View</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […</summary>
-  </entry>
-  <entry>
-    <title>Anthropic Sells $81.3 Billion in IPO Shares</title>
-    <link href="https://wisevoter.com/world/us/2026/11/21/anthropic-sells-81-billion-stock-ipo"/>
-    <id>https://wisevoter.com/world/us/2026/11/21/anthropic-sells-81-billion-stock-ipo</id>
-    <updated>2026-11-21T01:02:50.000Z</updated>
-    <author><name>GN: SEC AI</name></author>
-    <category term="REGULATION"/>
-    <summary>Anthropic Sells $81.3 Billion in IPO Shares Wisevoter</summary>
+    <summary>Your Sunday briefing on AI and exponential technologies</summary>
   </entry>
   <entry>
     <title>Humanized Content vs. AI Slop</title>
@@ -91,7 +73,7 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-22T02:58:27.381Z</updated>
+    <updated>2026-11-22T11:01:36.087Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
@@ -133,6 +115,15 @@
     <summary>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.</summary>
   </entry>
   <entry>
+    <title>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite</title>
+    <link href="https://news.google.com/rss/articles/CBMivAJBVV95cUxQYV8zV1hxNXpFbjNERHpiR0hDWEotTHJNa3ItUnAwUmRCeGRHSGNkNUltX0N6bDhoajVmSTVtMXFyeU12RHppNWFlZks0TlZId1U0QWJ5Z3Z6d3U1cGZlTkM2N08tMGc4OHdFUDZSTGVvV25vTVMyWWJLemZpQzIybzN2YThRekI5aHQ4X181QmhiZ0tvdDJMa1BZamFTbGg4dDBPamhzQzBUeWhxd0hPaGhiVVVvRG4wakJJZWY1aHUyUFYwbUxzQWRQSkNTZWFkOUtBR0tTTXBBNUlyMURveTktekdjbXlwTERvRHNHVld4YjI0aEQtUld2V3dYbTFEV19MVlpKU1RDVDhGdVNTd0dXb2NEUFdCX3RNUS1md1BiOHhBUGpyaWl6RDR2TGRlbDFCbkpURlFhVDNv"/>
+    <id>https://news.google.com/rss/articles/CBMivAJBVV95cUxQYV8zV1hxNXpFbjNERHpiR0hDWEotTHJNa3ItUnAwUmRCeGRHSGNkNUltX0N6bDhoajVmSTVtMXFyeU12RHppNWFlZks0TlZId1U0QWJ5Z3Z6d3U1cGZlTkM2N08tMGc4OHdFUDZSTGVvV25vTVMyWWJLemZpQzIybzN2YThRekI5aHQ4X181QmhiZ0tvdDJMa1BZamFTbGg4dDBPamhzQzBUeWhxd0hPaGhiVVVvRG4wakJJZWY1aHUyUFYwbUxzQWRQSkNTZWFkOUtBR0tTTXBBNUlyMURveTktekdjbXlwTERvRHNHVld4YjI0aEQtUld2V3dYbTFEV19MVlpKU1RDVDhGdVNTd0dXb2NEUFdCX3RNUS1md1BiOHhBUGpyaWl6RDR2TGRlbDFCbkpURlFhVDNv</id>
+    <updated>2026-11-20T05:22:06.000Z</updated>
+    <author><name>GN: wealth AI vendors</name></author>
+    <category term="VENDOR WATCH"/>
+    <summary>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite RIABiz</summary>
+  </entry>
+  <entry>
     <title>Anthropic stock sinks 8.5% as AI selloff swamps record-setting IPO</title>
     <link href="https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120"/>
     <id>https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120</id>
@@ -151,22 +142,40 @@
     <summary>Pave Finance, DPL Financial Partners and Gottfried &amp; Somberg also add senior leaders as RIAs and wealthtech firms deepen their benches</summary>
   </entry>
   <entry>
-    <title>The ripple effects of AI wealth</title>
-    <link href="https://www.axios.com/2026/11/20/ai-wealth-stock-market-anthropic"/>
-    <id>https://www.axios.com/2026/11/20/ai-wealth-stock-market-anthropic</id>
-    <updated>2026-11-21T09:44:14.000Z</updated>
-    <author><name>Axios AI (GN)</name></author>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link href="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"/>
+    <id>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</id>
+    <updated>2026-11-21T15:00:00.000Z</updated>
+    <author><name>The Verge AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>The ripple effects of AI wealth Axios</summary>
+    <summary>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […</summary>
   </entry>
   <entry>
-    <title>AI Daily: Nvidia slide deepens as SEC said to probe accounting</title>
-    <link href="https://www.tipranks.com/news/the-fly/ai-daily-nvidia-slide-deepens-as-sec-said-to-probe-accounting-thefly-news"/>
-    <id>https://www.tipranks.com/news/the-fly/ai-daily-nvidia-slide-deepens-as-sec-said-to-probe-accounting-thefly-news</id>
-    <updated>2026-11-20T19:45:37.000Z</updated>
-    <author><name>GN: AI capex / ETF</name></author>
+    <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
+    <link href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3RNaGE5TFI4VjItcUxwNXQtU3lRU0Z4U01NdHpfY0RnYk1RWWlzYUZsNGdXalRXVWtNeUN1VnlJLXBFZnZ5bWF3THBmNHRoQ0NMbkh2cFFaYXZxRW1EVVhrYk9WbjFJeFlOUHE3REdwc2Q3U05zVjJZUTVoYmJGT3QwajF3T1daNGtQUXdkVFB3UWJPMmZyTEJja0U3Q3JuazlEOXI0c3ZNbGYxdE96a05SRVFEUk8xb1E"/>
+    <id>https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3RNaGE5TFI4VjItcUxwNXQtU3lRU0Z4U01NdHpfY0RnYk1RWWlzYUZsNGdXalRXVWtNeUN1VnlJLXBFZnZ5bWF3THBmNHRoQ0NMbkh2cFFaYXZxRW1EVVhrYk9WbjFJeFlOUHE3REdwc2Q3U05zVjJZUTVoYmJGT3QwajF3T1daNGtQUXdkVFB3UWJPMmZyTEJja0U3Q3JuazlEOXI0c3ZNbGYxdE96a05SRVFEUk8xb1E</id>
+    <updated>2026-11-20T21:29:05.000Z</updated>
+    <author><name>GN: RIA AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>RIAs flag AI risk in Form ADV more often than they admit using AI InvestmentNews</summary>
+  </entry>
+  <entry>
+    <title>Combatting adversarial distillation</title>
+    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
+    <id>https://openai.com/index/combatting-adversarial-distillation</id>
+    <updated>2026-11-20T10:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="REGULATION"/>
-    <summary>AI Daily: Nvidia slide deepens as SEC said to probe accounting TipRanks</summary>
+    <summary>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
+  </entry>
+  <entry>
+    <title>New York Creates AI Enforcement Unit as States Step Up Oversight</title>
+    <link href="https://www.pymnts.com/news/artificial-intelligence/2026/new-york-creates-ai-enforcement-unit-as-states-step-up-oversight"/>
+    <id>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-creates-ai-enforcement-unit-as-states-step-up-oversight</id>
+    <updated>2026-11-20T17:01:43.000Z</updated>
+    <author><name>PYMNTS AI</name></author>
+    <category term="REGULATION"/>
+    <summary>New York Attorney General Letitia James has created a dedicated artificial intelligence (AI) enforcement unit to police model developers, chatbot operators and other businesses whose use of AI may violate state law. The AI Safety, Standards, Enforcement, and Transparency (ASSET) Unit will lead enforcement of New York’s</summary>
   </entry>
   <entry>
     <title>What’s Your AI Win Rate?</title>
@@ -199,7 +208,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-22T02:58:27.381Z</updated>
+    <updated>2026-11-22T11:01:36.087Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -208,10 +217,19 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-22T02:58:27.381Z</updated>
+    <updated>2026-11-22T11:01:36.087Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
+  </entry>
+  <entry>
+    <title>Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future</title>
+    <link href="https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html"/>
+    <id>https://finance.yahoo.com/technology/ai/articles/nvidia-just-delivered-incredible-results-093402408.html</id>
+    <updated>2026-11-22T09:34:02.000Z</updated>
+    <author><name>GN: AI capex / ETF</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future Yahoo Finance</summary>
   </entry>
   <entry>
     <title>Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases</title>
@@ -223,15 +241,6 @@
     <summary>Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.</summary>
   </entry>
   <entry>
-    <title>Anthropic IPO Fails to Calm AI Jitters</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video</id>
-    <updated>2026-11-21T13:43:18.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend the sharp AI-driven market selloff looks overdone, arguing that demand for computing power remains strong and semiconductor earnings expectations continue to rise. Speaking with hosts David Gura and Christina Ruffini, Golub sa — Also covered by: Bloomberg Markets</summary>
-  </entry>
-  <entry>
     <title>Agentic traders ‘a long way off’, say their human counterparts</title>
     <link href="https://www.risk.net/markets/7964515/agentic-traders-%E2%80%98a-long-way-off%E2%80%99-say-their-human-counterparts"/>
     <id>https://www.risk.net/markets/7964515/agentic-traders-%E2%80%98a-long-way-off%E2%80%99-say-their-human-counterparts</id>
@@ -241,13 +250,13 @@
     <summary>Rogue agent risks and the value of human relationships will keep traders in work for a while, they believe</summary>
   </entry>
   <entry>
-    <title>ECB finds cyber and ICT weaknesses at most EU banks as AI threats loom</title>
-    <link href="https://www.risk.net/risk-quantum/7964463/ecb-finds-cyber-and-ict-weaknesses-at-most-eu-banks-as-ai-threats-loom"/>
-    <id>https://www.risk.net/risk-quantum/7964463/ecb-finds-cyber-and-ict-weaknesses-at-most-eu-banks-as-ai-threats-loom</id>
-    <updated>2026-11-20T04:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
+    <title>Anthropic shrugs off AI woes to float in record-breaking IPO</title>
+    <link href="https://www.investmentweek.co.uk/news/4539246/anthropic-shrugs-ai-woes-float-record-breaking-ipo"/>
+    <id>https://www.investmentweek.co.uk/news/4539246/anthropic-shrugs-ai-woes-float-record-breaking-ipo</id>
+    <updated>2026-11-19T15:13:18.000Z</updated>
+    <author><name>Investment Week</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Latest SREP exposes deficiencies at 92% of lenders, with nearly three-quarters receiving poor supervisory scores</summary>
+    <summary>Anthropic has begun trading on public markets following the biggest initial public offering ever, usurping SpaceX.</summary>
   </entry>
   <entry>
     <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
@@ -257,15 +266,6 @@
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
     <summary>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</summary>
-  </entry>
-  <entry>
-    <title>Combatting adversarial distillation</title>
-    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
-    <id>https://openai.com/index/combatting-adversarial-distillation</id>
-    <updated>2026-11-20T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
   </entry>
   <entry>
     <title>Advancing US economic mobility in the age of AI</title>
