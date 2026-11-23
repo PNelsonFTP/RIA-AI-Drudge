@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-22T18:25:27.163Z</updated>
+  <updated>2026-11-23T00:09:49.645Z</updated>
   <entry>
     <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
     <link href="https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115"/>
@@ -14,6 +14,24 @@
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
     <summary>RIAs flag AI risk in Form ADV more often than they admit using AI</summary>
+  </entry>
+  <entry>
+    <title>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite</title>
+    <link href="https://riabiz.com/a/2026/11/20/vanillas-gene-farrell-and-altruists-jason-wenk-married-their-software-into-a-vanilla-flavored-hazel-ai-blockbuster-that-could-vault-fund-shop-vanguard-into-the-financial-planning-elite"/>
+    <id>https://riabiz.com/a/2026/11/20/vanillas-gene-farrell-and-altruists-jason-wenk-married-their-software-into-a-vanilla-flavored-hazel-ai-blockbuster-that-could-vault-fund-shop-vanguard-into-the-financial-planning-elite</id>
+    <updated>2026-11-20T17:47:48.000Z</updated>
+    <author><name>RIABiz</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>The two AI brands of Hazel and Vanilla co-evolved under shared owners and board members -- including Vanguard -- and have now cemented a deal to form a tidy package just weeks ahead of the Vanguard-Altruist closing</summary>
+  </entry>
+  <entry>
+    <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+    <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development"/>
+    <id>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development</id>
+    <updated>2026-11-22T21:14:07.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>To establish a speed limit on AI development, you need to agree on how to measure speed. — Also covered by: Bloomberg Tech</summary>
   </entry>
   <entry>
     <title>What Comes Next After Anthropic’s Historic IPO</title>
@@ -34,13 +52,13 @@
     <summary>But wasn't this what AI was supposed to solve?</summary>
   </entry>
   <entry>
-    <title>EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers</title>
-    <link href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22"/>
-    <id>https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22</id>
-    <updated>2026-11-22T13:29:02.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters</summary>
+    <title>Combatting adversarial distillation</title>
+    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
+    <id>https://openai.com/index/combatting-adversarial-distillation</id>
+    <updated>2026-11-20T10:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
+    <category term="REGULATION"/>
+    <summary>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
   </entry>
   <entry>
     <title>Humanized Content vs. AI Slop</title>
@@ -73,19 +91,19 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-22T18:25:14.966Z</updated>
+    <updated>2026-11-23T00:09:34.556Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Will Anthropic’s IPO buck the tech sell-off?</title>
-    <link href="https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1</id>
-    <updated>2026-11-22T12:00:06.000Z</updated>
-    <author><name>FT Artificial Intelligence</name></author>
+    <title>US Stock Futures Open Higher After Tech Selloff: Markets Wrap</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap</id>
+    <updated>2026-11-22T22:02:27.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Market Questions is the FT’s guide to the week ahead</summary>
+    <summary>US equity-index futures opened higher in early Asian trading as buyers returned following Friday’s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.</summary>
   </entry>
   <entry>
     <title>Market Movers blog: Anthropic sinks 10% at open to drag Wall St down after record IPO</title>
@@ -115,15 +133,6 @@
     <summary>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.</summary>
   </entry>
   <entry>
-    <title>WealthTech Safari — Week of November 20, 2026</title>
-    <link href="https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-november-20-2026"/>
-    <id>https://www.wealthtechstrategy.com/post/wealthtech-safari-week-of-november-20-2026</id>
-    <updated>2026-11-20T14:35:11.000Z</updated>
-    <author><name>WealthTech Strategy</name></author>
-    <category term="VENDOR WATCH"/>
-    <summary>Schroders Wealth Management taps Backbase to put advisers and clients on one platform Schroders Wealth Management selected Backbase as part of a multi-year digital investment. The deal covers its international wealth business and Cazenove Capital in the UK and Channel Islands. Backbase's Wealth &amp; Banking OS runs on Sch</summary>
-  </entry>
-  <entry>
     <title>Anthropic stock sinks 8.5% as AI selloff swamps record-setting IPO</title>
     <link href="https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120"/>
     <id>https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120</id>
@@ -142,6 +151,15 @@
     <summary>Pave Finance, DPL Financial Partners and Gottfried &amp; Somberg also add senior leaders as RIAs and wealthtech firms deepen their benches</summary>
   </entry>
   <entry>
+    <title>EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers</title>
+    <link href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22"/>
+    <id>https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22</id>
+    <updated>2026-11-22T13:29:02.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters</summary>
+  </entry>
+  <entry>
     <title>Behind the Curtain — AI 2027: The reckoning</title>
     <link href="https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning"/>
     <id>https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning</id>
@@ -149,24 +167,6 @@
     <author><name>Axios AI (GN)</name></author>
     <category term="INDUSTRY NEWS"/>
     <summary>Behind the Curtain — AI 2027: The reckoning Axios</summary>
-  </entry>
-  <entry>
-    <title>🔮 Certified human, twin primes, Anthropic++ #611</title>
-    <link href="https://www.exponentialview.co/p/ev-611"/>
-    <id>https://www.exponentialview.co/p/ev-611</id>
-    <updated>2026-11-22T04:59:51.000Z</updated>
-    <author><name>Exponential View</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Your Sunday briefing on AI and exponential technologies</summary>
-  </entry>
-  <entry>
-    <title>Combatting adversarial distillation</title>
-    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
-    <id>https://openai.com/index/combatting-adversarial-distillation</id>
-    <updated>2026-11-20T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="REGULATION"/>
-    <summary>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
   </entry>
   <entry>
     <title>New York AG launches AI enforcement unit as states crack down on AI risks</title>
@@ -187,24 +187,6 @@
     <summary>AI tokens, poker chips and the odds nobody’s calculating.</summary>
   </entry>
   <entry>
-    <title>Middle East WealthTech Forum</title>
-    <link href="https://www.bobsguide.com/middle-east-wealthtech-forum"/>
-    <id>https://www.bobsguide.com/middle-east-wealthtech-forum</id>
-    <updated>2026-11-20T13:49:48.000Z</updated>
-    <author><name>GN: wealthtech AI</name></author>
-    <category term="WEALTHTECH"/>
-    <summary>Middle East WealthTech Forum Bobsguide</summary>
-  </entry>
-  <entry>
-    <title>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite</title>
-    <link href="https://riabiz.com/a/2026/11/20/vanillas-gene-farrell-and-altruists-jason-wenk-married-their-software-into-a-vanilla-flavored-hazel-ai-blockbuster-that-could-vault-fund-shop-vanguard-into-the-financial-planning-elite"/>
-    <id>https://riabiz.com/a/2026/11/20/vanillas-gene-farrell-and-altruists-jason-wenk-married-their-software-into-a-vanilla-flavored-hazel-ai-blockbuster-that-could-vault-fund-shop-vanguard-into-the-financial-planning-elite</id>
-    <updated>2026-11-20T17:47:48.000Z</updated>
-    <author><name>RIABiz</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>The two AI brands of Hazel and Vanilla co-evolved under shared owners and board members -- including Vanguard -- and have now cemented a deal to form a tidy package just weeks ahead of the Vanguard-Altruist closing</summary>
-  </entry>
-  <entry>
     <title>U.S. Treasurys Rally As AI Selloff Sends Investors To Havens</title>
     <link href="https://www.fa-mag.com/news/u-s--treasurys-rally-as-ai-selloff-sends-investors-to-havens-89315.html"/>
     <id>https://www.fa-mag.com/news/u-s--treasurys-rally-as-ai-selloff-sends-investors-to-havens-89315.html</id>
@@ -217,7 +199,7 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-22T18:25:14.966Z</updated>
+    <updated>2026-11-23T00:09:34.556Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
@@ -226,28 +208,28 @@
     <title>An industry in motion: Why real-time becomes the foundation for everything in 2027</title>
     <link href="https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027"/>
     <id>https://www.finextra.com/event-info/649/an-industry-in-motion-why-real-time-becomes-the-foundation-for-everything-in-2027</id>
-    <updated>2026-11-22T18:25:14.966Z</updated>
+    <updated>2026-11-23T00:09:34.556Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can financial institutions unlock real-time intelligence?</summary>
   </entry>
   <entry>
-    <title>Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video</id>
-    <updated>2026-11-22T17:27:24.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Ant Group Bets on Simplexity to Thrive in China’s Humanoid Race</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race</id>
+    <updated>2026-11-22T23:00:00.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shannon Kingston, Maryland Gov. Wes Moore, Indiana Gov. Mike Braun, North Carolina G</summary>
+    <summary>Chinese physical AI startup Simplexity Robotics received $100 million in a funding round led by Jack Ma-backed Ant Group Co., betting that the startup can take on more established players in the country’s burgeoning robotics arena.</summary>
   </entry>
   <entry>
-    <title>Investors Brave Stock Market ‘Fragility’ as AI Trade Falters</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters</id>
-    <updated>2026-11-22T15:00:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
+    <title>Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia</title>
+    <link href="https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia"/>
+    <id>https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia</id>
+    <updated>2026-11-22T22:00:13.000Z</updated>
+    <author><name>Bloomberg Tech</name></author>
     <category term="AI MARKETS"/>
-    <summary>The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.</summary>
+    <summary>Washington’s new rulebook spells trouble for a multibillion dollar cloud business helping to power the region’s data center boom.</summary>
   </entry>
   <entry>
     <title>Agentic traders ‘a long way off’, say their human counterparts</title>
@@ -268,12 +250,30 @@
     <summary>Anthropic has begun trading on public markets following the biggest initial public offering ever, usurping SpaceX.</summary>
   </entry>
   <entry>
-    <title>Advancing Science Together: Highlights From the Open Source AI For Science Summit</title>
-    <link href="https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit"/>
-    <id>https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit</id>
-    <updated>2026-11-20T18:30:45.000Z</updated>
-    <author><name>Meta AI Blog</name></author>
+    <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+    <link href="https://openai.com/business/customer-stories/hebbia"/>
+    <id>https://openai.com/business/customer-stories/hebbia</id>
+    <updated>2026-11-20T00:00:00.000Z</updated>
+    <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery. The post Advancing Science Together: Highlights From the Open Source AI For Science Summit appeared first on Meta Newsroom </summary>
+    <summary>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</summary>
+  </entry>
+  <entry>
+    <title>Advancing US economic mobility in the age of AI</title>
+    <link href="https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai"/>
+    <id>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai</id>
+    <updated>2026-11-20T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
+    <category term="RESEARCH"/>
+    <summary>AI could widen economic gaps in the United States—or help close them. Whether it becomes a force for opportunity depends on the choices leaders make now.</summary>
+  </entry>
+  <entry>
+    <title>Building Physical AI Systems Where Hardware and Software Evolve Together</title>
+    <link href="https://emerj.com/building-physical-ai-systems-where-hardware-and-software-evolve-together"/>
+    <id>https://emerj.com/building-physical-ai-systems-where-hardware-and-software-evolve-together</id>
+    <updated>2026-11-19T11:00:00.000Z</updated>
+    <author><name>Emerj AI Research</name></author>
+    <category term="RESEARCH"/>
+    <summary>Hardware choices shape software costs, performance and support long after launch. Leaders from MIPS and IDEMIA explain how to plan hardware and software together, evaluate processors against real workloads and choose platforms that can accommodate future updates.</summary>
   </entry>
 </feed>
