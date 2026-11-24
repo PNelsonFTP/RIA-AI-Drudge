@@ -5,16 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-24T05:52:44.534Z</updated>
-  <entry>
-    <title>Asia Stocks Jump as Huang’s Return Lifts AI Trade</title>
-    <link href="https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video"/>
-    <id>https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video</id>
-    <updated>2026-11-24T05:00:29.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>&quot;Bloomberg: The Asia Trade&quot; brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Sour — Also covered by: Bloomberg Tech, GN: AI capex / ETF</summary>
-  </entry>
+  <updated>2026-11-24T17:28:13.285Z</updated>
   <entry>
     <title>Vanilla's Gene Farrell and Altruist's Jason Wenk married their software into a Vanilla-flavored Hazel AI blockbuster that could vault fund shop Vanguard into the financial planning elite</title>
     <link href="https://riabiz.com/a/2026/11/20/vanillas-gene-farrell-and-altruists-jason-wenk-married-their-software-into-a-vanilla-flavored-hazel-ai-blockbuster-that-could-vault-fund-shop-vanguard-into-the-financial-planning-elite"/>
@@ -25,58 +16,67 @@
     <summary>The two AI brands of Hazel and Vanilla co-evolved under shared owners and board members -- including Vanguard -- and have now cemented a deal to form a tidy package just weeks ahead of the Vanguard-Altruist closing</summary>
   </entry>
   <entry>
+    <title>Anthropic falls below IPO price as tech rally fades</title>
+    <link href="https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1</id>
+    <updated>2026-11-24T16:40:54.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides — Also covered by: Bloomberg Tech</summary>
+  </entry>
+  <entry>
     <title>WealthTech's November Shake-Up: Orion Flips the Script, Wove Goes Dark, and Nevis Bets $700B on Agentic AI</title>
     <link href="https://www.financexmagazine.com/post/wealthtech-s-november-shake-up-orion-flips-the-script-wove-goes-dark-and-nevis-bets-700b-on-agen"/>
     <id>https://www.financexmagazine.com/post/wealthtech-s-november-shake-up-orion-flips-the-script-wove-goes-dark-and-nevis-bets-700b-on-agen</id>
-    <updated>2026-11-23T12:59:44.000Z</updated>
+    <updated>2026-11-23T20:07:44.000Z</updated>
     <author><name>GN: wealth AI vendors</name></author>
     <category term="WEALTHTECH"/>
     <summary>WealthTech's November Shake-Up: Orion Flips the Script, Wove Goes Dark, and Nevis Bets $700B on Agentic AI FinanceX Magazine</summary>
   </entry>
   <entry>
-    <title>Fintech bytes: Jump, Income Lab, Masttro harness the power of client data</title>
-    <link href="https://www.investmentnews.com/fintech/fintech-bytes-jump-income-lab-masttro-harness-the-power-of-client-data/269136"/>
-    <id>https://www.investmentnews.com/fintech/fintech-bytes-jump-income-lab-masttro-harness-the-power-of-client-data/269136</id>
-    <updated>2026-11-23T18:49:10.000Z</updated>
+    <title>SEC will prioritize AI scams and spoofing in 2027 examinations</title>
+    <link href="https://www.investmentnews.com/advisor-tech/sec-will-prioritize-ai-scams-and-spoofing-in-2027-examinations/268945"/>
+    <id>https://www.investmentnews.com/advisor-tech/sec-will-prioritize-ai-scams-and-spoofing-in-2027-examinations/268945</id>
+    <updated>2026-11-24T17:17:12.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>The wealthtech firms' latest updates extend growth insights, custodian-linked planning and family office data access for financial advisors</summary>
+    <summary>How do RIAs protect clients in a world of AI threats?</summary>
   </entry>
   <entry>
-    <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
-    <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"/>
-    <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</id>
-    <updated>2026-11-23T22:05:50.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
+    <title>Raising the stakes for enterprise networks with AI modernization</title>
+    <link href="https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization"/>
+    <id>https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization</id>
+    <updated>2026-11-24T15:15:16.000Z</updated>
+    <author><name>MIT Tech Review AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</summary>
+    <summary>Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done b</summary>
   </entry>
   <entry>
-    <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
-    <link href="https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115"/>
-    <id>https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115</id>
-    <updated>2026-11-20T21:29:05.000Z</updated>
-    <author><name>GN: RIA AI</name></author>
+    <title>Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration</title>
+    <link href="https://www.01net.it/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration"/>
+    <id>https://www.01net.it/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration</id>
+    <updated>2026-11-24T17:04:00.000Z</updated>
+    <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>RIAs flag AI risk in Form ADV more often than they admit using AI InvestmentNews</summary>
+    <summary>Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration 01net</summary>
   </entry>
   <entry>
-    <title>How AI Is Changing Fraud Risks and Compliance for Financial Advisors</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/how-ai-is-changing-fraud-risks-and-compliance-for-financial-advisors"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/how-ai-is-changing-fraud-risks-and-compliance-for-financial-advisors</id>
-    <updated>2026-11-23T19:42:47.000Z</updated>
+    <title>14 Investment Must Reads for This Week (Nov. 24, 2026)</title>
+    <link href="https://www.wealthmanagement.com/etfs/14-investment-must-reads-for-this-week-nov-24-2026-"/>
+    <id>https://www.wealthmanagement.com/etfs/14-investment-must-reads-for-this-week-nov-24-2026-</id>
+    <updated>2026-11-24T16:32:48.000Z</updated>
     <author><name>WealthManagement.com</name></author>
     <category term="WEALTHTECH"/>
-    <summary>AI is making financial fraud harder to detect and raising new compliance questions, forcing advisory firms to rethink how they protect client data and govern emerging technologies.</summary>
+    <summary>The implications of Anthropic’s IPO and the saga surrounding the reinstatement of Nvidia CEO Jensen Huang have dominated market chatter. These are among the investment must reads for financial advisors this week.</summary>
   </entry>
   <entry>
-    <title>NVIDIA shares roar back in wild see-saw after chipmaker rehires CEO under Trump pressure, erasing collateral aftershocks from 'sexpionage scandal' and sending short sellers scrambling, but broader questions, congressional hearings remain</title>
-    <link href="https://riabiz.com/a/2026/11/24/nvidia-shares-roar-back-in-wild-see-saw-after-chipmaker-rehires-ceo-under-trump-pressure-erasing-collateral-aftershocks-from-sexpionage-scandal-and-sending-short-sellers-scrambling-but-broader-questions-congressional-hearings-remain"/>
-    <id>https://riabiz.com/a/2026/11/24/nvidia-shares-roar-back-in-wild-see-saw-after-chipmaker-rehires-ceo-under-trump-pressure-erasing-collateral-aftershocks-from-sexpionage-scandal-and-sending-short-sellers-scrambling-but-broader-questions-congressional-hearings-remain</id>
-    <updated>2026-11-24T02:54:51.000Z</updated>
-    <author><name>RIABiz</name></author>
+    <title>Market Brief: OpenAI, Google and Anthropic Threaten Nvidia’s Dominance With Custom AI Chips</title>
+    <link href="https://www.advisorhub.com/morning-bell-wrapup-11-24-2026"/>
+    <id>https://www.advisorhub.com/morning-bell-wrapup-11-24-2026</id>
+    <updated>2026-11-24T14:53:41.000Z</updated>
+    <author><name>AdvisorHub</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Shares are up 30%-plus because Jensen Huang is viewed as the CEO of all AI, and now the whole industry can move forward -- and buy his chips</summary>
+    <summary>Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem The post Market Brief: OpenAI, Google and Anthropic Threaten Nvidia’s Dominance With Custom AI Chips appeared first on AdvisorHub .</summary>
   </entry>
   <entry>
     <title>UK ICO Issues Guidance on AI-Assisted Data Subject Access Requests</title>
@@ -88,13 +88,13 @@
     <summary>Generative AI is making it easier for individuals to draft lengthy and sophisticated data subject access requests, sometimes complete with extensive legal arguments, long lists of systems to be searched, and citations that may or may not be accurate. But does the use of AI change how organizations should respond? Accor</summary>
   </entry>
   <entry>
-    <title>What defines the issuer of tomorrow?</title>
-    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
-    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
-    <updated>2026-11-25T15:00:00.000Z</updated>
+    <title>CommerzVentures launches €50m fund for AI fintechs</title>
+    <link href="https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs"/>
+    <id>https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs</id>
+    <updated>2026-11-24T14:57:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
+    <summary>German fintech investor CommerzVentures has launched a €50 million fund that will back early-stage firms working on the intersection of AI and financial services.</summary>
   </entry>
   <entry>
     <title>AI Product &amp; Service Launches – 11/23/2026</title>
@@ -106,103 +106,112 @@
     <summary>Vanilla, Hazel partner on estate-planning module; Performativ launches next-generation MCP; ISS STOXX deploys new AI agent; and more. — Also covered by: PlanAdviser AI</summary>
   </entry>
   <entry>
-    <title>OpenAI and Cisco introduce Shirudo</title>
-    <link href="https://openai.com/index/introducing-shirudo"/>
-    <id>https://openai.com/index/introducing-shirudo</id>
-    <updated>2026-11-23T21:20:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>How Gemini is changing the game for Golden State's organization and fans.</title>
+    <link href="https://blog.google/products-and-platforms/products/gemini/gemini-golden-state"/>
+    <id>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</id>
+    <updated>2026-11-24T16:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</summary>
+    <summary>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.</summary>
   </entry>
   <entry>
-    <title>Artificial Intelligence at Amgen – Two Use Cases</title>
-    <link href="https://emerj.com/artificial-intelligence-at-amgen-two-use-cases"/>
-    <id>https://emerj.com/artificial-intelligence-at-amgen-two-use-cases</id>
-    <updated>2026-11-23T11:00:00.000Z</updated>
-    <author><name>Emerj AI Research</name></author>
+    <title>What is the agentic factory? An update to the machinery of transformation for financial-services businesses</title>
+    <link href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses"/>
+    <id>https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses</id>
+    <updated>2026-11-24T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Amgen uses machine learning to rank clinical trial sites by predicted enrollment and a generative AI agent to help researchers find internal knowledge and relevant colleagues.</summary>
+    <summary>An agentic factory is a centralized model to accelerate the development of effective agentic systems.</summary>
   </entry>
   <entry>
-    <title>Recovery Period: Comparing the Effects of Slowdowns in Technology Investment</title>
-    <link href="https://insight.factset.com/recovery-period-comparing-the-effects-of-slowdowns-in-technology-investment"/>
-    <id>https://insight.factset.com/recovery-period-comparing-the-effects-of-slowdowns-in-technology-investment</id>
-    <updated>2026-11-23T17:00:00.000Z</updated>
-    <author><name>FactSet Insight (vendor)</name></author>
+    <title>Young Advisors’ AI Edge Hinges on Mentorship, Not More Data</title>
+    <link href="https://emoneyadvisor.com/resources/news/young-advisors-ai-edge-hinges-on-mentorship-not-more-data"/>
+    <id>https://emoneyadvisor.com/resources/news/young-advisors-ai-edge-hinges-on-mentorship-not-more-data</id>
+    <updated>2026-11-24T14:41:17.000Z</updated>
+    <author><name>eMoney Advisor (vendor)</name></author>
     <category term="VENDOR WATCH"/>
-    <summary>Amid a steady stream of predictions for timing the top of the AI-driven tech market, the analogies with Jenga, the Titanic, and musical chairs have resurfaced just as they did during the massive drawdowns in 2001 and 2008. Today, we look back at investor contributions into private technology funds to see what drawdowns</summary>
+    <summary>The post Young Advisors’ AI Edge Hinges on Mentorship, Not More Data appeared first on eMoney Advisor .</summary>
   </entry>
   <entry>
-    <title>AI, Private Equity, and the Future of Advisor Independence</title>
-    <link href="https://www.investmentnews.com/goria/toolkit/ai-private-equity-and-the-future-of-advisor-independence/269130"/>
-    <id>https://www.investmentnews.com/goria/toolkit/ai-private-equity-and-the-future-of-advisor-independence/269130</id>
-    <updated>2026-11-23T18:00:00.000Z</updated>
+    <title>RIA organic growth gets urgent as Schwab lifts referral bar to $5M</title>
+    <link href="https://www.investmentnews.com/goria/practice-management/where-to-find-clients-in-2027/269103"/>
+    <id>https://www.investmentnews.com/goria/practice-management/where-to-find-clients-in-2027/269103</id>
+    <updated>2026-11-24T12:09:35.000Z</updated>
     <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Trends come and go – Pokémon GO anyone? – but the RIA sector is ready for its next chapter with stronger infrastructure, economics, and client demand</summary>
+    <summary>Prospects vet advisors on Google and AI search before calling, and firms without a sales process lose them</summary>
   </entry>
   <entry>
-    <title>Schwab's long-short restrictions; how to avoid pitfalls of AI notetakers; 17 best workplaces for young workers; top fee-only RIAs by 8 measures</title>
-    <link href="https://www.linkedin.com/pulse/schwabs-long-short-restrictions-how-avoid-pitfalls-ai-0itcc"/>
-    <id>https://www.linkedin.com/pulse/schwabs-long-short-restrictions-how-avoid-pitfalls-ai-0itcc</id>
-    <updated>2026-11-23T17:41:12.000Z</updated>
-    <author><name>GN: advisor AI notetaker</name></author>
+    <title>Agentic AI is spending your clients' money - and CFOs can't see it</title>
+    <link href="https://www.investmentnews.com/transformation/agentic-ai-is-spending-your-clients-money-and-cfos-cant-see-it/269146"/>
+    <id>https://www.investmentnews.com/transformation/agentic-ai-is-spending-your-clients-money-and-cfos-cant-see-it/269146</id>
+    <updated>2026-11-24T11:37:00.000Z</updated>
+    <author><name>InvestmentNews</name></author>
     <category term="ADVISOR TECH"/>
-    <summary>Schwab's long-short restrictions; how to avoid pitfalls of AI notetakers; 17 best workplaces for young workers; top fee-only RIAs by 8 measures LinkedIn</summary>
+    <summary>New Bain &amp; Company research finds finance leaders are flying blind on AI agent costs even as deployments accelerate.</summary>
   </entry>
   <entry>
-    <title>Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses</title>
-    <link href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"/>
-    <id>https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses</id>
-    <updated>2026-11-23T19:14:46.000Z</updated>
+    <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
+    <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"/>
+    <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</id>
+    <updated>2026-11-23T22:05:50.000Z</updated>
     <author><name>TechCrunch AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem</summary>
+    <summary>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</summary>
   </entry>
   <entry>
-    <title>Claude AI can review pull requests and ship fixes on its own now</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"/>
-    <id>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</id>
-    <updated>2026-11-23T20:00:00.000Z</updated>
-    <author><name>The Verge AI</name></author>
+    <title>Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving</title>
+    <link href="https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw"/>
+    <id>https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw</id>
+    <updated>2026-11-24T16:00:00.000Z</updated>
+    <author><name>Wired AI</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review fe</summary>
+    <summary>A new test assumes AI agents can go rogue—and asks whether they can resist temptation.</summary>
   </entry>
   <entry>
-    <title>Combatting adversarial distillation</title>
-    <link href="https://openai.com/index/combatting-adversarial-distillation"/>
-    <id>https://openai.com/index/combatting-adversarial-distillation</id>
-    <updated>2026-11-20T10:00:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
+    <title>RIAs flag AI risk in Form ADV more often than they admit using AI</title>
+    <link href="https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115"/>
+    <id>https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115</id>
+    <updated>2026-11-20T21:29:05.000Z</updated>
+    <author><name>GN: RIA AI</name></author>
     <category term="REGULATION"/>
-    <summary>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</summary>
+    <summary>RIAs flag AI risk in Form ADV more often than they admit using AI InvestmentNews</summary>
   </entry>
   <entry>
-    <title>Barr, Some Potential Financial Stability Implications of Artificial Intelligence</title>
-    <link href="https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"/>
-    <id>https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm</id>
-    <updated>2026-11-16T10:00:00.000Z</updated>
-    <author><name>Federal Reserve Speeches</name></author>
-    <category term="REGULATION"/>
-    <summary>Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy</summary>
+    <title>Why AI Could Be the Next Big Growth Driver for RIAs</title>
+    <link href="https://www.wealthmanagement.com/growth-strategies/why-ai-could-be-the-next-big-growth-driver-for-rias"/>
+    <id>https://www.wealthmanagement.com/growth-strategies/why-ai-could-be-the-next-big-growth-driver-for-rias</id>
+    <updated>2026-11-24T16:41:58.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Strong markets can mask weak organic growth, but Charles Schwab's Brad Lawson explains why client acquisition, strategic planning and AI will separate the fastest-growing RIAs from the rest.</summary>
   </entry>
   <entry>
-    <title>To save time and money, brokerages can plead their cases to an AI arbitrator</title>
-    <link href="https://www.financial-planning.com/news/to-save-time-and-money-brokerages-can-plead-their-cases-to-an-ai-arbitrator"/>
-    <id>https://www.financial-planning.com/news/to-save-time-and-money-brokerages-can-plead-their-cases-to-an-ai-arbitrator</id>
-    <updated>2026-11-23T22:21:07.000Z</updated>
-    <author><name>Financial Planning</name></author>
+    <title>Private Advisor Group’s Marketing Head Explores 2027 Marketing Trends</title>
+    <link href="https://www.wealthsolutionsreport.com/private-advisor-groups-marketing-head-explores-2027-marketing-trends"/>
+    <id>https://www.wealthsolutionsreport.com/private-advisor-groups-marketing-head-explores-2027-marketing-trends</id>
+    <updated>2026-11-24T14:16:47.000Z</updated>
+    <author><name>Wealth Solutions Report</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Kelly Coulter Shares Guidance On Client Events, Provider Selection, Budget Priorities And AI For Advisors’ 2027 Marketing Plans.</summary>
+  </entry>
+  <entry>
+    <title>FCA warns advice firms over use of third-party AI providers</title>
+    <link href="https://www.moneymarketing.co.uk/fca-warns-advice-firms-over-use-of-third-party-ai-providers"/>
+    <id>https://www.moneymarketing.co.uk/fca-warns-advice-firms-over-use-of-third-party-ai-providers</id>
+    <updated>2026-11-24T14:13:18.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>The American Arbitration Association is offering its AI arbitrator for use in the financial services industry. Will firms embrace a nonhuman decision-maker if it’s faster and cheaper?</summary>
+    <summary>The Financial Conduct Authority (FCA) has warned advice firms they will remain responsible for regulatory compliance when using artificial intelligence (AI) systems developed by third-party providers. In a statement published today (24 November), the regulator set out its expectations for firms developing, deploying or</summary>
   </entry>
   <entry>
-    <title>Why This Billionaire Is Investing in Wealth Management. Plus, the Week’s Top News.</title>
-    <link href="https://www.barrons.com/advisor/articles/why-this-billionaire-is-investing-in-wealth-management-plus-the-weeks-top-news-4baf1cd8"/>
-    <id>https://www.barrons.com/advisor/articles/why-this-billionaire-is-investing-in-wealth-management-plus-the-weeks-top-news-4baf1cd8</id>
-    <updated>2026-11-23T15:34:00.000Z</updated>
-    <author><name>Barron's Advisor</name></author>
+    <title>Pimco's Ivascyn Says AI Disruption Risk Boosts Appeal Of Bonds</title>
+    <link href="https://www.fa-mag.com/news/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds-89338.html"/>
+    <id>https://www.fa-mag.com/news/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds-89338.html</id>
+    <updated>2026-11-24T09:15:00.000Z</updated>
+    <author><name>FA Magazine</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>In this weekly newsletter, Texas billionaire Fernando De Leon explains how he is applying his company’s expertise in AI and other fields to wealth management. Plus, we review recent wealth management news.</summary>
+    <summary>Markets got a stark reminder over the past week of the sway the AI investment outlook holds over bonds.</summary>
   </entry>
   <entry>
     <title>AI-Related Litigation Trend Grows with Recent Securities Suits and Derivative Actions</title>
@@ -223,49 +232,40 @@
     <summary>Companies are increasingly turning to AI to identify and assess human rights risks in their global supply chains. Yet these technologies are not simply neutral tools for processing data. By determining what counts as a human rights risk, how severe …</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-24T05:52:29.377Z</updated>
+    <title>Trustly raises $60m from shareholders for AI-powered growth plan</title>
+    <link href="https://www.finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan"/>
+    <id>https://www.finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan</id>
+    <updated>2026-11-24T14:03:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>Swedish open banking outfit Trustly has raised around $60 million from existing shareholders to accelerate its &quot;AI-powered growth strategy&quot; shortly after slashing its workforce by a quarter.</summary>
   </entry>
   <entry>
-    <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
-    <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
-    <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-24T05:52:29.377Z</updated>
+    <title>What defines the issuer of tomorrow?</title>
+    <link href="https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow"/>
+    <id>https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow</id>
+    <updated>2026-11-25T15:00:00.000Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
+    <summary>Modern issuing doesn’t only evolve technological change; it requires operating model transformation.</summary>
   </entry>
   <entry>
-    <title>GQG Shares Set for Record Surge in Sydney With AI Trade Revival</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival</id>
-    <updated>2026-11-24T03:42:00.000Z</updated>
+    <title>Anthropic Shares Plunge 8% Below IPO Price in Fourth Trading Day</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</id>
+    <updated>2026-11-24T11:19:24.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.</summary>
+    <summary>Anthropic PBC shares sank 8% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.</summary>
   </entry>
   <entry>
-    <title>Japanese Bonds Rally Across Curve as Domestic Stocks Surge</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge</id>
-    <updated>2026-11-24T03:07:20.000Z</updated>
+    <title>What Really Matters for the AI Trade Now? Live Q&amp;A</title>
+    <link href="https://www.bloomberg.com/sessions/2026-11-24/live-q-amp-a-is-the-ai-boom-too-dependent-on-nvidia"/>
+    <id>https://www.bloomberg.com/sessions/2026-11-24/live-q-amp-a-is-the-ai-boom-too-dependent-on-nvidia</id>
+    <updated>2026-11-24T16:56:18.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.</summary>
-  </entry>
-  <entry>
-    <title>Friday Briefing: Grand Theft Anthropic</title>
-    <link href="https://www.investmentweek.co.uk/opinion/4539320/friday-briefing-grand-theft-anthropic"/>
-    <id>https://www.investmentweek.co.uk/opinion/4539320/friday-briefing-grand-theft-anthropic</id>
-    <updated>2026-11-23T08:15:00.000Z</updated>
-    <author><name>Investment Week</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Records were broken this week with Anthropic staging the world’s biggest IPO and GTA6 becoming the largest entertainment launch in history. It’s a good time to say, “I told you so”.</summary>
+    <summary>From Jensen Huang’s return to Nvidia to swings in the AI trade, Bloomberg journalists answer your questions in a Live Q&amp;A today at 1 p.m. EST.</summary>
   </entry>
   <entry>
     <title>Agentic traders ‘a long way off’, say their human counterparts</title>
