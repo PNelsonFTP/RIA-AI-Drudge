@@ -5,7 +5,7 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-25T22:22:36.356Z</updated>
+  <updated>2026-11-26T04:53:39.086Z</updated>
   <entry>
     <title>Inside Schwab's AI Strategy: New Tools, Partnerships and What's Next for RIAs</title>
     <link href="https://www.wealthmanagement.com/artificial-intelligence/inside-schwab-s-ai-strategy-new-tools-partnerships-and-what-s-next-for-rias"/>
@@ -16,13 +16,13 @@
     <summary>From new AI integrations to more automated advisor workflows, Charles Schwab is accelerating its technology strategy to help RIAs scale without sacrificing the human side of advice.</summary>
   </entry>
   <entry>
-    <title>Anthropic’s Post-IPO Woes Contrast With SpaceX’s Start</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days</id>
-    <updated>2026-11-25T16:45:00.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="PRACTICE &amp; RIA"/>
-    <summary>Anthropic PBC is experiencing a rougher initiation to public markets than SpaceX, and a host of market and technical factors threaten to weigh down its stock performance before the Claude developer reports for the first time as a public company early next year. — Also covered by: AdvisorHub</summary>
+    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+    <link href="https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work"/>
+    <id>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work</id>
+    <updated>2026-11-25T20:03:27.000Z</updated>
+    <author><name>TechCrunch AI</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences. — Also covered by: PYMNTS AI</summary>
   </entry>
   <entry>
     <title>Rabobank picks nCino platform for business lending automation</title>
@@ -43,31 +43,22 @@
     <summary>As ChatGPT, Claude and Muse push into personal finance, the Osaic president says there's &quot;no way&quot; she'd give an &quot;unregulated AI tool&quot; her bank account info.</summary>
   </entry>
   <entry>
-    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
-    <link href="https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work"/>
-    <id>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work</id>
-    <updated>2026-11-25T20:03:27.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</summary>
-  </entry>
-  <entry>
-    <title>Archive Intel Unveils MCP Server and Claude Integration for Compliant AI Communications</title>
-    <link href="https://ffnews.com/news/archive-intel-unveils-mcp-server-and-claude-integration-for-compliant-ai-communications"/>
-    <id>https://ffnews.com/news/archive-intel-unveils-mcp-server-and-claude-integration-for-compliant-ai-communications</id>
-    <updated>2026-11-25T17:51:22.000Z</updated>
+    <title>Archive Intel Launches AI Compliance Archive Server</title>
+    <link href="https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server"/>
+    <id>https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server</id>
+    <updated>2026-11-25T00:17:29.000Z</updated>
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>Archive Intel Unveils MCP Server and Claude Integration for Compliant AI Communications FF News</summary>
+    <summary>Archive Intel Launches AI Compliance Archive Server Wisevoter</summary>
   </entry>
   <entry>
-    <title>Why the Era of Model Portfolios Is Coming to An End</title>
-    <link href="https://www.wealthmanagement.com/investing-strategies/ai-helps-advisors-deliver-personalization-at-scale"/>
-    <id>https://www.wealthmanagement.com/investing-strategies/ai-helps-advisors-deliver-personalization-at-scale</id>
-    <updated>2026-11-25T16:37:36.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
+    <title>Manulife’s Advisor AI Assistant Brings Underwriting Guidance Forward</title>
+    <link href="https://iireporter.com/manulifes-advisor-ai-assistant-brings-underwriting-guidance-forward"/>
+    <id>https://iireporter.com/manulifes-advisor-ai-assistant-brings-underwriting-guidance-forward</id>
+    <updated>2026-11-25T16:54:33.000Z</updated>
+    <author><name>GN: wealthtech AI</name></author>
     <category term="WEALTHTECH"/>
-    <summary>Wealth managers face mounting pressure to tailor portfolios for clients, and artificial intelligence may offer the technology needed to meet rising expectations efficiently.</summary>
+    <summary>Manulife’s Advisor AI Assistant Brings Underwriting Guidance Forward Insurance Innovation Reporter</summary>
   </entry>
   <entry>
     <title>Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days</title>
@@ -91,37 +82,28 @@
     <title>Who controls payment initiation? The battle for the future of payments</title>
     <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
     <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-25T22:22:23.602Z</updated>
+    <updated>2026-11-26T04:53:27.101Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
   </entry>
   <entry>
-    <title>Palo Alto Networks Accused by Ex-Manager of Accounting Fraud</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud</id>
-    <updated>2026-11-25T21:01:09.000Z</updated>
-    <author><name>Bloomberg Tech</name></author>
+    <title>Evaluating Recent Model Releases on GDPx</title>
+    <link href="https://newsletter.semianalysis.com/p/evaluating-recent-model-releases"/>
+    <id>https://newsletter.semianalysis.com/p/evaluating-recent-model-releases</id>
+    <updated>2026-11-26T00:05:35.000Z</updated>
+    <author><name>SemiAnalysis</name></author>
     <category term="AI MARKETS"/>
-    <summary>Palo Alto Networks Inc., which last week announced a $4.5 billion AI acquisition, was sued by a former executive over claims he was fired for fighting back against accounting fraud at the cybersecurity company.</summary>
+    <summary>GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well</summary>
   </entry>
   <entry>
-    <title>Where Advisers Should Be Cautious About Using AI Tools</title>
-    <link href="https://www.planadviser.com/where-advisers-should-be-cautious-about-using-ai-tools"/>
-    <id>https://www.planadviser.com/where-advisers-should-be-cautious-about-using-ai-tools</id>
-    <updated>2026-11-25T20:22:49.000Z</updated>
-    <author><name>PlanAdviser AI</name></author>
+    <title>The IMF’s Tobias Adrian on the rise of new financial stability risks</title>
+    <link href="https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks"/>
+    <id>https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks</id>
+    <updated>2026-11-26T04:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Use cases such as recording investment committee meetings with artificial- intelligence – powered notetakers could create compliance and litigation concerns .</summary>
-  </entry>
-  <entry>
-    <title>How Gemini is changing the game for Golden State's organization and fans.</title>
-    <link href="https://blog.google/products-and-platforms/products/gemini/gemini-golden-state"/>
-    <id>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</id>
-    <updated>2026-11-24T16:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.</summary>
+    <summary>Adviser to the IMF managing director sees fiscal strains, leverage, geopolitical risks, and AI and tokenisation vulnerabilities threatening resilience amid modest growth supported by policy credibility</summary>
   </entry>
   <entry>
     <title>CSSF AI questionnaire: what fund managers need to know</title>
@@ -150,6 +132,24 @@
     <summary>Charles Champagne of Allianz Investment Management explains how a 20% S&amp;P 500 buffer works, what upside clients give up and why AI concentration keeps downside protection in demand</summary>
   </entry>
   <entry>
+    <title>Where Advisers Should Be Cautious About Using AI Tools</title>
+    <link href="https://www.planadviser.com/where-advisers-should-be-cautious-about-using-ai-tools"/>
+    <id>https://www.planadviser.com/where-advisers-should-be-cautious-about-using-ai-tools</id>
+    <updated>2026-11-25T20:22:49.000Z</updated>
+    <author><name>PlanAdviser AI</name></author>
+    <category term="ADVISOR TECH"/>
+    <summary>Use cases such as recording investment committee meetings with artificial- intelligence – powered notetakers could create compliance and litigation concerns .</summary>
+  </entry>
+  <entry>
+    <title>OpenAI taps Cravath litigator for court showdown with Musk over AI dominance</title>
+    <link href="https://www.reuters.com/legal/litigation/openai-taps-cravath-litigator-court-showdown-with-musk-over-ai-dominance-2026-11-25"/>
+    <id>https://www.reuters.com/legal/litigation/openai-taps-cravath-litigator-court-showdown-with-musk-over-ai-dominance-2026-11-25</id>
+    <updated>2026-11-25T21:10:44.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>OpenAI taps Cravath litigator for court showdown with Musk over AI dominance Reuters</summary>
+  </entry>
+  <entry>
     <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
     <link href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"/>
     <id>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd</id>
@@ -159,22 +159,31 @@
     <summary>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</summary>
   </entry>
   <entry>
-    <title>Archive Intel Launches AI Compliance Archive Server</title>
-    <link href="https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server"/>
-    <id>https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server</id>
-    <updated>2026-11-25T00:17:29.000Z</updated>
+    <title>Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)</title>
+    <link href="https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai"/>
+    <id>https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai</id>
+    <updated>2026-11-24T22:00:02.000Z</updated>
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>Archive Intel Launches AI Compliance Archive Server Wisevoter</summary>
+    <summary>Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI) The Motley Fool</summary>
   </entry>
   <entry>
-    <title>Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration</title>
-    <link href="https://www.businesswire.com/news/home/20261124959125/en/Archive-Intel-Launches-Model-Context-Protocol-MCP-and-Claude-Compliance-API-Integration"/>
-    <id>https://www.businesswire.com/news/home/20261124959125/en/Archive-Intel-Launches-Model-Context-Protocol-MCP-and-Claude-Compliance-API-Integration</id>
-    <updated>2026-11-24T14:04:00.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
+    <title>OCC gives examiners a six-pillar playbook for bank super intelligence use</title>
+    <link href="https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use"/>
+    <id>https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use</id>
+    <updated>2026-11-24T19:39:22.000Z</updated>
+    <author><name>Compliance Week</name></author>
     <category term="REGULATION"/>
-    <summary>Archive Intel Launches Model Context Protocol (MCP) and Claude Compliance API Integration Business Wire</summary>
+    <summary>The OCC issued a framework earlier this month to help examiners evaluate banks’ use of Super Intelligence and agentic SI, with associated risks and controls. The post OCC gives examiners a six-pillar playbook for bank super intelligence use appeared first on Compliance Week .</summary>
+  </entry>
+  <entry>
+    <title>Why the Era of Model Portfolios Is Coming to An End</title>
+    <link href="https://www.wealthmanagement.com/investing-strategies/ai-helps-advisors-deliver-personalization-at-scale"/>
+    <id>https://www.wealthmanagement.com/investing-strategies/ai-helps-advisors-deliver-personalization-at-scale</id>
+    <updated>2026-11-25T16:37:36.000Z</updated>
+    <author><name>WealthManagement.com</name></author>
+    <category term="WEALTHTECH"/>
+    <summary>Wealth managers face mounting pressure to tailor portfolios for clients, and artificial intelligence may offer the technology needed to meet rising expectations efficiently.</summary>
   </entry>
   <entry>
     <title>Q&amp;A: GTCR Seeks Edge in Wealth Management Through 'Leaders Strategy'</title>
@@ -204,19 +213,10 @@
     <summary>His note comes as investors flee tech stocks amid growing concerns about the AI trade.</summary>
   </entry>
   <entry>
-    <title>OCC gives examiners a six-pillar playbook for bank super intelligence use</title>
-    <link href="https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use"/>
-    <id>https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use</id>
-    <updated>2026-11-24T19:39:22.000Z</updated>
-    <author><name>Compliance Week</name></author>
-    <category term="COMPLIANCE"/>
-    <summary>The OCC issued a framework earlier this month to help examiners evaluate banks’ use of Super Intelligence and agentic SI, with associated risks and controls. The post OCC gives examiners a six-pillar playbook for bank super intelligence use appeared first on Compliance Week .</summary>
-  </entry>
-  <entry>
     <title>Agentic commerce at scale: Why trust is the new foundation for payments</title>
     <link href="https://www.finextra.com/event-info/650/agentic-commerce-at-scale-why-trust-is-the-new-foundation-for-payments"/>
     <id>https://www.finextra.com/event-info/650/agentic-commerce-at-scale-why-trust-is-the-new-foundation-for-payments</id>
-    <updated>2026-11-25T22:22:23.602Z</updated>
+    <updated>2026-11-26T04:53:27.101Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How will the ecosystem in Europe adapt as agentic commerce payments move from experimentation towards real world acceptance?</summary>
@@ -225,19 +225,28 @@
     <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
     <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
     <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-25T22:22:23.602Z</updated>
+    <updated>2026-11-26T04:53:27.101Z</updated>
     <author><name>Finextra AI</name></author>
     <category term="BANKING &amp; FINTECH"/>
     <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
   </entry>
   <entry>
-    <title>Asian Stocks Set for Gains After Late US Rebound: Markets Wrap</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates</id>
-    <updated>2026-11-25T22:10:42.000Z</updated>
+    <title>Copper Rebounds From Lowest This Year as Volatility Grips Metals</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals</id>
+    <updated>2026-11-26T02:01:10.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Asian stocks looked poised for modest gains after a late Wall Street recovery pulled the Nasdaq 100 from the brink of a bear market, while lingering concerns over the sustainability of the artificial intelligence trade lifted Treasuries.</summary>
+    <summary>Copper jumped more than 3% from an 11-month low, tracking gains in tech stocks even as doubts lingered over the durability of the AI boom and related industrial metals demand.</summary>
+  </entry>
+  <entry>
+    <title>Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says</id>
+    <updated>2026-11-26T01:11:41.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Situational Awareness told investors it lost 65% after fees in the third quarter, after highly levered bets on artificial intelligence firms nearly led to the hedge fund’s implosion in July, according to the Wall Street Journal.</summary>
   </entry>
   <entry>
     <title>The fund manager’s dilemma over AI</title>
@@ -249,30 +258,21 @@
     <summary>Assessing concentration risks may be more complicated than it seems</summary>
   </entry>
   <entry>
-    <title>Two thirds of investors flag AI boom as biggest ESG risk</title>
-    <link href="https://www.investmentweek.co.uk/news/4539537/thirds-investors-flag-ai-boom-biggest-esg-risk"/>
-    <id>https://www.investmentweek.co.uk/news/4539537/thirds-investors-flag-ai-boom-biggest-esg-risk</id>
-    <updated>2026-11-25T15:05:09.000Z</updated>
-    <author><name>Investment Week</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Two thirds of institutional investors and intermediaries, including wealth managers, pointed to the environmental consequences arising from the artificial intelligence (AI) boom as the most significant ESG risk in the near future.</summary>
-  </entry>
-  <entry>
-    <title>From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity</title>
-    <link href="https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity"/>
-    <id>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity</id>
-    <updated>2026-11-24T13:07:53.000Z</updated>
-    <author><name>Google DeepMind Blog</name></author>
+    <title>How Gemini is changing the game for Golden State's organization and fans.</title>
+    <link href="https://blog.google/products-and-platforms/products/gemini/gemini-golden-state"/>
+    <id>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</id>
+    <updated>2026-11-24T16:00:00.000Z</updated>
+    <author><name>Google AI Blog</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.</summary>
+    <summary>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.</summary>
   </entry>
   <entry>
-    <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-    <link href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"/>
-    <id>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</id>
-    <updated>2026-11-24T13:00:00.000Z</updated>
+    <title>OpenAI and Cisco introduce Shirudo</title>
+    <link href="https://openai.com/index/introducing-shirudo"/>
+    <id>https://openai.com/index/introducing-shirudo</id>
+    <updated>2026-11-23T21:20:00.000Z</updated>
     <author><name>OpenAI News</name></author>
     <category term="LABS &amp; MODELS"/>
-    <summary>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.</summary>
+    <summary>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</summary>
   </entry>
 </feed>
