@@ -5,15 +5,24 @@
   <link href="https://pnelsonftp.github.io/RIA-AI-Drudge/"/>
   <link rel="self" href="https://pnelsonftp.github.io/RIA-AI-Drudge/feed.xml"/>
   <id>https://pnelsonftp.github.io/RIA-AI-Drudge/</id>
-  <updated>2026-11-26T04:53:39.086Z</updated>
+  <updated>2026-11-26T14:57:30.498Z</updated>
   <entry>
-    <title>Inside Schwab's AI Strategy: New Tools, Partnerships and What's Next for RIAs</title>
-    <link href="https://www.wealthmanagement.com/artificial-intelligence/inside-schwab-s-ai-strategy-new-tools-partnerships-and-what-s-next-for-rias"/>
-    <id>https://www.wealthmanagement.com/artificial-intelligence/inside-schwab-s-ai-strategy-new-tools-partnerships-and-what-s-next-for-rias</id>
-    <updated>2026-11-25T14:26:47.000Z</updated>
-    <author><name>WealthManagement.com</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>From new AI integrations to more automated advisor workflows, Charles Schwab is accelerating its technology strategy to help RIAs scale without sacrificing the human side of advice.</summary>
+    <title>FCA sounds alarm as AI investment scams rise nearly 400%</title>
+    <link href="https://www.professionaladviser.com/news/4539573/fca-sounds-alarm-ai-investment-scams-rise-nearly-400"/>
+    <id>https://www.professionaladviser.com/news/4539573/fca-sounds-alarm-ai-investment-scams-rise-nearly-400</id>
+    <updated>2026-11-26T10:12:28.000Z</updated>
+    <author><name>Professional Adviser</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>The Financial Conduct Authority has warned consumers to check firms are legitimate after data revealed scams involving AI have risen by almost 400% in a year. — Also covered by: Investment Week</summary>
+  </entry>
+  <entry>
+    <title>Nasdaq-100 Set For Bear Market As AI Trade Unravels At The Seams</title>
+    <link href="https://www.fa-mag.com/news/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams-89357.html"/>
+    <id>https://www.fa-mag.com/news/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams-89357.html</id>
+    <updated>2026-11-25T10:00:00.000Z</updated>
+    <author><name>FA Magazine</name></author>
+    <category term="PRACTICE &amp; RIA"/>
+    <summary>Investors dumped stocks exposed to artificial intelligence amid rapidly deteriorating sentiment.</summary>
   </entry>
   <entry>
     <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
@@ -25,15 +34,6 @@
     <summary>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences. — Also covered by: PYMNTS AI</summary>
   </entry>
   <entry>
-    <title>Rabobank picks nCino platform for business lending automation</title>
-    <link href="https://www.fintechfutures.com/commercial-sme-lending/rabobank-ncino-partnership-business-lending"/>
-    <id>https://www.fintechfutures.com/commercial-sme-lending/rabobank-ncino-partnership-business-lending</id>
-    <updated>2026-11-25T12:25:45.000Z</updated>
-    <author><name>FinTech Futures</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>Rabobank previously made a three-year commitment to invest up to €2 billion in its data and IT systems in August, following partnerships with Oracle and Expert.ai. — Also covered by: FinTech Global</summary>
-  </entry>
-  <entry>
     <title>Osaic's Shannon Reid warns against sharing bank data with ChatGPT</title>
     <link href="https://www.investmentnews.com/transformation/osaics-shannon-reid-warns-against-sharing-bank-data-with-chatgpt/269182"/>
     <id>https://www.investmentnews.com/transformation/osaics-shannon-reid-warns-against-sharing-bank-data-with-chatgpt/269182</id>
@@ -43,13 +43,22 @@
     <summary>As ChatGPT, Claude and Muse push into personal finance, the Osaic president says there's &quot;no way&quot; she'd give an &quot;unregulated AI tool&quot; her bank account info.</summary>
   </entry>
   <entry>
-    <title>Archive Intel Launches AI Compliance Archive Server</title>
-    <link href="https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server"/>
-    <id>https://wisevoter.com/world/us/2026/11/25/archive-intel-ai-assistant-compliance-archive-server</id>
-    <updated>2026-11-25T00:17:29.000Z</updated>
+    <title>Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive</title>
+    <link href="https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26"/>
+    <id>https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26</id>
+    <updated>2026-11-26T04:15:00.000Z</updated>
+    <author><name>Reuters AI (GN)</name></author>
+    <category term="INDUSTRY NEWS"/>
+    <summary>Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive Reuters</summary>
+  </entry>
+  <entry>
+    <title>Archive Intel Unveils MCP Server and Claude Integration for Compliant AI Communications</title>
+    <link href="https://ffnews.com/news/archive-intel-unveils-mcp-server-and-claude-integration-for-compliant-ai-communications"/>
+    <id>https://ffnews.com/news/archive-intel-unveils-mcp-server-and-claude-integration-for-compliant-ai-communications</id>
+    <updated>2026-11-25T17:51:22.000Z</updated>
     <author><name>GN: FINRA AI</name></author>
     <category term="REGULATION"/>
-    <summary>Archive Intel Launches AI Compliance Archive Server Wisevoter</summary>
+    <summary>Archive Intel Unveils MCP Server and Claude Integration for Compliant AI Communications FF News</summary>
   </entry>
   <entry>
     <title>Manulife’s Advisor AI Assistant Brings Underwriting Guidance Forward</title>
@@ -61,13 +70,13 @@
     <summary>Manulife’s Advisor AI Assistant Brings Underwriting Guidance Forward Insurance Innovation Reporter</summary>
   </entry>
   <entry>
-    <title>Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days</title>
-    <link href="https://www.advisorhub.com/anthropics-post-ipo-struggles-contrast-with-spacexs-early-days"/>
-    <id>https://www.advisorhub.com/anthropics-post-ipo-struggles-contrast-with-spacexs-early-days</id>
-    <updated>2026-11-25T18:33:00.000Z</updated>
-    <author><name>AdvisorHub</name></author>
+    <title>Index funds take all October inflows as investors navigate gilt turmoil</title>
+    <link href="https://www.moneymarketing.co.uk/index-funds-take-all-october-inflows-as-investors-navigate-gilt-turmoil"/>
+    <id>https://www.moneymarketing.co.uk/index-funds-take-all-october-inflows-as-investors-navigate-gilt-turmoil</id>
+    <updated>2026-11-26T12:36:51.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Anthropic PBC is experiencing a rougher initiation to public markets than SpaceX The post Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days appeared first on AdvisorHub .</summary>
+    <summary>Index funds captured more than all net inflows into UK funds in October as investors sought shelter from gilt market volatility and uncertainty around artificial intelligence. UK funds attracted £985m of net inflows during the month, but the entirety of that demand was directed towards… The post Index funds take all Oc</summary>
   </entry>
   <entry>
     <title>Leading Through Uncertainty Key Takeaways: IAPP Europe Congress 2026 (Brussels)</title>
@@ -79,13 +88,31 @@
     <summary>Alston &amp; Bird attended the IAPP Europe Congress 2026 in Brussels, a leading European conference on privacy, AI governance, and cybersecurity law. The overarching theme was that organizations are moving from principles to practice and must learn to lead through uncertainty rather than trying to predict it. Our key takea</summary>
   </entry>
   <entry>
-    <title>Who controls payment initiation? The battle for the future of payments</title>
-    <link href="https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments"/>
-    <id>https://www.finextra.com/event-info/648/who-controls-payment-initiation-the-battle-for-the-future-of-payments</id>
-    <updated>2026-11-26T04:53:27.101Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>Payhawk co-founder Konstantin Dzhengozov announces departure days after $280m Series C</title>
+    <link href="https://www.fintechfutures.com/job-cuts-new-hires/payhawk-co-founder-cfo-konstantin-dzhengozov-departure"/>
+    <id>https://www.fintechfutures.com/job-cuts-new-hires/payhawk-co-founder-cfo-konstantin-dzhengozov-departure</id>
+    <updated>2026-11-26T12:00:00.000Z</updated>
+    <author><name>FinTech Futures</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?</summary>
+    <summary>The departure follows a six-month transition plan and comes as the newly minted $2 billion fintech gears up to deploy $280 million in fresh Goldman Sachs-led funding into agentic AI.</summary>
+  </entry>
+  <entry>
+    <title>Global Stocks Climb as AI Trade Rebounds</title>
+    <link href="https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video"/>
+    <id>https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video</id>
+    <updated>2026-11-26T13:01:20.000Z</updated>
+    <author><name>Bloomberg Markets</name></author>
+    <category term="AI MARKETS"/>
+    <summary>Stocks rose as investors in Europe and Asia tracked a comeback in technology shares on Wall Street, with days of sharp swings likely to give way to thin holiday trading. Europe’s Stoxx 600 jumped as much as 1.7%, with gains following late-session dip buying in the US that pulled the Nasdaq 100 back from the brink of a </summary>
+  </entry>
+  <entry>
+    <title>FCA sounds alarm as AI investment scams rise nearly 400%</title>
+    <link href="https://www.investmentweek.co.uk/news/4539555/fca-sounds-alarm-ai-investment-scams-rise-nearly-400"/>
+    <id>https://www.investmentweek.co.uk/news/4539555/fca-sounds-alarm-ai-investment-scams-rise-nearly-400</id>
+    <updated>2026-11-26T09:15:51.000Z</updated>
+    <author><name>Investment Week</name></author>
+    <category term="INSTITUTIONAL"/>
+    <summary>The Financial Conduct Authority has warned consumers to check firms are legitimate after data revealed scams involving AI have risen by almost 400% in a year.</summary>
   </entry>
   <entry>
     <title>Evaluating Recent Model Releases on GDPx</title>
@@ -93,34 +120,26 @@
     <id>https://newsletter.semianalysis.com/p/evaluating-recent-model-releases</id>
     <updated>2026-11-26T00:05:35.000Z</updated>
     <author><name>SemiAnalysis</name></author>
-    <category term="AI MARKETS"/>
+    <category term="LABS &amp; MODELS"/>
     <summary>GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well</summary>
   </entry>
   <entry>
-    <title>The IMF’s Tobias Adrian on the rise of new financial stability risks</title>
-    <link href="https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks"/>
-    <id>https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks</id>
-    <updated>2026-11-26T04:30:00.000Z</updated>
-    <author><name>Risk.net</name></author>
-    <category term="INSTITUTIONAL"/>
-    <summary>Adviser to the IMF managing director sees fiscal strains, leverage, geopolitical risks, and AI and tokenisation vulnerabilities threatening resilience amid modest growth supported by policy credibility</summary>
-  </entry>
-  <entry>
-    <title>CSSF AI questionnaire: what fund managers need to know</title>
-    <link href="https://fintech.global/2026/11/25/cssf-ai-questionnaire-what-fund-managers-need-to-know"/>
-    <id>https://fintech.global/2026/11/25/cssf-ai-questionnaire-what-fund-managers-need-to-know</id>
-    <updated>2026-11-25T15:25:18.000Z</updated>
-    <author><name>FinTech Global</name></author>
+    <title>The AI readiness gap</title>
+    <link href="https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap"/>
+    <id>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap</id>
+    <updated>2026-11-24T00:00:00.000Z</updated>
+    <author><name>McKinsey Insights</name></author>
     <category term="RESEARCH"/>
-    <summary>Luxembourg’s investment fund managers have until the end of the year to show the regulator exactly how they use artificial intelligence, and a single answer could determine how much scrutiny follows. According to Zeidler Group, the latest joint survey from the Commission de Surveillance du Secteur Financier (CSSF) and </summary>
+    <summary>Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?</summary>
   </entry>
   <entry>
-    <title>From Efficiency to Effectiveness: What Comes After AI Notetaking?</title>
-    <link href="https://jump.ai/blog/from-efficiency-to-effectiveness"/>
-    <id>https://jump.ai/blog/from-efficiency-to-effectiveness</id>
-    <updated>2026-11-25T17:08:00.000Z</updated>
-    <author><name>Jump (vendor)</name></author>
+    <title>FCA's regulatory approach to Agentic AI</title>
+    <link href="https://www.wealthtechstrategy.com/post/our-approach-to-agentic-ai"/>
+    <id>https://www.wealthtechstrategy.com/post/our-approach-to-agentic-ai</id>
+    <updated>2026-11-26T11:24:40.000Z</updated>
+    <author><name>WealthTech Strategy</name></author>
     <category term="VENDOR WATCH"/>
+    <summary>Financial Conduct Authority. (2026, November 24). Our approach to Agentic AI. https://www.fca.org.uk/firms/innovation/ai-approach/agentic-ai The FCA set out specific expectations for firms, technology providers, and social media platforms developing and deploying agentic AI products in UK financial services, noting tha</summary>
   </entry>
   <entry>
     <title>Advisors keep buying buffer ETFs after three strong years: Allianz</title>
@@ -141,40 +160,31 @@
     <summary>Use cases such as recording investment committee meetings with artificial- intelligence – powered notetakers could create compliance and litigation concerns .</summary>
   </entry>
   <entry>
-    <title>OpenAI taps Cravath litigator for court showdown with Musk over AI dominance</title>
-    <link href="https://www.reuters.com/legal/litigation/openai-taps-cravath-litigator-court-showdown-with-musk-over-ai-dominance-2026-11-25"/>
-    <id>https://www.reuters.com/legal/litigation/openai-taps-cravath-litigator-court-showdown-with-musk-over-ai-dominance-2026-11-25</id>
-    <updated>2026-11-25T21:10:44.000Z</updated>
-    <author><name>Reuters AI (GN)</name></author>
+    <title>Semiconductor chips are the new oil. Here's why</title>
+    <link href="https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"/>
+    <id>https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html</id>
+    <updated>2026-11-26T13:19:25.000Z</updated>
+    <author><name>CNBC Tech</name></author>
     <category term="INDUSTRY NEWS"/>
-    <summary>OpenAI taps Cravath litigator for court showdown with Musk over AI dominance Reuters</summary>
+    <summary>Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.</summary>
   </entry>
   <entry>
-    <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
-    <link href="https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"/>
-    <id>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd</id>
-    <updated>2026-11-25T19:44:24.000Z</updated>
-    <author><name>TechCrunch AI</name></author>
-    <category term="INDUSTRY NEWS"/>
-    <summary>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</summary>
-  </entry>
-  <entry>
-    <title>Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)</title>
-    <link href="https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai"/>
-    <id>https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai</id>
-    <updated>2026-11-24T22:00:02.000Z</updated>
-    <author><name>GN: FINRA AI</name></author>
+    <title>A Game-Changing Move Just Gave America the Edge Over China in AI</title>
+    <link href="https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c?mod=rss_Technology"/>
+    <id>https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c?mod=rss_Technology</id>
+    <updated>2026-11-26T12:42:00.000Z</updated>
+    <author><name>WSJ Tech</name></author>
     <category term="REGULATION"/>
-    <summary>Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI) The Motley Fool</summary>
+    <summary>Washington closed a loophole that let Chinese companies access Nvidia chips and added overseas cops to curb smuggling.</summary>
   </entry>
   <entry>
-    <title>OCC gives examiners a six-pillar playbook for bank super intelligence use</title>
-    <link href="https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use"/>
-    <id>https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use</id>
-    <updated>2026-11-24T19:39:22.000Z</updated>
-    <author><name>Compliance Week</name></author>
+    <title>Check the firm before you invest, FCA warns, as AI scams rise</title>
+    <link href="https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise"/>
+    <id>https://www.fca.org.uk/news/press-releases/check-firm-you-invest-fca-warns-ai-scams-rise</id>
+    <updated>2026-11-26T00:00:00.000Z</updated>
+    <author><name>FCA News</name></author>
     <category term="REGULATION"/>
-    <summary>The OCC issued a framework earlier this month to help examiners evaluate banks’ use of Super Intelligence and agentic SI, with associated risks and controls. The post OCC gives examiners a six-pillar playbook for bank super intelligence use appeared first on Compliance Week .</summary>
+    <summary>A third (33%) of UK adults say they have seen an investment promotion in the past year that they believe used artificial intelligence (AI), new research from the FCA shows. Reports of investment fraud to Report Fraud that mention suspected use of AI have risen by nearly 400% in a year, up from 193 in 2024/25 to 956 in </summary>
   </entry>
   <entry>
     <title>Why the Era of Model Portfolios Is Coming to An End</title>
@@ -195,84 +205,75 @@
     <summary>GTCR's Michael Hollander discusses the firm's strategy across RIAs and wealthtech, betting on firms that can scale organically, leverage technology and capitalize on industry consolidation.</summary>
   </entry>
   <entry>
-    <title>Wednesday links: profits and growth</title>
-    <link href="https://abnormalreturns.com/2026/11/25/wednesday-links-profits-and-growth"/>
-    <id>https://abnormalreturns.com/2026/11/25/wednesday-links-profits-and-growth</id>
-    <updated>2026-11-25T18:52:27.000Z</updated>
-    <author><name>Abnormal Returns</name></author>
+    <title>AI dominance leaves portfolios increasingly concentrated, says Morningstar</title>
+    <link href="https://www.moneymarketing.co.uk/ai-dominance-leaves-portfolios-increasingly-concentrated-says-morningstar"/>
+    <id>https://www.moneymarketing.co.uk/ai-dominance-leaves-portfolios-increasingly-concentrated-says-morningstar</id>
+    <updated>2026-11-26T12:27:30.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>Markets The stock market is amoral. (awealthofcommonsense.com) The Nvidia ($NVDA) Jensen stock pop has fizzled. (futurism.com) Debunking that viral Nvidia ($NVDA) 'insider' options trade. (ft.com) IPOs OpenAI can't be happy about Anthropic's ($ANT) post-IPO performance. (ft.com) Buying an IPO at the open is usually a b</summary>
+    <summary>Investors may be more exposed to artificial intelligence than they realise, according to Mark Preskett, senior portfolio manager at Morningstar Wealth. In its 2027 outlook, Morningstar said the rapid growth of AI-linked companies has concentrated both equity and bond markets, leaving portfolios increasingly dependent o</summary>
   </entry>
   <entry>
-    <title>Michael Burry Is More Long Than Short After Dumping Nasdaq Puts</title>
-    <link href="https://www.fa-mag.com/news/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts-89364.html"/>
-    <id>https://www.fa-mag.com/news/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts-89364.html</id>
-    <updated>2026-11-25T13:00:00.000Z</updated>
-    <author><name>FA Magazine</name></author>
+    <title>AI-linked investment fraud reports surge 400%, FCA says</title>
+    <link href="https://www.moneymarketing.co.uk/ai-linked-investment-fraud-reports-surge-400-fca-says"/>
+    <id>https://www.moneymarketing.co.uk/ai-linked-investment-fraud-reports-surge-400-fca-says</id>
+    <updated>2026-11-26T11:49:16.000Z</updated>
+    <author><name>Money Marketing</name></author>
     <category term="PRACTICE &amp; RIA"/>
-    <summary>His note comes as investors flee tech stocks amid growing concerns about the AI trade.</summary>
+    <summary>Reports of investment fraud involving suspected use of artificial intelligence have risen by almost 400% in a year, prompting the Financial Conduct Authority to urge consumers to check firms before investing. New FCA research found reports mentioning suspected use of AI increased from 193 in… The post AI-linked investm</summary>
   </entry>
   <entry>
-    <title>Agentic commerce at scale: Why trust is the new foundation for payments</title>
-    <link href="https://www.finextra.com/event-info/650/agentic-commerce-at-scale-why-trust-is-the-new-foundation-for-payments"/>
-    <id>https://www.finextra.com/event-info/650/agentic-commerce-at-scale-why-trust-is-the-new-foundation-for-payments</id>
-    <updated>2026-11-26T04:53:27.101Z</updated>
-    <author><name>Finextra AI</name></author>
+    <title>OCC gives examiners a six-pillar playbook for bank super intelligence use</title>
+    <link href="https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use"/>
+    <id>https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use</id>
+    <updated>2026-11-24T19:39:22.000Z</updated>
+    <author><name>Compliance Week</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>The OCC issued a framework earlier this month to help examiners evaluate banks’ use of Super Intelligence and agentic SI, with associated risks and controls. The post OCC gives examiners a six-pillar playbook for bank super intelligence use appeared first on Compliance Week .</summary>
+  </entry>
+  <entry>
+    <title>AI Agents Need Case Law, Not Just Rules: A Potential Innovation for Alignment</title>
+    <link href="https://www.debevoisedatablog.com/2026/11/24/ai-agents-need-case-law-not-just-rules-a-potential-innovation-for-alignment"/>
+    <id>https://www.debevoisedatablog.com/2026/11/24/ai-agents-need-case-law-not-just-rules-a-potential-innovation-for-alignment</id>
+    <updated>2026-11-24T22:45:42.000Z</updated>
+    <author><name>Debevoise Data Blog</name></author>
+    <category term="COMPLIANCE"/>
+    <summary>We are presenting this blog post (in text below) in our new White-Board-Video-Lecture format, which we are using for the AI learning/training materials that will be part of Debevoise STAAR 3.0 when we launch in January. Companies are increasingly implementing AI agents that can send emails, execute trades, modify code,</summary>
+  </entry>
+  <entry>
+    <title>Regnology bets on AI agents to close RegTech trust gap</title>
+    <link href="https://fintech.global/2026/11/26/regnology-bets-on-ai-agents-to-close-regtech-trust-gap"/>
+    <id>https://fintech.global/2026/11/26/regnology-bets-on-ai-agents-to-close-regtech-trust-gap</id>
+    <updated>2026-11-26T10:58:34.000Z</updated>
+    <author><name>FinTech Global</name></author>
     <category term="BANKING &amp; FINTECH"/>
-    <summary>How will the ecosystem in Europe adapt as agentic commerce payments move from experimentation towards real world acceptance?</summary>
+    <summary>Regnology has launched RGI Orchestrate, a set of governed AI agents designed to shift compliance teams from building reports manually to checking work produced by machines. The company revealed the module at the 33rd RegTech Convention. RGI Orchestrate is the agentic component of Regnology Intelligence (RGI), which for</summary>
   </entry>
   <entry>
-    <title>Trade-based financial crime in 2027: Exploring threats, AI and portable trust</title>
-    <link href="https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust"/>
-    <id>https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust</id>
-    <updated>2026-11-26T04:53:27.101Z</updated>
-    <author><name>Finextra AI</name></author>
-    <category term="BANKING &amp; FINTECH"/>
-    <summary>How are financial institutions combatting increasingly complex trade-based financial crime?</summary>
+    <title>Can AI replace economics PhDs?</title>
+    <link href="https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1"/>
+    <id>https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1</id>
+    <updated>2026-11-26T12:30:06.000Z</updated>
+    <author><name>FT Artificial Intelligence</name></author>
+    <category term="AI MARKETS"/>
+    <summary>An interview with Jason Furman, economics professor at Harvard University and former chair of President Obama’s Council of Economic Advisors</summary>
   </entry>
   <entry>
-    <title>Copper Rebounds From Lowest This Year as Volatility Grips Metals</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals</id>
-    <updated>2026-11-26T02:01:10.000Z</updated>
+    <title>BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans"/>
+    <id>https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans</id>
+    <updated>2026-11-26T12:27:00.000Z</updated>
     <author><name>Bloomberg Markets</name></author>
     <category term="AI MARKETS"/>
-    <summary>Copper jumped more than 3% from an 11-month low, tracking gains in tech stocks even as doubts lingered over the durability of the AI boom and related industrial metals demand.</summary>
+    <summary>BBVA SA is considering a deal that would offload risk on about €500 million ($547 million) of data center loans, as banks worldwide explore multiple ways to hedge their exposure to artificial intelligence-related infrastructure.</summary>
   </entry>
   <entry>
-    <title>Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says"/>
-    <id>https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says</id>
-    <updated>2026-11-26T01:11:41.000Z</updated>
-    <author><name>Bloomberg Markets</name></author>
-    <category term="AI MARKETS"/>
-    <summary>Situational Awareness told investors it lost 65% after fees in the third quarter, after highly levered bets on artificial intelligence firms nearly led to the hedge fund’s implosion in July, according to the Wall Street Journal.</summary>
-  </entry>
-  <entry>
-    <title>The fund manager’s dilemma over AI</title>
-    <link href="https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1"/>
-    <id>https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1</id>
-    <updated>2026-11-25T18:05:53.000Z</updated>
-    <author><name>FT Asset Management</name></author>
+    <title>The IMF’s Tobias Adrian on the rise of new financial stability risks</title>
+    <link href="https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks"/>
+    <id>https://www.risk.net/risk-management/7964663/the-imf%E2%80%99s-tobias-adrian-on-the-rise-of-new-financial-stability-risks</id>
+    <updated>2026-11-26T04:30:00.000Z</updated>
+    <author><name>Risk.net</name></author>
     <category term="INSTITUTIONAL"/>
-    <summary>Assessing concentration risks may be more complicated than it seems</summary>
-  </entry>
-  <entry>
-    <title>How Gemini is changing the game for Golden State's organization and fans.</title>
-    <link href="https://blog.google/products-and-platforms/products/gemini/gemini-golden-state"/>
-    <id>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</id>
-    <updated>2026-11-24T16:00:00.000Z</updated>
-    <author><name>Google AI Blog</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.</summary>
-  </entry>
-  <entry>
-    <title>OpenAI and Cisco introduce Shirudo</title>
-    <link href="https://openai.com/index/introducing-shirudo"/>
-    <id>https://openai.com/index/introducing-shirudo</id>
-    <updated>2026-11-23T21:20:00.000Z</updated>
-    <author><name>OpenAI News</name></author>
-    <category term="LABS &amp; MODELS"/>
-    <summary>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</summary>
+    <summary>Adviser to the IMF managing director sees fiscal strains, leverage, geopolitical risks, and AI and tokenisation vulnerabilities threatening resilience amid modest growth supported by policy credibility</summary>
   </entry>
 </feed>
